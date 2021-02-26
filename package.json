@@ -1,0 +1,28 @@
+{
+  "name": "videos-mfk",
+  "version": "0.0.1",
+  "description": "Utility to get Youtube API data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermesooares/videos-mfk.git"
+  },
+  "keywords": [
+    "video-ads",
+    "youtube",
+    "api"
+  ],
+  "author": "Guilherme Soares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermesooares/videos-mfk/issues"
+  },
+  "homepage": "https://github.com/guilhermesooares/videos-mfk#readme",
+  "dependencies": {
+    "googleapis": "^67.0.0"
+  }
+}
