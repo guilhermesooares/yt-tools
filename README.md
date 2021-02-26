@@ -13,7 +13,7 @@ Use youtube-dl to collect video/audio/subtitle without use Youtube API key (http
 
 #### Installation
 
-Install the dependencies.
+Install the dependencies and run app.js
 
 ```sh
 $ npm install
