@@ -20,6 +20,8 @@ $ npm install
 $ npm start
 ```
 
+Obtaining authorization credentials (API Key) to request data (https://developers.google.com/youtube/registering_an_application)
+
 ## License
 
 MIT
