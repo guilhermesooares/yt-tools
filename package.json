@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
+    "debug": "node --inspect-brk app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/guilhermesooares/videos-mfk#readme",
   "dependencies": {
-    "googleapis": "^67.0.0"
+    "googleapis": "^67.0.0",
+    "youtube-captions-scraper": "^1.0.3"
   }
 }

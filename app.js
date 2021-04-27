@@ -3,6 +3,8 @@ const { google } = require("googleapis");
 const youtube = google.youtube("v3"); // initialize the Youtube API library
 const { save, readFile } = require("./services/fs");
 
+var getSubtitles = require('youtube-captions-scraper').getSubtitles;
+
 const KEY = "HERE_GOES_YOU_KEY";
 
 async function main() {
@@ -49,6 +51,20 @@ async function searchByTerm(pageToken) {
 //     });
 //   }
 // }
+
+async function main() {
+  for (let index = 0; index < 10; index++) {
+    const file = require(`./data/tratamento-precoce-top-200/jsons/content${index}.json`)
+    file.items.forEach((video) => {
+      getSubtitles({
+        videoID: video.id.videoId,
+        lang: 'pt'
+      }).then(captions => {
+        save(captions, video.id.videoId);
+      });
+    });
+  }
+}
 
 if (module === require.main) {
   main().catch(console.error);

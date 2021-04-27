@@ -1,4 +1,4 @@
-const dir = "data/mkf";
+const dir = "data/tratamento-precoce-top-200/subtitles-new";
 const fs = require("fs");
 
 async function save(json, name) {
