@@ -134,3 +134,6 @@ virtualenv
 virtualenv/
 
 .DS_Store
+
+#Lib
+stopwords/
