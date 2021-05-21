@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/guilhermesooares/videos-mfk#readme",
   "dependencies": {
-    "googleapis": "^67.0.0",
+    "googleapis": "^67.1.1",
     "youtube-captions-scraper": "^1.0.3"
   }
 }
