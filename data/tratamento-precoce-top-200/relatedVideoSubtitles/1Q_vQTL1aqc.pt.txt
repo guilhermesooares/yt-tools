@@ -1,0 +1,1388 @@
+
+00:00
+WEBVTT Kind: captions Language: pt e permanente em saúde do paciente sendo
+fundamental para conduta clínica E além disso ele representa um conjunto
+de percepções pessoais E além disso ele representa um conjunto
+de percepções pessoais e habilidades do radiologista e com aumento da
+complexidade dos métodos radiológicos o relatório ele passa a assumir um papel
+cada vez mais relevante Oi e esse produto que nós fazemos na sua forma atual
+e ele atende às expectativas do médico solicitante hã-hã-hãe atende também ao
+
+00:01
+que o paciente espera e é sobre isso que nós vamos discutir aqui
+o filme pornô Dan E aí é bem o nosso aguinar ele é composto
+inicialmente por pequenas palestras seguidas por uma mesa redonda onde nós
+
+00:02
+vamos discorrer sobre o laudo radiológico E aí [Música]
+é bem nós vamos discutir como criar um grande laudo radiológico laudo
+radiológico de excelência a partir de um artigo da radiográficas de 2020 que
+agora em 2021 tem uma carta ao editor sobre esse artigo inclusive falando um
+pouquinho sobre léxico em radiologia nós temos vários e vários artigos sobre o
+assunto aqui nós temos o gardeline da sociedade europeia sobre boas práticas
+no laudo radiológico temos aqui dos nossos colegas Dr Giuseppe Dr Luiz Ronan
+Doutor Fernando e Doutora Mayara um artigo publicado na radiologia
+brasileira em 2018 inclusive citado naquele artigo da radiografics de 2020 e
+
+00:03
+vários e vários falando sobre laudo estruturado laudem prosa e eu queria que
+a gente discutir se e também sobre o léxico sobre a certeza
+do radiologista o que que para mim é consistente para você também é
+consistente Qual grau de certeza quando nós dizemos que uma lesão é suspeita
+para e por último nós temos alguns artigos agora evocando a que importância
+do valor benzido velho base Drake download e evocando o que para o
+paciente se esse serviço que nós precisamos ele tem valor também para o
+paciente então para iniciar nós temos conosco Doutor Eduardo Pacheco graduado
+em medicina pela escola de ciências da Santa Casa de Misericórdia de Vitória
+
+00:04
+emescam residência na Universidade Federal Fluminense em seguida mudou-se
+para São Paulo e fez a imagem abdominal a Escola Paulista de Medicina e no grupo
+da asa é atual Mestrando em radiologia Clínica pela Escola Paulista de Medicina
+e radiologista abdominal do grupo dos grupos Fleury e cremasco teremos também
+uma segunda palestra do Dr Luiz Pet conhecido de todos nós trabalha muito
+com a questão relacionada ao laudo ele é médico radiologista atualmente da
+Unifesp HCor alta e tela imagem e ele é membro dos comitês de laudo e inovação
+do Colégio Brasileiro de Radiologia por último a doutora Nina Maia Pinheiro de
+Abreu que atualmente reside no Ceará ela foi a colocada nos nossos poderes
+
+00:05
+banners como de São Paulo é porque recentemente Ela voltou para casa ela
+terminou residência em São Paulo ela é neuro radiologista pela Unifesp membro
+titular do CBR atual a cantora das residências médicas do
+Hospital Antônio Prudente Hapvida e Hospital Geral de Fortaleza é gerente
+médica corporativa de qualidade da Hapvida de diagnóstico e tem MBA em
+economia e gestão em saúde pelo SPDM Unifesp bem convido a vocês para o nosso
+webinar sejam muito bem-vindos bom obrigado doutora
+
+00:06
+bom obrigado boa noite a todos E aí eu posso sorrir mais
+e o que é exame de qualquer forma para palestra do Dr Eduardo Pacheco Eduardo
+ótimo E aí a história de na tela pode confirmar por favor E aí
+e o filme que estão vendo a tela E aí é bom Primeiramente vou agradecer a
+Doutora Luciana eu CBR pela oportunidade está falando de um tema tão relevante
+
+00:07
+para radiologia e ao lado de administração excepcionais como estes
+sauna é baseada num artigo da rede gráficos do ano passado como a Doutora
+Luciana mencionou artigo esse com título
+de como fazer um ótimo Valdo radiológico e ele na realidade foi publicado por
+autores americanos ingleses e australianos então sofre um viés da
+língua empresa que eu tentei amenizar a representação decimal
+Se eu morresse o endereço dessa apresentação
+em breve introdução radiológico ele é então deste lado né o produto final ali
+de dez onze doze anos especialidade médica e pizza suporta como desafio
+obviamente muito pelo fato dele receber eles ter como vários destinatários posso
+mencionar entre estes primeiramente o o solicitante é um clínico cidade decisão
+tem uma pergunta Clínica bem definida em
+alguns seios em relação a esse laudo bem como e obviamente o paciente também os
+
+00:08
+seus familiares que tem outros anseios também em relação a este laudo
+e a partir daí instante também hoje especialistas médicos né que já tem
+necessidades diferentes esse clínico geral no resultado e no Baldo deste
+exame Como por exemplo o meu cirurgião oncológico precisa de definições
+relações anatômicas muito bem estabelecidas além disso a gente tem as
+fontes pagadoras a gente convênios das pessoas às auditorias que recebem da
+Face falso relatório é obviamente os outros radiologistas que
+vão ao dar exames de controle desses pacientes estamos acompanhando
+o laudo também era material para pesquisa sair de Fábio de muitas
+pesquisas utiliza como o banco de dados relatórios médicos e por fim na
+eventualmente até mesmo advogados ou juízes podem utilizar o nosso laudo aí
+
+00:09
+eventuais processos judiciais o trabalho Conquista indenização ou são
+radiologistas recebe educação formal e laudo radiológico é oitenta e Seis por
+cento dos residentes relatam até 1 hora por ano de instruções didáticos de
+relacionados ao laudo radiológico muito pouco né vão precisar tirar de uma forma
+passiva subconsciente e inconsistente na maioria das vezes ela se baseia na
+leitura de laudos de outros radiologistas que temos como referência
+no feedback de preceptores público nessa fase de pandemia a liberação remota de
+exames leva uma perda de correções de feedbacks e refinamentos esse aplicativo
+de revisão rastreado que podem apontar alguma desista né Quais foram as
+alterações feitas no relatório no entanto a lógica né a justificativa por
+trás das alterações muitas vezes é perdida é também uma discussão Em que lado
+estruturados novos games essa apresentação Vou entrar muito nisso a
+gente sabe que o áudio estruturada ele traz com a organização funciona como um
+
+00:10
+guia facilita descrição curta de achados e deixa o espaço da impressão para uma
+síntese dessas informações no entanto também leva uma perda de liberdade de
+expressão a segregação de achados que se sobrepõe e em exames complexos de
+doenças multi compartimentais o objetivo desse trabalho então é de
+escrever os princípios básicos de relatórios claros e concisos em duas
+palavras-chave realmente Claro e conciso e o relatório tem como a Luciana Já
+disse é muitas vezes a única forma de comunicação direta entre o radiologista
+e o médico solicitante sobre o paciente existem então jargões da radiologia na
+linguagem do radiologista pelo fosco que
+ela disse não fora de fase e precisar de dois restrição de fusão abrir um
+tratamento são apenas alguns exemplos destes esses temos Pé os apesar de serem
+essenciais para avaliação do radiologista o solicitante na cidade de
+burros com diagnóstico Claro o diagnóstico diferencial e recomendações
+
+00:11
+sem utilização desses jargões muito por isso o relatório é dividido em dois
+segmentos principais aí um cálculo de a chave Sem Análise que o qual utiliza
+esses esses termos todos e a impressão do relatório que deve visar responder à
+pergunta Clínica né de uma forma mais clara
+a apresentação vai ser dividida nessas duas sessões reticência pela seção de
+achados e vou trazer algumas dicas para quem te construiu um ótimo relatório
+a margem à Interpretação para a seção de impressão então frases curtas
+informativas escrevendo as observações positivas aquelas negativas pertinentes
+edição parcial completo de frases de interpretação em ambas as sessões a
+seção de achados e só depressão pode gerar relatórios desnecessariamente
+longos repetitivos aumento do risco de discrepâncias internos
+
+00:12
+bom então aqui um exemplo provavelmente existe um pequeno derrame pleural
+relacionado ao pagamento dos ângulos costofrénicos posteriores que surgiram
+em relação exame anterior se poderia ser substituído por simplesmente novo a
+pagamento nos ângulos costofrénicos e te guarda essa essa impressão aqui derrame
+pleural justamente para acessar o impressão E aí vocês são a isso os achados
+benignos e sem relevância que não devem ser incluídos na impressão deve ser
+descritos e claramente definidos como benignos ou então sem elevar-se Acre o
+exemplo encontra-se semelhante o nódulo adrenal direito de 1,5 cm circunscrito
+quando a cidade de gordura sendo substituído por pequeno nódulo adrenal
+direito Benigno e na alterado há três anos então precisa mencionar isso então
+na impressão e esse campo dos achados também tem um
+papel muito valioso na comunicação de radiologista com angiologista é com
+
+00:13
+consistência eficiência para relatórios futuros que pode facilitar a vida do
+colega e pegar o nosso logo no futuro aqui o exemplo disso inalterada
+linfocele retroperitoneal benigna visualizada primeiramente uma
+ressonância magnética da coluna lombar a cinco anos a um colega vai ter um tempo
+dele poupado e buscar arroz que essa estrutura foi primeiramente encontrada
+já sabendo que ele está em alterada e o sistema de percepção com moderação
+toca eles temos visualiza-se nota-se percebe-se é caracterizado é demonstrada
+até me zoar eles não adiciona o significado ao relatório Então deve ser
+utilizados com muita moderação Especialmente nos vasos estruturados com
+cabeçalho por exemplo ovário direito: observa-se ovário direito os complexos
+de 3,5 2,2 cm com septos internos não é caracterizado o fluxo ao Doppler esse
+achado por objetivo exemplo sistemático substituir isso pô vai direito: isso
+
+00:14
+complexo 3,5 por 2,2 cm com septos internos e sem fluxo ao Doppler então a
+gente tira observa-se tira o é caracterizado que de novo não agregam
+significado de como este Guarda essa impressão aqui de sistemático para o
+espaço da água sessão da impressão e evite manchas novamente percebidas as
+múltiplas correções pede pancreáticas com elas periférico paredes espessas e
+regulagens que não apresentaram mudanças
+de tamanho ou configuração em relação ao estudo prévio e não alteradas as
+condições complexos peripancreaticos então a gente foi muito redundante né
+utilizou várias vezes temos que a gente queria dizer que está fazendo uma
+análise comparativa novamente percebidas não apresentaram mudança em relação ao
+estudo prévio isso tudo pode ser substituído por inalteradas e
+a polícia a gente percebe que o tamanho do relatório vai diminuindo muito é
+
+00:15
+existe um conceito né uma ideia de que laudos extensos seriam mais refinadas
+mais rebuscados no entanto é a gente acredita que o fator causar o principal
+para que os colegas solicitantes Não leia o nosso mal Doutor completo seja
+mais de idade uma extenção exagerada deles onde a maioria das vezes Logos
+muito intensos são redundantes e confuso E mantenha organizar lá os estruturados
+permitem uma narrativa compartimentado e conheça para a maioria das doenças
+comuns no entanto pode causar uma separação artificial em caso complexo
+comprometimento de múltiplos compartimentos isso pode ser resolvido
+com utilização de cabeçalhos manifestações pancreatite necrotizante:
+em que descreve o parênquima que não realça deves condições pede conferir as
+dicas o acometimento de alças intestinais ainda uma sequência fugindo
+daquela forma engessada do nosso estruturado ou então vamo lá
+
+00:16
+determinação dominal de Março com as seguintes localizações então descreve
+todas as metades de novo fugindo da forma engessada no modo estruturado um
+simples utilização de um cabeçalho utilização de listas fundamental para
+facilitar o segmento e planejamento terapêutico então texto super confuso
+extenso monte de medida o que são Atrativa aos olhos que pode ser
+substituído por uma lista e numerada na se comparados com exames datado as
+medidas as medidas anteriores EA localização muito mais atrativo aos olhos
+e agora entramos na seção de impressão a visão geral subestação depressão ela
+tem que ser uma síntese reflexiva dos achados que levaram diagnóstico então
+gente diferenciais e a recomendações interpretação da imagem resposta à
+pergunta Clínica Clara não ambígua semelhante corrente fala com o
+solicitante ou comente fale reuniões multidisciplinares
+
+00:17
+e geralmente é única parte do relatório que é linda pelo penico solicitante ele
+muitas vezes só Valeu o Naldo por inteiro se a sua impressão não estiver
+suficientemente Clara e tem que fornecer então o show mas
+antes que sejam compreensivas é então largando aquele já jargões da radiologia
+mesmo orares que sai de um colega termino de ver aquele relatório já com
+uma ideia é sobre o paciente dele e que posso gerar com duto um exemplo muito
+claro que a gente substituir por exemplo sinais de infecção inflamatório
+infecciosa da mama por mastite complicada com abscesso com uma coisa
+compreensível memorável e que gera a conduta a partir do abscesso
+eu conheço seu público talvez a informação mais importante de toda a
+apresentação a gente sabe que o público do radiologista um público heterogêneo
+amplo interesse diferentes e muitas vezes nesse estádios até conflitantes
+poucas oportunidades os da pouco lendário solicitar e receber feedback
+
+00:18
+Os dois têm que dispensar solidificação de termos o estrutura formal de
+sentenças na impressão ficar tudo muito claro que a colega não tem necessidade
+nem de Deus relatório por inteiro isso acontece muitas vezes questões temos eu
+fiz Cadu saindo de falar esse linguajar é difícil do radiologista que o colega
+não entende a nossa impressão e fico até constrangido em nos dizer isso e pedir
+né uma explicação para o Aldo pneu do parecer não sofisticado suficiente para
+entender esse ao Auto ah e também deixa a questão do medo de
+processo judicial em Juiz utiliza aquelas frases de correlacionar com a
+clínica não pode ser descartada a possibilidade disso daquilo daquilo
+outro né então ser um pouco de sabão no entanto a maioria das vezes essas frases
+elas fazem ambiguidade por relatório que tira segurança do relatório da ONU medo
+de processo judicial e que acabam se expondo o risco maior com frases
+ambíguas não Inserir a chave sem relevância Clínica ou benignas vamos
+
+00:19
+fazer nenhum paciente se preocupar nem um colega solicitante perder tempo com
+cisto categoria duas podem que não tem implicância Clínica alguma
+e comece com diagnóstico é o poder seu diagnóstico mais provável de uma forma
+Clara e completa diverticulite aguda esse linguagem não complicada
+frequentemente é adequado fornecer o grau de probabilidade de Diagnóstico
+temos um definitivo combativos peito possível E inclui achado Chaves
+positivos ou então negativos que vão corroborar o diagnóstico e posso ser
+relevante primeiramente terapêutico isso se dá muito bem casos mais complexos
+como por exemplo de frescurite aguda complicada com perfuração caracterizada
+por pneu beriton então né o o rubor Ei a perfuração da diverticulite com o pneu
+peritônio E aí pessoal tem que ser suficiente para
+a maioria dos leitores sem que haja necessidade de uma leitura cuidadosa dos
+achados e 20 linguagens técnicas já falei algumas vezes né aí por isso ela
+
+00:20
+não deve ter necessidade e o colega Faça uma busca na internet para que consegui
+entender o cuidado a utilizar tecnologia de
+outras especialidades doença metastática progressiva no filho é bem implicação
+Médico Legal Só tem um bom colorista que vai gerar conduta Então vamos escrever
+crescimento das metástases hepáticas a maiores aumentos quatro e medir 3cm é o
+exame anterior o que revisa a impressão veja se ela faz
+sentir de se estar Clara se realmente Expresso que você quer manifestar esse
+ter sempre os casos desafiadores né a gente pode mencionar as lacunas de
+conhecimento pode tentar passar na La Salle de uma forma imediata com buscas
+na literatura na internet no entanto muitas vezes que não é possível
+principalmente no contexto de pronto-socorro e tal orientação a
+liberar um laudo preliminar que deve possibilidade de um adendo posteriormente
+o tempo sempre Lembrar de consultar colegas mais experientes como Expert se
+naquele assunto da importante um bom relacionamento no ambiente de trabalho e
+
+00:21
+de trabalho saudáveis então para estarem diante de exames adequados fazendo uma
+tomografia de abdome pela variação de um cisto anexial a gente tem que a gente
+assim tentar fornecer diagnósticos diferenciais e recomendar ao exame
+específico de imagem mais adequado sempre ter em mente Esse estudo
+recomendado ele realmente vai auxiliar na dúvida Clínica o existe uma rota mais
+direta que pode ser seguido é que eu utilizo exemplo das massas entre
+peritoneais a tomografia computadorizada
+na maioria das vezes são em determinadas muitas vezes colega pede para fazer uma
+ressonância magnética EA lesão permanece come determinada para depois ir para a
+biópsia então talvez o caminho direto para melhor para biópsia sejam melhor
+achado demais desconhecidos é a gente tem as demais que lhe são estranhos a
+gente não consegue determinar que não sabe o que que o que que te fato aquilo
+Esse cara tem que ser honesto acha em qual o significado químico
+indeterminado de pode fazer então a sugestão de sedimento ela vai ser
+
+00:22
+adequada e moldada de acordo com o paciente com próprio solicitante aqueles
+casos de maior grau de suspeição clínica até mesmo a biópsia pode ser tomar
+o e as recomendações então o primeiro. A força das recomendações alguns
+solicitantes podem interpretar as recomendações como obrigações que até um
+atrito essa relação Nossa cosméticos solicitantes podemos leves são mais
+apropriados sugere se pode considerar os permitem que os solicitantes tome
+decisões diferentes aquelas recomendadas e recomendações diretas deve ser então
+guardar os casos que realmente necessitam de uma atenção então de ter
+dessa urgente e o que recomendar vamos para recomendar apresentam paciente com
+câncer já demais conhecido o melhor algo
+para a biópsia ou então exames de imagem adicionais que considere realmente os
+exames vão contribuir com o diagnóstico mais definitivo a escola de ovos ou
+segmentos e se explicar que aspecto esse exame deve ser avaliado ao se arrepende
+relação anatômica com estruturas adjacentes e nos casos desafiadores
+
+00:23
+gente pode até mesmo recomendar uma variação Nilson especialista ou então
+discussões disciplinares em breve conclusão então laudo
+radiológico ele representa destilação de uma década ou mais treinamento médico a
+sessão de achados enfatizam frases curtas e informativas e factuais que
+fornecem uma descrição radiológica precisa de todas as anormalidades com as
+negativas pertinentes a impressão EA síntese cuidadosa dos significados dos
+achados que levam diagnóstico com a gente nós sai e recomendações representa
+a soma de todos os esforços de interpretação do estudo de imagem na
+resposta à questão Clínica e deve usar uma frase Clara e inequívoca semelhante
+a utilizada para falar diretamente com o solicitante ou então se apresentar em
+uma reunião disciplinar por fim os relatórios são no trabalho Continua em
+andamento que amadurece algum de uma carreira por experiência confiança e
+
+00:24
+acompanhamento a notícia obrigado Mais uma vez pela oportunidade
+é muito bom Eduardo Parabéns acho que o grande objetivo que nós estudamos tanto
+é para fornecer comunicar adequadamente se a gente não consegue comunicar de um
+jeito adequado Talvez o tudo que a gente fez não foi bom até esse momento eu
+queria agora convidar o Dr Luiz Pet o Luiz já foi apresentado e ele vai falar
+para gente sobre inovações no laudo radiológico
+O olá boa noite a todos muito obrigado Luciana pelo convite Dr José vi também
+agradeço muito é que aula Em que aula que artigo né é impressionante é eu acho
+
+00:25
+que deveria ser obrigatório no R1 no de caras leitura obrigatória e essa aula
+também tem que ser assistida Por que é fantástica né é a honestidade eu acho
+que esse seu honesto ali né como do fa Lógico que coisa mais importante e
+também não querer se exibir demais né isso aí dá um constrangimento terrível
+tem que ter uma empatia com o colega que vai ver o relatório também né eu vou
+iniciar aqui o meu tempo e vou procurar respeitá-lo mas não vamos lá eu sou sou
+médico cardiologista e tô muito sua escola Paulista e estou muito orgulhoso
+e recentemente fazer parte do comitê de laudos e
+E são do CBR Essas são as instituições que eu trabalho e hoje nós vamos
+discutir um pouco sobre as principais inovações nos relatórios radiológicos
+
+00:26
+Então eu tenho um conflito de interesse é porque sou um co-fundador do meio de
+um software de criação de laudos estruturados Léo e também sou fundador
+da lave que é uma empresa específica para a criação de relatórios audivisuais
+Então é eu basiei esta apresentação num artigo muito recente é foi deste mês foi
+enviado pelo Thiago Júlio mas eu é esse grupo eu acompanho ele é ele ele ele é
+formado pelo duas sociedades Americanas RMC Sims na e ele é liderado pelo Lex
+fori O que é do líder o radiologista líder do lenaide né Clinical Center e
+eles criaram esse guarde recentemente nas o que vem sendo construído já há cerca
+de dois anos eu tive a oportunidade de conhecê-lo no evento da cim 2018 e
+conversamos discutimos projetos juntos né Ele é uma grande referência todo
+
+00:27
+mundo lá que eu falava falo senhor Você já conversou coleção óleo e depois eu
+fui ver o quanto que ele representa e há risos para quem não conhece né a
+sociedade de Saúde Americana principal delas ela tem ela responsável pelo maior
+evento de inovações em saúde americano Eu recomendo muito que pelo menos uma
+vez na vida vocês conheçam esse evento é ocorre em Las Vegas em Miami
+alternadamente fantásticos em todas as principais inovações a são expostas na
+MS evento e pela sim né assim é a sociedade de imagens de informática
+imagens médicas na é como se fosse ati americana o principal instituição aqui
+que que determina as regras né e e ele eles fizeram Esse essa Associação
+né que chama enterprise Linux e Unix e você pode se associar eles negócio por
+
+00:28
+cerca de 200 dólares por ano e e assim eles eles eles têm esse projeto esse
+grupo de estudos né que propõe o o relatório interativo de multimídia né
+que é esse relatório que eu vou basear a minha apresentação e aqui só mostrando
+para vocês o o autor principal né elas forem o sol se ele se reúnem toda
+quinta-feira é se você se vocês se associarem vocês podem fazer parte do
+grupo equipe tem todas as reuniões gravadas né então quem gosta de inovação
+pode acompanhar ali o que vem que vem pela frente né rapidamente só queria
+mencionar que eles propuseram né eles esse conceito de relatório multimídia e
+interativo que otimizar a comunicação entre os profissionais médicos e os
+pacientes eles apresentam não só e deixar tipo não fala só da radiologia
+mas fala todos os patologia falar de endoscopia de Cardiologia ressaltam a
+
+00:29
+possibilidade de fazer hiperlinks em inserir conteúdo multimídia né mapa
+Santo Antônio dos recursos educacionais links externos educativos que traz valor
+paciente tabelas gráficos linhas do tempo e eles como sempre e sempre
+ressaltam essa barreira que as principais Barreiras que seriam que
+alguns serviços que adotam esses recursos eles acabam depois perdendo a
+funcionalidade pelo transfere o relatório plucky's para o PEP prontuário
+eletrônico né e o e também outra coisa que é aqui também um grande problema é
+que o reembolso né das baseado em produtividade né então qualquer Olha
+como eles são enfáticos qualquer atividade de prejudique mesmo que
+minimamente a produtividade vai sofrer uma oposição né e entrou para me dar
+Há sempre um vendedor criam coisas que não lê no outro né só vai ler naquele
+mesmo sistema eu vou mostrar aqui para vocês muitos conhecem né que apenas na
+
+00:30
+verdade esse os principais centros que tem esse recurso né alguns não é muito
+incomum ter isso no Brasil a fora mas quem alguns ele cita né que ele faz uns
+creme para tirar sim que aquele usa não é mais então esse um recurso muito
+interessante né que o alguma forma você vai lendo você vai vai ligando as
+principais alterações né É fantástico mas dá um trabalho lascado né o
+radiologista ficar acertando tudo então produtividade Sem dúvida cai mas ele
+apresenta aqui gráficos mostrando nem inclusive Recife e tudo mais né
+o time line eu sou um grande fã de time Line que você ver um filme né evolução
+né batendo o olho você já entendi o que tá longo do tempo né time lá eu acho
+Fantástico então eles sugerem também uso de time Lines esses links é que são um
+pouco mais ousados aqui dá um empoderamento ali o paciente fica mas é
+muito valioso né existe um termo que chama peixe no literacy que foi
+
+00:31
+Inclusive a última palestra de quinta-feira foi uma especialista do MD
+Anderson falando sobre isso é que é quanto mais você conscientiza tô
+paciente até os custos Você pode baixar economicamente porque o paciente os seus
+ele quer que faz exame de tudo isso se segue os protocolos corretamente são uma
+grande tendência né da Medicina personalizada e centrada no paciente né
+docente ver isso crescendo cada vez mais vejam que interessante esse de 2020 ele
+se eles compartilharam esse esse artigo que queria um
+o pinscher Center radiology reports veja veja que interessante né um relatório
+criado pro paciente né nesse eles tinham essa sigla aqui né Então olha só que
+interessante ele tem desenhos ilustrações de tem legenda né legenda de
+tudo que pode ser recomendações até mesmo um contato de um médico que
+
+00:32
+provavelmente do solicitante e ele tem uma linguajar mais específico nem diz a
+probabilidade ou não de ter câncer ou não né então isso existe essa tendência
+outra coisa que é belíssima né eles eles comentam isso desde o princípio assim
+deixa que a tornar né ao invés daquele relatório corre lá na estátua mal é usar
+recursos audiovisuais né é tão natural isso não sei como demorou tanto né na
+verdade as limitações são técnicas né são muito mais limitações técnicas do
+que de fato o Oi Yasmim de alguns colegas de fazer
+esse compartilhamento de fazer essa ilustração e essas imagens aqui são de
+um laboratório do Rio de Janeiro que eu peguei na Internet eu não os conheço mas
+achei belíssimo é muito ilustrativo a adasa já em 2019 já anunciou adoção
+desses recursos né eu conheço alguns colegas referências ao Beto Brasil balde
+
+00:33
+o Leandro a carga Gláucia te fazem Luciana Xavier fazem esse tipo de laudo
+né e é muito que é excelente de maneira geral é aquilo vira mostrar e
+queremos ter agora uma algumas ferramentas né de criação de laudos né
+de laudos estruturados né como esse por exemplo não é e o laudo estruturado é
+uma grande polêmica esse deixa o radiologista quieto falar do jeito que
+ele quer ou não vamos seguir aqui uma linha né angiologista Tem um
+radiologista poeta esse aí ninguém segura por lembrar solta coisas
+maravilhosas termos belíssimo sem e confusos muitas vezes né então aqui o
+Lounge tu tá nele padroniza numa equipe não time né uma forma de descrever né e
+organiza corretamente ele as atrações estão aqui através de árvores de decisão
+né o radiologista vai escolhendo as principais alterações vai vai caindo
+
+00:34
+aqui da forma padronizada pelos pelos pela liderança e vai concluindo e depois
+tem sempre um campo livre né que é o que eu acredito que seja o melhor seria um
+híbrido né que você tenha da Liberdade a lojista escrever mas também segue ali
+oun padrão né para quem os médicos que recebem acham muito interessante e como
+um ganho secundário né o através de Pilar nitrogênio oficial sobretudo
+natural language processing um computador consegue entender melhor um
+laudo estruturado com as palavras corretas ali na ordem nos campos
+corretos do que o o poeta a que escreve G que quer hora o dia que ele quer então
+isso favorece muito a o aplicação de Inteligência Artificial agora como eu
+comentei e tudo isso é complexo e difícil leva tempo e precisa de
+tecnologia né não adianta você querer colocar um hiperlink sistema não adianta
+né não ativa aquele link né então que eu
+
+00:35
+defendo muito é um termo que eu gosto eu acho que encaixa bem que seria low low
+low hangin' Fruit é um termo que vem da do mundo Empresarial que é você pegar a
+as frutas que estão se ou a ingressar os problemas mais fáceis
+primeiro e e também a Inovação que é mais tá mais acessível né sem querer ir
+buscar o datasciense fazer um de caríssimo gastar muito dinheiro vamos no
+que tá mais fácil né E nessa linha eu sugiro né a estimulação o fomento da
+Para Todos nós o aumento os relatórios audivisuais né é um termo que o Ronan
+gosta muito né tem que abraçar né eu nem sempre fala abraço as dificuldades
+abraço a inteligência artificial e eu recomendo muito de vocês veem vejam com
+bons olhos né a comunicação dos relatórios Audi Audi visuais porque
+
+00:36
+sobretudo pela narrativa não são só as imagens a narrativa
+Esse é o mais importante né aonde você Expressa o teu conhecimento ali então
+nós tivermos a nossa equipe dele a chance de validar e esse é o segundo
+trabalho na literatura Mundial publicado no Journal of digital image a mesma
+revista da sim que eu comentei né com a ajuda do Ivan Godoi o apoio novidades
+cachos demais colegas hoje inclusive aniversário doutora Andreia amada que
+tava com a gente lá nós fizemos a validação e teve uma repercussão muito
+boa né na out mine citou nós ali como aqui aumenta o potencial que estabelece
+o papel do radiologista Aline como membro do cuidado do paciente né
+promovendo engajamento né são lados mais são mais personalizados ali né que eu
+vou mostrar alguns exemplos e melhora a comunicação sobretudo nos casos mais
+
+00:37
+complexos né também Health imaging também comentou bastante sobre isso né para o
+a democratizar ali a o conhecimento né por isso que o radiologista a
+experiência do radiologista tão um aspecto que eu acho Fantástico assim
+quando você tá gravando um vídeo você é a documentação da daquele momento e
+representa o momento entendeu onde o colega vem discutir com a gente é um
+momento auge para o radiologista quem não se sente satisfeito quando o
+solicitante você explica esclarece ele te agradece o momento onde o lojista
+toma se posiciona né na cena ali então você só simplesmente você vai gravar
+aquele momento e vai deixar entregar para ele de forma conveniente né então
+nós além desse trabalho iniciei essa linha de pesquisa na escola Paulista né
+Dr Arthur Fernandes os juros são nossos meu orientador Estamos fazendo fizemos
+uma pesquisa Nacional numa etapa E agora estamos estudando a como é o impacto da
+
+00:38
+de tumores em crianças da imagina as diferentes
+é o mês do médico de outro especialista e desde oncologista que não sabe ver a
+imagem direito né E olha que interessante que nosso nós estamos
+propondo um vídeo um relatório audiovisual Tá ok não gosto eu acho que
+o termo vídeo lado um pouco diminutivo assim pelo valor que tem então nós temos
+um relatório ao divisor estruturado não tem um roteiro né que o radiologista
+segue para não perder isso tudo isso ajuda muito o time quem está iniciando
+né a característica da Matriz da lesão depois a relação com as estruturas ao
+redor e por fim os diagnósticos diferenciais e as principais imagens com
+medidas né Eu já estou deixa eu ver aqui meu tempo é esse é ontem dois minutos
+vou tentar encerrar que rapidamente esse
+aqui é o acho que é um mais interessante para vocês se conscientizarem dos tipos
+
+00:39
+de de vídeo que existe conteúdo ver você bem em breve aqui mas existe um
+relatório o lojista queria pro paciente e ele
+segundo era de perder definir quem vai ver se parquinho ele vai compartilhar
+fica no rins nos portais e entrega final por paciente o que nós estamos fazendo
+nesse momento nessa transformação é Assessoria médica em vídeo onde o
+lojista explica pro solicitante é mais fácil fazer porque você é praticamente
+um bate-papo ali e e ela tem um pouco um pouco polêmico aqui porque na verdade
+esse conteúdo se você for ver a Rigor o paciente terá acesso né mas ali é como
+um bate-papo no telefone né então às vezes nem arquivado isso mas é
+importante é o que a gente faz muitas vezes por telefone pelo WhatsApp tal tem
+assessoria para o paciente que é o perfil de alguns cardiologistas que
+recebem o diretamente do paciente para dar sua opinião né e manda para uma
+Dionísio a paciente compartilha como se fosse uma segunda opinião e por fim
+esses conteúdos também não tem um valor acadêmico muito grande né que é o que a
+
+00:40
+gente viu nossos colegas referência ni E se minando o conhecimento Rodrigo
+Aguiar o Abaeté o ato entre outros Douglas a si próprio autor Josef queria
+vídeos short vídeos com o conhecimento nesse extremo né eu te interessa ali
+sendo divulgado que isso tem um valor enorme né então finalizando agora eu tô
+vou esperar um pouquinho meu tempo mas eu queria mostrar o tio já acabou meu
+tempo vocês me desculpa eu vou só encerrar aqui não tentar ser breve ou do
+comentou muito isso nessa da conclusão ser uma coisa do radiologista the simple
+e recomendar Então vou dar um exemplo aqui é brilhante né Eu sempre mostro
+exemplo até tô devendo roda disponível tá eu agradeço ele que ele domina o
+
+00:41
+assunto né ele domina então vejam que interessante só para mim
+É uma opção parte 2 vamos aqui onde 404 mais de uma biópsia percebon um
+o que como ele se posiciona né como ele eu pro paciente tem um valor absurdo
+também né eu vou eu não vou comentar muito vou mostrar um a reação de um
+
+00:42
+colega aqui recebe um vídeo como esse só eu não vou eu vou passar aqui porque eu
+não resisto mas eu não desculpa pelo tempo viu Luciana mas olha que
+interessante o Daryl Daryl é o estado-da-arte disso né ele desde o
+princípio o doutor já entendeu o valor ele mostra né ele faz ilustrações né e e
+depois ele faz a comparação não é do exame ali mostra Olha só vejo só a
+importância do SIM do e o resultado dinâmico nem vídeo ó tô mostrando
+o João Goulart tô mostrando um movimento de luta da
+alça né o papel nunca vai se expressar isso dessa forma e aí por fim é é só
+isso é o meu meu penúltimo slide eu queria mostrar para vocês compartilhar
+queria que vocês refletissem é um minuto
+vou perder mais vou gastar mais ou menos
+
+00:43
+Lorenzo Thomé é um inovador né um grande referência é e ele somos amigos então
+tem um viés de de gratidão porque eu fiz um relatório para ele mas ele ele esse
+essa mensagem aí ele tá me falando como o paciente é como um radiologista mas
+com rodízios para ser Percebo o valor dessa entrega e tem vai só o slide a
+gente já encerra a minha apresentação O que é bom para o médico é 3 meses
+melhor paciente sabe mesmo sendo médico cardiologista dentro do que você tá
+falando é encantador enquanto paciente escutar Um empate no estudar no áudio
+sabe eu tinha parado para pensar que pudesse ter esse valor enquanto médico
+neurologista com paciente eu do lado de cá sendo paciente eu posso ver o tanto
+simétrica do lojista é importante e um paciente geralmente não têm a
+oportunidade de ver a importância que o médico angiologista tem um desfecho dele
+
+00:44
+ele recebe papel e esse papel filho e geralmente ele não tem essa
+possibilidade de devia importância que o médico sugestão quando eu sou médico
+radiologista e nunca sentir assando isso os meus dentes agora que eu vi repensar
+tudo se entrega com paciente não pode É mas o que eu quero te estimular é para
+você não desistir desse seu papai o valor correto não tem muito mais algum
+tipo assim eu gosto do meu sonho é você fazer chegar isso não paciente e os seus
+sonhos como você sempre diz a hora que você viu Nossa Jesus aí no áudio mesmo é
+fantástico tem que pôr em prática arrumar uma maneira do sistema
+financiais e algum maneiro é que chega tão fazendo é muito mais velha e nesse
+vídeo quero te agradecer muito você me deixou bem ou essa bem mais calma Deus
+
+00:45
+te abençoe depois a gente conversa mais viu então é isso né eu não vou
+iniciativa belíssima não é o mantra aqui da Inovação só vou ler a última frase
+que a mudança cultural nas organizações envolve um processo de abandono do
+passado e de um olhar para o futuro mantenha em mente isso né que essas
+inovações precisam disso e encerro minha apresentação
+e mil desculpas você não é pelo atraso aí pelo tempo mas a Angela Merkel de uma
+frase que para mim significa muito sobre notas a Inovação Where there's a Will
+não tem que ter vontade there's a way sempre há uma forma se se houver vontade
+de fazer a mudança Obrigado José Pires Ana desculpa eu tô encerro aqui me
+apresentação bom obrigada noite muito bom muitas
+inovações e realmente se tem um desejo né temos um caminho eu gostaria agora de
+
+00:46
+convidar a doutora Nina Abreu que vai falar sobre tendências em indicadores de
+qualidade de imagem Obrigada Nina Portela sair do nosso convite e
+colaborar e representar a região Nordeste aqui conosco muito obrigada boa
+noite a todos vocês estão me escutando bem um ótimo eu quero agradecer a
+oportunidade está aqui assistir essas aulas maravilhosas do Eduardo do Luís eu
+vou agora projetar minha tela eu queria que vocês me dissessem se vocês estão
+vendo que eu não consigo ver vocês não tá dando para ver um minuto ainda não né
+
+00:47
+E aí tá bom É eu tive a a missão né o desafio
+de falar de tendências é indicadores de qualidade de lagos audiológicos a
+Doutora Luciana já me apresentou né e eu
+queria passar para vocês que eu tenho um
+conflito de interesse pois eu sou mentor e idealizador do projeto de qualidade
+auditoria de laudos radiológicos do grupo Hapvida então iniciando o queria
+falar com vocês sobre os objetivos né o objetivo é obter melhoria na prática
+Clínica através da avaliação e identificação de possíveis falhas em
+Lagos radiológicos permitindo a aprendizagem com potenciais ofensores
+
+00:48
+buscando promover uma cultura não punitiva cultivar uma cultura não
+punitiva na qual o resultado subir ótimo são discutidos abertamente permite que
+lacunas no modelo de sistema sejam abordadas e que o desempenho melhor em
+e a qualidade consistente da imagem diagnóstica juntamente com desempenhou
+Porto e preciso das tarefas técnicas e administrativas é um requisito para o
+atendimento de alto nível ao paciente em radiologia metas o cenário atual né O
+que que a gente tem no cenário atual as metas que traz um instituto de Medicina
+né desde 2015 é uma melhoria através da identificação e avaliação de falhas
+promoção de uma cultura não punitiva que apoia o processo de diagnóstico e
+melhorias no desempenho do diagnóstico aprendizagem com os erros e possíveis de
+Diagnóstico escala de quatro pontos do programa radier é do Colégio Americano é
+
+00:49
+um programa que foi foi acredito foi lançado em 2004 E desde lá as empresas
+têm de até acreditação em cima desse programa de escala de quatro pontos
+E é em cima disso a Radiologia ela é trouxe um sistema popular de revisão de
+pares baseados em pontuação que é esse sbpr que vocês vão ver vou falar algumas
+vezes na aula tá e a melhoria atrelada as estatísticas
+bom então no cenário atual a gente tem como pão de melhoria além de um sistema
+de avaliação baseados em ponto porque porque ele traz uma carência de feedback
+adequado e melhoria na aprendizagem então a gente traz como um novo cenário
+que é o sistema de pontos sendo discutido e trazendo uma visão depilar
+né que aprendizado entre pares dentro das desse cenário a gente Pensou em uma
+união gerencial por meio de um sistema eletrônico onde a gente tivesse uma
+
+00:50
+melhor comunicação fosse possível os retornos positivos Além disso uma
+avaliação técnica é a solução proposta por implementada
+ela foi ela foi ela foi pensada em janeiro né começamos a escrever e
+publicar né em fevereiro e foi implementado em Julho de 2020
+e ela tem um formato duplo-cego onde o revisor e um radiologista não sabem que
+a gente está sendo revisado e e quem está revisando o seu laudo então é um
+formato duplo-cego e a seleção é randômica de cinco
+porcento dos laudos elaborados por cada profissional então lembrar que aqui não
+a cada a cada meia-noite e sistemas e sistemas gira com novos exames e ele
+seleciona cinco porcento dos laudos elaborados por cada profissional e não
+pelo serviço ou então pelo menos um exame de cada
+médico a gente consegue avaliar né de cada radiologista o feedback a
+
+00:51
+individual e secreto sobre cada lado revisado o radiologista ele recebe na
+mesma hora que o laudo dele foi realizado ele recebe na tela o laudo
+revisado online o feedback sobre o desempenho Global ele ficar nível
+gerencial é a todo a equipe não sabe como a gente está indo precisar Isso é
+apenas para gente ver se a gente está conseguindo fazer um trabalho que tem
+tido resultados E além disso existe o laudo que a gente considera o super
+laudo que é um ao de referência onde ele atinge todos os quisitos básicos praia
+Desculpa caiu aqui para essa classificação E além disso a gente consegue fazer
+avaliação da qualidade técnica do exame se o protocolo foi adequado se a máquina
+tá com algum problema né se foi documentado forma correta
+bom então é o dados disponibilizados para o radiologista e para a gestão a
+gente tem esse dado separados e disponibilizar de forma de diferente em
+
+00:52
+relatórios gerenciais e estatísticos a gente tem uns 10 bolos que a gente
+avaliar todos esses indicadores que ele fica na competência do do deixe que a
+gerência de inteligência de negócio e desempenho Empresarial para facilitar
+revisão mensal a gente conseguiu pontuar Quais são as melhorias que a gente
+precisa nesse cenário possibilidade de réplica de expulsão de casa quando
+revisou revisa e coloca como o possível Impacto o profissional que foi revisado
+ele tem a possibilidade de mandar um e-mail e mesmo assim esse mês vai
+anônimo EA respondido pelo revisor também de forma anônima mas existe essa
+troca né de uma possível uma possibilidade de discussão sobre aquela
+aquela revisão as notificações de casos de impacto ou
+desfecho Clínico ou cirúrgico Então a gente tem essa separação que são
+considerados os casos impossibilidade de gravidade E além disso a gente faz uma
+avaliação mensal retrospectivo de cada desfecho de cada caso para ver se aquela
+
+00:53
+possibilidade de impacto Clínico ou cirúrgico realmente e se concretizou
+ah e tem essa revisão é feita por exames o subo especialistas então o o sub
+especialistas a neuro são revisa neuro e assim como todas as outras
+substancialidade ES bom então a gente traz um retorno
+positivo e um reforço a boa práticas de diagnóstico por imagem no suporte ao
+desenvolvimento e uma melhoria continuada Porque a partir do momento
+que o revisou ele coloca as observações de como deveria ser descrita aquele
+laudo ou que não foi visualizado permite que o profissional saiba daquela
+melhoria que ele tem que fazer e fique secretamente só com ele né aquela
+observação com o auxílio no contexto de carga de
+trabalho esgotamento médico que a gente sabe que a Radiologia sofre disso como
+ninguém né então a gente o nós conseguimos hoje auditar lá os até 24
+
+00:54
+horas então ali aquele momento ali do plantão que por algum motivo eu usava
+percebido alguma falha a gente consegue ele rapidamente agir né e dar uma
+assertividade nesse casos e o fortalecimento das relações
+interpessoais no setor Porque existe uma maior discussão dos casos e uma
+aprendizado isso não é só a nível dentro da radiologia a gente a gente tá sempre
+discutindo com os médicos assistentes como melhorar os radiológico e
+transmitindo isso nas nossas auditoria s'
+o equilíbrio entre o retorno negativo eo positivo a gente sabe que são um fator
+que pesa né você se ali auditado de forma negativa mas a ferramenta também
+traz forma positiva Então por vezes você tá ali sendo auditado por uma falha no
+outro dia você tá sendo auditado por um super laudo sugere uma motivação da
+equipe né e uma maior confiança pelo profissional reforçada positivamente
+como eu acabei de falar então das melhorias implementadas dentro do
+
+00:55
+sistema de revisão por pares hidropilar né que é o aprendizado por Paris a gente
+consegue mapear nível gerenciais Quais são as principais falhas recorrentes O
+que traz impactos importantes e fazendo reuniões periódicas na com animação do
+paciente EA gente consegue trazer ali um aprendizado para todos um grupo né
+disseminaram-se resultados das maiores dos maiores impactos traz um feedback
+positivo na tampa a equipe quanto para os profissionais a gente faz reunião
+e sempre que a gente pode tentam promover aí um rank dos melhores
+profissionais com a tentativa de envolver os rádios na entrega com fio de
+beque acionável sobre a qualidade de imagem dentro de uma cultura de uma
+cultura Justa e não punitiva E além disso é foi desenvolvido um
+alerta que chama a produção científica esse Alerta permite que o radiologista
+que interpreta um estudo compartilha um caso potencialmente interessante para o
+
+00:56
+aprendizado para pesquisa então ele tá lá dando ele Nossa é quase que eu que eu
+não vejo essa alteração ou então essa alteração importante ou então é um caso
+que a gente Possivelmente consiga publicar Então ele pode alertar ali
+colocar uma observação que a gente consegue ter esses relatórios seja por
+data por nome e a gente consegue filtrar
+ali porque é possível para trabalhar nas reuniões também científicas os alertas
+são enviados e recebidos dentro e entre diferentes divisões e departamentais que
+que eu quero dizer com isso eu quero dizer que não sou a pessoa que o ajudou
+ela pode mentir se alerte como qualquer outro colega que venha logo algum exame
+de futuro né ou de outra modalidade Ele Pode emitir esse alerta no na tela de
+laudos bom então dentro dessa solução proposta tem um banco de dados pesquisável
+robusto que foi criado para permitir relatórios mensais personalizados EA
+mineração de dados por gerentes e liderança de melhoria de qualidade
+
+00:57
+identificando os problemas comuns repetitivos em todo o sistema Ou seja a
+gente pode consegue mapear todas as melhorias o incentivo à melhoria por
+meio da cultura justa colocar essa iniciativa em uma estrutura de Cultura
+justa para encorajar o máximo os relatórios aprendizado de um circo
+interativo de melhoria e prevenções de eu então a cultura justo a gente
+trabalha aqui com a não concordância como só o profissional saber quais são
+os fatores que eles são os cordões com os revisores e ele poder buscar melhoria
+né Ah e não uma cultura punitiva é uma cultura de aprendizado e foi realizado
+por meio da Integração com a nossa auditoria de laudos um órgão de revisão
+por pares redigido pelos princípios não punitivos a cultura justo de acordo com
+a política da instituição bom então aqui é só um resumo né do
+nosso cenário atual hoje a gente tem um filtro do banco de dados que que faz o
+carregamento em 24 horas de cinco porcento dos exames de cada profissional
+
+00:58
+a gente tem um tempo de liberação dessa revisão em até 48 Horas úteis hoje a
+gente está conseguindo graças a Deus fazer isso o menor tempo a gente tá
+chegando a 24 horas úteis então entra nesse banco de dados tem a revisão do
+auditor ele dá o feedback automatizado permitindo assim um aprendizado
+individual de cada profissional em cima das suas deficiências né é além disso a
+gente consegue de modo gerencial fazer o mapeamento dos casos ofensores e a
+produção de de alerta de produção científica para a gente poder trabalhar
+e reuniões científicas por especialidade e assim fazendo um aprendizado em grupo
+com todo os casos mapeados e aqui eu trago apenas um os nossos
+indicadores do que a gente já tem trabalhado nesse último ano né nós
+começamos no julho do ano passado então aqui e a gente vê que na taxa de Não
+concordo né que são todas as categorias das mais leves as mais graves a gente
+
+00:59
+teve uma redução de quase sessenta e três por cento né de não concordo de
+discordâncias e uma redução de quase Quarenta e nove porcento dos graves né
+que a gente causa com possibilidade de impacto Clínico ou cirúrgico
+E lembrando que a maioria dos erros revistas na nossa na nossa nosso sistema
+são erros percentuais né e um segundo lugar vem o erro de percepção uma falha
+de comunicação Então eu tinha um resumo das novas tendências na que eu trago
+indicadores de qualidade de lagos radiológicos traga um novo modelo né a
+ser pensado comparativamente ao sistema popular de um baseado em Paris né
+revisão de pares que traz esse modelo ele propõe um rendimento de feedback
+clinicamente significativa e oportunidades potenciais de aprendizagem
+maior né usar dentro do relatório de Radiologia podem ser criado quando uma
+
+01:00
+discrepância clinicamente relevante do relatório de Radiologia finalizado
+original é reconhecido Então esse revisor ele faz uma sugestão não é para
+o médico radiologista que lá eu dou fazer esse adendo né no relatório e esse
+radiologia é ou não a sugestão do auditor né no
+revisou a taxa de alento para o modelo proposto foi maior do que para a modelo
+padrão né que hoje se trás então a gente consegue trazer muito mais conteúdo de
+melhoria e de aprendizado porque se existe mais possibilidade de você
+avaliar o seu relatório e não só uma nota né Você tem uma avaliação
+descritiva ali do que você poderia melhorar como sugestão é isso jeirinho
+que é muito mais eficiente na identificação de discrepâncias
+clinicamente significativas com uma uma medida de oportunidade de aprendizagem a
+seleção de casos bastante atuais através
+daquele Alerta né de produção científica podem ser gerados para um estudo
+
+01:01
+Realizado a qualquer momento como eu falei por qualquer profissional que
+venha ao dar algum exame Depois do primeiro exame né E esse salários
+normalmente não resultariam em a dentro mas ainda assim são oportunidades de
+aprendizado o grupo que o o pessoa que está ali lá
+fez a ultrassom logo depois de uma tomo vi algumas alterações hepáticas que há
+como não trouxe é isso não vai gerar um adendo mas ali faz uma oportunidade uma
+sugestão de aprendizado com um grupo como um todo né o rendimento de
+oportunidades potenciais de aprendizado entre os pares foi ainda maior nesse
+novo modelo do que um sistema de padrão né que hoje é utilizado a capacidade de
+qualquer ferramenta para identificar oportunidade de aprendizado e
+aprendizagem com eficiência a especialmente importante no contexto da
+carga de trabalho que a gente do radiologista e os brotamento México que
+a gente tem os então é um filtro não é uma forma de você filtrar uma possível
+falha antes de chegar na mão do paciente ou do médico assistente
+
+01:02
+tá contribuindo assim para o equilíbrio da equipe né é o equilíbrio que permite
+o elogio contraponto para as observações
+radiológicas excepcionais interpretações
+de estudos potencialmente fortalecendo a colegialidade e as relações
+interpessoais permitiram a mão de uma motivação adicional para a melhoria da
+prática daquele radiologista né e o material de casa identificado pode
+ser usado para criar a conferência de ensino divisionais e departamentais ou
+oportunidade de aprendizado como um grupo todo e a natureza transparente do
+feedback tem um potencial de promover o trabalho em equipe uma cultura de
+qualidade uma segurança e melhoria contínua essas são minhas referências
+bibliográficas eu agradeço a oportunidade e estou à disposição para
+sugestões e dúvidas obrigada E aí e parabéns a todos os nossos
+
+01:03
+palestrantes excepcional Luiz trazendo as inovações Nina trazendo um trabalho
+tão importante que há poder do feedback né na verdade a gente tá discutindo
+sobre o poder de dar retorno seja ele positivo ou negativo de aprendizado para
+isso e eu queria agora para dar os nossos outros radiologistas que vão
+participar da nossa é bom Queria convidar o Doutor José óleo do professor
+Escola Paulista de Medicina e coordenador de Educação de em no grupo Fleury
+e o Dr Junior diretor de relações internacionais na gestão atual do CBR
+temos conosco também o Dr Rui Guimarães que é formado pela Faculdade de Medicina
+de Jundiaí um grande amigo Acho que o mais importante é isso a nossa
+
+01:04
+convivência nos últimos anos e ele tem NBA em gestão de pequenas e médias
+empresas e diretor Clínico do Centro Médico de Campinas Além disso que o Rui
+não contou é que o Rui era atual coordenador da comissão de acreditação
+em diagnóstico por imagem acad do Colégio Brasileiro de Radiologia e
+também coordenador da comissão de laudos no Colégio Brasileiro de Radiologia tal
+é sempre muito bom a temos aqui Rua e Giuseppe que vão nos ajudar a moderar
+com os meninos e essa discussão e nós vamos tentar
+fazer um bate bola bem rapidinho Pergunta a resposta quem que quiser
+fazer uma réplica tréplica rapidinho mas eu vou começar perguntando para o
+
+01:05
+Giuseppe é para quem se endereçado laudo
+radiológico Giuseppe hoje com o paciente
+no centro a o laudo radiológico ele deve ir para o paciente para o médico
+solicitante ou para anos Oi Luciana Boa noite Boa noite a todos
+Parabéns novamente a Nina do Luiz pelas vezes as palestras foram proferidas eu
+acho que cada um dos temas merecia um e binário Eu só sinto que a gente não
+possa aprofundar mais cada um dos temas que o pessoal muito atraentes e
+provocantes é parabéns a você' Luciana por trazer essa essa iniciativa né Nós
+estamos com centenas de uma uma audiência composta de centenas de
+pessoas o que é muito gratificante respondendo à sua pergunta eu não vou
+comprar ser bem objetivo né o vai começar o paciente sempre esteve no
+
+01:06
+centro né talvez alguns médicos Alguns de nós esqueceram esse no meio do
+caminho os pacientes sempre esteve no centro de tudo isso é o primeiro os
+primeiros laudos foram é um cartas que eu encaminhados de um médico para o
+outro médico do médico radiologista eventualmente para o médico solicitante
+mas quem é o laudo pertence ao paciente né mas quem
+pede o laudo que me pede exame é o médico no final do dia eu acho que é o
+laudo endereçado anos ao médico solicitante que pediu o exame né eu
+médio eu paciente que eu sei onde contas inclusive esse outro ponto de vista
+legal porque eu me lembre o laudo ou exame o laudo pertence ao paciente assim
+como o prontuário e etc O difícil é ajustar um equilíbrio como tudo na vida
+não melhor diferente na medicina e biologia eu encontrar um ponto de
+equilíbrio como você faz para se comunicar de forma transparente
+
+01:07
+intelegível simples e completa com o paciente e com o médico acho que esse é
+o grande desafio Talvez ele tem oportunidade de falar um pouquinho mais
+a respeito Luciano bom então Josep Ah não sei se tudo sabem
+mas eu queria enormemente agradecer aos radiologistas de norte a sul do nosso
+país que nós fizemos uma enquete hoje na
+tentativa de bater um papo aqui que esse papo fosse corroborado pelo pensamento
+dos nossos colegas e nós temos que o laudo sessenta e dois por cento de 210
+respondedores nos disseram que na para eles o laudo endereçado para ambos eu
+queria seguir a nossa conversa perguntando por Giuseppe novamente é uma
+
+01:08
+pergunta que era para o Valdair mas infelizmente ele não está aqui
+se existe alguma diferença Giuseppe do que que aquele laudo padronizado e o
+laudo estruturado como é que eu separo isso aquele laudo padrão que a gente
+trouxe lá da residência Esse é o laudo estruturado e
+não existe um conceito Luciana aqui o laudo ser estruturado que talvez seja um
+pouco que a maioria de nós faz né é que a gente falar em áudio escrito bem no
+laudo estrutural eu tenho vários níveis e laudo estruturados e Kim Gerson mais
+ou menos o radiologista e o modelo né então eu diria aqui você tem os dois
+grandes estranhos Você tem o laudo livre
+absolutamente livre Como disse for Luiza quase uma poesia e que me parece
+absolutamente ultrapassado e por outro lado um laudo completamente estruturado
+
+01:09
+que ingere essa de forma significativa o cardiologista a eu não vou dizer nem a
+criatividade mas as oportunidades e complementar a sua experiência de vida
+sua visão só sensibilidade é conectando uma série de informações final de contas
+e não são ingesta massa impacta na e não adianta a gente querer fazer um
+alcance totalmente estruturado se os equipamentos a tecnologia inteligência e
+nós estão nos ajuda a aumentar a nossa produtividade Então acho que eu foi o
+riso o Edu que comentaram isso toda vez que você tiver algo que impacta é uma
+barreira a para não é um facilitador mas um complicador na vida é só tu vai hoje
+de qualquer profissional vai ser uma barreira então é a do só daquela daquela
+estratégia então se você me perguntar você Josef a favor do lado estruturado
+
+01:10
+eu gosto de Equilíbrio então eu não gosto de laudo açúcar misturada não
+gosto de lá os parentes livro eu gosto de meio termo e na maioria dos casos
+você vai conseguir fazer isso de forma muito tranquila mas eu gostaria de ouvir
+a opinião dos colegas E aí o Rui Qual que é a sua opinião sobre o
+assunto eu estou completamente de acordo com Josep eu acho que a gente tem que
+ter uma estrutura no sentido de conseguir responder e dar todos os
+detalhes de uma lesão mas não estaria exatamente engessado Rua e qual que é a
+sua opinião laudo estruturado o laudo em prosa que que você acha em qualquer
+posição da CAD para o padre Hoje existe alguma recomendação
+e obrigado inicialmente aviso participar
+parabéns pela iniciativa viu Luciana com muito bacana Parabéns aos palestrantes
+
+01:11
+também que foram brilhantes aí nas apresentações eu concordo com o José eu
+não consigo trabalhar de dente um plenamente estruturado ele também não
+acha que a gente não tio o serviço não tem aqui da diretrizes sobre o pé de ser
+abordado num determinado laudo seja sobre a forma de máscara ou até de uma
+estruturação um pouco mais encorpada né e do ponto de vista da do padre a gente
+não tem nenhuma recomendação lá de atualmente não dá nenhuma recomendação
+quanto ao tipo de laudo usar Existem algumas recomendações do que deve conter
+no laudo mas não a forma como ele deve se comer ele deve ser apresentado acho
+
+01:12
+que é por aí E agora vocês quer do ponto de vista
+assim ah o padre ele sempre buscou ser muito muito inclusivo A ideia é permitir
+que todo tipo de organização possa participar e possa obter acreditação
+então aí já vem uma critério uma Norma geral uma lei do da do padre que é Ah
+não não digitar nós tudo serviço toda toda a sistema de acreditação ele ele
+deve evitar a prescrição a prescrição Polly a
+criatividade então a gente a gente dá recomendações ou exige às vezes algum
+conteúdo algum tipo de conteúdo Mas a gente não disse como a forma como esse
+
+01:13
+esse conteúdo deve ser veiculado né pode
+ver se do que deve conter o padre coloca
+assim que deve conter o nome do paciente data de nascimento nome da instituição
+nome do solicitante a data do exame nome CRM do médico que fez o Aldo nome e CRM
+do responsável técnico o título laudo diz que quer esse exame se for o caso
+lateralidade Essa é a gente acha que deve ter também
+um resumo das técnicas não às vezes a atualmente até difícil você se você for
+falar toda técnica técnica vai de uma ressonância Pode ocupar todo uma página
+então é um resumo de técnicas os achados normais as as variantes da normalidade
+achados patológicos achados críticos E aí a gente é recomenda que haja registro
+
+01:14
+em laudo do contato telefônico com o médico para quem foi passado no Machado
+crítico se for um acompanhamento uma análise comparativa simples CW
+e inclusive alterações que esse saldo bem a sofrer após a entrega sempre
+guardando a a versão original do laudo é essa aqui é isso aqui é assim temos de
+conteúdo que o padre recomenda ter e isso é feito na primeira avaliação a
+primeira avaliação de uma empresa é feita sobre o laudo e as imagens se ele
+passa nessa avaliação dele vai para os próximos se ele não passa aí ele nem vai
+para as outras avaliações para auditoria em trocas e
+
+01:15
+e deixa eu mostrar para vocês então o que é que o nosso público 200 tô mais de
+200 radiologista Giuseppe como você mesmo sugeriu a prefiro os laudos de
+escrita livre mas não eventualmente uso o laudo estruturado ou o contrário
+prefiro laudo estruturado mas eventualmente uso laudo escrito ou seja
+nada ingessado poucos usam a a questão injetada e eu já vou responder a próxima
+que estão a maioria usa laudo curto laudo enxuto alternado com laudo
+completo A alternadamente de acordo com a indicação Clínica eu vou agora a
+passar para uma próxima pergunta que eu queria fazer e para
+
+01:16
+e a Nina Nina como é que você imagina o laudo depois da palestra do Luiz como é
+que você imagina o laudo daqui a dez anos você com os indicadores como é que
+você vai conseguir auditar o laudo em vídeo e a outra coisa que eu gostaria da
+opinião dos colegas É o Luiz fez uma belíssima para cá para gente sobre o
+laudo em vídeo sobre a possibilidade da gente compartilhar estes laudos mas nós
+tivemos no nosso chat no YouTube vários questionamentos sobre a segurança sobre
+lgpd no momento tanto se fala sobre lgpd e comec a vocês enxergam a lgpd só o
+primeiro vou passar a palavra para Nina sobre o que que
+
+01:17
+e era como uma auditora como uma gerente
+de qualidade o laudo daqui a 5 a 10 anos o bom é uma pergunta o acredita até um
+pouco polêmica Mas vamos lá eu como eu como gerente de qualidade e que tento
+trabalhar com forma assim estruturados na qualidade o Worlds cultural ele ajuda
+né avaliar detecção de falhas né até Ajuda também na comunicação com o médico
+que é uma da segunda falha que a gente viu ali é como um momento de você ir ao
+médico sobre a falha e sobre o que ele tá vendo no exame é um avanço da
+Inteligência Artificial eu acredito que é a forma como ela vem avançando a gente
+vai vamos ter relatório já né de normalidade dado pela pela pelas
+máquinas né futuramente e o radiologista
+
+01:18
+vai se limitar muito aos lados alterados né e acho que a o radiologista não vai
+sair de cena muito pelo eu acho que vai virar uma figura cada
+vez mais importante mas ele vai ter que avaliar de forma excelente né cada vez
+mais a indicação Clínica avaliação dos estudos comparativos e emitir um parecer
+diagnóstico os diagnósticos diferenciais
+relevantes né que possa ajudar realmente de fato eu acredito que esse laudo
+audiovisual na esse relatório audiovisual ele vem para ficar como o
+Luís colocou na aula dele toda vez que a gente utiliza essa ferramenta A Gente
+Tem uma recepção muito boa um retorno é excelente dos médicos assistentes e a
+gente acaba auxiliando bastante na conduta e na dúvida deles mesmo com
+relação à interpretação das imagens então eu vejo esse laudo daqui a alguns
+anos cada vez mais a gente com essa interação né Espero que a gente tem a
+
+01:19
+cada vez mais essa interação os médicos assistência com o próprio paciente né
+que às vezes recebe um áudio ali e vai procurar no Google e fica na super
+preocupada Oi e essa interação cada vez maior né do
+lado o explicativo tanto voltar para o paciente quando voltar para o médico
+assistente e agente cada vez mais voltado com as alterações radiológicas é
+como eu vejo e eu tenho um dado interesse e os radiologistas que responderam ao
+questionário aproximadamente 45 porcento deles colocam indicação ou história
+Clínica no laudo então mostrando como esse conhecimento é relevante vamos
+falar sobre lgpd um pouquinho não exatamente sobre lgpd mas sobre a
+
+01:20
+preocupação que todos nós os CBR tem hoje sobre a o cuidado com a transmissão
+desses dados do paciente Luiz Giuseppe que vocês me contam os falar um
+pouquinho de um a proteção de dado mas também falou
+sobre o WhatsApp hoje Eu particularmente eu tenho um questionamento muito grande
+se nós podemos a transmitir vídeos ou se
+nós estamos Seguros com essa transmissão já que a partir do momento tem vários
+ser criptografada de ponta a ponta a partir do momento que a gente transmitir
+a gente perde esse controle no WhatsApp especificamente
+e para mim acionar ou Dr José posso começar então no realmente o laudo ao
+
+01:21
+divisório tem um conteúdo sensível é muito mais sensível do que uma aqui
+imagina que você envia uma com uma seta é para os seus colegas mas não tem como
+frear essa comunicação para o WhatsApp Luciano Eu concordo com você também eu
+sou totalmente contra sobretudo porque nos valoriza né aquela Assessoria médica
+Isso não é um é uma Assessoria médica como eu mostrei né Isso é uma Assessoria
+você enviar um vídeo mandar uma foto um comentário você tá fazendo a mesma coisa
+só que para o tanto faz mandar uma imagem turistas de todo mundo já faz e
+todo mundo gravar a tela filma com o nome do paciente não tá nem aí isso é o
+que acontece você vê direto recebe em grupos inclusive vocês em grupos com o
+nome do paciente l Esse é um cuidado é uma mudança cultural
+muito grande né Assim que todo mundo tem que estar respeitar mas na prática é
+
+01:22
+muito difícil fazer essa essa esse controlar isso não é o correto né O
+correto é que esteja o dentro de um ambiente seguro né protegido por
+autenticação de senha como são os portais de entrega né E nesse ambiente
+eu sou a favor do médico ler o nome do paciente para garantir autenticidade
+daquele relatório e o paciente fica muito feliz em ouvir o nome dele dito
+pela ajuda E por incrível que pareça eles emociona-se coordenador Giuseppe se
+ele for dá um relatório e comentar o nosso esse é o paciente tal tudo garante
+é um dentro do ambiente seguro Eu acho que eu acho recomendo que seja assim
+então são produtos totalmente diferentes né se eu tô fazendo uma Assessoria como
+eu estímulos colegas a fazerem em vídeo você deixa totalmente anônimo
+me manda esse conteúdo e separadamente o serviço Ou aquele paciente que você
+gostaria resultado tá aqui ele vai entender é o que acontece na prática
+
+01:23
+Você não tem nenhuma forma da pessoa associar-se a gente costuma dizer assim
+ó esse jogo paciente em questão e seu paciente isso Aquele caso tudo faz a
+inscrição limpa a tela do tira o layout tu não e faça isso isso esse tipo de
+assessoria no Ceará acho que ele é bem vindo porque ele vai ajudar na mudança
+da cabeça do colega que recebe ele vai começar a entender com a nossa que
+interessante tem uma mudança cultural ela vai nessa linha então em Minas
+Gerais finalizando aqui eu acho respeito
+total aos dados para a gente tem que ser respeitado todo mundo tem que aprender
+desde o balconista lá a secretária todo mundo tem que ter essa em mente isso mas
+não é se você tomar os cuidados necessários da assim para usar o método
+com abundância digamos assim no nosso dia-a-dia
+a nossa comunicação entre a equipe é feita dessa forma e acho que é um
+ganha-ganha para todos os lados se realmente eu eu tenho o termo ou não
+
+01:24
+vazamento de um vídeo desse porque todos os esforços para que o método seja
+aceito e implementado pode recuar é por exemplo se cai na um laudo na rede
+social ouvir a Lisa no grupo hein vai gerar um todo então eu todos os tem que
+ter esses cuidados para que a gente não prejudique a adoção do método né
+e eu queria só fazer um comentário que eu acho que como o nome dos
+representantes de CBR eu Giuseppe você é como a comissão de laudo o Rui a pra
+gente discutir isso dentro do CBR a atitude é o CBR hoje se preocupa muito
+com essa questão de proteção de dados do paciente tal a frase sua olha às vezes
+passa não pode passar no meu entender não pode passar porque se passar
+
+01:25
+a todos nós vou falar uma palavra como que estamos ferrados
+o portal eu acho que a gente é uma eu eu vejo como futuro com Marina disse mas é
+hoje considerando tudo que a gente tem amarrado nela e depender eu acho que a
+gente tem que avaliar todos os cuidados para que a gente não tenha problema com
+esse Laura Giuseppe Você concorda comigo é totalmente Luciana não tenho nada na
+verdade acrescentar só quero lembrar que hoje acho que a maioria de nós o o
+WhatsApp para passar resultados e pacientes né e com o nome que se não
+acontecer vai dizer quando você vai se identificar né O paciente então se a
+gente vem fazendo e sabe pro Leite descer minado nosso meio eu quero
+acreditar que não só aqui no Brasil mas principalmente aqui em São Paulo acho
+
+01:26
+que muitos de nós foi que eu faço isso diariamente os meus colegas graças a
+Deus um dia ainda nenhum problema mas é uma ferramenta útil demais viu então não
+entendo que tem que ter essa preocupação nós temos mas eu tenho muito eu tenho
+impressão que essa preocupação deve ser muito mais a ferramenta do que do
+radiologista a gente usa a ferramenta ferramenta que ser segura mais do que
+isso não sei o que posso não sei o que posso fazer
+o Eduardo sobre colocar dose de radiação de LP ou CCB hino laudo que que você
+pensa disso Você já viu alguém fazer Doutor faz filme ações constantes que
+nunca vi na prática aqui também não tem o costume de trazer ele suas informações
+nos relatórios apesar de julgar interessante até porque a gente fica
+
+01:27
+cada vez mais uns indiscriminado da tomografia né então eu acho que é de
+fato importante apesar de não não ver ocorrer muito na prática eles não chegam
+com frequência os pacientes jovens que recorrem muda pediu esses pronto-socorro
+e muitas vezes até por própria pressão do paciente familiares e faça exames
+repetidos de tomografia computadorizada e peço trás dos malefícios então a gente
+faz uma informação importante sem Clínica consultório Ovos Novos Prazeres
+última forma os dados detalhados aqui daquele aquele
+paciente e eu acho que a gente tem que seguir o caminho de começar inserir isso
+sem nossos relatórios somente o paciente é para ver se o paciente
+Oi e aí Ruan é outro dia conquista do Pati quem é o pai de recomenda prezamos
+
+01:28
+tomográficos resultado já tava esperando até fazer o comentário porque a gente a
+borda isso né na Norma a gente agora da seguinte maneira da existe uma
+obrigatoriedade de se a as empresas das organizações que das organizações que se
+dispõe a participar do programa é uma obrigatoriedade em se manter registro
+das doses fornecidas aos pacientes o registro Pode ser lá no Pax pode ser
+no caderninho pode ser no fim o a dose é aplicada deve ser registrado e uma
+recomendação de cin Luiz no laudo a a dose de radiação é lógico que ser como
+já é muito mais importante na tomografia
+
+01:29
+né é a gente vê assim a tomografia girar e se copia de vez em quando né aquele
+assim que não falou vamos lá em Barra de de novo todo o abdômen para ver se ele
+já está escrito dando aí não tá vai mais espera mais um tempo em Barra de novo e
+isso acaba ainda já uma série já é já fornece bastante dose vou tirar essas
+o e nudes né no Whats porque a gente pode fazer de uma outra forma mas
+colocar o paciência numa escorpião azinha ou então fazer uma posição mínima
+pequena mas não ao não varreu abdome ter com certeza e radiaria muito menos a
+
+01:30
+Nossa Senhora Nossa enquete oito por cento achou relevante a comunicar laudo
+comunicar dose no laudo a 38 por cento acha desnecessário na 37
+por cento gostaria de fazer mas não sabe
+como e o restante foram outras respostas outra outra outra assim normativa do
+padre aqui essa que os dados de dose constem na imagem né então é sim agora
+tá começando a ficar muito dado por uma imagem uma imagem só né então o ideal é
+por exemplo no finalzinho a hora que ele tá que eu tomógrafo da aldosivi Portes
+isso seja fotografado incluso como uma das imagens fornecidas né seja através
+de papel filme o portal de resultados e e eu particularmente sou a favor dessa
+
+01:31
+conduta é a faço e Mas nós vamos aguardar CBR 2021 nós vamos ter uma
+sessão apenas sobre devo ou não devo como é que acontece fora do nosso país
+mas o padre ele já caminhou nesse sentido que pelo menos a imagem tem que
+ser fotografada né é interessante Luiz que 18,8 dos nossos respondedores já
+fizeram vídeo au au Oi e eu tenho nunca tiveram acesso a tal
+ferramenta então a gente precisa expandir as inovações na para a
+Radiologia é o local mais propício à inovação né peixe lá infelizmente é dado
+
+01:32
+ao bacana Luciana eu queria só só queria lembrar como do ciclo de palestras que
+foi do comitê de inovações do CBR liderado pela Alexandra Monteiro que o
+primeiro ciclo foi uma série de palestras em lgpd então o primeiro
+episódio não foi gravado mas os demais tem inclusive do palestra do Gustavo
+kiatake daqui é o presente 10 Bis né então eu recomendo muito que os nossos
+associados que assistam porque lá tem um conteúdo
+o c* nesse sentido que você falou e eu posso afirmar também só finalizando que
+é esse movimento de geral vídeo e fazer a comunicação é algo que é nosso aqui
+que começou no Brasil eu posso garantir isso para vocês eu tenho contato com uma
+colega na com a Renata daí não vai Hugo onde eu fiz um Celo lá ele disse que
+estão começando agora sabe a esse é assim está com um produto que
+
+01:33
+possibilita essa criação e aí lá os médicos já tô finalizando os eles querem
+entregar para o paciente mas os médicos ficam um pouco incomodado sabe ainda
+existe um pouco de incômodo do nesse empoderamento o tio vídeo traz para o
+paciente né mas tem muita coisa para discutir e eu agradeço muito convite
+oportunidade para gente bater esse papo e fico feliz em rever Doutor José Pedro
+tô ruim também Eduardo Nina um abração a todos aí
+Olá a todos que responderam a nossa enquete eu só tenho agradecer nós vamos
+publicar os resultados a no site do CBR nós temos até o momento a
+Olá josepe mais que seu artigo Josep 352
+
+01:34
+respondedores poder da internet Hã antes de fora do Brasil tudo bem que é
+brasileiro fora do Brasil tudo bem eu queria dar palavra cada um de vocês para
+expressar o que achar necessário e eu queria dar palavra especificamente para
+Nina um pouquinho mais de tempo para ela para ela dizer para a gente porque eu
+gostei muito do que vocês fazem eu acho que como uma auditoria e um feedback é
+extremamente interessante acho que você tá no momento de refinar O que vocês
+estão fazendo mas é muito interessante queria que você falasse para gente só
+e quando o médico se destaca continuamente negativa esse feedback tem
+
+01:35
+poder ou como é que vocês usam é esse e essa ferramenta E aí depois da Nina A
+palavra é livre para cada um de vocês para a gente encerrar Como disse
+Giuseppe a acho que merecia um animar para cada uma para cada um dos telas do
+tópicos tá bom é quando o médico se destaca continuamente de forma negativa na
+auditoria né esse esse médico ele recebe feedback a primeira impressão que a
+gente recebe dos médicos ela não é boa né então a gente fica continuamente
+falando que a ferramenta ela não é punitiva é a finalidade é realmente o
+aprendizado e depois que ele destrava esse primeiro momento de ser avaliado e
+de forma negativa em geral buscar uma melhoria da qualidade como eu tenho
+
+01:36
+reparado isso é eu avalio a os médicos né de forma gerencial estamos secreta e
+a gente vê que não são são simples meses médicos que estão ali na pontuação
+negativa né a gente vê que tem uma melhoria que ele vem do um processo de
+avaliar continuamente de forma negativa e depois você vê uma evolução desde
+forma positiva né Em qual o a gente vai aí nessa hora a gente recebe um elogio
+do trabalho né e eu tive alguns exemplos
+como esse é claro que você será avaliado
+e ser julgado não é bom mas lembrar aqui
+por médico não sabe nunca pontuação dele isso é a nível gerencial né O que a
+gente passa para eles são só as observações de melhoria Então eu tenho
+eu tenho não não teve ninguém do que se sentir ofendido ao ponto de sair
+
+01:37
+entendeu muito pelo contrário eu vejo cada vez mais a equipe participando
+desse processo de aprendizado e E aí Oi tá desligado tem um microfone eu
+Eduardo a E aí e pronto a gente muito obrigado entrou
+oportunidades estão tema de enorme relevância né para todos nós
+radiologistas não é uma honra tá aqui com todos vocês são sou Admirador de
+todos vocês e de aprendizado o dia de ensinamento excelente estamos com sair
+para os próximos e fui e eu queria até chamar uma palavra que
+
+01:38
+foi citado é só para o Eduardo já o laudo preliminar e usar isso para fazer
+uma provocação o laudo preliminar do ponto de vista jurídico ele não existe
+né Se alguma conduta foi tomada em cima de um laudo preliminar naquele momento
+Esse é o único que existir é orgulho laudo definitivo oficial do exame agora
+eu por que que eu tô fazendo tô falando que é uma provocação Eu acho que um o
+número de informações antigamente existia um jogo de imagens deste ano é
+que fica a gente coloquei cabelo negatoscópios e com uma janela uma ou
+duas janelas no máximo Agora a gente tem inúmeras possibilidades de reconstrução
+bom então o poder de diagnóstico de um exame é muito maior do que o que a gente
+
+01:39
+tinha na ela então eu tô chegando à conclusão agora que todo lado é
+preliminar no sentido ti o laudo deve ser considerado alguém evolutivo é
+nenhum médico é processado por que foi avaliar um gasto por exemplo que vai
+avaliar uma entre astrologia e ele não fiz um toque retal e que poderia ter se
+sobrar descoberto um câncer Eu acho que a gente tem que ser encarada dessa forma
+também a gente deve ser mais um médico consultant o tem um médico que descreve
+a totalidade das as capacidades diagnósticas que um o exame possibilita um
+o SUS ylai é algo que a gente está eu tô tentando promover Não deixe de se a
+
+01:40
+gente consegue reverter o posicionamento do Presidente do Conselho Federal de
+Medicina porque a gente fica sobretudo no momento de plantão quando chegam lá
+em dois minutos chegam três AVC a gente pode com certeza para cumprir o tempo do
+portas e te deixar de ver alguma coisa então É nesse sentido que eu eu falo
+todo lado é para eliminar ele deve responder uma uma um questionamento e se
+eventualmente alguma coisa acontece no futuro porque não voltar falar se não
+tava aqui a gente tava aqui tinha tantos milímetros agora tem tanto centímetros
+Essa é a provocação um excelente Obrigada Rui Professor
+
+01:41
+Giuseppe você tem direito a vários questionamentos a que eu não tinha visto
+as suas solicitações tão primeiro sobre a radiação e achei muito interessante no
+nosso chat interno aqui a sua pergunta para a Nina há como sabermos se as
+falhas são realmente consideradas falhas estão a palavra é sua e vamos discutir
+um pouquinho sobre a radiação o que que você acha disso eu vou procurar ser bem
+rápido e sucinto bom em relação as falhas eu sou uma amante das falhas
+talvez porque o r tanto meu dia a dia tô sempre procurou formas de atenuar a
+minha culpa meu ser E aí Todas aquelas conversa nem Errar é
+humano etc e tal o fato é que em radiologia muito difícil eu percebi que
+o passar dos anos estabelecer o que que é realmente uma falha em muitas ocasiões
+não sempre evidentemente tem que fazer de dentes você deixa de ver alguma coisa
+
+01:42
+alguém te mostro você ou você respectivamente deixou de ver algo
+interpretou equivocadamente isso é muito comum o que acontece nesse review eu
+acho que ali na fase trabalho Fantástico acho que é um caminho sem volta e nem
+que tava a gente progredir Dessa forma ela de utilizamos o bom senso e
+sensoriamento de Justiça não são bom senso senso de justiça é dito isso eu
+queria dizer para vocês que eu eu percebi que o passar dos anos que quem
+faz o perfil sinceramente a cara mais experiente é E opinião dele que pode eu
+não vi aliás Diverge do menos experiente apesar de interesse oportunidade de ré
+a menina comentou e ele totalmente tréplica né a gente sabe que também não
+na maioria das vezes acaba prevalecendo a opinião do mais experiente Até que a
+história demonstre o contrário e o mesmo
+
+01:43
+eu já tive opiniões divergentes e acabei
+acabei percebendo e eu estava equivocado mas aí eu tenho que já passou o pedido
+já foi feito e etc eu faço aqui essa esse meu depoimento e para terminado em
+relação à radiação né é eu sou um dos que responderam que não coloque não
+colocaria dose de radiação nos laudos por duas razões primeiro porque eu acho
+que o radiologista entende muito pouco de radiação os muito menos o que deveria
+entender é impressionante com o nosso desconhecimento sobre a dose de radiação
+Como se calcula os efeitos da radiação tão a gente sente não tive
+é uma educação esse sentido eu acho que eu me sentiria quase um me postou né e
+colocar aquilo número que até o mesmo Alguns de nós têm dificuldade em
+
+01:44
+entender o que aquilo significa para o paciente a curto médio e longo prazo
+segunda coisa que ainda em relação a colocaram a dose de radiação nos vasos
+eu não sei o que fazer com isso se eu ruim me contar se alguém me contar o que
+você vai fazer com esse número sou o primeiro que vai adotar isso hoje em dia
+eu não sei o que fazer eu sei quando eu fui na reta de Ferro
+quem sabe quando coloca Deus sabe quando informa dose de radiação quando por
+acaso a gente descobre sem querer que a paciente fez um exame era gestante pois
+gera um stress tão grande isso pode acontecer eu não sabia que era ela não
+sabia que era o restante você faz a tomografia tá lá o feto e embrião tá lá
+aí nesse caso eu acho que é importante isso mas via de regra é para
+tranquilizá-la pacientes a dose de radiação no exame tomografia abdominal
+via de regra para o que assistimos é que nem o Rui falou 7 Vezes estudar
+
+01:45
+abdomino-pelvica mais duas três quatro fases de aquisição eu estou falando de
+30 40 municípios no máximo o que ainda está dentro do que a pode ser
+considerado seguro para pagar o fé é fora disso se você Luciana quiser fazer
+o que você vai fazer atlética daí agradeço porque eu acho que quem sabe
+você me ilumine que que eu faço com esse número no laudo
+e te ilumine no certamente existe uma questão educativa muito grande do
+serviço quando você fala 30 40 ml de leite nós tomografia dele também eu acho
+altíssimas recomendações hoje a elas são menores e nós todos passamos a nos
+educar se o délhi preta alto Pera aí esse protocolo tem algum problema vamos
+ver o protocolo nós tínhamos médicos que a imagem era maravilhosa
+
+01:46
+a mais que o GLP vai lá em cima Então eu acho que do ponto de vista educativo e
+te esse a conhecimento maioria das pessoas que teve que escrevi aquilo ali
+no laudo Certamente ele passou a procurar saber o que que aquilo que tá
+alto se tá baixo a gente pode discutir enormemente Qual que é o efeito dela é
+sério da radiação e nível diagnóstico mas eu acho que é importante eu comecei
+a adotar isso depois de um tempo que eu tive fora do Brasil onde que todo exame
+ele vai a dose de radiação para o dlp não Emily se ver não com a conversar mas
+o dela IP utilizado para que ele dá um eu não sei se eu te convenci mas
+
+01:47
+basicamente houve uma dos vários tomógrafos hoje que nós temos em Belo
+Horizonte a existe uma certa Equidade e a gente conhece o Salt lábios os
+técnicos conhecem bem e isso sabemos que é uma baixa dose quando de baixa dose
+sabemos que nós precisamos cortá-la tomografia de corpo inteiro poderia
+falar que é enormemente sobre isso que é um tema que eu gosto E aí
+Oi Luiz Oi José tem alguma a ouvir falar mas veja não eu acho que
+me fiz entender eu não acho que é meu o meu comentário não foi em relação a
+importância da radiação Acho que pelo contrário acho que é muito importante a
+gente conhecer radiação da importância para ela saber como é que os seus exames
+estão sendo feitos o topo como seus equipamentos funcionando acho que você
+
+01:48
+precisa educar os seus cardiologistas eu não sei só se a melhor forma de você
+educar os seus cardiologistas é você é avaliar a dose de radiação dos seus
+equipamentos manter eles os protocolos dentro dos padrões recomendáveis se a
+melhor estratégia é escrever em cada lado a dose de radiação ou dlp noção
+falando de colocaram no laudo nova geração a ter ou não preocupação em
+relação a dose de radiação ao nos tem você que ter os equipamentos utilizando
+da melhor forma possível bom e quando eu digo 30 40 mil e segura
+também concordo com você que é muito alto e eu vou aqui fazer um desafio para
+os a centenas de Deus que está nos acompanhando eu desafio quantos o que
+estamos ouvindo sabem quanto que é qual que é a dose o dele pa12 radiação por
+
+01:49
+fase e tomografia de abdome e pelve está sendo utilizado no seu serviço eu lanço
+aqui o desafio eu quero ver que vai acontecer é eu concordo plenamente concordo
+plenamente mas eu acho que educativo não
+não discutindo a importância mas eu acho que educativo a gente conhecer os
+números tá no céu entendeu Salt lábios todo tentando responder alguma coisa
+para o José para no sentido de assim de pode ser Josep que em alguma assim algum
+momento em alguma circunstância única rastreabilidade que a gente encontra do
+laudo da dose recebida por um paciente seja no laudo por isso que talvez seja
+uma uma na prática recomendado pode pode
+
+01:50
+ser que tudo desaparecesse sob o laudo e Ah tá pegando fogo na internet essa
+ideia Isso é bom né 15 vai logo eu sou só tenho agradecer um
+papo um bate-papo bom demais dá dó de terminar ficou muito fiquei muito
+honrado em ter sido convidado ou Luciana parabéns pela iniciativa aí e eu queria
+propor uma foto com vocês se vocês puderem dar um sorriso para a câmera eu
+ia tirar uma foto nossa aqui Olá Doutor José Pedro um sorriso tira o óculos José
+tem também pronto o as trabalho obrigado a todos obrigado Luciano um abraço a
+
+01:51
+todos aí obrigada obrigada a quem nos está assistindo foi ótimo obrigada ao
+Eduardo anime é o Luiz que aceitaram o desafio de estar aqui é e ao José Pina
+Rui que eu quero nos ajudar a discutir temas tão
+polêmicos e tão importantes é a palavra do Eduardo no início que a gente passa a
+residência toda sem discutir de uma maneira sistemática ou laudo ela é
+realmente verdade né e com ele é importante o nosso dia a dia ele
+representa no papel Obrigada Luiz Por trazer inovação e a Nina
+e para nos ensinar e trazer novidades para ajudar a chamar de auditoria mas
+
+01:52
+ajudar que a gente melhore a cada dia obrigado a todos boa noite fique bem
+obrigado boa noite E aí [Música]

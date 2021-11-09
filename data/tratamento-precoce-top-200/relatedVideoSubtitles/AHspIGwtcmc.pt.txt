@@ -1,0 +1,539 @@
+
+00:00
+WEBVTT Kind: captions Language: pt e o querido Márcio Duarte Márcio bem
+vindo Obrigado aí por ter aceitado novos convites uma boa noite obrigado eu na
+verdade que você é convidado a ter essa oportunidade aí tá mais próximo dos
+alunos do país Tássia e vamos lá vamos falar sobre agilidade hoje vamos vamos
+falar um pouquinho de você antes Márcio para a gente se conhecer então novo você
+sabedoria e eu pareço novo mas não sou tão novo
+assim já tô aí com 38 anos então já já rodei bastante é bom Sou Márcio
+Paulistano é formado em administração de empresas então comecei minha carreira
+como administradora e nos últimos dez anos eu venho atuado aí com mais força
+em projetos de tecnologia Já rodei grandes empresas agropecuária
+Petroquímico their e agora faz parte aqui do da Estácio né com na rua de
+
+00:01
+indux agregando aí tentando sol mar desenvolvimento desses produtos digitais
+nossos alunos e professores maravilha então vamos começar né o temer agilidade
+nas empresas né eu tenho escutado muito esse termo né metodologia ativa ágil é
+Enfim tudo o que se refere a essa transformação digital então dá uma
+surgiu esse movimento ágil e é esse tema vem ganhando muita força
+nos últimos anos aqui no Brasil tá na boca do povo a gente pode entender esse
+surgimento de maneiras um pouco diferente né o começo de algumas
+práticas ages a gente pode entender começou nos anos 90 nos Estados Unidos
+ali no Vale do Silício mais voltado ao desenvolvimento de software Mas no ano
+2000 um grupo de desenvolvedores decidiu criar o que eles chamam de Manifesto
+
+00:02
+ágil é um documento onde tem lá alguns valores e alguns princípios que a gente
+entende aqui é o nosso guia para agilidade a nossa como se fosse os
+nossos Dez Mandamentos Mas algumas pessoas mais saudosistas entendem que
+isso começou muito antes que veio lá da Toyota nos anos 60 quando começou a
+produção enxuta o a produção Linde carros na Toyota então algumas práticas
+que surgiram nos anos a nossa produção automotiva a gente
+conhece como dias tem time ou modelo Toyota de produção elas são adaptadas
+contexto de software e hoje em dia a gente faz uso delas também para
+desenvolver quase que qualquer tipo de projeto i
+Ah tá tem alguma algumas alguns começos aí depende da história que você gosta
+online não dá para falar que gravar que foi só um o ponto de partida de cima da
+Record que as coisas acontecem simultaneamente né Eu acho que a própria
+movimento da sociedade empurra para algumas mudanças é o que a gente tem
+
+00:03
+visto atualmente né em outras proporções às vezes algum acontecimento externo a
+vida da empresa faz com que todas mudem ou passem a pensar diferente acredito
+que o com metodologia ágil tenha sido um pouco assim tô falando besteira não nem
+um pouco as coisas vão evoluindo conforme a gente aprende mais e testa
+mais isso no no mundo real Então é isso aí Concordo Tá e o que que é ágil
+efetivamente bom essa essa é uma pergunta é interessante porque o ágil
+ele é uma mentalidade ele é uma forma de pensar e agir e a gente traz para o
+nosso ambiente de trabalho para que a gente consiga ser má
+é estável então no final das contas ágil não é fazer as coisas mais rápidas
+outras ali trabalhar com alguém dando chicote no pessoal me entreguem mais
+rápido entregue mais rápido mas o ágio É sim uma maneira de pensar e escolher
+
+00:04
+algumas práticas aí no dia a dia que ajudem a gente se adaptar e reagir a
+mudanças mais rapidamente hoje né a gente fala que o mundo é Vulca então
+assim as coisas são muito coladas elas estão em constante mudanças é o os temas
+são complexos e não dá para a gente fazer as coisas de uma maneira só porque
+se eu gasto muito energia dando um plano
+para os próximos três anos daqui a pouco surge uma mudança eu tenho que me
+adaptar Então você mais ágil é isso é mais adaptável e conseguir reagir essas
+mudanças de uma forma mais rápida e mais
+organizada E aí a gente tem uma série de práticas que a gente vai falar ao longo
+aqui da Live de Como atingir essa agilidade tá vamos chegar lá sim mas
+existe alguma e entre essa metodologia ágil e a gestão
+de projetos ela se utiliza desse tipo de ação pode falar um pouco sobre isso a
+certeza Como que o projeto né acho que é legal bem que ela definição de um
+
+00:05
+projeto tão um projeto ele é um esforço de uma tem um grupo de pessoas com
+começo meio e fim para a gente criar algo novo ou melhorar algo já existente
+então a medida que que esses projetos foram se tornando mais importante as
+pessoas começaram a se organizar e Opa eu não posso fazer as coisas qualquer
+jeito eu tenho aqui pensar eu tenho que me estruturar eu tenho que controlar os
+meus cursos eu tenho que controlar o meu o meu tempo e isso começou a se tornar
+uma área de conhecimento que a gente chama de gestão de projetos e aí até um
+pouco tempo atrás né a gente tinha uma visão de para executar bem um projeto eu
+tenho que criar um Plano Perfeito nesse projeto esse plano tem prevenir mudanças
+É mas à medida que o mundo se tornou mais complexa e as mudanças são mais
+rápidas essa forma de pensar em eu vou fazer um plano perfeito esse plano nunca
+vai mudar eu vou seguir o meu plano ela acaba não funcionando tão bem então ágil
+
+00:06
+é uma evolução dessa gestão de projetos é uma maneira de gente não dá para fazer
+um Plano Perfeito Então a gente tem que fazer muitos planos mais curtos e fazer
+assim a gestão do meu projeto a gestão do meu produto onde eu não faço mais um
+plano completo e perfeito eu vou fazer os meus planos parcelados eu vou
+entregando também o meu projeto de uma forma parcelada que a gente chama de
+desenvolvimento incremental então sim eu acho que dá para gente traçar esse
+paralelo com gestão de projetos e entendeu aja como uma evolução dessa
+área de conhecimento Ah entendi como é que a gente pode fazer um comparativo
+entre o tradicional versus o ágil legal essa é uma boa pergunta
+bom então vamos lá o tradicional é a gente tem uma forma linear de fazer as
+coisas que é o jeito que a gente aprendeu basicamente quando a gente
+começa um projeto a gente tem que desenhar ou escrever o que seria o
+escopo do projeto Mas o que eu vou entregar e a gente gasta um tempo para
+
+00:07
+fazer esse escopo do projeto tem que colocar todos os detalhes escrever os
+requisitos depois eu tenho que fazer uma série de contas para saber quanto esse
+projeto vai custar quanto tempo esse projeto vai demorar para ser entregue e
+esse é o Projeto tradicional e eu que a gente chama de projeto Cascatas porque
+ela é bem linear Primeiro me planejo depois eu executo no final eu vou testar
+E aí eu terminei meu projeto era assim a forma que a gente trabalhava o ágil a
+gente muda o racional para gente não dá para fazer um plano do projeto inteiro
+vamos planejar o que a gente tem mais conhecimento agora
+Oh e vamos entregar incrementalmente então vez que eu fazer um plano para
+três anos de projeto eu vou fazer planos pequenos para não mais que um mês de
+projeto e eu vou entregando de mesa mesmo com o Todo mês eu começo meu plano
+
+00:08
+e no final do mês eu faço aquele desenhar o escopo executar testar íris
+que fazer do todo de uma vez só ou do projeto inteiro agora eu vou fazendo por
+partes Esse é o desenvolvimento haja como ele muda muito do desenvolvimento
+de projetos tradicional tradicional é uma entrega Grande no final eu acho eu
+vou entregando parcelado é claro que nem todo o projeto dá para você A Ju já que
+por exemplo construir uma ponte Não consigo testar pedacinho da ponte eu
+tenho que fazer isso aqui Mas normalmente para projetos digitais de
+tecnologia e se aplica muito bem entendi nossa outra maneira de pensar né é um
+outro mais certo é o dela ela começa na maneira de pensar
+Então em vez que eu pensar nossa tem que fazer um plano perfeito esse plano não
+pode ter mudança no a gente muda e pensa eu preciso entregar o que meu cliente
+quer então aqui no caso dos alunos da Estácio temos uma série de produtos que
+
+00:09
+a gente desenvolve na sua maneira e eu tenho que me adaptar às necessidades dos
+alunos que mudam constantemente Então em vez que eu gastar um tempão pensando no
+plano e montando um desenho no Uber sistema para os alunos estão entregar
+isso no ano que vem na verdade agora a gente entrega uma primeira versão e
+tenta escutar muito nós usuário para construir e dar continuidade a esse
+desenvolvimento de maneira parcelada de maneira incremental entendi mas esses
+planos menores né digamos assim uma coisa mais focada eles fazem parte de um
+maior ou não necessariamente ou ele pode começar e encerrar nele mesmo entendeu
+Entendi sim eu acho que ela pergunta é isso aí
+a Anitta que dizem que a gente planeja menos não eles fazem parte de um plano
+maior eu comecei a construir um aplicativo para os alunos da Estácio eu
+não posso terminar entregando um aplicativo para os professores do Ibmec
+ou seja mudei completamente ali o meu rumo então a gente parte sim de uma
+
+00:10
+visão que a gente chama que é uma visão do projeto como um todo estabelecemos
+nossos Marcos e aí sim a gente vai fazendo esses planos pequenos mas a
+minha visão ela não muda ao longo do projeto se não eu ia estar sempre
+trabalhando né sem saber para onde que eu onde eu vou chegar no final isso é
+bem importante Teresa começou a visão Clara de onde eu quero chegar Ah entendi
+então vamos falar assim dessas técnicas existem aí algumas questões específicas
+que tem que ser treinadas como é que eu posso implementar esse na minha empresa
+enfim como é que funciona essa na prática essa metodologia ágil na prática
+não legal é bom o além de tudo é a gente definir o que é
+que é o time o time de trabalho e eu o time de um projeto ele é é diferente do
+time agiu normalmente o time ágil eles estão sempre trabalhando bem próximos é
+agora na academia Nem tanto mas a gente procura sentar na mesma mesa tá todo
+
+00:11
+mundo juntinho o time ele é multidisciplinar Ou seja a gente quer
+colocar todas as pessoas que têm as competências necessárias para fazer
+aquela entrega a gente nunca vai ver um time só de engenheiro por exemplo numa
+mesa vai temos dinheiro vai ter um designer vai ter um desenvolvedor EA
+gente entende que assim eles agregam para entregar esse esse produto no final
+bom então a gente começa dentro dessa vez aumentar qual é o time A partir do
+momento que a gente tem essa essa identifica o time a gente começa a
+escrever o trabalhista do trabalho que tem que ser feito
+o que a gente chama de backlog do produto também que logo é a lista tudo
+que eu tenho que fazer a diferença do backlog do produto para o escopo do
+projeto tradicional é que eu não preciso detalhar tudo no começo eu só vou
+detalhar melhor o que eu vou fazer nos próximos meses e o final da lista eu sei
+
+00:12
+que eu vou fazer aqui um dia mas não precisa detalhar agora então a gente tem
+agora o time temos a lista do trabalho que o time vai fazer e aí a gente começa
+a rodar o que a gente chama de algumas cerimônias E aí tem vários métodos
+diferentes o mais conhecido deles é uma chamado scream Então é só vou ver ele aí
+ele é bem famoso tantas pessoas confundem as vezes agem com skam Chris
+qual é o mais utilizado eu acho nesse canal método o Escolha um dos métodos
+que fazem parte dessa mentalidade área então é uma maneira de fazer as coisas
+e dentro do mundo da agilidade e o que que esse cara fala que a gente tem que
+trabalhar é do que a gente chama de Time Box tem um pedacinho de tempo
+Oi e aí você tá embora chamada de Sprint
+Então acho que todo mundo também quem já
+leu alguma coisa ouvir sempre esse termo Sprint Sprint O que que é uma Sprint no
+período de tempo de uma a quatro semanas e dentro desse período de tempo a gente
+
+00:13
+segue os mesmos rituais quais são eles então vamos lá vamos pensar que é uma
+Sprint um timebox duas semanas então todo começo de Sprint eu vou sentar com
+meu time e vou fazer uma reunião de planejamento então a gente reúne equipe
+e um líder ali do time vai falar gente para essa semana eu quero que vocês
+façam a carteirinha digital do aplicativo do aluno Estácio vamos supor
+que essas sejam também time como vocês vão fazer a carteirinha então a já parte
+desse ambiente é um ambiente muito colaborativo uma pessoa pede e quem pede
+não é quem da estimativa táxi eu estou pedindo algo para você quem vai me
+e ativa e quem vai me dizer como vai ser feita você a gente faz essa reunião de
+planejamento definimos o nosso plano das duas semanas então o final da segunda
+semana a gente quer ter uma carteirinha digital para aluno vamos começar a
+
+00:14
+trabalhar e aí todo dia a gente tem uma reuniãozinha de 15 minutos que é chamada
+reunião diária ou a Daily ou ao stand-up
+tem vários nomes Mas é uma reunião de 15 minutinhos onde todo mundo fala o que
+estava fazendo ontem o que vai fazer hoje esse também algum problema se eu
+não vou conseguir entregar o meu plano da Claro que não é um acompanhamento
+assim rápido né objetivo e para não deixar acumular para depois o problema
+não ficar pior A ideia é que você já vou rápido que não passa de 15 minutos e
+assim qualquer problema que aconteça a gente identifica muito rápida tempo né
+Dá tempo de mudar o plano também Oi e aí todo dia a gente faz a
+reuniãozinha de 15 minutos normalmente é sempre no mesmo horário sempre no mesmo
+lugar e a gente tá sempre olhando o nosso quadro ainda é muito comum quando
+a gente fala de agilidade ter uma parede cheia de post-it que é ali Que a Gente
+
+00:15
+Tá olhando o quê que foi o nosso plano das duas semanas no final da segunda
+semana a gente tem uma reunião de apresentação de resultados então o time
+vai mostrar para as pessoas a carteirinha digital onde vai mostrar já
+no aplicativo ela não vou te entregar um papel te falar olha a carteirinha está
+pronta eu vou te mostrar a carteirinha para você me falar o que que você achou
+delas está funcionando você não tá funcionando você tem que fazer alguma
+alteração você pode perceber que alguma coisa bem dinâmica sim adorei quando a
+gente termina demonstração e essa demonstração é aberta a gente Convida os
+usuários com vida outras pessoas da empresa quem faça sentido está naquela
+reunião e no final da dessa reunião a gente tem
+uma reagir lições aprendidas que o time vai discutir o que que deu certo nas
+duas semanas e o que que não deu certo nas duas semanas para que a gente assim
+possa fazer um plano de ação e não repetir os mesmos erros na próxima
+
+00:16
+Sprint Então esse ciclo né Essas ritos essas cerimônias elas acontecem de
+maneira bem rotineira quando começar a próxima Sprint novamente planejamento
+reunião diária demonstração lições aprendidas e isso fica até o fim do
+desenvolvimento do projeto então assim que o escravo lida com as coisas em
+termos práticos Entendi nossa adorei ficou super Claro gostei bastante então
+por que que você acha que as empresas hoje precisam trabalhar dessa forma por
+quê que é metodologia ágil hoje invadiu o mercado aí empresarial
+e é bom aí assim na minha opinião é porque o mundo realmente está mudando
+com uma velocidade muito rápida e que se a gente não entrega o que o nosso
+usuário que nosso cliente quer esse campo simplesmente vai usar outra coisa
+
+00:17
+vai usar outros concorrentes então não dá tempo de eu ficar pensando muito
+tempo no que eu vou entregar e só ter a sua opinião daqui a meses então a gente
+precisa ter formas de estar mais próximos do usuário e tá sempre
+mostrando alguma coisa para esse usuário
+me dar feedback Vamos pensar por exemplo
+no WhatsApp de todo mundo conhece aqui o WhatsApp hoje o WhatsApp ele tem uma
+série de funcionalidades que não tinha um ano atrás ou Há dois anos atrás
+quando eu começo ataque surgiu simplesmente para mandar e receber
+mensagens depois surgiu o vídeo depois surgiu áudio hoje tem o áudio que você
+consegue aumentar a velocidade ou seja com essa turma do WhatsApp decidi fazer
+tudo de uma vez provavelmente a gente não estaria usando atacar a gente
+estaria usando outro problema Ótimo exemplo então mundo ele funciona dessa
+forma agora e a gente precisa entregar para nós usuário alguma coisa para que
+ele começa e me devolver uma série de informações para saber se eu tô no
+
+00:18
+caminho certo eu não tô então eu acho que é por isso que eu ajo tem ganhado
+muita relevância hoje é porque essa velocidade essa
+transformação tá cada vez maior o mundo essa se envolvendo cada vez mais rápido
+e eu as pessoas mudam de interesse e de necessidade também muito rápido então
+precisa acompanhar essa mudança acho que tomara que tenha conseguido assim
+explicar Face porque não perfeito porque ele mostrou você conseguir mostrar eh
+como age o trabalha com as demandas da sociedade do usuário do cliente enfim
+que hoje é tudo muito vivo né esse exemplo do WhatsApp é isso ele não
+começa encerra em si mesmo não é uma coisa que a WhatsApp tá pronto ótimo
+deixa ele ali e depois vamos fazer outra coisa não você tá sempre evoluindo né o
+produto que você lançou enfim de acordo com as demandas então eu consegui eu
+consegui perceber todos aqui com certeza conseguindo perceber como essa
+
+00:19
+metodologia ágil torna possível a evolução rápida que atenda ao consumidor
+de perto para mente e aí E aí eu comecei a dentro daquela
+conceito de projeto que projeto tem começo meio e fim mas a gente nesse
+mundo digital e nesse mundo mais ágil a gente sai dessa ideia de projeto e
+começa a entrar na ideia de produto e um produto ele não tem um sim muito claro
+WhatsApp só vai acabar Provavelmente o dia que o Facebook decidiu Olha esses
+produtos não é mais interessante vou desligar ele então acabou o time do
+WhatsApp enquanto o projeto tem um começo meio e fim eu pergunto ele tem um
+ciclo de vida dele começa depois ele vai ganhando maturidade uma hora ele se
+estabiliza no dia a gente pode desligar ele falar esse produto morreu então o
+ágil ele se encaixa muito bem além de se encaixar em projetos ele se encaixa
+muito bem também nesse contexto de produto que a gente vai evoluindo um
+
+00:20
+produto conforme o tempo passa e no meu trabalho aqui na Estácio no último ano
+eu acho que os alunos aqui podem ver e a gente já tem algumas evoluções nos
+produtos então o renovo é o produto que o aluno faz a renovação de do semestre
+deles coisas novas matérias é um produto que a gente vem evoluindo a cada
+semestre a gente tenta colocar novas funcionalidades tenta capturar as
+necessidades dos alunos para que no próximo semestre a gente reflita isso no
+produto e indo assim esse clássico sempre tentando ouvir muito o que é a
+necessidade do aluno a um ano atrás antes academia necessidades dos alunos
+era outra agora tudo mudou com academia e a gente precisa então ter formas de
+acompanhar acompanhar isso então mais do que nunca adotar metodologia haja
+fundamental para a sobrevivência das empresas né Eu acredito que sim eu tô
+falando isso também porque tem vários alunos já aqui comentando enviando
+
+00:21
+perguntas e aí o Rafael Junior Pergunta aí o que fazer
+e aquelas empresas que estão irredutíveis a mudanças mas sempre
+consegue perceber-se no mercado ainda temos empresas assim a gente percebe
+além de empresas pessoas não é porque eu entendo que assim a empresa na verdade
+ela vai ser conjunto de pessoas ali que são redutíveis a mudança E aí é uma
+opinião pessoal eu acredito que essas empresas Elas começaram a perder
+competitividade à medida que ela se mantém irredutíveis e a gente vê isso
+acontecendo por exemplo no mercado de táxis que era o mercado irredutível Uber
+chegou atropelando todo mundo hoje o mercado de táxi tá reagindo e também tá
+se tornando mais ágil tá lançando Novos Produtos enfim o táxi Está se tornando a
+
+00:22
+melhor porque o Uber surgiu então Rafaela é as empresas podem não entrar
+nesse movimento Mas eu acreditei lassidão ficar para trás vamos
+capacidade de concorrentes que estão bom então as empresas estão aderindo né
+porque Aline Cardoso disse que gostaria de trabalhar em uma empresa assim Será
+que elas estão aderindo ela pergunta muitas estão aderindo a gente vê em
+diversos mercados empresas hoje como a magalu é uma referência no nesse nesse
+contexto de agilidade a gente tem a Stone também que é uma empresa que vem
+ganhar iFood iFood se era uma coisa pequenininha de repente tá no Brasil
+inteiro um produto cresceu então sim tem muitas empresas que estão entrando e
+muitas outras vão entrar é já não é uma coisa nova já tem muitos anos que está
+acontecendo mas à medida que e até essa transformação digital vem
+ganhando mais força novas empresas estão
+
+00:23
+procurando entrar nesse contexto eu acho que é importante dizer também que às
+vezes a empresa como um todo ela não é ágil todo mundo da empresa ela começa a
+pequenininho ela pega um time esse time começa você a Ju começa a trabalhar
+dessa forma de repente assistir me contamina em outro time quer trabalhar
+sim e a empresa vai se movimentando a medida que ela vê que isso traz valor
+para ela e que isso torna é a empresa se torna mais produtiva os funcionários
+ficam mais motivados enfim uma série de fatores aí para que ela continue
+evoluindo então diferentes empresas vão estar em diferentes momentos dessa
+transformação anjo uma empresa sim 100% ágil que já nasceu assim é um caso do
+Spotify quem procura aí no Google Spotify ele tem bastante informação
+e foi uma empresa que nasceu assim a gente aqui na Estácio não nasceu assim
+
+00:24
+tá a gente tá procurando agora colocar esse processo os nossos times também a
+maravilha olha tem muita gente interessada aí nessa área trabalhar
+mesmo então vou entrar nesse tema com você você existem características
+específicas Praça trabalhar nessa área por exemplo a Maria do Socorro pergunta
+se é preciso ser criativo Então vou emendar perguntando para você quais
+seriam as características para trabalhar nesse time aí legal é uma informação no
+passado saiu uma pesquisa do LinkedIn das 15 profissões que estão bombando no
+em 2020 e das 15 profissões a 15ª eu fiquei muito feliz que é o profissional
+ágil então a profissão que tá super relevantes e tá muito em alta o que que
+eu considero importante para um profissional que uma pessoa um aluno que
+queira trabalhar é o curso relacionamento com pessoas eu
+acho que é o mais importante então alguém que tenha tatu e que goste de ser
+
+00:25
+relacionar com pessoas que no final das contas no fim do dia o que desenvolve os
+projetos são pessoas não são robôs e eu como profissional age eu preciso ali
+conseguir negociar com meu time o time Às vezes tem conflito entre eles então a
+gente tem que atuar na resolução de conflitos a gente tem que ser um
+meio-campo porque às vezes tem pessoas muito técnicas que não se expressa muito
+bem então eu vejo que o profissional agiu ele faz essa ponte da pessoa muito
+técnica com uma pessoa do negócio que se expressa muito bem tá a gente tenta
+traduzir o que uma pessoa tá falando para você falou que os times estão bem
+heterogêneos né exato Então a gente tem perfis muito diferente é pessoas que
+gostam que sejam organizadas e afinal de
+contas a gente tem que manter a lista do trabalho organizado a
+e tem muita disciplina Então quem se dá bem ambientes com uma rotina que a gente
+
+00:26
+como expliquei a gente começa a segunda feira planejando e na sexta feira
+estamos lá fazendo lições aprendidas isso se repete então eu vejo que se
+destaca nesse nesse mercado também mas principalmente a parte de relacionamento
+e comunicação com pessoas eu diria que mais da metade do trabalho no
+profissional ágil é comunicação que estudar porque Manu Ferreira pergunta é
+necessário estudar metodologia ágil em todos os níveis Júnior pleno Sênior eu
+não sei essas diferenças fala um pouco para gente que como ele se formar né em
+termos de conhecimento para poder trabalhar nessa área essa é uma pergunta
+muito legal porque eu como falei no começo eu sou formado em administração e
+aí dizem que muitas pessoas que caem na administração a pessoa que não sabiam
+que carreira seguir E aí como a administração uma carreira muito Ampla
+você pode ir para vários lugares diferentes e eu caí na administração o legal do
+profissional ágil é que não importa a sua área de formação de todos os
+
+00:27
+mercados eles trabalham com projetos então se você é um farmacêutico você vai
+conviver com projetos farmacêutico se você é engenheiro vai ter projeto de
+engenharia então não importa muito De onde você vem o que você esteja
+estudando você pode entrar nesse movimento o que tem que estudar tem que
+estudar o método ou a metodologia a gente como por exemplo scream isso tem
+que estudar a boa notícia que é muito fácil não tem muita coisa para estudar
+não tem muito material assim o livro do scrap Canon O difícil é fazer eles
+funcionar no dia a dia mas entendeu os conceitos é uma coisa rápida então como
+eu comecei eu já atuava com projeto é E aí eu comecei a me interessar aí
+buscar a literatura do Instagram e tudo tem na internet é tem vai é de graça tem
+
+00:28
+muita muito material público para procurar então não importa de que área
+você tá vindo o que eu quero diria que importa mais é o quanto você quer
+entender sobre esse tema e estudar sobre esse tema Tem sim daqui a pouco eu vou
+te pedir essas dicas aí mas já que você falou dois cromos é escroto né que fala
+Tem duas pessoas perguntando sobre isso só mas não Ferreira pergunta qual a
+diferença de scream scream Master e Rogério mandou pergunta se os cromos é
+um Framework a Espanha foi muito feliz muita
+paciência uma metodologia que você tem uma série de regras uma série de padrões
+de uma série de padrões que você tem que fazer daquele jeito para sempre escolhi
+recomendações por isso que a gente a gente formwork e você consegue adaptar
+isso para o seu contexto Então tem que ter muito Jogo de Cintura porque uma
+
+00:29
+coisa que tá na literatura e outra coisa é quando você senta com as pessoas para
+fazer aquilo acontecer é qual que é a diferença de um Scream 3 cromaster então
+o scrum é um Framework são livrinho lá tem uma série de conceitos e para fazer
+o escravo funcionais E tem alguns papéis Então temos três papéis no Instagram o
+primeiro papel a gente chama de torno do produto é uma pessoa que vai dizer para
+o time o que que o time tem que fazer então vamos supor que eu seja dono do
+o WhatsApp vou chegar que eu tinha falar times Eu quero uma nova funcionalidade
+eu quero reconhecimento facial no WhatsApp você vai olhar para a tela e
+vai abrir o WhatsApp sozinho eu quero isso Então essa é um papel o scrummaster
+ele é como se fosse o mestre dessa metodologia o mestre decifrei amor a
+pessoa que entende Como o scrum funciona então é a pessoa que vai reunir o time
+
+00:30
+conduzia aquelas reuniões que eu falei ajudar o time a fazer um planejamento
+bem feito Se o time está chegando atrasado na reunião diária é o
+scrummaster que vai lá e falar gente atrasando vamos chegar no horário então
+ele tocando o bumbum é o pro Master é uma pessoa e eu scream ele é um
+Framework é um conjunto de conceitos e e e orientações de como fazer um terceiro
+papel é o time então time pode ser qualquer E aí é o time que vai botar a mão na
+massa ali e vai fazer o trabalho propriamente de Então esse me o time
+Guiné metodologia ágil também pode ser conhecido como os quads e o Esquadrão
+sinônimo de time então é um nome que popularizou o Square é o que a gente
+entende como Squared é o time multidisciplinar com pessoas de várias
+competências diferentes é um time que trabalha junto numa mesma missão Então
+
+00:31
+tá olhando para o mesmo lugar é um time pequeno então o Squad ele nunca vai ser
+mais que doze pessoas mais ou menos se for muito grande as reuniões começam a
+ficar difíceis Então a gente tem que ter um time pequenininho o squid é um time
+que tem autonomia de trabalho tá muito importante que seja um time que consiga
+expressar suas opiniões e quando eu falei prestar suas opiniões é saber
+falar não também na hora certa não é um time que só fala assim para tudo então
+tinha que está ali ó e colaborando para produzir alguma coisa
+então esquad time é a mesma coisa no final das contas Ah entendi bom a gente
+está caminhando para o final eu tô amando que eu tô aprendendo um monte
+sobre isso passa voando não é mas eu tô adorando o interesse dos alunos têm
+muita gente aqui bastante interessado preocupado com algumas características
+Mas você já falou aí é importante estudar e desenvolver o Júnior fala que
+
+00:32
+ele é tímido tá preocupado com a comunicação mas tudo dá para se
+desenvolver né Eu era muito tímido antes
+eu também tinha problemas de comunicação os pensamentos quando tava numa reunião
+com pessoas importantes eu dava uma travada depois eu fui trabalhar a
+empresa que eu tinha que falar inglês aí
+eu fiquei mais tímido ainda então isso a
+gente se desenvolve na vida à medida que a gente vai sendo posto à prova a gente
+vai perdendo Nossa timidez eu queria dar uma dica para o pessoal que tá olhando
+aqui tá aqui existe uma certificação é de graça na internet ela chama scrum
+fundamentals em inglês gente está no Google a scream fundamentos vai achar
+que a classificação dada videozinhos lá tem texto e você pode estudar eu acho
+que em coisa de quatro horas você consegue estudar tudo depois você faz
+uma provinha para saber se você sabe o mínimo diz que eu recomendo Quem ainda
+não quer investir numa certificação profissional faz essa que é de graça
+para ver se o assunto te despertou o interesse Esse é o que você tá querendo
+
+00:33
+seguir pela sua vida como é que é scrum fundamentals scrum fundamentals é isso
+só digitar no Google aí que vai achar bem fácil vai aparecer a pessoa saber se
+realmente ela é isso que ela gosta se ela tem perfil enfim gostei das dicas
+obrigada E quem é tímido perguntou assistir a nossa Live de ontem foi sobre
+comunicação né que é a minha eu falei aliás porque justamente meu trabalho
+desenvolver a comunicação tão e é treino tá gente não existe nada que
+seja impedimento não bom a gente está terminando eu vou pedir uma dica sua aí
+de carreira porque a Gleiciane Santos dá um depoimento aqui que eu acho que
+muitas pessoas podem se identificar que ela tá no primeiro semestre
+Administração e elas têm receio de terminar o curso e não saber por onde
+começar a trabalhar a qual caminho seguir né então ela quer saber se é
+
+00:34
+normal essa insegurança e sim como é que faz para vencer isso você no final ela
+realmente vai estar mais segura aqui é normal cair em Administração é uma área
+que tem muitos caminhos que você pode seguir em RH marketing gestão tem muita
+coisa a minha dica para ela seria olhar esses caminhos com Atenção se você tem
+um te dão mais que o lado financeiro se você tem opção mais para Marketing RH e
+procurar estágio o que aconteceu comigo eu tentar achar
+um estágio logo no começo da Universidade porque aí a gente é às
+vezes e E ver que não é bem aquilo que a
+gente queria Então você deixar isso para o sinal tenta logo nos no primeiro no
+segundo ano já procurar algum estágio e tentar identificar se aquilo te agrada e
+porque o meu trabalho eu vejo que tem que ser algo que nos Tragam prazer não
+
+00:35
+seja uma obrigação é assim se torna melhor então dentro da administração tem
+muitas áreas eu acho que tem que olhar cada uma delas e aquela que te despertar
+mais interesse e tentar correr atrás de um estágio tentar ter uma uma chance aí
+para botar em prática e não deixar isso para muito para frente não é Exato eu
+vou dar um depoimento aqui com professora Gleiciane é que é o que eu
+falo para os meus alunos que eu tenho acompanhado bastante que eu fiz para
+minha vida é exatamente os que mais falou procurar estagiar para poder conhecer
+e as áreas porque muitas vezes a gente faz um curso eu sou da comunicação
+Márcia mesma coisa da administração aquele curso que não sabe o que vai
+fazer e vai para esse Então você só descobre mesmo Quais são as
+possibilidades da atuação quando você tá no curso né você antes tem uma vaga
+ideia vou fazer o curso quando eu entro realmente eu começo a entender Quais são
+as áreas de atuação então buscar mesmo esse conhecimento buscar estagiar buscar
+esses cursos né porque às vezes você tem
+
+00:36
+uma ideia e faz um curso desses Até esse que o máximo de Cole e fala não
+realmente eu tive uma outra ideia não combina comigo ou não a me apaixonei Vou
+me dedicar Então acho que é o momento de testar de errado e aprender para poder
+encontrar esse caminho perfeito toma aço adorei aprendi muito tem depoimento do
+Ederson aqui falando que trabalha com os cães mudou a vida dele então certamente
+é um assunto muito pertinente tem um o trabalho bom né mas é um campo de
+trabalho bom continua crescendo Hoje os salários são bons Acima da média de
+mercado principalmente em Administração é uma carreira promissora Para o Futuro
+também é o meu não é uma carreira que estabilizou aí que agora vai ficar em
+decadência não isso vai cada vez aumentar mais eu tenho certeza disso a
+gente tem oportunidade de estágio dentro da Estácio para para quem se interessa
+
+00:37
+por isso então assim gente a gente tem que correr atrás mesmo conversar com as
+pessoas assistir esse tipo de conteúdo e tem muita possibilidade eu eu recomendo
+muito bem muitas pessoas darem um pouquinho de atenção para isso e como eu
+falei não importa seu curso Administração engenharia isso tem
+oportunidades em todas as mercados que maravilha marca muito obrigada
+Espero realmente conversar novamente eu que já trabalho aqui na Estácio lá nossa
+tanto tempo a 13 anos perceba essa evolução Você mesmo falou com a empresa
+que não começou assim né dizer com metodologia ágil nem se falava disso na
+época e eu percebo essa diferença é impressionante então na prática eu vejo
+que a metodologia ágil traz aí um benefício para todo mundo assim até na
+forma de pensar no relacionamento E logicamente na entrega Então parabéns
+
+00:38
+pelo seu trabalho oportunidade de falar isso para você e obrigada foi muito boa
+a nossa conversa espero participar só ter sua participação novamente adorei
+também Obrigada professora Luciana obrigado para os alunos também do
+Público aqui os ouvintes que o cara até o fim e muito obrigado Adorei
+também a oportunidade que bom e vocês queridos alunos obrigada mais uma vez
+pela participação hoje e em toda semana né Lembrando que vai ficar gravado assim
+como os outros dias né então se vocês quiserem voltar para ouvir novamente
+indicar para os seus colegas enfim tá então muito obrigado pela participação
+foi maravilhoso Aí o nosso encontro aliás todos esses dias que eu não
+maravilhosa e eu espero vocês na nossa próxima semana do conhecimento tchau
+tchau

@@ -1,0 +1,1300 @@
+
+00:00
+WEBVTT Kind: captions Language: pt o olá meu nome é rodrigo antônio brandão
+neto eu sou médico supervisor da disciplina da unidade de emergência do
+hospital das clínicas da universidade de são paulo eu também supervisiona
+residência de medicina de emergência da mesma instituição tenho doutorado em
+ciências médicas e a gente vai discutir agora um pouco sobre sobre o convite né
+e essa aula comemora o lançamento do nosso manual de condutas do convite né é
+um livro que foi feito em parceria com a senha e simulações médicas né que na
+verdade foi uma iniciativa dos residentes da do hospital das clínicas
+nós tivemos vários residentes deslocados
+por convidaram né o crush tô central que ficou o instituto restrito atender
+paciente com suspeita do convite então a gente tem residências do de otorrino e
+
+00:01
+oftalmo cirurgia geral além dos de emergência da clínica médica i
+na mitologia entre muitas outras especialidades e com isso tudo estiveram
+também para até ajudá-los durante essa pandemia eles fizeram um projeto começou
+despretensioso sobre orientações sobre as entre convite para ajudá-los nesse
+atendimento desses pacientes não era um desafio ninguém conhecia doença a gente
+está conhecendo a cada dia e depois não chamaram para participar do projeto
+assim e e nós da disciplina de medicina de emergência e nós supervisionar o
+trabalho mas na verdade esse manual é principalmente um trabalho desses
+residentes não é um país onde o trabalho nosso supervisor amos nós ajudamos a
+escrever alguns capítulos mais quem merece os parabéns pela obra seus
+residentes eles fizeram questão de fazer
+um livro de baixo custo para poder ficar acessível para as pessoas do brasil
+
+00:02
+inteiro tem dificuldades em planejar o essa infecção pelo convite
+oi 19 pão aqui deixa eu tentar colocar no modo apresentação aqui
+é de só um minuto aqui para poder colocar aqui para partilhar a tela com vocês
+o número de bebê o ok então vamos para nossa apresentação
+então a gente vai discutir aqui como que a gente maneja a infecção pelo
+coronavírus do departamento de emergência e a gente começa com
+discutindo um pouquinho da história sobre o colonialismo coronavírus não é
+um vírus novo coronavírus existem muito tempo tem pelo menos 7 coronavírus
+
+00:03
+descritos são vírus do tipo aguiar são segmentados são envelopados uma coroa
+aqui né como a gente observa é usualmente associada a infecções leves e
+de bom prognóstico somente resfriados né
+e a gente tem 2 beta coronavírus que são associados a infecções muito séria é os
+askov que associado a sino desconforto respiratório agudo né que uma parte dos
+dos casos ocorrem do remédio do extremo oriente né social de uma letalidade de
+10 porcento oi e um não existem casos novos desde
+2005 dos seus corpos ele tem middle school respirator sindrome que aí tem
+uma letalidade ainda maior eu convém 2011/2012 o raros casos a tem mais
+social numa realidade que chega trinta por cento até mais dão aqui só lembrando
+aqui do entre os ne do vírus aqui a gente tem a sua família coronavírus os
+
+00:04
+alphacoronavirus né e coronavírus mourinho aquele e depois temos os betas
+coronavírus né que tem o h kójico ou 53 e aí a gente tem os askov um o meu
+escorre e agora a gente tem o a gente ainda tem gama coronavírus né meu
+coronavírus aviário delta coronavírus e agora a gente tem os askov dois apenas
+uma time line de como aconteceu essa pandemia primeiro paciente tem sintomas que
+e por volta de 1º de dezembro 2019 há quem diga que essa sintomas iniciaram
+antes eu tinha outros casos de infecção pelo só descobre dois antes disso mas
+até onde a gente consegue documentar isso é de dezembro o 1º dezembro 2019
+oito de dezembro a gente tem um surto de pneumonia de etiologia desconhecido
+trinta e um de dezembro 2019 world health organization faz um anúncio
+
+00:05
+público né sobre pneumonia de causa desconhecida depois a gente tem sete de
+janeiro de 2020 a identificação do novo coronavírus sequenciado que parece ser o
+causador dessas pneumonias e aí em janeiro 12 de 2020 essa primeira
+vez se dá um nome para essa pneumonia né e primeiro se chama 2019 nova é o
+coronavírus pneumonia depois de 23 dias o vírus eles mudam o nome do visto para
+2019 micose depois a gente se fala de novo coronavírus pneumonia depois o
+vírus passa a ser chamado só descobre dois em doze de fevereiro se dá o nome
+para doença como com 2019 e eu lembro que a primeira vez que eu
+fui fazer um webnar sobre é um coronavírus era março era começo de
+março e a gente tem uma pandemia de começado em dezembro então nós ótimos
+
+00:06
+mais de três meses de pandemia e até fora complicado né pandemia mas estamos
+falando de 89 mil 197 casos com 3.000 48 mortes e isso em 3 meses e pandemia ela
+é eu recomendava algum mas se colocar em
+proporção porque na verdade a gente fala por exemplo de 25 mil mortes por câncer
+por dia e nós estávamos com todo o estresse do mundo em termos de uma
+pandemia com 3.000 48 horas e é isso aqui são dados da sexta-feira a
+gente já tinha 491 mil mortos a gente já passou na verdade 500 mil mortes e a
+pandemia é muito diferente em vários locais para os amigos com mais com 130
+mil norte brasil aproximando da 60 mil mortes a o país que com maior número de
+mortes por capa é por milhão de habitantes a bélgica né tem san marino
+que tem uma letalidade muito grande mas aí é difícil né o próximo pequeno mas
+
+00:07
+não estamos falando na brecha que praticamente uma morte a cada mil
+pessoas ou seja zero ponto um por cento da população da bélgica desapareceu por
+conta do coronavírus e pegou alguns centros muito mais do que outros né
+então nova york a capital nós estamos falando de uma morte a cada 500 pessoas
+mais ou menos ou seja zero ponto dois por cento da população de nova york a
+cidade morreram por coronavírus ou seja algo bem dramático e o que torna mais
+dramática como é que é o fato dessa pandemia ser
+rapidamente disseminada aumenta essa letalidade e talvez uma hora exemplo
+disso é o que aconteceu na itália tem um artigo no gelo que define muito bem o
+que aconteceu então você tinha poucos casos na itália acredito que quatro
+casos quando teve um paciente que não tinha contato epidemiológico ninguém que
+tinha viajado para a china ou qualquer outra viagem para o local de risco e
+
+00:08
+essa pessoa é ela passou em um médico que achou que primeiro é um quadro
+respiratório superior depois passou em outro médico e começou a tratar por uma
+pneumonia ela continua circulando depois acaba vou sendo internado numa numa
+unidade de terapia intensiva em uma cidade pequena codorna né aconteceu na
+cidade de cordone ao norte de milão uma cidade pequena ir aí 24 horas depois
+mais 36 outras pessoas com um coronavírus diagnosticado no começo
+quando internou-se o felipe sabe onde é que nós coronavírus
+até que alguém resolveu investigar e era
+e não tinha nada epidemiológico 72 horas depois dessa pequena cidadezinha você
+tinha mais de 46 pedidos de terapia intensiva para pacientes com coronavírus
+a o sistema público de saúde e da lombardia que tem só 722d rapidamente
+entrou em colapso ajudou escolápios o jogo já tá lenta de bérgamo contra a
+
+00:09
+valência né que depois desse jogo você tem um grande pico de casos também e era
+uma região da lombardia que ainda não tinha sido muito atingido e aí você teve
+uma tragédia e a impressão de médicos italianos a gente teve uma com vídeo
+conferência com eles aqui é que muita gente morreu por falta do recurso tão
+dentro da unidade de terapia intensiva mesa a letalidade foi relativamente
+pequena mas muitos pacientes que foram internados em semi-intensiva não tinha
+ventilador acabar vão evoluindo mal oi e eu vou limpar opte então talvez
+hoje nós estamos falando da itália com 35 mil mortes mas aproximadamente e
+talvez muito mais porque quando você tinha 21 mil mortes na itália tem uma
+estimativa aqui tinha 45 mil mortes de acesso ou seja talvez seja só metade das
+mortes que realmente ocorreram na itália durante a pandemia né pode ser talvez
+essa letalidade da itália não fosse isso o gás 35 mil mortes a gente tivesse
+
+00:10
+gente mil 15.000 a metade disso que boa parte das mortes foi por um
+absolutamente ele esgotamento de recursos e por isso você fala de você
+tentar achatar a curva da transmissão para você não ter essa situação de
+absoluto esgotamento de recursos ocorreu
+também em nova york por que que você tem uma morte a cada 500 pessoas em nova
+york por conta de esgotamento dos recursos bem um colega nós que estava em
+nova york para ajudar aqui e falou que simplesmente eles escolhiam quem
+e para uti ou não não dá no piemonte que também no norte da itália chegou você
+ter uma lei de que pacientes acima de 80
+anos não podiam ir para uti simplesmente provoca pelos índios recursos nesse fim
+de recursos leva o aumento das mortes alguns países não fizeram essas medidas
+né confiaram em outras formas assim de controle e orientação na educação a
+
+00:11
+suécia é um dos principais casos disso né e mas a suécia são critério que se
+ele tivesse uma ocupação maior com oitenta por cento da unidade de terapia
+intensiva eles fariam isolamento aqui mas o que acontece também não é só
+ocupação da uti ou normalmente montei tem dez porcento dos pacientes em
+ventilador aí de repente você ter voltei com 90 porcento dos pacientes em
+ventilador que que acontece com isso você acaba tendo que ter muitos recursos
+dispendidos nesse paciente enfermagem não dá conta de atender e atualidade ao
+e quando você não dá conta começa a bomba de infusão não funcionar começa a
+igreja medicação e isso tudo ajuda a aumentar a letalidade então você
+acredita que talvez o que aconteça para ver se ele é pretensioso achar que essas
+medidas vão fazer diminuir o número de casos final mas pelo menos fase você não
+ultrapassar muito a capacidade do sistema de saúde tendo o número de casos
+
+00:12
+relativamente é semelhante ao que você teria a gente não sabe né mas o fato é
+que essa estratégia da suécia tem mais ou menos 520 mortes por milhão de
+habitantes ou seja uma pessoa a cada mil
+novecentos na suécia morreu a mas morreu
+mais da espanha do que isso ocorreu mais um reino unido do que espanha e reino
+unido do momentos diferentes da pandemia
+aí a suécia ou correio academia um pouco depois não dá para ser comparável olha
+só essa tá fazendo um bom esforço eles estão chegando lá daqui a pouco eles
+ultrapassa espanha ott e também o reino unido e daí talvez o
+que se fosse melhor é comparar com os vizinhos você compara com a dinamarca a
+letalidade da suécia cinco vezes maior que você compara com a noruega a
+letalidade é dez vezes maior você daqui um ano a noruega começar a morrer gente
+no final deu na mesma letalidade talvez realmente a estratégia da suécia não foi
+errada né usar o parâmetro vagas de uti massa sim por enquanto as evidências
+
+00:13
+apontam um erro terrível de maneira a olá seguindo aqui a letalidade é muito
+dependente da faixa etária do paciente né quando é menos de 9 anos zero por
+cento de oportunidade tende a zero por cento em casos raros de morte em menos
+de 9 anos mas nem chega a ficar no traço na quando você faz analisa maior
+participantes não tem morte de criança 10 a 19 você tem zero dezoito por cento
+e vinte e 49 anos eram trinta e dois por cento e daí quando você chega a 50 a 59
+anos já passa como conto três por cento a letalidade e aí aumenta para três de
+68 em uma hora igual a 80 anos chega 14 8.2 por cento provavelmente a sua
+letalidade é muito menor do que isso porque não está sendo contado os casos
+de morte é os casos dos pacientes assintomáticos a gente não sabe
+exatamente quantos pacientes assintomáticos eu já vi esse tudo aqui
+
+00:14
+52 por cento das infecções é assintomática e todos seria no mínimo
+metade lembrando que o brasil a gente nem desta todo mundo
+e tem outro estudar saias que sugeria que era 178 infecções assintomáticas
+para casa assintomática outros que falam e 12 pacientes assintomáticos para cada
+paciente sintomático então depende muito eu não tenho meu lado eu acho que eu vi
+o vanderson quero o cara da vigilância epidemiológica que dava as entrevistas
+aqui um cara muito competente falando que o brasil tinha seis vezes mais caro
+do que o que era anunciado por conta das infecções é assintomática olha eu disse
+que é muito muito mais do que isso porque na verdade você tá falando talvez
+seis vezes em que tá sintomático no brasil a gente basicamente testou que
+internou eles vão ter todos os pacientes então eu diria que está mais para 2030
+vezes o brasil tá hoje perto de um milhão e meio de carro multiplica isso
+por 20 estudar 30 milhões se não ficar por 30 45 milhões eu diria que é mais ou
+
+00:15
+menos isso dez a vinte por cento pelo menos a população brasileira deve ter
+contato e isso varia muito com o local acredito que são
+é mais do que os cinco a dez porcento que se acha de de caso contando
+assintomáticos nos inquéritos sorológicos e quer que sorológicos não
+são perfeitos tem estudo mostrando que tem pacientes que fazem infecção e não
+desenvolve o que que só sintomática e não desenvolve produção de anticorpos
+você não consegue determinar com precisão esse número então esse
+provavelmente a gente tem muito mais caro que o seu anunciado ir para na
+minha opinião bem mais o que essas seis vezes o número de casos que a gente tem
+aqui essa estimativa de órgãos oficiais e e as manifestações clínicas variam um
+pouco de corte para corte nessa uma das primeiras pode ser publicada lance
+falada de febre e oitenta e dois por cento 85 caso tosse oitenta e dois por
+cento dispneia 31 por cento mialgia onze por cento confusão mental nove porcento
+
+00:16
+você falar em 8 e aí sintomas respiratórios altas como dor de garganta
+que não reia menos cinco porcento diarreia em geral coronavírus não dá
+sintoma dessa intestinal mas como o coronavírus parece ligar ao inibidor da
+enzima conversora da angiotensina aconteceu alguns casos de diarreia dois
+por cento um por cento e quase sempre pneumonia bilateral 75 por cento na
+grande maioria dos casos aqui a corte de honra né que a grande achadas em febre
+vai cia durante a evolução e 88 por cento do quase 80 e não apresenta os
+pacientes mas só 43.96 apresentação febre então no
+e nem sempre tinha sintomas conjutivas zero ponto por cento tosse 67.800
+diarreia três pontos por cento me ao jetta audi aqui então que seja poucos
+sintomas respiratórios altos você tinha muito mais uma pneumonia do que um
+
+00:17
+quadro de uma gripe mesmo e a maior parte dos pacientes aqui 23.7 por cento
+tinham vamos desenhar algum tipo de comorbidade mais os pacientes que
+tiveram evolução com necessidade hoteis chegava perto a sessenta por cento dos
+pacientes e entre as anormalidades aqui de novo
+aqui tomografia tinha alterações assim aqueles vão fizeram todo mundo né mas
+você tinha 86 ponto dois por cento dos pacientes com alterações na tomografia
+né então eles tiveram os processos não chegaram a desenvolver pneumonia quanto
+fizeram de nós eles internaram muitos desses pacientes até meio questionável
+olha de 1.099 pacientes ou seja eles tinham quinze por cento quase que não
+tinham alteração em exame de imagem mesa se internaram mas tudo bem o que eles
+acharam também nem vou peninha ocorreu em perto de 83 imagem te três por cento
+
+00:18
+dos pacientes é algo bastante frequente e algumas
+alterações aqui que tiveram 67 por cento de pacientes tiveram pcr aumentado mas
+isso é para 91 por cento em pacientes que foi para uti o evoluir com morte dhl
+maior que 250 41 por cento dos casos 70 e meio dos pacientes graves e para ir de
+dinheiro também 6944 por cento tinha mais que 500 comparado a 46 ponto 4 por
+cento das de toda a cor e a gente tem o nosso estudo né que a gente fez uma
+análise parcial deles né e eram pacientes graves né porque o hc é uma
+unidade de emergência que tem de atender mais pacientes graves o nosso número de
+pacientes de demônios contaminam é tão grande assim as mais a gente ele
+percebeu muitos pacientes de todos os lugares diferentes então alguns deles
+que logo já precisavam de ter na chegada então a gente teve alguns achados um
+pouco diferentes mas talvez associados a
+gravidade passei despinar é 75 por cento dos pacientes
+
+00:19
+a 45 febre 41 por cento parecido com a partir de um ano porque nós estamos
+falando de apresentação no departamento de emergência alguns estudos falaram de
+a nos mim e agenesia e além disso tô falando desde cinco porcento até 75 por
+cento no nosso nosso estudo 22 por cento com a generosidade sete porcento para
+nos mídia é chegava dezoito por cento e rinorréia dor de garganta sintomas
+respiratórios ao altos realmente relativamente baixo e algo que a gente
+verificou na nossa corte aqui os pacientes com agenesia nos mia tinham
+uma relação melhor amanhã minoria desse paciente precisou de teve uma evolução
+desfavorável da terapia intensiva d-dímero 1080 por cento dos nossos
+pacientes morte 3040 por cento dos pacientes uma coisa muito grave mesmo
+galho aumentado em oitenta e dois por cento pacientes especiais marcos em 85
+porcento dos pacientes que ele foi testado e algo que a gente notou durante
+a economia é que se fala muito fazer um fazer
+
+00:20
+e três do do coronavírus esse animal determinado se falar uma fase pulmonar
+uma fase inflamatória e daí fala-se no perfil hp schwelle baixa potência alta
+com paciência e aí a teórico vai ser tudo de baseado em carta que foi mandado
+para ser vistas não tem nenhum estudo que realmente mostrou assim terminar
+tempestade de citocinas que se fala alguns estudos mostraram outros não para
+fisiopatologia ainda tem muitas lacunas mas você parece ter uma evolução
+relativamente progressiva e não que tá indo de um jeito e de repente no da sua
+evolução e o que a gente encontrava sete
+dias mais ou menos sintomas até admissão
+no hospital é algo em torno de oito dias até aparecer dispneia 9 dias até tecido
+desconforto respiratório agudo e em torno de dez onze dias para internação e
+ele da terapia intensiva e a gente teve resultados similares a esse na nossa cor
+a febre costuma ser persistente né pacientes jogava até 12 dias de febre e
+
+00:21
+aqui de novo cep você coloquei no no dia a dia os 10 e nos pacientes que não
+sobreviveram mentalidade em geralmente no 19º dia e no décimo sétimo dia semana
+tem infecção secundária até os estudos cavalinhos você deve dar ou não tive
+ótimos até que se encontra um pouco infecção secundária nesses pacientes mas
+as necrópoles a gente está encontrando eu trabalho até do armário da nossa
+disciplina encontrou um entre felipe nenhuma nisso proativa sugerindo
+infecção bacteriana secundária nesses pacientes o que talvez seja uma
+complicação tardia que ocorreu nesses pacientes ainda assim o nosso protocolo
+institucional fala de dar antibiótico por todo paciente pediu trago né e aí se
+vier um convite positivo e não tiver grande probabilidade de ter infecção
+bacteriana associada não tiver certo se você pode considerar retirar antibiótico
+terapia nesse tipo assim aí passa-se a gente visualizar o tratamento do paciente
+e o que que a gente precisa no departamento de emergência para você
+
+00:22
+preparar trocou o vídeo primeiro coisa é separar áreas para pacientes com ou sem
+infecção pelo convite e aí isso ocorreu o nosso pronto-socorro central ele é
+inteiro para pacientes com infecção convite os outros casos estamos outros
+pronto socorro nas áreas são separadas pela gravidade dos pacientes você tem
+então tem uma área que nós temos ali para consultórios pacientes leves uma
+área para os pacientes intermediários na nossa sala de emergência o paciente
+aguardando enfermagem internação numa outra área que a gente tem uma unidade
+de terapia intensiva dentro do departamento de emergência para
+pacientes que aguardam vaga de uti e eu preciso tirar eles na sala de emergência
+importante flexibilizar os sucos que às vezes você nossa sala de emergência
+chega um paciente e daí não é aquele paciente apoio mais um delito nessa sala
+de emergência pode ser que precisa de ventilador não dá para achar uma
+ventilador então você já pega esse paciente já manda direto para unidade de
+terapia intensiva dentro do departamento de emergência e preparar para chegar do
+paciente zinho um se você tem um ps vazio de manhã nós
+
+00:23
+pronto socorro tá bem mais vazio do que no fim da tarde se você chegou de
+repente uma vez teve um dia que a gente teve cinco pacientes chegaram e uti
+entubado sou pré-incubação e nós não tínhamos ventilador o suficiente para
+seus pacientes um deles perde o tubo dele lá na ambulância gente tem que ir
+na ambulância entubar o paciente ele tá deslocar os pacientes do departamento de
+emergência locais então com isso a gente
+fez muito ultrassom pulmonar então invés de fazer o raio-x hoje já fazia
+ultrassom pulmonar à beira do leite já resolvi o problema do paciente lembrar
+que exames negativos são frequência então se a suspeita diagnóstica persiste
+você quer perto exame não deixa de considerar que não tem convite e
+pacientes vão sendo progressivamente mais graves né agora nessa fase da
+poderia tá começando a temos paciência um pouco mais velha você vai ter que se
+preparar para perdas da equipe médica e de saúde muita gente que pega a infecção
+e acaba sendo afastado importância de equipe multidisciplinar tem que ter
+é ecológico equipe sempre precisa ter presente supervisor coordenador
+
+00:24
+principalmente para coordenar fluxo ajudar no atendimento aumentar o moral
+da equipe e os protocolos institucionais tem que ser adaptados e alterados
+conforme situação então no começo a gente fez um protocolo institucional e
+que a gente fazia informação e colocava direto para o centro depois a gente
+passam no ventilador é para diminuir o risco de exposição geração de aerosol
+depois vamos verificamos que eu tô sempre saturado muito quando a gente
+fazer isso tá paramos fazer isso lambuzamos depois de colocar no tubo
+porque a gente teve menos complicação com os pacientes dessa forma tão cada
+dia era um aprendizado e nós somos modificando o tratamento dos pacientes
+na tríade a gente já aplica precaução contra gotícula aplica precaução de
+contato e sempre que for fazer um procedimento geração de aerosol vai usar
+máscara n95 quando você tá falando isso aqui todos nós usamos marcelino n95
+nosso departamento de manhã porque em teoria tô
+os pacientes são suspeitas de convite então uma alta carga de exposição a
+
+00:25
+gente sempre usa então lembrando aqui na triagem do paciente pode ser máscara de
+cirurgia higiene de mãos mas coleta de amostra já vai precisar de máscara n95
+uti também e sempre que eu vou fazendo procedimento gerador de aerosol não só
+vai precisar da máscara como vai precisar de óculos ou protetor facial
+também e como é que eu deixei no caso cada vez está ficando mais amplo
+paciente que tem febre com sintomas respiratórios você e outra causa é um
+possível caso posso sem outra causa também é um possível caso dispneia sem
+outra causa lembrando que muitas vezes não tinham tosse em alguns pacientes não
+tinham febre também tem que ser considerado e agora a gente vê que
+muitos pacientes ó tem mialgia e até briga e depois ou eles têm a nos me dg11
+depois vai gozar e é vai vai fazer o exame e é um paciente que tem infecção
+pelo convite então a gente tá e essa definição de caso mora essa
+
+00:26
+definição original que ainda tinha a história do contato epidemiológica
+totalmente não faz mais sentido contato poder melhorar outros sintomas descritos
+a senha nos me a josi e a dor de garganta mialgia cefaleia rinorréia
+fadiga dor torácica também podem ser suspeitos de infecção pela corrente aqui
+também lesões cutâneas que foram encontrados esse pacientes né os
+chamados childrens não perniose essas lesões aqui ele tem uma tosas as vezes
+até este ano com essa cianose de extremidades aqui é sempre associado a
+exposição ao frio né chamado perniose a gente encontrou muito nos nossos
+pacientes do departamento de emergência os exames laboratoriais são recomendados
+para fazer no departamento de energia programa completo ureia e creatinina
+sempre foi internet exame sódio potássio transaminases cpk troponina se fala de
+colher sua retina porque parece ter alguma implicação prognóstica e não muda
+muito conduta troponina e tropomiosina presente na nossa corte em vários outros
+
+00:27
+estudos foram os exames mais associado a letalidade né você enganou a gente
+chegou tem uma correlação de risco de morte realmente troponina na análise
+univariada chegar para os próximos 60 dias depois a gente ajustou unidade com
+um pouco menos mas foi a variável laboratorial mais associada a letalidade
+de gênero ldh gasometria arterial esse eletrocardiograma em todo mundo que tem
+mais de 60 anos e b ou cardiopatia beneficie mais de 70 anos o cardiopatia
+é que como eu faço o diagnóstico pelo pcr né e suave nasal é o que a gente usa
+mais tem sessenta setenta por cento de sensibilidade cada vez melhorando essa
+sensibilidade na nossa instituição no começo sempre lá era bem baixo diluição
+da amostra parecer excessiva agora quase
+todo mundo esta brasil aliás estranho né a gente brasil teve um momento que é o
+único país que tinha mais exame positivo do que negativo parecia que eram me
+engano depois mas na nossa instituição a positividade tá ficando muito alta
+
+00:28
+aspirado traqueal 75 80 porcento né mas a gente faz isso mais importante que tá
+entubado né porque você também geraram usar o lavado broncoalveolar maravilhoso
+95% sensibilidade mas já era muito aos homens que a gente praticamente não faz
+sorologia tem que esperar pelo menos 7 dias tem os testes rápidos também né
+vários sensibilidade varia muito sorologia perto de 85 porcento de
+sensibilidade mas depende do momento em que você gosta então nos primeiros dias
+e vai ter alguém que te persegue a gente não corre antes de três dias que vem
+quase sempre negativo mas depois de três dias até sete dias é o melhor momento
+para você detectar depois vai diminuindo
+agora alguns vocês com 20 dias ainda tem positivo e depois a partir de sete dias
+você começa até a positividade da sorologia que parece durar três meses na
+frente não sabe se mantém uma imunidade duradoura
+e aqui na nossa instituição internou por
+uma sendo respiratória aguda grave menos três dias a gente espera três vezes
+
+00:29
+sintomas para coletar depois se tenha pelo menos saídas a gente já coleta né
+se for positivo a gente já pode internar internação de corte né de casos
+positivos assistência negativo com menos de 5 dias a gente vai colar tá com sete
+que se tem pelo menos 5 dias a gente mantém isolamento se ter vai uma tomo
+sugestiva ou contato com casa confirmado ou vai fazer sorologia né
+o quadro clínico cardiológico aqui também do aqui outra outra forma também
+de você usar agora a sorologia também na nossa instituição está sendo que não tá
+com intubação traqueal não tá não tá identificação mecânica vai ser suave é
+principalmente nas aulas de orofaringe paciente aqui você vai tentar fazer
+secreção traqueal também persegue negativo passou do sétimo dia de 5 a
+gente faz sorologia negativa novo pc após 48 horas pode ser positivo negativo
+
+00:30
+se a sorologia positiva se você já confirma o diagnóstico na negativa que
+você pertence a suspeitos você pode repetir a sorologia depois
+os exames de imagem aqui raio-x pode mostrar o pneumonia bilateral às vezes
+não vem muito menor sensibilidade que a tomografia tomografia a gente vê muito
+imagens periféricas bilaterais embora corte de uma conta do lancet mostrou só
+75 por cento você bilateral na nossa casuística é basicamente sem por cento
+de lateral tem outros estudos que eram 99% para mim é mais isso é bilateral
+todo mundo em geral uma imagem periférica algumas consolidações depende
+de um pouquinho do momento da infecção depois o décimo dia você tem muita
+consolidação social derrame pleural raro né cinco dez porcento dos pacientes
+evoluem com derrame pleural essas infiltrados em vida fosse periféricos
+bem característicos da doença o ultrassom pulmonar uma alternativa
+rápida e prática junto estratificar o risco facilita alta hospitalar então
+
+00:31
+muitas vezes você tem um paciente que tem comorbidades tá com uma saturação de
+noventa e cinco porcento mas é um idoso 60 anos tem como habilidades aí você
+fica em dúvida será que o interno você faz ultrassom pulmonar tiver negativo
+você tem certeza que não tem pneumonia você pode dar alta para sim tem valor
+prognóstico a gente fez um estudo que mostrou isso uma boa relação para
+tomografia computadorizada e permite avaliar diagnósticos alternativos e a
+gente usa os colos para isso e zero você tem era só normal uma a gente perde
+aeração e começa a ter linhas b escolhe dois minhas duas com ele sente no
+terceiro além das linhas o bico ali senti você começa a ter consolidação também
+e a gente avaliar 12 campos né é um dois três quatro e também dois
+cantos posteriores isso de cada lado e a gente faz escola então pode variar de 0
+a 36 aqui alterações características né só quer ver o ultrassom pulmonar aqui
+
+00:32
+que você tem operação que a gente fez aqui é sempre linhas bem aqui determinadas
+oi e a gente verificou que o paciente que tem escola luz é aumentado tinha uma
+correlação razoável com letalidade e também com intubação orotraqueal sempre
+teve uma significância estatística né pensamento stories maior cliente do luz
+muito associado com morte ou necessidade de uti
+é a doença pode ser dividida em leve só tem sintomas virais ou febre específico
+lembrando que 12 um suplemento pode ter sintomas atípicas nessa moderada tem
+pelo menos pneumonia mas sempre a mulher
+grave e aí você pode uma pneumonia grave com taquipineia ou só o hipoxemia e
+crianças outros critérios como cianose dificuldade respiratória e capacidade de
+alimentar dentro vocês pode desenvolver sem desconforto respiratório agudo né e
+
+00:33
+aí a gente gravou a conforme aquela super decidiu 200 300 leve de 100 a 200
+é moderada menor que tem grave e pode ainda desenvolver sepse e choque séptico
+e no nosso fluxo os pacientes que têm frequência menor que 24 só transformar
+93 usualmente não notifique a não ser que tenha exame de imagem muito alterado
+ou alteração mais cinquenta por cento ou
+comorbidade associada são importantes 15 usualmente não interno os outros
+paciência acabou internando e aí você define principalmente internacional uti
+se você não tem melhora de sua operação de oxigênio apesar de oferta de o2 se
+tem pretensão alteração de enchimento capilar alteração de consciência ou tem
+oligúria em geral a gente mantém o paciente com oxigênio né cateter nasal
+meio assim a gente pode usar até seis meses por minuto né cada letra a gente
+aumenta em três por cento afinal dois mas serviços aí no último janta o
+
+00:34
+cateter não consegue fornecer uma fração inspirada de o2 maior depois a gente
+pode passar para ventura que pode ter até sessenta por cento de frações
+pirata.do dois máscara com reservatório de o2 e 60 100 por cento de
+se você deixa no chamado para os direitos né acima dos 15 litros ali no
+máximo você chega perto de noventa porcento definir o 21
+e em geral como é que você define uti e tem que vai para uti ou quem que vai ser
+entubado é super difícil no começo desse falarem tô passando precoce depois a
+gente viu que a evolução dos pacientes entubados não é boa cuidado pior é muito
+paciente entubado para equipe convidar você começa a ter problemas então a
+gente tem adiado mas intubação então muitas vezes a gente deixa usa o cateter
+nasal de alto fluxo ventilação não invasiva para segurar outros falar
+ventilação não invasiva pode fazer lesão pelo estresse fazer paciente piorar mas
+
+00:35
+a nossa impressão é que não é educação precoce nesses pacientes os aumentos e a
+gente vai entubar quem tem falência de manter potência proteção da via aérea se
+você tiver falência de manter o que seja
+nação e foi candidato à venir você puder usar isso não da terapia intensiva um
+boxe separado você tenta fazer isso e naquele que você não melhora daí você
+passa para ir tomar uma a atuação outro aqui ao cada vez mais
+definida com ele o quadro do paciente ter alteração hemodinâmica alteração de
+consciência ou desconforto respiratório muito importante a mas tá com 88 de
+saturação e não tá desconfortável mas já tá com máscara da 12 litros não
+necessariamente você precisa entubar você vai individualizar e claro também
+você não quer entubar tardiamente porque são para ser fatura uma entubação é
+complicado mas a gente acaba individualizando e nós temos sido temos
+
+00:36
+intubado um vamos assim não temos mais intubado precocemente temos esperando o
+paciente ter alguma dessas indicações tradicionais passam para indicar
+a indicação de alta e se fala de mesmo saturação super aventura processa
+coração e noventa porcento isso aí era a diretriz inicial da nossa instituição
+hoje a gente em cuba depois falência devenir ou às vezes está com flor
+gigante não reinalante e ainda assim tá hipoxemico às vezes a gente até tolera
+8887 presença coração alguns pacientes até parece tolerar bem e saturação
+alterada sem ter tanto desconforto e principalmente o desconforto
+respiratório é uma indicação de intubação traqueal
+e o ms tem algumas medidas que ela recomenda para esse paciente no manejo
+primeiro oxigênio terapia isso também tá o álbum de 90 noventa e cinco porcento
+de gestante de 92 a 95 crianças um álbum de situação marco 94 reposição volêmica
+
+00:37
+como conservadora né antibióticos em empíricos patógenos que podem causar
+você larga se tem essa suspeita no começo a gente dá antibiótico depois a
+gente com tentou retirar depois ele é positivo o convite na pneumonia grave a
+gente sempre vai ser coisa respiratória marca 24 só trouxe o menor planeta e
+três sempre o 22 planetas até você pode não dar você tá com 91 92 conforme o
+estado por cento de antimicrobianos a gente usa muito certo saxônia e
+azitromicina corticoide a gente não indica de rotina mas a gente vai
+conversar sobre o estudo da dexametasona daqui a pouco se nome desconforto
+respiratório agudo também as medidas pode considerar wenye
+o desconforto respiratório vai para intubação e no choque séptico as drogas
+vasopressoras usuais como nora nora drenalina e considerar a hidrocortisona
+olá aqui é o protocolo que a pneumologia recomenda para seus pacientes de fazer
+
+00:38
+seis américo kg de peso ideal um fluxo 30 a 60 ml aqui e você acaba fazendo uma
+tabela de pi para esses pacientes qual é o melhor pico sempre a gente não sabe
+uai você tem resultados ótimos eles sempre deixam que pedir relativamente ao
+todos falam que o piau tu vai levar não tem estudo mostrando como estratégia de
+ventilação é melhor que a outra por enquanto é um monte de suposições se
+fala se tiver se for do tipo alta com potência baixa com potência daí você
+mentira é diferente né teórico nesse momento e em outras medicações cloroquina
+adianta para pacientes cloroquina já deve ter os trabalhos francês que
+pareciam e mostrar um pequeno benefício mas trabalho de péssima qualidade não
+tinha controle e já diz retirados né os autores do primeiro trabalho pediram
+para retirar só se lá porque provavelmente porque eu tinha muitas
+vezes mercadológicas não quiseram que vive se depois pelo trabalho no lance o
+
+00:39
+trabalho do nininho do preço geralmente de letalidade retirados também porque
+não houve como verificar e aí você tem um estudo randomizado que não houve
+benefício para coloque na né não teve benefício nenhum você teve número de adn
+de intubação e morte no grupo cloroquina 32.3 por cento do grupo sa hidrolina
+hidroxicloroquina 14.9 por cento quando você fala ou seja duas vezes mais mortes
+no grupo colina só que eram pacientes mais graves também então quando você
+fazer uma impotência de score ficava mais ou menos
+e aqui tá na verdade isso não era grande amizade foi que é um estudo
+observacional só que é no estudo recovery também eles não mostraram
+benefícios que esse aí já open-label mais randomizado você teve 23 por cento
+de letalidade no grupo placebo control 25 porcento no grupo cloroquina ou seja
+eles pararam estudo porque parece inútil
+
+00:40
+né talvez até você tivesse um aumento de mortalidade com a cloroquina né chama
+tendência só quando você fez o estudo mas principalmente não parecia com a cor
+o que me ajudar e agora se fala em dexametasona para os pacientes e a gente
+por enquanto quem começou a prescrever tava fazendo medicina baseada em próximo
+eles né que é complicado mas até o new england agora depois que teve uma um pré
+print mostrado alive comendo o uso da medicação na letalidade a dose
+dexametasona de 6 mg por dez dias né fazer o quê
+se acha a letalidade ficou 20 1.6.24 ponto seis por cento aqui no com
+significância estatística mais 33 pacientes precisando ser tratados por
+ter benefícios à em pacientes em ventilação mecânica que a gente tá
+falando o benefício maior né não paciente a cada oito e meio a - morria
+quando você tomava dexametasona paciente oxigênio terapia tinha algum benefício
+
+00:41
+também mas um mt bem pior não é uma letalidade de 25 parente um e-mail né
+três e meio por cento aqui é ruim mas dá um 29 você se você precisa trocar hinos
+pacientes que não precisavam de o2 tinha que ter uma pendência da letalidade ser
+maior no grupo um dexametasona dezessete por cento 1.3.2 mas que não teve
+significância estatística aqui também mostrando dos diferentes grupos né o
+cuidado usual comparado a a zona assim a maior letalidade quando
+não tinha oxigênio já era dexametasona como a letalidade com oxigênio terapia
+dexametasona tinha o benefício que a gente já viu e principalmente aqui em
+pacientes em ventilação mecânica o maior
+benefício e aí se fala em outras máquina se fala em nitazoxanida um monte de
+outras coisas por enquanto a gente não tem evidência mas o bom cuidado suporte
+
+00:42
+e costuma resolver boa parte dos casos e é isso que a gente precisa investir
+nesse momento talvez a dexametasona nesses casos mais baratos que que
+precisam do oxigênio de resto a gente tá ainda com grand mais dúvidas do que
+certezas sobre o manejo do paciente com infecção pelos ares cobre dois ou pelo
+governo 19 e agora a gente vai tentar responder a maior parte dessa das
+perguntas noite pessoal e agora a gente está mudando aqui a sala
+um pouquinho depois da aula do professor brandão e pessoal são alguns dos
+editores do livro que a gente está lançando agora
+e em alguns momentos a gente vai conversar vai discutir um pouco as
+dúvidas foram surgindo ao longo da aula mas antes de isso o vinícius vai fazer
+uma apresentação da equipe e uma apresentação do livro
+
+00:43
+o grill muito mais do que as pessoas que estão aqui e que acho que vai agregar
+bastante na prática de cada um de cada pessoa que puder ler esse livro aí então
+o vini vai fazer uma apresentação rápida para poder contemplar
+e a produção dessa obra aí ok o olá pessoal boa noite a todos queria
+agradecer a oportunidade de estar aqui hoje é um dia muito especial para gente
+por conta do lançamento aí do nosso livro de manual de consulta para cobrir
+de 19 que já adianto para vocês com muito legal ficou uma verdadeira
+obra-prima tá meu nome é vinícius correr eu sou médico madonna unicamp e
+presidente na usp de clínica e foi preceptor no ano passado pela usp e sou
+membro um dos membros da assim primeiramente eu queria começar
+
+00:44
+apresentando para vocês um pouquinho sobre ele é nós tá e depois eu vou falar
+rapidamente também do livro tá bom então primeiramente o primeiro presentão que
+tem assim assim é um grupo de simulações médicas né é formado por preceptores
+esse preceptores da usp foi fundado 2019 ano passado o intuito de difundir o
+conhecimento em medicina de emergência eo maneira prática e novo
+o hino durante uma da preceptoria a gente percebeu simulações urbanísticas
+eu não é um método extremamente eficaz para ensino emergência e por isso a
+gente decidiu criar esse grupo para que o intuito de difundir esse conhecimento
+um pouquinho fora dos muros da usp e foi então que a gente criou o primeiro
+curso de simulações realística do brasil que alguns de emergência sob controle
+que ele mescla se mostra mais realísticas intercaladas com oficinas
+práticas para fortalecer as principais habilidades de um médico emergencista
+
+00:45
+precisa é o seu dia a dia além disso a gente criou uma plataforma de ensino à
+distância em que consta lá um curso gratuito de como 19 que a gente já tem
+cerca de seis mil alunos e foi bem interessante é esse curso para quem
+quiser acessar ainda tá disponível da nosso site é esse emergência acim.com.br
+a gente também tá no sintética nosso pode ter se podem encontrar no spotify
+no dizer são cláudio e também no nosso canal do youtube a gente tem nosso
+instagram também que emergência ponto 5 a gente é divulgar bastante conteúdo e
+medicina de emergência e se o nosso link
+do youtube e nossa página no facebook tá essa é nossa equipe eu sou vinicius
+machado correia lucas lentini ou é e é padrão eu vinícius órgão que somos
+fundadores da empresa e a paula e o vitor para são atualmente preceptores da
+usp e também são membros atuais da sim tá gente foi os quatro de cima fomos
+
+00:46
+preceptores ano passado a disciplina de emergências e nós seis a contribuem os
+olhos pela para o livro né para edição o livro seis por um editores e atualmente
+temos mais dois membros que é o victor marcondes campos que é preceptor da
+cirurgia lado a gás e também e o thiago vicente aqui também foi preceptor da usp
+totalmente a residente lá no incor comigo e com o leitinho então pessoal
+vamos para o que interessa aqui é o livro né como que tudo começou tudo
+começou com esses três ilustres residentes aqui que a gente aprecia
+demais trabalho deles são fenomenais foram nossos alunos e durante a
+preceptoria né o fernando victor o ricardo também como está dentro desses
+três alunos aqui com é essencialmente por eles que tiveram a
+ideia inicial e criar um guia prático na cor 2019 para ajudar o profissional tá
+lá na frente de batalha a dar o melhor cuidado para o paciente com as
+
+00:47
+experiências os protocolos institucionais da da usp né que os
+maiores hospital das américas latinha ter uma ampla experiência com compras de
+19 e eles trouxeram esse projeto para nós dá sim para revisar esse dia e muito
+também da gente lançar nossas mídias sociais para alcançar o maior número de
+pessoas possíveis então criar um e-book gratuito a gente obviamente adorou esse
+é eles são ótimos são extremamente competentes e a gente não tinha dúvida
+de querer sair um ótimo material disso e foi então que a gente resolveu
+fortalecer um pouquinho essa ideia é a gente achava que era um projeto muito
+interessante mas precisava ser um pouquinho fortalecido e por que que a
+gente tem aqui que a gente pensou quem sabe que temos essa ser bombardeado de
+informações frente você poderia e muitas vezes a gente fica na dúvida em
+frente esse mundo segundo anel de informações porque além de ter muita
+informação elas estão em constante mudança e diante da pandemia as pessoas
+
+00:48
+ficam desesperadas para achar uma solução mágica para o problema e diante
+disso vão surgindo vários mitos sobre a condene sobre a doença e dessa forma a
+gente resolveu cumpri-la esse mundaréu de informações fazer uma grande revisão
+da literatura baseada estritamente um desses científicas e mastigar isso da
+melhor forma para vocês da forma mais didática possível e aí ai que
+principalmente a eram os três residentes
+mais o pessoal da assim e aí a gente foi angariando um grande número de pessoas
+nesse projeto incluindo residente do do hc fm-usp foram os principais autores
+dos capítulos mas também alguns preceptores assistentes também da do hc
+fm-usp e ao o especialista também fora do complexo
+hospitalar e aí a gente totalizou o mais de 50 autores no total e quarenta
+
+00:49
+capítulos preferido e aí chegaram esses capítulos para gente revisar assim
+receber esses capítulos para revisar a gente ficou desse jeito perplexo pela
+altíssima qualidade desse material e a gente pensou isso merece com certeza
+sempre ficar esse projeto porque traz a maravilhoso as suas super nossas
+expectativas e aí a gente levou esse projeto ao departamento de emergências
+clínicas da usp que os nossos chefes é principalmente doutor rodrigo brandão
+que aprovaram o projeto e é promover o também a apresentação do livro a editora
+manole aqui também os muito gratos pelo excelente trabalho que fizeram e aí eu
+queria fazer um agradecimento especialíssimo a toda equipe da
+disciplina de emergências clínicas que são nossos grande exemplo
+e aqui a gente é deve muito da nossa formação e sobretudo doutor rodrigo
+brandão que foi o grande líder aí na edição do livro conosco tá e todos os
+
+00:50
+outros assistentes também que merecem todo o nosso nosso prestígio e e são a
+gente deve um minuto aí está então eu queria fazer esse agradecimento especial
+a todos os assistentes da disciplina de emergências aos tá e não foi uma tomada
+de uma trajetória tão fácil como parece a gente envolveu muita gente nesse
+projeto foram muitas noites em claro para conseguir fornecer esse material em
+tempo hábil é todo mundo para que todo lembra conseguisse aproveitar isso
+durante academia e aí eu gostaria de apresentar para vocês o nosso grande
+projeto nossa obra prima que ele está muito feliz com os resultados que esse
+manual aqui lindo e esse manual ele é composto por quarenta capítulos quando
+eu falei para vocês em 1540 capítulos pelo divididos em 5
+partes a primeira parte foi a parte básica que consta desde a tecnologia
+
+00:51
+fala sobre o bios quadro clínico de enologia diagnósticos fala de diferentes
+testes diagnósticos como a gente tem que pedir cada uma é exames prognósticos e
+etc parte b ele falou de sistemas e grupos especiais aqui foi um passando
+sistema por sistema do nosso organismo e o convite pode acertar incluindo
+neurologia psiquiatria dermatologia oftalmo dentre outros sistemas como os
+mais conhecidos também respiratórios através intestinal e também a conta de
+19 em diferentes grupos é como por exemplo ginecologia pediatria cirurgia
+então esse é tem muita coisa também nessa parte de muita coisa interessante
+a parte sempre for sobre radiologia falamos de aspecto da corrente no raio x
+eu sou uma tomografia e a parte de falamos do manejo e vai desde o primeiro
+contato com o paciente com comida 19 passando pela atendimento inicial pronto
+
+00:52
+socorro na emergência manejo de via aérea suporte hemodinâmico droga
+vasoativa já era ventilação mecânica e também as terapias específicas que são
+muito em voga em na mídia que estão muito envolvem na mídia né é em denver
+joaquina de medicina será que eu uso será que eu uso tá tudo aí né também
+fizemos um capítulo especial sobre declaração de óbitos e também aspectos
+pós-morte tem na cor de 19 na última parte dedicamos a profilaxia falando um
+pouquinho de epi's paramentação desparamentação como que a gente faz
+isolamento domiciliar como que a gente tenta orientar o paciente
+ah e tem muito mais coisa que eu não consegui falar aí mas que tá tudo no
+livro então eu queria agradecer a oportunidade aqui está falando você já
+apresentar essa maravilhosa obra prima para você está e aproveite muito obrigado
+é legal então acho que ficou dentro claro já
+
+00:53
+e como foi o processo que envolveu muita gente que a gente absolutamente grato e
+como ele falou doutor rodrigo brandão desde sempre comprou a ideia e sem for
+médici para nós e hoje a gente vai poder aproveitar e compartilhar esse mestre
+com muitas pessoas respondendo as perguntas que surgiram ao longo da aula
+que eu acho que vai ser um privilégio acho que eu tenho certeza que vai ser um
+privilégio para todo mundo então a gente
+se for algumas das perguntas aqui que eu acho que interessante a gente discutir
+tem bastante gente que perguntou sobre o ipi lembro daqui a gente lembra que no
+começo da pandemia uma das coisas mais periclitantes é uso gti né ninguém sabia
+o que os links situação usar e agora que a gente tem talvez nos protocolos mais
+bem estabelecidos pelo menos institucionalmente então uma coisa que
+surgiu aqui ele 95 oi lá e por quanto tempo usar esse tem
+
+00:54
+benefícios a máscara cirúrgica por cima da i-95 quem tiver muita gente olhando
+né e em relação à as no começo falava só de
+usar máscara cirúrgica e eu lembro da pandemia do do h1 n1 de 2009 e até
+quando se falava você vai ter que usar avental vai ter que descer para nós
+usamos isso pois não por que que essa maluquice de começar a usar todas essas
+coisas assim daí no no final assim tinha
+evidência do que você tinha benefício de você usar máscara n95 e começaram usar
+conforme a exposição era grande para departamento de emergência não se usava
+até que o uai você começou usar eu lembro de conversar com o gerente de
+pacientes críticos doação é por quê que vocês tão fazendo isso não é é muito
+exposição o paciente então já tem alguns estudos falando que cês posição aumenta
+
+00:55
+muito vale a pena você usar a máscara n95 e a partir disso se você tá
+atendendo seguidamente pacientes com suspeita se não é preso
+o alimento é só estádio do paciente com coronavírus que um outra vez cê vai
+chegar um paciência para tanto trabalho só até não precisa usar em 95 mas se
+você tá com uma exposição importante o tempo inteiro desse processo você
+precisa usar sim e até eu tinha mas quero o jogo do ar que ele fala assim
+você tem uma abordagem muito feminista posso chamar todos nós vamos pegar e
+pronto e assim até vamos lá nos para aumentar mas não vai adiantar nada e
+agora que eu tô vendo as pessoas pegando no fim da pandemia três meses e meio
+gente da equipe que atendeu desde o primeiro dia convide vou pegar agora eu
+tô afastado hoje por conta disso aqui coisa fazer febre hoje aqui então assim
+bomba eu sou um cara distraído só agora eu vou pegar o seja aquele negócio
+
+00:56
+funciona mesmo essa paramentação mas assim quanto a máscara cirúrgica por
+cima da n95 é o bit full tank o trabalho aqui definiu isso né acredito
+também é difícil fazer esse trabalho mas paramentação importante precisa ser
+investido nem melhor gastar com o ipi do que causa tá com cloroquina que gastar
+com todas essas outras soluções mágicas que não resolvem problema nenhum e é uma
+relação e ipe precisa ser fornecido pelo pela vamos assim pelos gestores para a
+diferença aqui porque é um pacto que você tem com a instituição instituição
+não floresta segurança para você atender
+o paciente não tem nem como você começar a fazer isso então acaba com a relação
+desiste mula ainda assim nos estados unidos um mês o curso de ipi mas acho
+que não acho eles tiveram menos a cpi do que nós tivemos aqui no pelo menos do
+nosso instituto central todo mundo usou sem exceção luva n95 quase todo mundo
+
+00:57
+com um gol quase todo mundo mais cirúrgica por cima avental nos estados
+a astrologia de médicos que atenderam o convite da 65 por cento positiva no hc
+bem menos do que isso eu acho que até certo ponto funcionou a paramentação e
+engraçados ele comentou isso o cansaço da equipe que está aparecendo muita
+gente agora depois de meses né com couve gente até algumas mãos levantaram a
+quinas na terra e uma coisa que perguntaram que eu acho que se relaciona
+bem também é a questão do gegê né a gente imagina é todo mundo acho que a
+coisa que mais se procura hoje em dia é tal dg positivo né acho que é o sonho de
+consumo de todo mundo atualmente e a gente sabe qual é a correlação
+própria exatamente a correlação entre gg níveis altos e proteção principalmente
+
+00:58
+um paciente convalescentes foi a pergunta aqui não sabemos a gente
+imagina que causa imunidade os outros coronavírus se tem imunidade tem um
+estudo foi publicado recentemente até mostrando que um monte de paciente
+fizeram infecção assintomática não desenvolveram produção de g você tá
+falando de vinte trinta por cento de ver que só se tomar que desenvolver e gerir
+parece que nulidade do celular muitas vezes é o bastante para combater isso
+será que a imunidade celular o bastante para você não ter essa infecção e aí é
+complicado porque não nenhuma unidade de celular costuma funcionar vírus dna não
+para vir os rn a então para herpes simples você o episódio você tem
+imunidade do celular e não produz sorologia positiva e talvez acontecesse
+isso com o coronel começar descobre dois só que é isso
+e eu espero que causa imunidade porque senão uma hora humanidade vai acabar por
+conta disso né se toda hora você pode ver o que que tá por esse negócio uma
+
+00:59
+hora vai dar errado o que eu fico surpreso é aqui que o número de pessoas
+que se fala tanto infecção assintomática e fixa sintomático tem muita gente da
+minha aqui para que ficou sintomática será que a exposição nossa maior torna
+inevitável a gente se tornasse assintomático ou será que o número de
+infecções assintomáticas não essa proporção de 6/12 para um que a
+literatura a literatura fala agora em gg vai proteger não sei eu tive um algumas
+coisas menos dramáticas nós tivemos um paciente aqui que tinha engenheiro
+positiva aliás 2 casas e três na verdade três casos de
+pacientes que tinham energia positiva tô bem tal voltaram com quadro grave grave
+pneumonia assim a será uma fase imunológica será alguma outra
+complicação de produção de auto-anticorpos aqui ninguém sabe o fato
+é que eu tive três pacientes com gengibre positivo que desenvolveram
+
+01:00
+quatro pulmonares graves inclusive em dois deles precisando de intubação
+sorteio não tem um dado interessante que tem um estudo chinês que ele avaliou
+alguns pacientes que tirei positivo e em presença de pcr ainda presente né então
+ficava pensando nossa será que tem que atender então eles infectaram tal aí
+pegaram esses pcr desse paciente na verdade pegar esses vírus fossem cinco
+barra cultura de não ele que não era infectante não crescia é muito esse
+vírus na cultura então fizeram a hipótese com esses tudo pequeno que talvez é
+o sr aí nos pacientes com g positivo não fosse uma a presença de infecção ativa
+para ver se as coisas são transmitidas mas não todo levantamento de hipóteses
+né acho que a gente não tem nenhuma evidência o busto aí para dizer que os
+vegetais a imunidade né concordo com você mas talvez os virais que não
+
+01:01
+representa a infecção um acordo o dos assintomáticos quando a gente tava no
+meio da pandemia a gente todo mundo do departamento de emergência fez sorologia
+e muita gente acreditava que já tinha pegado esse projeto deu negativo para a
+maioria se não ter acho que nenhum que ele ficou assintomático e te a sua já
+positiva pelo que eu lembro dos assistentes do serviço de dente tem um
+residente e a respeito da do cp eu tive a oportunidade de conversar com interno
+residente aqui de nova york e realmente foi o causa foi o calsing
+eu não tinha ipad não tinha nada e não tchau uti não tinha ventilador a gente
+morrendo em casa então realmente não estados unidos parece que foi mais
+pesada parte novela do que em relação à são paulo assim eu acho que cidades
+grandes disseminam rápido e se você não tiver preparado são paulo se prepara o
+pelo menos lugar você se preparou olha assim a letalidade do estado de nova
+
+01:02
+york é 1650 coisa assim por milhão sendo que a cidade nova york muito mal morreu
+0.2 por cento da população de nova york isso é inacreditável quem imaginaria um
+negócio desse em qualquer momento e provavelmente morreu mais do que deveria
+se tivesse sido melhor preparado tivesse o tempo todo mundo talvez esse 02.005
+sei lá né o hotel conversor que muita gente eles
+moram new jersey eu connery que eles só vão para o trabalho nova york então
+acaba morrendo de gente de outros estados porque eles estavam que trabalho
+para nova york é não não connecticut 1.200 mortes por milhão e nem já 1700
+mortes por milhão absurdo um negócio e é só uma informação aí o dudu não é o
+eduardo ele tem essas informações que atualmente inclusive tá lá nos estados
+
+01:03
+unidos fazendo residência passando informações em primeira mão aí ainda
+sabe falar português ainda vem é uma coisa que foi falado e todo mundo
+sei invariavelmente achava que já tinha pego eu me incluo nessa todo mundo tinha
+uma história assim tudo teve um dia eu me expulso que aconteceu tal coisa tinha
+certeza que tinha pego preparou com uma dúvida que foi uma das dúvidas que
+mandaram me expus tive uma exposição quanto tempo eu daqui quanto tempo posso
+ficar tranquilo que eu não vou pegar o convite
+é de incubação que qual o tempo que costuma aparecer os sintomas depois da
+exposição e olha até onde eu lição aumentou de 4
+14 dias em geral é algo em torno de sete dias lembrando que infecção começa
+controlo mais leve às vezes você não pode sentir coisa eu vi gente que tem
+depois texto positivo que começou a tô me sentindo meio deprimido meio como se
+
+01:04
+tivesse cansado e aí três dias depois começou a ter tosse febre foi aparecer
+no quinto sexto dia de evolução então é algo bem variável mas se você teve a
+exposição e 14 dias se passaram e não teve nenhum sintoma possivelmente
+correlato provavelmente essa exposição não levou pelo menos uma infecção
+sintomática eu lembro da da exposição grande de um dos nossos assistentes que
+ele entrou sem máscara e sem nada que ele depois começou a ter tosse passou
+mal depois testou negativo você precisa ser negativo mesmo voltou
+as posições amar mas eu entrei dois pacientes sem máscara talvez tenha sido
+numa a última foi há mais ou menos a 10 dias será que é isso será que é por isso
+
+01:05
+que eu tive febre ontem pausa aí eu acerto o nexo causal talvez você é que é
+né sei lá é que é difícil a gente profissional da saúde falar o dia né
+porque como a exposição é constante tanto aos pacientes quanto aos todos os
+colegas que você convive que tem possível saber o dia que vocês contar
+melona eu a gente se contamina mais entre nós mesmos né vai lá logo nós
+juntos lá na sala tira a máscara conversa não ter matado do senhor talvez
+talvez sim talvez não mas pode ser e tem
+um dado interessante também as pessoas é eu conheço pessoas que tiveram convite
+confirmado e aí tava tava em casa bom então chegar adequado tava com uns
+lá e a pessoa não teve sintoma nenhum então eu peguei com ele testou com esse
+aí negativo então assim mulheres tem que levar que muitas pessoas são
+assintomáticos né e que o teste de pcr em muitos lugares acessibilidade acaba
+
+01:06
+não sendo muito dor é enorme a seja em torno de setenta por cento aí mas ela
+não estudo chinês em torno 63 por cento então é não necessariamente essa pessoa
+não teve ficou assintomática e o teste não deu um falso falso negativo né então
+gente tem que ter esse mente também tem uma questão um pouquinho diferente dos
+nossos funcionários professor é que a gente tá com limiar muito macho para
+isolar os nossos missionários dos suspeitos né a gente está colhendo muito
+precoce colher muitos pacientes que não têm sintomas são típicos eu já resolvi
+ei interno por exemplo a luz não gosta da graduação que a única queixa que
+tinha uma corrida leve mas eu não e aí gente não tem como vamos separar um
+dos outros vamos você acaba criando muita gente colocando muita gente como
+suspeita e a gente acaba tendo muito o resultado falso-negativo alguém
+falso-negativo colher muito exame de paciente leve que não tem todas as
+
+01:07
+resposta imunológica ao vírus em teoria se você considerando que tem é só dez a
+quinze por cento de pacientes que evoluem com sintomas respiratórios ao
+talvez menos talvez coriza não seja um bom motivo para você colher o dor de
+garganta se não tiver febre ou mialgias ou dispneia ou sintomas atípicos estão
+sendo muito comum como anosmia e dizia talvez você não precise é coletar mesmo
+é algo é algo polêmico é algo assim também as você principalmente ninguém
+trabalha com a saúde você deve terminar é
+só para testar mesmo e aí qualquer forma assim em relação ao teste no hc no
+começo é uma tragédia o exame todo mundo que você achava que tinha testado em
+linha positivo e não venha positivo tanto que na nossa corte e era uma
+decepção a gente fala nossa se eu tivesse vinte por cento trinta por cento
+
+01:08
+só dos pacientes que vão testar positivo depois tudo é positivo toda hora
+positiva daí tem uma história que antes estava dormindo com 3 ml amostra do pcr
+depois 10ml depois descobriu que era 3ml talvez tenha sido isso ou laboratório
+foi melhorando conforme o fato é que de repente o hc todo para eu positivo
+depois um certo momento a performance parece espetacular depois mas é o que
+isso que a literatura falar algo em torno de sessenta setenta por cento das
+63 por cento do estudo chinês levar em um pouquinho com a técnica né aspirador
+que ela vai mais 75 por cento mas realmente tem
+o concurso problemas do teste uma coisa aqui também chamou atenção aqui nas
+perguntas tem muita muita pergunta de tratamento
+é óbvio gira em torno da escola ação cloroquina ivermectina em erechim país
+
+01:09
+seja uma pergunta que me chamou atenção que eu achei a mais importante para a
+gente responder é uma a hipótese forte de convite ou que
+eventualmente veio com pcr positivo mas tá bem cara que vai para casa a gente
+precisa entrar com alguma coisa antibiótico cloroquina o que que a gente
+faz com esse cara que tá bem provavelmente nada
+e se fala muito em por exemplo a todo mundo fica muito desesperado com uma
+infecção que tá matando pessoas mas quando você fala em torno de risco
+individual o risco de individual de morte é muito pequeno se nós estamos
+falando uma letalidade de no brasil de 4.4 considerando que a gente testa uma
+cada 20 infecções nas provavelmente não temos o que façam disso 04 03 por cento
+talvez e muito menos e a letalidade do que do que isso aí você falar mas eu
+
+01:10
+tenho ação in vitro da cloroquina entao tem ação também contra a dengue contra
+febre amarela como tu é bola e qual dessas doenças são tratadas com
+cloroquina nenhuma nenhuma dessas doenças são tratadas com cloroquina numa
+placa de petri você você inibir a replicação viral que você dá uma cuspida
+na placa também inibe e vai cuspir os outros para ver se
+melhora o convívio provavelmente não adianta a gente achar também que vai ter
+uma solução mágica não vai ter é improvável que isso ocorra nessa
+estourar mas e daí vai ser que emendar um comprimido de farinha de trigo não
+não é em geral essas coisas dão errado é a mesma história da lidocaína para o
+infarto profilático a as pessoas morrem de tv e começaram a dar isso na década
+de 70 anos resultado final só nos estados unidos por mais de 70 mil mortes
+
+01:11
+dessa brincadeira a mais é mais americano morto de lidocaína profilática
+do que americano que morreu na guerra do vietnã isso quando assim tá e não é um
+paciente saudade é uma dose maior de um paciente que tá essência respiratória e
+que tá tomando outros remédios em geral com múltiplas comorbidades muito
+provável que não dá certo e daí você deus protocolo tem protocolo da cidade
+de ver mectina mais a anitta mais a menina mais o corticoide mais o o
+antibiótico e mais tudo restante não dá pra fazer isso então em relação ao
+tratamento é um caso ele não tem mais nada é sintomático se você tiver
+infiltrado pulmonar e você acha que é possível que se infiltrado pulmonar
+lembrando que a gente não consegue fazer
+diagnóstico etiológico de pneumonias por
+imagem infelizmente imagem não é tão boa assim aí você pode contemplar usar
+
+01:12
+antibiótico e no começo eu era muito muito vamos assim vamos assim advogado
+tem que dar antibiótico mais um milhão de pneumonias por ano 65 mil mortes
+pneumonia pneumonia não deixou de existir causa do convite depois você vai
+vender tudo com vídeo que a gente tá vendo assim e daí você tá dando
+antibiótico hoje eu fico pensando assim eu até dor se eu vejo infiltrado se o
+convite vem negativo se não tiver service outras coisas assim talvez dê para ti
+o protocolo do hc falar para manter então azitromicina não é tratamento de
+convidados promicina tratamento de pneumonia pneumonia ok como podemos dar
+agora não adianta achar que elas para me ensina vai ajudar no correio e as
+pessoas já estão com esse engano tem corrigir tem que dar certo traxone com a
+dentro o árbitro e depois não não tenho nem tão estudando azitromicina para
+convite digital engraçado você falou né enfim provavelmente não é para fazer
+
+01:13
+nada aí são coisas que a doença que mata muita gente a gente
+quer que tem uma saída da marca mas que não vai ter né gente acaba pondo os pés
+pelas mãos e aí a gente esquece assim por exemplo lembro quando começou o medo
+aquele medo tu sair tu vai muita gente aí sai vamos dar lidocaína para todo
+mundo porque vai prevenir tosse vamos fazer isso vamo fazer aquilo quando na
+verdade que provavelmente tem que fazer o que a gente já faziam direitinho feito
+né e acho que só essa mensagem importante né ou não vai ter nada
+milagroso que vai surgir agora quem quiser arroz com feijão bem feito a
+maior parte das vezes vai dar certo né é uma frase da natural né nossa grande
+mestre da tecnologia da garcia é uma das aulas que ela dela são exatamente isso
+não inventem façam seja tão acostumada tem até sair do protocolo para sequência
+
+01:14
+rápida de intubação que você falou agora estou caída mas assim é tudo
+possibilidade a pessoa acaba usando a camille ventando
+moda as pessoas acabam fazendo coisas que elas não estão acostumadas a campo
+de errado então o ideal é fazer o que você já está acostumado a fazer né
+obviamente se tiver certo né a probabilidade de dar errado muito grande
+quando você começa a sair da sua zona de conforto assim a gente mudou de ideia
+várias vezes durante a pandemia da vamos sair tomando precoce daí a outra
+estudava um dia depois daí faça realmente é tão achando que vale a pena
+fala continuar nesse caminho e depois a gente vê que letalidade no hc nos
+pacientes em ventilação mecânica foi maior que 50 por cento e daí você
+consegue manter fora às vezes você até melhor prognóstico do paciente é um dos
+erros que a gente mais cometeu é o pau do não abusar depois da intubação e
+punha direto na assim tá tudo errado paciente quase parava se saturavam daí a
+
+01:15
+gente parou de fazer isso que não dava não dava
+e teve um protocolo se não me engano da abramede que recomendava jair para ver
+cirúrgica logo de uma vez se você não tem costume até um emergência tô
+treinando e para uma via aérea cirúrgica logo ok mas você recomenda isso como
+algo para todo mundo isso tem uma boa chance de te dar errado até porque não
+ninguém grandes experiências com clico né porque é um procedimento que vai
+acontecer poucas vezes na vida ele tá vai fazer o que sempre fez e se proteger
+talvez a mudança faz o que tava e põe o filtro hepa faz o que faz e põe o epi
+faz o que faz e toma cuidado usa um pouquinho de menos gente na equipe e é
+só inventar muito é isso daí é uma coisa que vale para
+tudo né sempre quando a gente pega um sistema complexo igual nosso organismo e
+
+01:16
+a gente tenta fazer uma intervenção pontual baseado em alguma coisa que tem
+possibilidade de fisiopatologia a gente tá deixando de ver noventa e nove
+porcento das coisas que a gente nem conhece que está envolvido as naquilo e
+vai até arrumar alça de feedback que vai fazer porque ela quer que eu levo sua
+intervenção não vai ter benefício nem me provoca me só malefício lá e acho que é
+até isso entra a questão da lagoa sauna saiu que eles todos chinês no início e
+todo mundo saiu antes rolando eu estudo muito ruim de internet metodologia né e
+toca boa implantando uma intervenção que tem um malefício conhecido é diante de
+um benefício teórico é sem nenhum estudou bom né sobre isso né e me
+assusta um pouco importa onde população que muita gente
+o que vai resolver todos os problemas nós estamos entrando no estudo com
+
+01:17
+anticoagulação mas não foi publicado nada até agora e os outros começaram
+esses todos os antes ninguém pois nem em plataforma de pré print em geral quando
+as coisas dão certo elas aparecem no logo então eu coloquei na eu lembro que
+da da roça lá ele tem três estudos chineses que estavam lá não era tanto
+paciente ninguém publicou esse negócio deve ter dado muito errado
+anticoagulação não sei tem um negócio lá do do jack também que sugeria que na
+verdade aumentava desfecho ruim no estudo jáque é só que depois quando você
+pegava só pacientes em ventilação mecânica tinha benefício daí haja
+elucubração e haja vontade de que dê certo para querer pegar um escolher um
+subgrupo do negócio que deu errado para dizer que o grupo grande população era
+mais grave e daí com ventilação mecânica você igual a não sei lá
+tu tem que vir o estudo talvez a profilaxia aumentada com 60 mg caiba
+
+01:18
+muita uti tá usando mas mesmo isso é é duvidoso uma coisa que é interessante
+que eu acho que sintetiza muito a ideia acho que todos nós temos que já surgiu
+de diversas formas né a gente vive meio que um paradigma do fazer né
+é porque a gente muitas vezes desvalor a gente valoriza valoriza aquelas vezes e
+não houve intervenção e o paciente evolui o mal mas muitas vezes a gente
+não vê que a intervenção que a gente fez pode ter causado muito mal desencadeado
+uma cascata iatrogênica seja o cara que a gente entrou precoce fez uma pav né
+uma pneumonia associada à ventilação mecânica dali xd dias que a gente não
+ficou sabendo seja o cara que a gente sei lá que a gente coagulou e sangrou a
+gente subir valoriza muito isso e lembrar que evidência de benefício não
+quer dizer que esse benefício tem um impacto clinicamente significativo né a
+gente pode às vezes encontrar uma intervenção que foi teve benefício esse
+
+01:19
+benefício muito em provavelmente vai ser algo que vai salvar milhões de vidas
+lembrar que mesmo que tem alguma droga que seja benéfica dificilmente ela vai
+ser milagrosa e infelizmente isso é importante a gente tem mente para evitar
+paixões bom né isso a gente vem várias e várias
+situações clínicas agora o convite que é
+uma coisa que tem apelo popular que é de uma dimensão enorme acho que fica se
+torna mais relevante tá a diferenças de interpretações todas as
+que surgirão uma e teve que é mais promissora foi a década depois que saiu
+o recovery né eu acho que a gente podia talvez comentar um pouco
+e esse tá o impacto né que por um lado a
+gente pode pensar assim poxa é uma droga tem um ótimo benefício tem um ótimo
+impacto frente o que a gente está acostumado mas talvez para muitas
+pessoas não seja um milagre esse foi esse espera também né eu acho que pode
+ter os dois lados para mim poder comentar isso
+
+01:20
+e o que que é o lido recovery até fui relativamente decepcionante quando eu li
+um estudo que eu esperava estudo um pouquinho mas vamos agir melhor
+qualidade ele teve resultados significativos teve uma perda grande de
+consciência dele no meio assim que você não sabe muito bem o que aconteceu mas
+assim o benefício para um negócio que nada tem benefício foi razoável que tá
+falando de uma um menino e perder oito e meio para paciente quinto go ou seja
+alguns pacientes que vão melhorar o prognóstico né e um benefício de 30
+atacada 33 pacientes concentração precisou de oxigênio uma morte a menos
+infelizmente os benefícios que a gente tem com intervenções são relativamente
+baixos mesmo eu fui diminuir de 25 por cento para 2011 e meio nos você nos
+pacientes que que precisava de oxigênio e de 40
+
+01:21
+o 40.7 pela 29 e meio é isso você já não tem grandes mágicas mas foi benéfico a
+dose eles usaram por dez dias né não fala o momento exato que se iniciou na
+verdade esse precisa do mundo me perdoe viu ainda do artigo eu esperava que as
+aí no meu inglês mas não saiu mas eu não me engano já provavelmente deu um
+preview lá que eles estão já falando para usar em todo mundo tem um grande
+depressão para a gente ter o terapias né todo mundo quer porque quer que apareça
+um remédio e por enquanto eu quis sair de melhor não sei se alguém quer fazer
+algum comentário extra sobre o recovery então professor uma coisa que eu peguei
+adicionar voltando aquele tema de faz alguma medicação profilática né mesmo no
+recovery senhor falou na aula né também e nos pacientes que não estavam com
+
+01:22
+oxigênio não foi significativo mas teve uma tendência aumento da mortalidade né
+desculpa aí um rasurei xale de um ponto 22 mas esbarram num intervalo de
+confiança é mas aí fica até essa dúvida né que a
+gente fazer mais um paciente que não precisa para ver se já pior né e ele
+gente alguém perguntou no chat lá se tivesse tudo ela é feito de classe eu
+sou o dexametasona 6mg até onde eu sei não sei se eu levo um artigo a mãe mas
+até onde eu li só tem esse estudo com a dexametasona então pode ser que seja
+feito de classe e mas a princípio vamos lá dexametasona né eu acho que não faz
+muito sentido você não é feito de classe se você for ver penetração pulmonar de
+metilprednisolona e até um pouco maior cuidado dex foi o que deram até no
+começo eu lembro que a coalizão tava fazer a colisão lado que eu tenho
+coordenado lá pelas flávio você não tava fazendo um estudo com dá break net lá
+
+01:23
+com dexametasona eu lembro de nosso pressionarmos lá no emergência que nós
+estamos fazendo isso tudo com de corticóide com prednisona porquê dessa
+não tem lógica de sair daqui sua meta não foi
+e eu não creio que seja um estudo de classe eu acho que dá para usar
+prednisona provavelmente só que assim vai que tem algum negócio específico na
+década que fez a diferença então é o que saiu é muito muito muito muito provável
+que que outros glicocorticoides funciona em do mesmo jeito mas a gente não tem
+essa certeza absoluta aaadec você ganhou muita força esse ano depois que saiu o
+deco sardina do jesus vê lá que foi assim o primeiro estudo assim da era de
+ventilação protetora de verdade né que chegou a usar corticoide né nesse
+demonstrou redução de mortalidade eles chegam o comentário nesse artigo que
+
+01:24
+eles optaram pela dex é só pela questão da meia-vida longa uma vez por dia e ela
+mesmo se alta desmama e para questão de facilidade mesmo é
+o pessoal do conecta seguiu a mesma dose na desse estudo do deve estar dizendo
+sei se foi por isso que pessoal decidiu a peça droga na google promete que isso
+e eu queria só conversar também que a gente não pode esquecer do cuidado do
+suporte geral que a gente tem das indicações de corticoides sem ser o
+corrigir né então o paciente está com uma crise de asma e chega para ser
+internada porque o vídeo até ele tem uma crise de asma alegre que você vai
+liberar ou não exerce bastante depois você e se a gente não pode hesitar em
+questionar evidências fortíssimos para essas doenças né então independente do
+convívio a gente tem que seguir tratando as coisas que a gente sabe tratar muito
+mais tempo interessante isso daí foi uma coisa até que a gente falou numa outra
+
+01:25
+live que às vezes a gente ficou vinde convite convide e eu fico me perguntando
+esse dado acho que não existe quantos pacientes com dp acessar ser badoo
+deixaram de ganhar wenye esse sim é um é muito forte como evidência pode com o
+impacto bom porque a gente não sabia bem o que fazer e a gente tava não pode
+bendita cruz escrito né então acho que isso a minha uma mensagem importante a
+gente lembrar que existem tratamentos com evidência para outras doenças que
+vão aparecer né a gente vê lá o hc tem muito paciente um convite está a gente
+vê muitas outras doenças um convite né é importante lembrar que existem outras
+doenças ali também que talvez essa sim tem um tratamento com evidência adequada
+né com certeza com certeza é a beleza e uma coisa que perguntaram
+bastante aqui também que eu acho que foi uma coisa que já existia a gente tem aí
+uma grande experiência na grande literatura em torno da sara da arte né
+
+01:26
+você tá aplicando de certa maneira o convite né como que tem sido e acho que
+interessante pegar a experiência da emergência e da uti também a prona
+nesses pacientes eu acho que talvez a melhor pessoa para responder vai ser o
+eduardo que fez um estudo sobre isso eu participei desse tudo mais eu
+idealizador foi ele do estudo o bom é a respeito da bruna acordado né
+lá vez de começou muito foi feita em nova york ele aquele som do levi tanque
+estamos tudo que ele avaliou os pacientes respectivamente mas não teve
+grupo de comparação e aparentemente empolgou - os pacientes que já tenham
+indicação de intubação depois apareceu várias cartas no jama no lancet e e até
+agora mesmo nosso estudo que a gente fez que a gente submeter o recentemente não
+
+01:27
+teve nenhuma evidência clara assim de quebrou no acordada evite incubação ou
+mesmo até um outro desfecho né é infelizmente porque a gente até queria
+que a planta fosse um plano acordado pudesse postergar entubação aliviar vaga
+de uti mas infelizmente do nosso estudo em sete pacientes do grupo pronto aí 109
+no controle não não mudou muita coisa eu queria que fosse uma resposta mas
+aparentemente até agora não tem nenhuma nós temos nenhuma evidência de que ter
+algum benefício e na uti zoófilo quê que vocês têm feito aí
+e não é que eu não tenho que falar nada para não se falado para certa né que foi
+o primeiro estudo que conseguiu dar mais tradução de mortalidade né de forma
+significativo eu acho que uma grande mensagem do estudo é parte do critério
+de inclusão que antes de da pessoa você randomizado ela tinha pelo menos 12
+
+01:28
+horas de ventilação protetora é e todos os estudos de ventilação mecânica tem
+adotado isso né eu acho que é importante chegou na emergência faz o arroz com
+feijão tem pf abaixo de 150 calma é faz essas coisas com calma espera pelo menos
+12 horas para ver se essa pf vai se manter baixo antes de planar cara se
+manteve baixo perto abaixo do 150 tem que ter que parar na e pronto eu não só
+porque sim mas também porque a gente consegue fazer pressão de platô mais
+baixa nos uma ventilação mecânica de forma mais protetora nesse paz
+oi e a gente tá vendo bastante barotrauma desse paciente então acho que
+esse depois de 12 horas de ventilação bem feita feijão com arroz continua uma
+peça baixo de 150 tem que parar e pronto assim a por quanto tempo é desse estudo
+
+01:29
+ele ficou pro nando todos os dias enquanto ainda robeci indicação e
+enquanto e até o final estuda né que era 28 dias então se não respondeu internet
+pf não é para tarde para não necessariamente se ela dois caiu você tá
+conseguindo ver de lá com pressões mais baixas pode continuar orando acho que
+tem que manter quer dizer um problema que a gente teve
+muito no prece é porque a nossa a nossa sala de emergência apesar que a gente
+tem muita opção meio de educação e de passeio 16 vitórias a gente não tinha é
+costume no que a rotina e promessa está assim principalmente na sala de
+emergência a gente costuma dizer quando eu assim teu primo valdecir da educação
+todas as publicações aparecem depois disso o paciente precisa ser separado e
+reagir a ele precisa ser contido ele choca ele precisa de droga central bruna
+
+01:30
+ter um bom forte e quando dois que você pronto se cria nossos problemas ainda e
+agora como que eu vou passar o central combustível até aí como transportar os
+doentes para o their então acho que outra coisa para sempre encontrar toda
+vez que você vai parar na prisão de departamento de emergência que é um
+leitor é um interesse nacional temporário pacientes não vais fazer o
+pagamento completo e você pode responder a essa questão do
+transporte então a sua aqui seu treinamento muito do que a gente verde e
+a gente tem costume de receber pacientes
+externos uma vez de aprendiz que a gente viu as ações que a gente viu é o rei ou
+sinais por períodos uso de algo de que talvez paciente não precisasse o que não
+tava tão necessário na hora e se vai que
+deus não sei quantos princípios então eu falei bastante apenas responderam
+responder a mente antes né eu acho que realmente tem que pensar antes de paraná
+
+01:31
+tem todo um recurso mano você tem que saber fazer se não provavelmente só vai
+prejudicar a vida do dente a honra são muito bem treinadas as de
+ser de plano ao paciente né lá no hc a gente pais quando passa alguém vai
+treinamento de pro não é uma coisa simples com parece os dois muito cuidado
+tem que ter o segundo protocolo rígido de imobilização durante a bruna né
+durante o período de prova e então assim mas que tem que ser restrito para
+centros que sai sabe fazer isso você não sabe eu acho que não não tem que se
+arriscar fazer isso tem que ter um treinamento antes e
+e eu vou o dinheiro e 95 á prona é um para dar uma borra uma boa ideia de tudo
+que vai ter no livro de tudo que já tem no livro né aproveitar mais uma vez
+
+01:32
+agradecer em nome de todo mundo né doutor rodrigo brandão
+é eu sei no nosso mestre anos mesmo né a gente vai aprendendo desde sempre vai
+aprendendo admirar e hoje muitas pessoas puderam aproveitar isso então a gente
+agradece e sempre sempre aprendi mais sempre que me impressionados sou
+obrigado todo mundo bom pála também é que dia oito do sete
+vocês vão ter outra oportunidade de uma discussão com rodrigo brandão e com o
+eduardo que vai ser na no instagram dada manole no nosso instagram é a 78 horas
+da noite fala todo dados e dr rodrigo muito meu muito obrigado e eu tenho pena
+admiração pelo senhor e é um prazer tá trabalhando com o senhor e toda a equipe
+
+01:33
+da frente à emergência o prazer é nosso obrigado obrigado então vamos lá quem
+sabe não é convite a gente agradece comprem o livro a gente conseguiu fazer
+o mais barato possível porque a nossa ideia principal é difundir o
+conhecimento porque a gente sabe que tem muita gente que tá tratando convide
+o que não necessariamente tem tanta experiência no doente crítico então que
+a gente quer realmente ajudar o maior número de pessoas profissionais e
+pacientes tão e eu acho que esse objetivo vai ser
+cumprido com esse livro a tabela uma coisa importantíssima que esquecemos de
+falar é azul ba do livro era destinada nenhum editor nenhum autor tá ganhando
+nada com o livro essa verba que você não destinada ao projeto hc com convida né
+
+01:34
+que é contra o 2019 e a também com os gatos da impressão do livro é e também é
+pros centro de estudos do hc então todos editores e autores abrir qualquer lucro
+para tornar isso mais viável para todo mundo difundiu com você aí ela fazer um
+livro gratuito depois como esse não era possível comercialmente pelo nós fizemos
+questão de não receber um real pelo livro então defeito para para vocês e
+e fora o livro lembrancinha curso medicina de emergência também da manuele
+tem os cursos da sim emergência conselho no instagram tem muito material e vai
+ajudar a o podcast do 15 minutinhos urgência também que é maravilhoso é esse
+lembrança do dr júlio martini a gente já fez uma outra participação e já ouvimos
+todos que é muito bom mesmo tá tão boa noite sempre um prazer aí muito obrigado
+por mais um

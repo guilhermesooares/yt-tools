@@ -1,0 +1,782 @@
+
+00:00
+WEBVTT Kind: captions Language: pt o sistema time cabe hoje vou iniciar que
+o compartilhamento de tela é um tema que eu pessoalmente venho estudando desde o
+começo da academia desde março do ano passado março de 2020 e eu vou trazer um
+enfoque muito baseado na questão das sociedades médicas brasileiras e vou
+explicar por que esse tema tratamento precoce versus medicina baseada em
+evidência tem uma importância tão grande para as sociedades médicas porque foram
+elas e enfrentaram infelizmente uma grande onda
+de negacionismo mesmo de leite diversas partes muitas vezes até mesmo de colegas
+médicos então nós acabamos até que por força da Necessidade dentro da Sociedade
+
+00:01
+Brasileira de infectologia e dentro da Associação Médica brasileira e de outras
+sociedades irmãs que eu vou citar durante a apresentação nós tivemos que
+criar um corpo de colegas e fizemos que fizeram vários documentos e publicamos
+trabalhos a respeito do celular mas então só contextualizando a visão que
+nós vamos dar nessa e sistemas específicos que é a cor 2019 o
+tratamento precoce versus o que temos de medicina baseada em evidência dentro
+dessa 13ª Live do Med trop hoje dia Dezenove de agosto
+de2001 o Davi já me apresentou o seu chefe do departamento de tecnologia aqui
+da Unesp mas eu acho importante Dizer para vocês que eu sou médico
+infectologista na linha de frente vamos aí com todo o corpo Clínico da nossa
+universidade assim como muitos de vocês na linha de frente no enfrentamento da
+
+00:02
+academia quer seja coordenando bolatorio tipo 2019 o corpo dele ou seja com
+pacientes com o vídeo enfermaria convite moderada a grave e também com pacientes
+na unidade de terapia intensiva convide crítica então nós temos também essa
+experiência como você estende de me dar um problema realmente foi a mão na massa
+além de como o Davi citou você é consultor especial de produtos 19 tanto
+da Sociedade Brasileira de Patologia quanto da Associação Médica brasileira e
+mais recentemente nós temos colaborado dentro do Ministério da Saúde do grupo
+formado junto para qualitech no estabelecendo o protocolo clínico e
+diretrizes terapêuticas da corrente elétrica são vai trazer o que a gente
+tem aqui de medicina baseada em evidência no tratamento da convide leve
+e o que tem isso a ver com o tratamento precoce para essa apresentação
+específica do tema que nós estamos falando eu não tenho potenciais
+
+00:03
+conflitos tigres e os próximos cinco minutos antes de bater um pouquinho a
+respeito do conceito e definições reflexões do que é o tratamento precoce
+me medicina baseada em evidência falar um pouquinho das frases e das
+classificação das classificações das formas clínicas da cor de 19 Como se dá
+uma rede terapêutico da couve de leve falar especificamente sobre a eficácia
+das medicações que são postula fadas como candidatas a tratamento da Que
+objeto e a primeira reflexão que eu queria fazer por vocês na verdade é uma
+pergunta né Para que o médico Nossa consciência seja contrário ao crescer um
+tratamento do realmente efetivo tivesse comprovação científica realmente é
+inequívoca de forma imediata e uma infecção aguda tem alto índice de
+
+00:04
+morbimortalidade Será que algum de nós por exemplo no caso de um antibiótico
+terapia para Menin Oi Duda nós teríamos não saímos contrário se as evidências
+científicas a contar sem benefícios temos de evitar os desfechos e alguma
+doença com alta alto índice de morbimortalidade tem acho que não é a
+ninguém seria em sono a ponto de ser contrário se tivéssemos residência
+necessário na verdade no Brasil que se criou um esse termo tratamento precoce
+foi o termo falacioso mas eu costumo fazer uma comparação com a jabuticaba
+jeito só tem isso de forma implementado de forma até mesmo para
+vocês vão ver temos de política pública pelo Ministério da Saúde somente no
+braço então infelizmente através de narrativas em
+dotadas por muitas lives vídeos no YouTube artigos em pé print que nunca
+foram publicados ou mesmo papers e chegaram a ser publicados mas que tem
+
+00:05
+graves problemas metodológicos e alguns deles inclusive os resultados aconteceu
+essa semana guaraná domingo para segunda-feira é porque nós chegamos
+nesta situação a igreja que que é paradoxal e triste né esse tipo de
+manifestação não queremos a vacina nós temos na Rua Albina tratamento precoce
+já tudo porque isso foi na verdade uma narrativa criada começou realmente lá em
+abril maio do ano passado e foi criado o curso por uma série de motivos alguns
+deles é você tá aqui outros vocês imaginam qual quais são as verdade como
+sociedade médica fala aqui pela sociedade brasileira de infectologia mas
+tem certeza e também Paulo pela pelos colegas da sociedade da
+Sociedade Brasileira de Medicina Tropical Todos nós somos a favor de um
+tratamento para que o vídeo o inclusive um tratamento precoce desde que esse
+
+00:06
+tratamento tem a comprovação científica de benefício de eficácia com desfechos
+clínicos nós temos Olá tudo bem feitos e mostre por exemplo redução do tempo de
+doença redução da hospitalização redução da mortalidade neste todos com
+metodologia adequada principalmente ensaios clínicos randomizados duplo-cego é
+adequadamente a aleatorizados e publicados em revista e sem a revisão
+por pares e comprometido essas revistas também com boas práticas na pesquisa
+clínica isso é na verdade um trecho que eu tirei de uma resposta vou colocar o
+contexto mais para frente para vocês uma resposta oficial que nós tivemos a
+Sociedade Brasileira de Cardiologia que fazer o ministério público e não quis
+não se questionou Por que que a gente era contra o tratamento precoce entre
+aspas onde nós somos. Todos nós médicos que fazemos medicina baseada em
+evidência queremos um tratamento precoce o que a gente não quer é que seja
+
+00:07
+publicizado o tratamento de realmente não tenham um embate É
+esse mesmo racional e o nosso grupo composto por muito tá na sbi também
+muitos colegas de outras sociedades publicamos na American Journal of
+medicine comentários justamente sobre isso no artigo que falava sobre a
+possibilidades para uma cor lógicas do tratamento da cor vídeo dando a entender
+que ele funcionar isso foi uma uma uma líder em cima de certinho que foi foi
+publicada falando que nenhuma entidade do mundo entidade científica séria
+recomendo esse tipo de tratamento sempre desse científica que nós somos
+favoráveis a qualquer tratamento precoce desde que ele esteja feito com
+metodologia adequada esses resultados mostram benefícios em tudo isso que a
+gente discutiu parece chover no molhado mas é importante essa repetição para que
+
+00:08
+fique claro Qual é a nossa costura frente o mal pandemia a cidade nossa
+costura deve ser sempre né como conduta médica pautada na ciência essa é uma é
+um exemplo né da pirâmide da medicina baseada em evidência que tem obviamente
+suas críticas existem obviamente limitações dessa visão mas em geral nós
+devemos levar em consideração sempre como o maior nível de evidência os
+ensaios clínicos randomizados controlados com Placebo
+sem e principalmente as revisões e meta-análises peças desses ensaios
+clínicos randomizados não devemos levar como evidência
+científica e muitas vezes acontece na corrigir 19 nessa academia inclusive
+em nível jeans de discussão científica opiniões no
+WhatsApp videos do YouTube é pessoal do Instagram obviamente isso são apenas
+
+00:09
+manifestações pontuais mas que infelizmente muitos colegas médicos
+levam eu já até mesmo como verdade científica para evitar esse tipo de
+desfecho essa infelizmente é uma live que foi feita por um médico tirei aqui o
+nome está dizer mas veja o título da Live do cidadão fez a ditadura da
+medicina baseada em evidência em termos de cobrir de 19 anos a medicina baseada
+em evidência social rolo é danoso fosse algo Demoníaco E por falar e demônio a
+gente discute muito agressiva baseada em
+evidência para evitar justamente isso né mas nós somos professores cientistas
+médicos que Agimos conforme a as evidências cair no inferno e que nós
+vamos ter que aprender a medicina baseada em pessoas que assistem vídeos
+no YouTube que tem informação formada em mídia social
+Olá tudo isso com toda aquela narrativa que eu falei para vocês né de de Live de
+
+00:10
+milho social na verdade entendeu um reflexo muito de dia triste marcante na
+história da medicina brasileira Esse é um documento oficial publicado pelo
+Ministério da Saúde em Maio de dois mil e vinte orientações do Ministério da
+Saúde para manuseio medicamentoso precoce de pacientes com diagnóstico da
+covid-19 isso ainda está em termos de perceber ter sem nenhum
+outro documento substitutivo ou seja ele está em validade não tá bem claro que o
+uso de cloroquina Azitromicina hidroxicloroquina com Azitromicina e
+outras outros tratamentos tem conhecimento científico que eu vou mais
+para frente Falar o quê que nós temos de medicina baseada em evidências frente a
+esse documento nós da Sociedade Brasileira de Cardiologia e muitas
+outras sociedades prontamente nos colocamos Ah tá pois não havia qualquer
+tipo de dependência científica para explicar seja com hidroxicloroquina
+
+00:11
+ivermectina hipoxemia 2018 identificações que eu vou detalhar e por
+conta dessa nossa posição nós tivemos que eu falei para vocês que responder ao
+Ministério Público porque o questionou Por que que nós éramos Contra esse tipo
+de protocolo ministerial e nós respondemos aquilo que eu já contei para vocês um
+documento tenso o mais de 40 páginas e tudo isso levou a um trabalho de revisão
+da literatura que culminou numa publicação que mais pretende também eu
+vou mostrar para vocês a este documento do Ministério da Saúde e tantas outras
+iniciativas em live sem em mídia social chegou nesse reflexo triste que a gente
+pode ver esse slide a pesquisa do Datafolha um em cada quatro brasileiros
+diz ter usado o remédio para tratamento precoce o Fit por vídeo contra contra a
+
+00:12
+infecção pelo site of 12 É 12 porcento comprou por conta própria outros onze
+por cento comprou um receita médica uma pesquisa feita agora em maio né E isso
+infelizmente num país em que nós temos um número de óbitos excessivamente alto
+Nós somos o país segundo no ranking absoluto de número de óculos e que já tá
+um pouco maior hoje cerca de 578 quase 580 mil Óbvio se aproximando dos Estados
+Unidos que a população muito maior em relação ao número absoluto de obra e
+essa verdadeira oferta essa verdadeira venda de medicações tem eficácia que tem
+vermetina nitazoxanida propaganda de notificações feitas não só na espera
+comercial mas também na Esfera política de medicações em evidência sente
+entrando mais na questão da cor 2019 das formas Freitas e o tratamento na fase
+
+00:13
+inicial seria para esse tipo de paciente é uma coisa de 19 ela tem uma
+classificação em 85 porcento dos pacientes vão ter sintomas parecidos com
+um resfriado comum com uma síndrome gripal
+185 até 90 porcento dos pacientes sabe depender da casuística aqui é analisada
+e a maioria deles cerca de noventa porcento vai ficar somente nesse tipo de
+manifestação pública e obviamente dá para você Conduzir de forma ambulatorial
+ainda que não haja nenhuma medicação com eficácia comprovada e se medicar
+pacientes devem ser manejados no ponto de vista sintomática a discutir isso
+daqui a pouco infelizmente cerca de dez a quinze por cento podem evoluir para as
+formas mais avançadas principalmente a pneumonia moderada Fácil de usar
+pneumonia grave virar o fase 2B que é geralmente produzido em enfermaria e a
+corrigir crítica e leva o estágio de se conseguir uma fase de
+
+00:14
+inflamação que tem que ser avaliada em UTI mas tudo isso obviamente São fases e
+se você tiver um diagnóstico assertivo se você tiver pronto atendimento ao
+paciente com sintomas de síndrome gripal Zé atestada não tiver acompanhando você
+consegue delimitar o momento pelo qual ele pode ou não evoluir para suas formas
+mais avançadas Como eu vou mostrar para vocês daquela outra forma de ver esta
+classificação em termos difícil para colorir não na fase ou na convide leve a
+Principalmente uma agressão pela infecção viral direto então tem a
+infecção do trato respiratório alta replicação e mucosa de orofaringe mucosa
+nasal dicas tem toda aquela sintomatologia como se fosse um
+resfriado na síndrome gripal e com o passar do tempo isso pode evoluir para
+uma pneumonia viral Oi gente esse vírus pode fazer um ciclo
+na feira medieval não que a fase de leve não tem alguns pacientes na cor verde
+
+00:15
+leve tem algum comprometimento você quiser tomo produzimos e dez quinze por
+cento mas não leva a hipótese o problema é quando esse comprometimento pulmonar
+acaba levando a um grau de boxe um pouco por conta da presença do vírus mais
+muito por conta da próxima fase que vai acontecer que é a própria inflamação
+causada pela resposta imunológica exacerbada muito mal modulado cheia de
+internacional ruim pelo financeiro pelos
+irá 10gs Beta fator de necrose tumoral e é nessa fase que acontece o agravamento
+é hipócrita dos pacientes então obviamente todos nós gostaríamos não
+tivesse uma droga efetiva que conseguisse impedir a replicação viral
+lado dos primeiros dias exemplo que nós temos na influenza
+você tá mentirosos análise mesmo que consegue então Oi Gi a replicação viral
+e diminui as chances de um indivíduo evoluir para uma síndrome respiratória
+
+00:16
+aguda grave mas o que nós temos de evidência científica também MG
+tratamento também para finalizado nesse slide fraco de leve é a monitorização da
+esposa não existe como você feito isso de forma assertiva obviamente uso de
+medicações sintomáticas caferio tratamento da
+de mialgia sintomas é isso é seu like alguma coisa em relação entre copos no
+clonais registrados que a gente pode mandar pra eles são realmente
+repetitivos né são extremamente caros e não estão disponíveis na prática Clínica
+nas várias combinações em esportes quando clonais conseguem evitar quando
+feitos os primeiros dias de tipo de progressão ainda que caiba discussão
+sobre eles vão funcionar nas variantes ou não são medicações que tem evidência
+científica mas que não há se você larga escala Talvez para grupos
+
+00:17
+populacionais de alto risco mas hoje em dia no ambiente que nós estamos de
+vacinação em massa a gente tem fica a pergunta de variante que perguntou se
+realmente eles vão se repetir Então esse seria o manejo da corrente ideia é não
+vou falar das outras fases da política toque monitorização e sintomáticos e
+pouco que a gente deve fazer vigilância da hipótese através de um controle
+Clínico inscrito ou se possível mover ideal oxímetro digital Santo por
+telemedicina hoje em dia a telemedicina consegue levar os pacientes muito bem
+que por vídeo chamada para o controle pelo WhatsApp ou por visita domiciliar a
+depender do caso a gente sabe que o Brasil é muito grande tem muitas
+disparidades econômicas mas todo paciente pode comprar oxímetro é todo
+todo município de consegue receber Amoxilina mais isso seria o mais ideal
+o monitoramento do paciente ou seja o ideal é que esse paciente
+
+00:18
+receba o atendimento médico imediato principalmente para realização da
+testagem da confirmação e que ele esteja monitorado ou presencialmente a
+telemedicina Para justamente checar se ele não vai reunir para as formas mais
+avançar tratamento sintomático e volta desde analgésico Dipirona paracetamol de
+pireticos anti inflamatórios não esteróides de presente tem seu paralelo
+importante positioned nasal xarope expectorante aquilo que eu falei dos
+anticorpos monoclonais infelizmente muita respeito do custo por conta até
+mesmo da dúvida sobre a eficácia sobre as várias Esse é um exemplo de uma
+paciente com corpo de leve uma paciente aliás é com infectada com HIV na época
+ela ela ela vai bastante minha com HIV aqui acabou se consagrando o convite
+veja que o controle aqui a telemedicina ela fazia é por isso que não dava todo
+
+00:19
+dia vou passar a saturação frequência cardíaca frequência respiratória se teve
+febre ou não eu tudo isso é passível hoje em dia a gente fazer Inclusive a
+distância né o que facilita muito a sentir uma mulher muito bem assim como
+95 95 a 97 dos pacientes Então não é comum algum charlatões alguns Picaretas
+gostam de falar da Dipirona e não dá para casa da Dipirona se dar paracetamol
+cinco anos devido tem sintomas que podem ser tratados com sintomáticos mais
+monitor Ice paciente Para justamente flagrar se ele não vai entrar nos
+critérios de hospitalização quais são os critérios de hospitalização da cozinha
+também direito começa a fazer algum tipo de síndrome respiratória aguda algum
+grau de posse essa e posta ela geralmente está presente e paciente que
+começam a ter uma saturação menor que 94 em ar ambiente levando em consideração
+abre a mente um paciente que não tenha uma epóxi é pro e não seja pacientes com
+
+00:20
+drc não tenho nenhum tipo de distúrbio de troca anterior Chrome Então por isso
+que o oxímetro funciona também principalmente com o marcador para
+internação hospitalar para hospitalização seus pra necessidade de
+oxigênio suplementar a relação de troca que é feita na gasometria pressão
+arterial dia dois sobre a fração inspirada de O2 aqui no ar ambiente 21
+vocês a relação tiver menor presentes no livro tá aqui na covidien moderado uma
+pneumonia moderada por 22 a e você e pernas e paciente por baixo do oxigênio
+faz o corticoide faz mal a Dexametasona que é uma das notificações tem evidência
+científica na comida hospitalar faz a anticoagulação profilática nesse
+paciente e avaliar a necessidade ou não de antibiótico na Correia de grave essa
+relação de troca tá bem deteriorado já menor que o 275 é necessário além de
+tudo para discutir Uma ventilação e até não invasiva mais alto fluxo da poder de
+
+00:21
+crítica e quando eu tenho Xbox é muito marcante o menor que 150 de troca os
+paciente salvo outras medidas vai provavelmente precisar de ventilação
+mecânica de intubação endotraqueal de UTI alguns critérios de hospitalização
+mesmo que a relação de troca não esteja tão ruim é quando você já verifica um
+comprometimento de vidro posto na tomografia maior de 50 é o mesmo que a
+relação de troca esteja pouco mais alta 300 você tiver um comprometimento muito
+grande e o pagamento ser paciente vai piorar nos próximos dias sempre lembrar
+das comorbidades né de ter diabetes descontrolado
+hipertensão descontrolada como agravante de gravidade a gente sabe aqui aí mano
+ser Essência mais velho de vidro é mais espírito de óculos acima de 80 anos é
+pior que você tem tempo é pior que você sente que é pior 50 sexo feminino é um
+fator relativamente protetor o resto novidades que a gente já diz que eu
+
+00:22
+tivesse pulmonar obstrutiva crônica doença cardíaca para 16 Você acredita
+Drone capacete que já se fartou doença renal crônica diabetes hipertensão
+obesidade forma isolada mesmo que pacientes mais jovens distúrbios
+neurológicos comum de demência Alzheimer
+neoplasias em geral e cirrose compensada
+ou cirrose descompensada são todos esses fatores de risco para maior gravidade
+gestante de esporte colocar aqui também é um dado mais recente Mas falando da
+correia de leve a gente já disse o que fazer mas é importante dizer que tudo
+que a gente discutiu O que não fazer não
+fazer porque o e né ficar a gente já tem comprovação de eficácia ou porque ainda
+não existe O que é evidência de Picassos
+ausência de dados que comprovem eficaz o porque essas opções podem ser muito
+tóxico não nesse quadro Sim coloca a hidroxicloroquina cloroquina e já tem
+
+00:23
+literatura suficiente para dizer que ela ir nesse cas um forte grau de
+dependência ivermectina nitazoxanida cochila ainda
+não demonstraram eficácia em ausência de eficácia ainda que haja pobreza em
+relação a magnitude desses desses desses estudos ensaios clínicos randomizados
+gente vai ver depois na descrição de medicina baseada em evidência poucos
+estudos realmente bem feitos existem sobre o tema essas três drogas e não há
+como tirar a conclusão de benefício e obviamente não vai fazer o uso de
+medicações que não tenho comprovação de eficácia existe a questão específica de
+corticóide anticoagulante antibiótico eu vou daqui a pouco mas e não tem
+indicação os pacientes o convite né porque pode orar ou inalatório inalação é
+o final a vitória de corticóide nem anticoagulante nem antibiótico é
+paciente com couve de leve que você não precisa internar que não tem necessidade
+
+00:24
+de alguns a mesma coisa em relação à reposição de vitamina E muito menos como
+eu já foi preconizado ozônio retal Então esse é o paper que
+nós publicamos muito recentemente hoje em dia Dezenove de agosto pelo dia
+quatro na cor médico jornal a revista da associação Mundial médica a qual
+Associação Médica brasileira vinculada e foi publicado por um grupo de medicina
+baseada em evidência da MB que eu muito orgulhosamente passo parte junto com
+colegas da Sociedade Brasileira de pneumologia os colegas a Sociedade
+Brasileira de Patologia Então essas são as recomendações da Associação Médica
+brasileira em relação ao manejo da cor de 19 na e em quadros leves para nós
+fizemos o modelo mostrado aqui já direto
+né que vocês podem acessar o paper tá lá no nosso site da World Medical diurno é
+o volume 2 agora depois de 20 minutos último sábado de agosto a nossa questão
+
+00:25
+Clínica foi justamente essa né em pacientes com diagnósticos por 19
+concorrente Neve e não necessitava gira oxigênio qual era o benefício da
+hidrosfera aquele vermetina antibióticos antivirais em geral do esteroide
+anticoagulante anticorpos monoclonais plasma nitazoxanida e Coxa isso tudo
+isso pra entender se essas essas intervenções poderiam não ser benéficas
+né E o nosso método de estudo foi a os critérios de
+elegibilidade nossa nos pacientes foram aceitas o convite confirmado e fala só
+do tratamento vou falar a profilaxia também mas fala sobre o tratamento a
+intervenção que eu já falei para vocês comparação tratamento sendo aos quer ou
+tratamento Placebo nestes peixes nós utilizamos somente desfechos que
+
+00:26
+realmente interessa no teu pejo né é hospitalização tanto enfermaria quanto
+their mortalidade e eventos adversos não nos interessa aqui analisar desfechos
+não tem presente redução de carga viral é redução de sintomas alto medidos vamos
+falar de coisas realmente palpáveis para utilização no dia-a-dia e nós usamos
+então para metodologia para análise desses dados a escala grade para avaliar
+então a a eficácia dessas medicações então começando pela hidroxicloroquina
+nossa avaliação mostrou que não houve diferença quanto nós analisamos todos os
+isto se encaixar com qualidade é para ser analisado não houve diferença em
+relação hospitalização evento adverso tanto leve quanto o grave e óbito quando
+
+00:27
+comparamos hidroxicloroquina versus com outros quer seja o Estadual recarga o
+tratamento da salsa também do padrão Ou voxê a qualidade da evidência desses
+estudos vai hoje no desde todos muito bonitos até estudos muito bons então pra
+hidroxicloroquina com alto nível é um nível
+alto de residência é possível dizer que ela é ineficaz em reduzir hospitalização
+e reduzir Óbidos. Usado nos primeiros dias de tratamento a ivermectina
+mesmo tipo de análises é a diferença é que além de não haver redução de risco
+de atualização e a qualidade a diferença é que a já falei para vocês a qualidade
+trabalhos é por isso que nós dizemos que não existe ausência de evidências são
+necessários estudos melhores a gente concluir se a carnitina é porque Tais ou
+não só tem um momento ela não é e a gente sabe que Inclusive a Universidade
+
+00:28
+de óculos pode estar conduzido de tudo muito bem feito bem foi desenhado
+justamente para responder essa questão é em relação a nitazoxanida a mesma coisa
+é não houve benefício de redução de mortalidade é ou hospitalização no
+estado de saúde de pacientes com corrigir leve e também a mesma coisa
+concurso então ivermectina nitazoxanida e toxina trabalhos ainda com
+baixo nível de qualidade sem conseguir dizer se existe ver notícia
+não importo não há benefício a gente não recomendo e analisamos por falei para
+vocês outras estratégias aqui eu trouxe o sol resumo ela tá muito triste e
+recomendações pilates né então falamos O que a gente já disse na
+hidroxicloroquina da ivermectina em relação aos antibióticos Como já era de
+se esperar mas a gente fez uma análise disso não houve benefício em relação ao
+
+00:29
+uso de antibióticos na couve de leque Então não é recomendado antes geral nós
+analisamos eu lopinavir-ritonavir' e o reino de Zinho na couve genéricos são os
+dois antivirais tem sair clima organizado também não mostrou benefício
+na corrigir leve heróis muito importante lado esportes então todos os trabalhos
+não sei se vemos nas amizades que usar o
+corticoide oral em pacientes de leve não mostrar um benefício em relação a
+reduzir o risco de progressão para as pazes mesma coisa em relação a
+anticoagulantes o usa de quatros monoclonais específicos
+tem benefício mas tem a questão que a gente discutiu do preço da viabilidade
+uso de plasma plasma de convalescente não mostrou benefit muitas opções Eu já
+comentei conchinchina também eu já comentei as duas não reduziram nem
+mortalidade nem hospitalização junto com esse nosso Gas Line nessa nossa na
+
+00:30
+verdade a nossa visão sistemática com meta-análise
+vários outros entre pessoas científicas e regulatórios no mundo inteiro não
+recomendo importante desenhos Organização Mundial de Saúde organização
+pan-americana de saúde sempre acordos controle a planta parte já que o órgão
+regulatório de vigilância sanitária Anvisa dos Estados Unidos e na rede
+neste neste hotel americano o sistema público de saúde
+do Reino Unido MHS a sociedade americana de Tecnologia itouch o Capitão América
+agência regulatória europeia nós né pra Sociedade Brasileira de pneumologia em
+pé a própria Visa gestão ele faz o contrário e Associação Médica brasileira
+são só para mostrar que na verdade nós não somos uma voz isolada ao contrário
+né muitas vezes está publicações possível principais de medicações
+Palácios a mente colocados no tratamento precoce acabam fazendo muito mais
+
+00:31
+barulho do que as verdadeiras instituições ter seja
+governamentais perdi seja regulatórias onde sociedade que orientam o tempo ou
+como discussão final kit corrigir né que na verdade é como eu chamo que
+essas drogas estão prescritas em evidência científica motivos para não
+prescrevo hidroxicloroquina cloroquina e nesse Cássia comprovado ivermectina
+nitazoxanida colchicina ausência de evidência de benefício aí tem muita
+gente que faz se você quiser comer mas não faz mal faz
+mal sim a gente tem vários casos de toxicidade por conta do uso da dose
+preconizada vamos dizer assim bulas as indicações de Bula dessas medicações
+principalmente por conta de sobredose que muitos pacientes Fizeram por conta
+de uso é crônica mexer paciente usando hidroxicloroquina permitindo a perseis
+vezes achando que tá funcionando pra alguma coisa o outro motivo é a falsa
+
+00:32
+sensação de Segurança do paciente pode subestimar o segmento bíblico que é
+essencial para a gente flagrar o momento em que ele vai precisar de
+hospitalização outras outro motivo é o custo dessas
+medicações tempo sim existem diversas investigações em relação à a benefícios
+indevidos de empresas que produzem essa medicação tem a qualquer evidência como
+a gente discutiu de eficácia e o estudo para quem tempos de academia existe o
+Ferreiro muito mais muito perto para o seu diferença para ter que Deus é
+justamente que o espaço que há remédio troque tá vindo hoje para gente quebrar
+a gente tem que discutir isso é essencial a ele parece um assunto mais
+batido EA cor de 19 nas formas leves tem principalmente o tratamento sintomático
+com a dependerá do espectro Clínico do paciente e importante nós já fizeram mas
+o segmento que ele pudesse paciente principalmente se for possível um
+
+00:33
+oximetria o tratamento da convite leve até o dia de hoje infelizmente não
+existe nenhuma medicação comprovação de eficácia em algumas opções já foi
+demonstrado a ineficácia o outro ponto muito importante que às vezes é usada é
+a autonomia médica autonomia médica não justifica a prescrição de medicações que
+a gente sabe que a identificação mesmo que ausência de eficácia eu Isso é uma
+falácia também a médica deve ser usado em situações extremas e nós temos
+evidências o suficiente para saber o que
+prescreveu ou não na sub-19 sempre me ar as nossas práticas clínicas pela
+medicina baseada em evidência eu termino aqui agradecendo a atenção de todos
+vocês convidando também para vocês conhecer o meu projeto de divulgação
+Científica em mais de dez anos e para nós site deve Barbosa. Ordem o remo a
+citações no Facebook do plano chega nele Barbosa no Instagram roupa deve Barbosa
+
+00:34
+tem lá o canal do YouTube meu nome e o Twitter@na MDR Muito obrigado pela
+atenção Rua interromper o compartilhamento de tela aqui e volto a
+companhia do meu colega Davi para gente começar a discussão
+O bom é que podemos comentar a aula do Alexandre nada de me surpreender porque
+Alexandre é conhecido como o indivíduo dedicado
+este estritamente a parte acadêmica e sempre nos brinda com o mal na que é
+estado da arte daquele o que ele se propõe falar e chamar a atenção sobre
+esse ponto que Alexandre e nos mostra e redundante Mas por que que eu tô
+chamando atenção sobre o que que significa nesse momento uma Aula dada
+
+00:35
+por um profissional qualificado academicamente apto que tem uma
+experiência vasta e que é reconhecido pelos pares e que nos sempre admiramos
+todo e qualquer material que advém do Alexandre porque nós tivemos uma coisa
+muito importante que hoje está fora do Palio que tempo de julgamento além de
+todos esses parâmetros estão eu conheço Alexandra 15 anos e eu recomendo
+intensamente toda e qualquer atividade por publicar tem um viés afetivo Claro
+mas são indivíduo que demonstradamente passou por todas as provações que me
+permite julgá-lo como uma pessoa competente para e sua opinião eu vou
+aproveitar esses minutos que que seguem para sair um pouco do cano um científico
+escrito e apontar algumas outras coisas Alexandre que nos deixa o atônitos e não
+se deixa ainda paradoxalmente dessa autorizados no meio
+
+00:36
+dessa pandemia e que não são tanto esses dados e esses
+conteúdo que você nos mostrou de maneira brilhante incontestável
+pedagógica e absolutamente simples para a gente entender dentro de uma
+especialidade e há 30 anos atrás não teríamos nem que chegar nesse ponto de
+brilhantismo para nós não seguirão uma via irracional e em volta de um
+medicamento em volta e qualquer ferramenta diagnóstica porque esses tia
+no mundo uma estrutura que amarrava a razão como ferramenta fundamental da
+tomada de decisão E esses dia também e era a sensação de instituições que era
+amplamente respeitar eu tenho dito muitas vezes que o maior dos paradoxos
+ver que muitos dos infectologistas foram guindados à celebridades então
+
+00:37
+assim nunca antes ou se infectologista saíram tanto na televisão nos portais de
+notícia e entrevistado aqui no exterior nunca antes mas nunca antes nós fomos
+tão impotentes perante a realidade e você e eu devemos ter a mesma
+experiência eu atendo na linha de frente e todos seus pacientes que eu atendi na
+enfermaria para nós descer todos 95% mais ou menos estava nem o uso do
+kit convite é isso ao longo da pandemia E isso ainda
+hoje ou que faz-nos refletir sobre como e que nosso conhecimento tão bem feito
+tão absolutamente respeitou sua de toda essa linha de
+raciocínio não consegue o seu objetivo e a explicação disso Alexandre tá Para
+
+00:38
+Além da nossa especialidade da Medicina está para a falência intelectual intensa
+e profunda que é os nossos tempo 50 porque nós vivemos tempos onde a
+sociedade sede fica no neoliberalismo que precisa de uma sociedade de consumo
+de massas e nós fomos medula alisados porque nós temos uma enorme produção de
+conteúdo que nos bombardeia por uma nova plataforma de conhecimento que a
+internet que ela poderia ser fantástica de fato ela eu tô falando aqui com você
+você tá a quilômetros de distância e tu o ano normalmente seu conhecimento mas
+ela não se bombardeia de forma intensa e permanente e por outro lado nos foram
+reintroduzidos no canal dê da instantaneidade
+então o Pablo não fica pasmo perante isso porque nós temos um monte de stingo
+no Renault simplesmente reagimos a funções superiores elas são abolida Por
+
+00:39
+que a gente precisa de consumir o consumo você vai sair no desejo e o
+desejo não pode Ferraço sim então você quem nos assiste a nossos meio amigos e
+nos seus colegas têm feito ainda continuam usando a parte superior do
+sistema nervoso central por via do Ofício e da obrigação ética que nós
+temos e isso é outro outro conceito que eu quero resgatar a ética que nós temos
+que nos obriga acompanhavam EA seguiremos reciclado que
+você não viu na sua aula o mínimo que nós podemos fazer e ter sempre com
+discípulo no seu nenhuma aula brilhante dessas pedagógica que não tem como ser
+contestada mesmo assim o Conselho Federal de Medicina no nem aí com esse
+conceito básico ético e o poder constituído não só que não está nem aí é
+
+00:40
+contra esse conceito básico ético e essas ponha pessoas a morte então o que
+eu tô querendo dizer é que a nossa discussão tem que sair defecando em que
+está dado e que tá posto dessa racionalidade da evidência científica
+porque isso você entende eu entendo os nossos colegas que estão aqui na
+audiência caminho entende porém a uma fragmentação uma destruição da estrutura
+social que faz com que as chamadas fake news notícias falsas já fez a gás
+hegemônicas na tomada de decisão isso já vem acontecendo há décadas
+só que a construção da verdade científica nesse momento a gente viu com
+esse a violência totalmente destruída a partir da pandemia que serviu de lupa
+Mas você também trabalha nisso lembra É para te pedir ser que eu sempre lembro é
+partir de ser passou de farsa e 21 trabalho chamado próximo para o para
+
+00:41
+recomendação de uso massivo de medicação em combinação de antiviral de ação
+direta deu certo que bom que deu certo isso é uma das críticas que você faz Me
+ensina passar em evidência por exemplo o Buzz eu nunca aconteceu com ele para te
+conhecer eu comemoro e tal mas veja só a construção da verdade científica não é
+um ritual que seja absolutamente padronizado e Depende do que você vai
+consumido que você vai ter como produto final então na academia e fomos vítimas
+disso eu acredito que você deve ter o mesmo sentimento de que eu tenho de
+cansaço nem porque veja só estamos hoje em Dezenove de agosto 2021 discutindo
+uma coisa fala ansiosa escandaloso e aberrante chamado o tratamento precoce e
+uma aberração esse uma aberração então por exemplo na França de de Raul
+está sendo julgado e provavelmente vai ser cassado seu diploma nem aqui
+
+00:42
+Provavelmente o diploma seu e o meu possa ser passado nesse a gente se
+descuidar um pouquinho nossos diploma foi isso é cassado ou pelo menos o
+Ministério Público de Goiás fez a primeira tentativa de depois encaminhar
+uma solicitação talvez de cassação de diplomas né então eu acho que
+está mais do que na hora ou já passaram a ter da hora das discussões
+epistemológicas e da filosofia Oi e da filosofia do nosso fiz seu médico né
+porque não dá apenas com todo esse conhecimento que você e eu tentarmos ter
+o tempo inteiro não dá isso é muito insuficiente
+e a gente tem que lutar por o caminho nem ético na primeira na primeira e pela
+vida como o mais importante que a produção é importante Se o trabalho O
+
+00:43
+importante a vida é o mais importante e o que a gente se vê e que aqui na
+pandemia Eu Sou Negou não sou o negacionismo daquele Ok meu negacionismo
+mudar a medicação o negacionismo da vida
+em primeiro lugar hoje nem nos vimos ali o governador de São Paulo por exemplo
+dizendo que estamos na época posso pandemia e que a gente agora vai se
+dedicar as como chama parcerias público-privados acabo de ouvir o agora
+então eu acho que tudo isso faz sentido com a sua aula porque tem uma reflexão e
+angustiante diga-se de passagem eu tô aqui aproveitando do poder que me dá que
+me convidaram para falar sobre isso porque Ultimamente tenho falado mais
+disso do que o agente infeccioso mas só para para finalizar uma coisa
+absolutamente aberrante quando começou essa história toda Alexandre lá em março
+
+00:44
+2021 aqui o Ministério da Saúde se reuniu porque assistiu o ministério
+ainda normal não era nada demais eu até participou dessa reunião nessa reunião
+você falou da cloroquina nosso que tá o Itaú naquela época os trabalhos e
+mostrava na seis nas ver os seres que eram celular que não tenha K2 que o
+Fulano sabe que o Victor entrava por endocitose e a cloroquina faça algum
+sentido é Eu particularmente achava uma coisa que não devia ser discutida porque
+aquela hora a Quina talvez porque são mais velho 17 tinha sido testada sem
+nenhum sucesso Mas tudo bem só que quando você descobriu é K2 tem células
+do epitélio respiratório A entrada é por outro lugar tem esse um que se fixa não
+é K2 se tem a protease do hospedeiro transmembrana que cliva a esse dois e aí
+aconteça como o zíper mente como quando você
+apresenta o material no centro cirúrgico eu sempre acho que é assim e aí entra o
+
+00:45
+vírus nasceram E aí parasita nossa máquina aí era para acabar com ele para
+ter aquilo que não fosse ou nitazoxanida
+qualquer dessas coisas sequer mencionado mais mas hoje nem nós estamos nesse
+debate necessário e importante relevante pela magnitude que alcançou a distorção
+ou deterioram a fragmentação da construção da verdade científica então
+eu te coloco esse discussão ali porque eu a é por aí que a gente tem que ir
+caminhar em relação com tratamento precoce eu acho que nem você essa
+conceito suas aplicaria anticorpo monoclonal nem que há 56 dias atrás foi
+ele aprovado para Pepe nem para as pessoas com fatores de risco que
+expuseram né isso os trabalhos em asilos lá nos Estados Unidos foram muito
+demonstrativos como bom essa esses tratei mas não está nos alcança mais
+
+00:46
+intenso e se você se o Alexandre vai falar oi tem tratamento precoce tem
+seria os anticorpos monoclonais e talvez o soro né e polyclonal de Carvalho
+quando vocês vier a manufatura Então eu acho que essa deveria ser uma parte
+muito relevantes dos nossos debates e amadurecimento para além do conhecimento
+da publicação científica que obviamente extremamente importante é
+a press como espaço da estação aspectos fundamentais que Você levantou Davi é
+que é seu deficiência que é a ciência mal feita ou propositalmente mal feita e
+mesmo vamos falar em termos para achar lá pois Sempre existirá a gente lembra
+da do HIV de pessoas que se propõe a curar com medicações caseiras
+
+00:47
+fitoterápicas da Hepatite C um banco de medicações usadas para proteger o fígado
+e que não tinham a menor função mas isso era era sempre bloqueado
+pelas instâncias pelas instituições cuidam quer seja da parte científica
+quanto da parte regulatória da do exercício da Leitura
+então que a gente viu no Brasil e também em alguns lugares do mundo mas nós duas
+sempre mais claro foi uma falha das instituições uma falha é surda Você
+citou o Conselho Federal de Medicina e lavou as mãos como se fosse Pôncio
+Pilates e em sobre o argumento indefensável de que estava garantindo
+autonomia médica autonomia médica É o que então posso fazer o que eu quiser
+receber o exemplo de uma médica no Rio Grande do Sul que tem uma licitação a
+nebulização Você sabia que o processo dela foi arquivado é um escândalo no é o
+
+00:48
+escândalo isso não tem como dizer nós temos que falar e se chama
+corporativismo tem muita coisa por trás disso de sabe um monte de gente que faz
+é Kitty adicionar shot de imunidade um monte de Terapias que não tem eficácia e
+vai ficar tudo nessa nesse guarda-chuva da Autonomia médica vergonhoso para
+quarto médico a própria Associação Médica brasileira a gestão anterior a
+gente tinha lavado as mãos é que nós tivermos um movimento e aí eu coloco a
+importância das sociedades médicas e serás brasileiro de perto de
+pneumologia e tisiologia a Sociedade Brasileira de Medicina Tropical o
+pessoal da Medicina pessoal domicílio intensiva amib pessoal
+da atenção básica a Sociedade Brasileira de todo mundo se profissional forte foi
+esse movimento que deu fôlego para gente continuar ou essas sociedades irmã
+
+00:49
+científicas e que foram as únicas que defenderam além das expressões públicas
+né as Universidades públicas e manifestaram a Fiocruz é então isso foi
+o que garantiu o lastro científico no Brasil porque o próprio Ministério da
+Saúde o Conselho Federal de Medicina nos deixaram nas mãos agora parece que
+realmente existe uma orientação do ministério eu falei para vocês está
+sendo elaborado esse protocolo Clínica dentro da Ford quer que está sendo muito
+bem conduzido É sério de medicina baseada em evidência lá da
+Bento sua coordenação Professor Carlos Carvalho e eu tenho certeza que vai ser
+um documento bem sério mas a que custo tudo isso lá aqui preço na nossa a
+energia como médicos infectologistas foi sugado necessariamente eu sempre digo
+
+00:50
+que é muito pior que o vírus podem lutar contra a PEC News é pseudociência
+ah e tem um ponto importante que é o seguinte você tá bem toda essa questão
+do CDT e o Carlos Carvalho mais uma pessoa de referência eu não sei se isso
+vai passar as estâncias superiores no no aposto nisso mas veja só
+recentemente nós tivemos congresso da associação internacional de AIDS e lá
+falou Anthony fauci Anthony fauci uma referência para todos nós né Eu estudei
+ele deve conhecer nas doenças infecciosas e uma coisa que me chamou a
+atenção e que eu acredito igual do que ele é uma sou muito otimista não nem
+pelo menos no que me resta de vida é porque virar outras academias essa padma
+Kid era confiada a gente achava que ia ser pela influência que a sua mente
+
+00:51
+Mente Sabe é louco aqui essa história ali o coronavírus estava dentro dos
+vídeos potencialmente padre é fácil Flames mas é o que eu tô te querendo
+dizer e vou repetir Antônio Faustino não quero ouvir originalidade é que ele se
+mostrou quando foi perguntado a você acha que agora com essa pandemia que
+essa geração passou teremos uma perspectiva melhor para a próxima ele
+falou não acredito que não porque é para de me é um problema global e deve ser
+abordado globalmente e nós não abordar uma pandemia Global mente Então veja aí
+do em toda a discussão em relação a isso que você tratou muito bem do tratamento
+precoce E por que só não foi só um fenômeno brasileiro e não foi só um
+fenômeno de países periféricos a na Itália teve um bom tempo com tratamento
+para costurar o que eles recuaram e tudo bem mas é um movimento internacional de
+
+00:52
+obscurantismo que nos coloca na é o Iluminismo é o
+pensando historicamente a nossa vida é sempre muito curta e talvez a gente
+pensar que do século 16 para cá seja muito tempo mas talvez não é talvez dos
+400 anos que você passaram são tampouco ao ponto que as pessoas são seduzidos
+pelo pensamento mágico quando estão perante uma ameaça que uma coisa chamada
+mas são além de seus filhos conquistados né E isso chega a níveis institucionais
+Então eu acho que a gente é isso na formação Nossa falta a gente tem uma
+formação biológica muito bom uma formação técnica muito boa mas a gente
+está exatamente jogando no no terreno desse à falência intelectual porque meus
+fazem falta as ferramentas filosóficas as ferramentas das Ciências Sociais para
+
+00:53
+enxergar esse esse cenário tá o marcador
+em que você viu muito bem que a primeira potência do mundo que essa Estados
+Unidos entrou dei cheio né melhorou um pouco bastante com a mudança do sistema
+Federal Mas ainda tem cinquenta por cento das pessoas que ele não vão tomar
+vacina mesmo que você as fusilli eu possa coloque para morrer não toma vai
+assim então eu acho que que nos próximos tempos a gente vai ter que academia um
+dia vai acabar não vai ser em breve mas estamos mais próximos do que no início
+Óbvio e inveja a imensa maioria da população mundial
+não estava assinada nos países de baixo ingresso tem dois por cento de vacinação
+Enquanto isso você tá falando por um lado de mandar para a lua numa coisa que
+aquele louco mandou no em plena Para de me é um foguete foi para fora da
+
+00:54
+superfície da atmosfera tô falando de uma terceira dose igual em
+Israel Estados Unidos e aqui quando são cenários totalmente diferente então é
+fragmentado e distópico não temos referência institucional eu acho que
+nesse tempo de hoje nós não teríamos radicado varíola nem teríamos eliminado
+Polo porque pós-guerra nós temos todos um uma
+princípios éticos que o ms né abriu o guarda-chuva ingeriu e conseguiu hoje
+não sei se conseguiria do jeito que nós estamos em e
+é isso nesse daqui concordo plenamente e uma das Ferramentas que esse pessoal
+negócio lista tem ela para casa inscrições né antigamente o MST de seus
+exames mas ela foi massacrada e tudo que vem agora de
+
+00:55
+informação da do INSS desacreditado nosso sofremos como Sociedade Brasileira
+de treco a mesma coisa não tentaram nos desacreditar mas só uma coisa fez a
+gente conseguir chegar até aqui dessa forma continuar o trabalho as sociedades
+médico-científicas eu já eram é uma pessoa bastante
+animado E participar da sociedade científica Mas eu vi que na academia
+Elas tiveram um papel fundamental aquele Brasil foram essas sociedades junto com
+as Universidades públicas junto um os institutos públicos de pesquisa que
+conseguir pesquisa científica conseguiram segurar a onda do
+negacionismo sinal a gente estava pior do que está hoje você acha que se não
+fosse Huawei que a gente fez na mídia e todo mundo fez na parte das sociedades a
+gente teria esse sucesso é hoje né sucesso atrasado mas hoje é um sucesso
+
+00:56
+em relação à vacinação política nós chegamos a vacinar em um dia mais de 2
+milhões de pessoas isso Nenhum país consegue Na minha opinião mostra a força
+antiga a força que ficou na memória e nos brincando mas não mora em nada do
+brasileiro do programa nacional de humanização do Zé Gotinha e a dose de
+vacina porque a gente bateu as pernas a gente foi atrás como sociedade
+científicas lá vamos principais que EA mídia né a mídia brasileira
+principalmente a a grande mídia realmente nessa para dormir erro papel
+importante sempre nos apoiou sempre esteve né procurando
+identificar fake News fez um negócio pro tático que aquele consórcio é de
+imprensa às vezes mídias que não se bicavam estavam ajudas para curar o
+número real de opte de de casos e óbitos de repente desapareceu isso é
+
+00:57
+completamente insano na coisa de realmente parece filme né Então usa uma
+conjunção eu eu concordo com você que nós não estamos preparados para
+responder globalmente até mesmo não preparados para responder
+homogêneo de forma homogênea no Brasil mas é também houve um movimento de
+junção de pessoa que prezam pela pela pelo raciocínio
+científico são contra o que você citou o obscurantismo e o negacionismo um
+é bom acho que a gente tá chegando no final foi uma excelente oportunidade não
+poderia ser diferente tendo como convidado o Alexandre deu para nos
+mostrarmos para os outros aquilo que em princípio nós temos como base né que o
+pensamento crítico e faço votos para que esse pensamento crítico se aprofunde e
+continue sendo a marca registrada a nossa e para Além disso o
+
+00:58
+estado e dentro do Estado o SUS como grande o grande protagonista disso tudo
+o SUS me formou o sujo ainda me sustenta e eu sou já tem ou devo
+todo isso que aconteceu de bom para além do que a gente já com esse Dill aqui e
+uma tragédia né da do figurantes e do Poder constituído então agradeço
+imensamente a participação do Alexandre e o conteúdo a aula e agradeço citando
+uns ouvindo ou essa oportunidade compartilhar mais um pouco das nossas
+angústias E dos nossos conhecimentos no momento tão delicado o histórico como
+esse que nos tocou viver o Davi sou eu que agradeço o convite
+pessoal nossos coirmãos né da Med trop muita saudade de reencontrar vocês
+pessoalmente mas é um prazer estar com vocês aqui de modo virtual é todo
+
+00:59
+sucesso do mundo para as lives do congresso tá chegando aí com certeza que
+vai ser de excelente qualidade e vamos seguir juntos nessa luta porque já a
+única opção que nós temos É nos unirmos com sociedades médicas e representarmos
+bem a nossa função muito obrigado uma ótima noite para ti E aí eu
+acho que a gente saiu do ar né Davi também eu acho isso é eu já participei
+em 50.000 likes mas não acho que agora já já
+pedaço aí a gente nunca sabe se tal não tá fora né
+
+01:00
+Bom dia Alexandre Como tá as coisas aqui estão paraíso né Nós vamos vacinação em
+massa né dois pacientes internados hoje nem ou na UTI tá sensacional
+aqui não aqui no taizai sensação todo é porque ainda ainda o interior de São
+Paulo está poupado né não é que

@@ -1,72 +1,37 @@
 var os = require("os");
 const { google } = require("googleapis");
+const { save, readF, fileExist } = require("./services/fs");
+const key = "AIzaSyATK8VSHf7cKwNyxp2FAr_FmkBTgpfXE_0";
 const youtube = google.youtube("v3"); // initialize the Youtube API library
-const { save, readFile } = require("./services/fs");
 
-var getSubtitles = require('youtube-captions-scraper').getSubtitles;
-
-const KEY = "HERE_GOES_YOU_KEY";
-
-async function main() {
-  readFile("./data/mkf-100-sb.txt", (err, words) => {
-    words
-      .toString()
-      .split(os.EOL)
-      .forEach(async (channel) => {
-        const param =
-          channel.split("/")[0] === "channel" ? "id" : "forUsername";
-        const value = channel.split("/")[1];
-        const result = await getChannelData({ [param]: value });
-        console.log(`Saving channel data: ${param}/${value}`);
-        save(result.data, value);
-      });
-  });
-}
-
-async function getChannelData(query) {
-  return await youtube.channels.list({
-    part:
-      "brandingSettings,contentDetails,contentOwnerDetails,id,localizations,snippet,statistics,status,topicDetails",
-    ...query,
-    KEY,
-  });
-}
-
-async function searchByTerm(pageToken) {
-  console.log(`Next page token: ${pageToken}`);
-  return youtube.search.list({
-    part: "id,snippet",
-    q: "tratamento precoce",
-    KEY,
-    maxResults: 50,
-    pageToken,
-  });
-}
-
-// async function main() {
-//   for (let index = 0; index < 10; index++) {
-//     const file = require(`./data/tratamento-precoce-top-500/content${index}.json`)
-//     file.items.forEach((video) => {
-//       console.log(video.id.videoId)
-//     });
-//   }
-// }
-
-async function main() {
-  for (let index = 0; index < 10; index++) {
-    const file = require(`./data/tratamento-precoce-top-200/jsons/content${index}.json`)
-    file.items.forEach((video) => {
-      getSubtitles({
-        videoID: video.id.videoId,
-        lang: 'pt'
-      }).then(captions => {
-        save(captions, video.id.videoId);
-      });
-    });
+async function main(_err, words) {
+  const jumps = 0
+  const videos = words.toString().split(os.EOL)
+  for (const video of videos) {
+    await getRelated(video, jumps)
   }
 }
 
-if (module === require.main) {
-  main().catch(console.error);
+async function getRelated(relatedToVideoId, jumps) {
+  const fileName = `${relatedToVideoId}.${jumps}`
+  if (!fileExist(fileName)) {
+    try {
+      const result = await youtube.search.list({
+        type: "video",
+        part: "snippet",
+        key,
+        relatedToVideoId
+      });
+      await save(result.data, fileName);
+      if (jumps < 2) {
+        for (const video of result.data.items) {
+          await getRelated(video.id.videoId, jumps + 1)
+        }
+      }
+    } catch (error) {
+      console.log(error)
+    }
+  }
 }
-module.exports = main;
+
+module.exports = readF("./data/tratamento-precoce-top-200/videos.txt", main);

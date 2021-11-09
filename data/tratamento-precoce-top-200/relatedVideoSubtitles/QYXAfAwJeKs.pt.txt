@@ -1,0 +1,1390 @@
+
+00:00
+WEBVTT Kind: captions Language: pt E aí [Música]
+Oi boa noite a todos sejam bem-vindos a mais um evento ao vivo aqui do
+
+00:01
+Ministério da Ciência Tecnologia inovações a gente tá guardando a
+presença do nosso Ministro Marcos Pontes Enquanto isso o nosso tema hoje é o
+Amazônia um que é o terceiro satélite sensoriamento remoto do Brasil mas é o
+primeiro totalmente projetado testado integrado no Brasil eu tô bem
+acompanhado aqui ao meu lado esquerdo que está o presidente da Agência
+Espacial brasileiro Carlos Moura obrigado pela presença o diretor do
+Instituto de Pesquisas espaciais colidiam Landim e a minha direita também
+o Ricardo uma mangrich que é Coordenador Geral de tecnologia estratégicas da
+secretaria de empreendedorismo aqui do Ministério da Ciência Tecnologia
+inovações enquanto a gente Aguarda a presença do nosso início a gente vai
+conversar um pouquinho aqui depois a gente tem algumas coisas mais
+específicas vou começar então pelo presidente da gente passar o Carlos
+Moura meu colega Inclusive a Oi Carlos Qual é o qual é o papel da
+Agência Espacial Qual é a expectativa com relação a Amazônia um tem que a
+
+00:02
+gente pode dizer sobre isso bom eu diria que o Amazônia é um ele é um Marco no
+programa espacial brasileiro porque ele resgata um dos compromissos que nós
+Assumimos lá em dezembro de 79 da época chamada missão espacial completa
+brasileira Agência Espacial nem existe ainda mas foi quando o Brasil decidiu
+que ele tocaria um programa espacial de hábito completo pegando o
+desenvolvimento de satélites desenvolvimento de lançadores e aquela
+capacidade de lançar os seus próprios veículos a partir do nosso próprio
+território tão nessa época é dessa época que vem a criação de Alcântara hoje
+nosso espaço o porto de Alcântara que vem os nossos projetos de lançadores de
+satélites e o compromisso do INPI na época em trabalhar com quatro tipos
+quatro satélites né dois de coletas de dados e 2
+em tempo remoto na década de 90 em 90 e 3,98 Mais especificamente o INPI lançou
+
+00:03
+Então os nossos primeiros satélites de coleta de dados scd-1 e scd-2 que
+inclusive continuam funcionando né o efeito muito grande que são décadas de
+funcionamento para satélites foram projetados para funcionar nominalmente
+em apenas dois anos então um barco realmente muito grande e nós ficamos
+desenvolver os nossos satélites de sensoriamento remoto óptico é o qual a
+evolução do programa surgiu a possibilidade de uma parceria
+internacional então nós passamos três décadas envolvidos com sensoriamento
+remoto óptico mais uma parceria com outro país o que nos deu uma série de
+ganhos de competências nacionais inclusive com a nossa indústria e que
+nos permitiu criado o sistema que nós temos hoje para acompanhamento de uma
+série de coisas principalmente dos nossos grandes biomas
+e o Amazônia surge agora como o primeiro então projeto que nós desenvolvemos por
+
+00:04
+conta própria sem aquela parceria internacional é mal comparando é como se
+fosse um desmame aquela capacidade agora de Nós vamos só Fazemos o satélite mas
+agora operar Esse instrumento de uma forma eficaz e eficiente para o bem de
+toda a nossa sociedade é o estamos muito
+felizes porque toda essa herança que nós adquirimos ao longo dessas quase cinco
+décadas ela agora ela ganha um novo grau
+de maturidade com o equipamento Nacional operado por nacionais e que sem dúvida
+vai acrescentar muito mais informações para o Sistema Brasileiro de observação
+da terra Ah que legal e daqui a pouquinho a gente
+vai ver as primeiras imagens do amazon fica aí o nosso Ministro vai chegar
+daqui a pouco Clésio do ponto de vista do INPI Há uma grande expectativa com
+essas imagens também vão colaborar no monitoramento da região Costeira
+reservatório de água monitoramento também de desastres ambientais Qual é a
+
+00:05
+expectativa no INPI de fato é o ganho desse satélite ele aumenta a nossa re
+visita nós temos agora a capacidade de fazer imageamento do mesmo tanto com
+muito mais a ver com muito mais condições de verificar e acabar com o
+problema das nuvens normalmente nós operamos no mandamento da Amazônia com
+dois satélites os imbecis 4:04 a que ainda estão em operação são satélite que
+ainda se encontram operando se encontra coletando dados e tem uma vida ainda
+aproximada de mais ou menos uns três a quatro anos para o som
+é mas agora com a chegada da Amazônia um além da capacidade de revisita nós
+estamos conseguindo controlar e aprender a ser um ganho para a nossa engenharia
+que é a além da revista dele acabar com o problema das noivas ou minimizar o
+problema da observação com nuvens nós conseguimos agora é controlar o satélite
+
+00:06
+sobre Nossa a única demanda não temos mais aquela questão do o parceiro
+internacional Tendo também que ser consultado para tomar as decisões com
+isso sobre decisão do próprio governo brasileiro mas podemos o direcionar esse
+monitoramento para por exemplo o monitoramento de safras monitoramento de
+estragos monitoramento de obras de largura o comprimento que a gente
+consiga avançar e usar o nosso satélite com as necessidades do nosso governo
+o primeiro-ministro um Excelente excelente tal como é que tá
+o som aí dá para ver ouvir Senhor eu tirar esse aqui para começar a falar
+Esse é o pessoal boa noite boa noite boa noite a todos é um prazer muito grande
+poder participar mais um programa aí Ciência Tecnologia do seu dia a dia hoje
+
+00:07
+com tema muito especial achei a curiosidade de todos para ver aí os
+primeiros resultados do satélite amazonia-1 eu queria começar agradecendo
+me desculpando o primeiro foi um pequeno atraso aqui eu estava participando
+também de uma coisa muito interessante que é a terceira fase do edital de
+inteligência artificial é que está apresentando algumas algumas empresas e
+quem sabe no futuro muito próximo a gente vai ter essas empresas de
+Inteligência Artificial Startup sendo criado trabalhando no setor espacial
+também na eu tô muito bem acompanhado aqui hoje né mana Tô no espaço aqui
+acompanhado é uma gripe já foi apresentado aqui por perto da uma gripe
+é responsável que do ministério pelos programas todos de estratégicos
+a tecnologia estratégias incluir espaço inclui a parte nuclear também diretor do
+INPE Neo Dr Clésio é o Moura Melo Léo Moura presidente da Agência Espacial
+
+00:08
+brasileira E olha só a gente na semana passada nós estávamos lá na Índia
+assistindo o lançamento do Amazônia um eu confesso que tinha uma expectativa
+muito grande o coração bateu muito forte aliás quem tava assistindo né ver parou
+que quando tava parado lá vendo o painel ali naquela coisa eu não notei isso mas
+pessoal notou a minha respiração né eu tava lá porque uma expectativa enorme
+Pensa bem um satélite projetado no Brasil construído no Brasil né o
+trabalho de eu não sei quantas pessoas certamente centenas de pessoas
+trabalharam na o desenvolvimento desse satélite e tudo aquilo com mina naquele
+momento do e tem que ele tá ali dentro daquele
+foguete 44 metros de comprimento né decolando carregando essa carga preciosa
+na de tanta gente eu imagino que muita gente pode ter chorado que é normal é
+
+00:09
+importante a gente via isso bastante dos lançamentos da Nasa não ali as pessoas
+chorando porque é um trabalho que não é um é o resultado de um trabalho enorme e
+é um trabalho muito importante para o Brasil né então eu acho que o Daniel
+tava aqui fazendo a apresentação você tava falando agora pouco aqui a respeito
+né do do satélite em si a então eu não quero fazer uma pergunta duplicadas ou
+aliás eu queria aproveitar esse momento também você que está assistindo você
+está nos acompanhando Mande a sua pergunta entre em contato aqui com a
+gente nós estamos aqui no YouTube do ministério Ciência Tecnologia inovações
+o youtube.com/mcti é mande o seu trabalho a tela ali da banda e suas perguntas
+para cá é para tirar as dúvidas a respeito do satélite Cobé que ele
+funciona como é que comeu Quais são as partes deles como é que a operação de
+satélite como é que essas imagens são coletados como elas são usadas ou se
+
+00:10
+estou dando um monte de ir possibilidades e perguntas aí para você
+mas eu Clésio deixou aproveitar aqui durante o lançamento é uma pergunta que
+não tem muito a ver com satélite mas tem muito a ver com aqui dentro de você né
+durante o lançamento como é que tava o coração ali que que tava passando na
+cabeça e como é que tava o coração lá que tava bem emocionado naquela hora é
+bastante difícil porque quando a gente ir no momento do lançamento de um
+satélite você é a planta de lança de 300 400 pessoas que trabalharam por 10 15
+anos para chegar naquele momento então quando
+Ah é tá naquele momento onde a contagem começa a cair 10 9 8 horas começa a
+bater o coração mais forte adrenalina começa a subir a gente começa a lembrar
+
+00:11
+de tudo aquilo que foi feito para chegar até ali começa a pensar no projeto as
+brincadeiras que a gente fez ao longo do projeto aquelas coisas que a gente faz
+quando a gente está entre os amigos os engenheiros conversando Vamos fazer
+assim vamos fazer assar Vamos botar o painel abrindo dois painéis um painel só
+vai aparecer um avião e aquelas brincadeiras tudo aquilo que passa pela
+cabeça da gente de novo toda aquele dia a dia tudo aquilo que começa lá no
+projeto o que que nós vamos fazer vai ser imageador vai ter Qual câmera depois
+passa aquela história de vamos começar a montar os primeiros testes o satélite
+sendo montado você vê vamos fritar ele vamos vibrar vamos fazer de teste deixe
+alguma coisa arrebenta antes de lançar ou
+a engenharia passa por tudo aquilo lá e você viu você participou você estava lá
+tem funcionários no INPI que foram contratados há sete anos para trabalhar
+na Amazônia ele não fala e agora chefe que que eu faço para espera que no
+
+00:12
+próximo Aí ele só frio isso na carreira dele ele só viu isso no então e agora a
+gente viu as pessoas no lançamento das pessoas que se preparar o meu Deus eu
+vou rastrear pela primeira vez nisso quando a gente tinha um backup do
+parceiro a gente aqui nem nós aqui a gente parcial e o INPI dois grandes
+parceiros a gente sempre se sustenta um se apoia no outro mas quando o Brasil
+parte sozinho para um voo a gente fala Meu Deus e agora
+a e agora que coração batendo forte aquela coisa toda e não tem mais aquele
+parceiro é você e você e Deus ou confia no que você fez ou começa a rezar graças
+a Deus a nossa aqui pegou e essa parte perguntar para o moro aqui
+também é tava lá assistindo baixinho do coração também tava né a viu ali mas a
+gente como eu que se devia estar observando a base o centro de lançamento
+
+00:13
+as coisas que eles têm ali e como que funciona o aliás eu achei leite o
+lançamento foi preciso da todas a gente acompanhava a trajetória dele lá todos
+os dados preciso demais mas Moura do que você viu ali no no centro de lançamento
+É eu imagino você tava olhando e pensando em Alcântara também né Você
+conhece muito bem Alcântara s para quem não sabe o bolo até é que ficou assim
+morador honorário de Alcântara muitos anos lá sua filha nasceu lá em Alcântara
+né eu fui depois passou a gestação toda lá foi nas em São Paulo e voltou então
+alcantarense comedora de farinha é escovar como é que você o que passou na
+e ali nessas nessa comparação ali com o centro e com o centro espacial de
+Alcântara né as possibilidades de utilizar o conhecimento ali
+possibilidade de parceria a gente conversou com eles lá também sobre essas
+
+00:14
+possíveis parcerias Pois é para todos os brasileiros que sempre viveram o sonho
+de ter um espaço curto atendendo a diversos programas não só o Brasil mas
+outros programas também é o caso da Índia eu sempre foi emblemático porque a
+Índia Diferentemente de outros países que economicamente socialmente tinha uma
+condição digamos mais estável para investir em programa espacial ela muito
+tempo luta com uma série de dificuldades socioeconômicas que realmente tornam o
+caso de um programa espacial algo muito emblemático Então como que a Índia se
+superou como ela ela encontrou soluções para contornar por essas dificuldades
+como que ela atingiu o patamar de um programa E hoje é capa
+é só levar satélites ó o espaço nós mandar as ondas a gente países e agora
+como eles destacaram bastante lá né se aventurarem também programas tripulados
+estão de fato na minha cabeça o tempo todo fiquei verificando isso como é que
+
+00:15
+ele se estruturaram nós tivemos a chance de conversar com o Dr carma é que foi o
+penúltimo diretor da Agência Espacial engana Jantamos o lado ele Então foi uma
+oportunidade singular que eu vivi um personagem histórico reverenciado ali
+por todos como é que eles encontraram soluções e Mais especificamente ali no
+certo além de toda a beleza que toda organização que eles tinham me chamou
+muita atenção quando logo Chegamos no hotel de trânsito e naquela naquele rol
+muito bonito muito bem cuidado Havia duas paredes com fotos de pessoas e
+cônicas desse e fotos que eu já conhecia de publicações de outras revistas
+a internet acho que eu nunca tinha visto Daquela forma naquele arranjo e vi como
+eles se orgulham de terem saído de uma situação de um satélite sendo carregado
+por um carro de Oi eu quero foguete sendo carregado em cima de um pranchão
+
+00:16
+empurrado por diversas pessoas e eu não resisti eu tirei uma foto naquele
+momento e mandei para o meu pessoal pô WhatsApp dizendo o seguinte superação é
+isso! Parodiando que Santos Dumont se invenção o empreendimento espacial é
+algo teimoso em mãos nesse sentido não é uma algo de realmente de recuperação a
+palavra que me ficou muito nesse sentido é isso eles são pragmáticos eles
+souberam superar E é isso que a gente quer fazer também em Alcântara em São
+José no Brasil todo entregando os sistemas espaciais que atendam as
+necessidades do cidadão brasileiro excelente político partido do lado vai
+fazendo e a esse satélite se soma agora na
+constelação é de satélite de observação da terra aqui na Amazônia outros biomas
+e etc mas a gente tem um plano aí que vai Pari passu com também o plano de
+
+00:17
+satélite com o comando da aeronáutica né eu as programações da Agência Espacial
+como é que está vendo essa integração EA possibilidade de utilização inclusive
+universidades nessa nesse trabalho como eles falando por conta da nossa
+secretaria né do Nossa coordenação é o Amazonas um ele é um instrumento é
+fantástico né Ele é um potencial muito grande
+e além de ser totalmente brasileiro sei que dá orgulho então ele é uma
+instrumento Fantástico tem um potencial enorme que pode ser muito bem
+aproveitado nos próximos anos nós a enxergamos e manda já existente mas não
+tínhamos satélite para fazer frente agora nós temos nosso satélite é
+importante é a outra questão é hoje numa parceria no intercâmbio de uma troca de
+dados de imagem Nós entramos como protagonista e não mais pedido favor
+ninguém porque nós temos o nosso satélite para produzir as nossas imagens
+
+00:18
+e entrar em qualquer tipo de intercâmbio parceria é Ele atende aí a demandas da
+área área não só dar ambiental né do monitoramento como um momento Fantástico
+a cargo do INPI e mas também para outras
+demandas demora da agricultura de nós já enxergamos assim muitas utilidades não
+tá agora nossa missão é é congregar isso né É e caiu para a sociedade brasileira
+estado Tire o maior proveito possível desta ferramenta fantástica que já tá eu
+aqui ó o Clécio deixou é ativar Por falar nisso
+né quando a gente fala ali do lançamento e falou daquela trajetória interessante
+você vê aquele acompanhamento da trajetória em cada momento foi feito da
+preparação a gente fez uma série de transmissões falando de toda a
+preparação aliás para quem não assistiu gente dá o procurad no próprio YouTube
+aí do ministério de Ciência Tecnologia inovações as nossas largas que nós
+
+00:19
+fizemos lá na Índia né falando da preparação falando de todas as fases e
+preparação do satélite era o momento em que o satélite tava sendo deixando
+umbilicais vamos assim desconectando todo para ficar em posição de modo de
+voo e assim por diante E aí durante a transmissão a gente não tinha como
+comentar muito a respeito né do da da trajetória em si e do satélite ali
+dentro mas nós temos uma equipe lá do INPI né que aparecer em algumas em
+vários aliás é ali que apareceu era o diretor né do
+de todo todo o lançamento não é responsável por todo o lançamento seria
+mais ou menos aquele cara que tá que houve o trânsito né lá no Apollo 13 eu
+nos voos da porta que ficava controlando toda todos os controladores diretor
+geral ali mas tem uma equipe brasileira lá também na e ele tem algumas histórias
+
+00:20
+que você pode contar respeito dessa equipe que os casos ficaram lá um bom
+tempo passar um final de ano lá ficar um bom tempo eu imagino a emoção Desse
+pessoal aí conta com a compartilhe com a gente algumas dessas coisas eu imagino
+que a mão dele saliva também tremendo ali na na hora é verdade do fato a nossa
+equipe esteve quando a gente faz um lançamento é importante mencionar E aí
+mais uma vez agradeço ao Ministério tem que deu todo apoio ao longo de toda a
+campanha e não é um único evento aqui no Leo como
+é o seu ápice a chegar ao topo da montanha aquele aquele campanha final é
+uma campanha que começa quando a gente desmonta o nosso satélite lá dentro do
+Instituto e pessoas passam a noite ali passam a noite mal desmontando o
+satélite em duas partes do módulo de serviço e o módulo de carga útil que
+
+00:21
+fica em cima coloca numa cápsula essa cápsula selada e tem alguns elementos
+que garantem e medem a vibração da cápsula que acabou só não pode vibrar
+ela tem que muito devagar os caminhões andando a 10 20 km por hora em todas as
+estradas do Brasil índia sempre assim vai no avião o avião tem que ter uma
+capacidade decolagem O piloto tem que ter como a gente costuma ser a mão fina
+e tem que ter colar muito devagarinho ou
+pouso não pode ser aquele povo jogado no
+chão que se aquele pouso quase para roda lambendo as fal
+com todo carinho e o pessoal foi junto mais da nossa turma foi junto com a
+carga e no dia Vinte e Três de Dezembro né alguns dias antes do Natal passar o
+Natal lá na base depois toda uma outra parte da turma foi logo no em seguida
+entre o natal e ano novo passar o ano novo na base a interação da nossa equipe
+da equipe que tá lá que esteve lá né com
+
+00:22
+a com a turma de lá muitos criaram laços eu acompanhei as publicações dos nossos
+colegas do INPI meus colegas do INPI lá no Facebook eu vi uma dela que disse
+assim ó ai tô indo embora depois do lançamento aqui tem que voltar de que
+trabalhar tem que voltar para casa e aí eu tô indo embora agora tô com dois
+corações fizemos laços de amizade a nossa equipe interagiu com a equipe da
+Índia Nós criamos laços entre os nossos técnicos é muito bonito e na hora do
+lançamento eu confesso o o Adenílson que é o responsável gerente da missão
+Tá certo quando a coisa começou a acontecer quando ele viu o satélite
+Saindo ele tremia tremia eu não sei Seu Coração batia mais forte do que o corpo
+aceita mas ele tava assim emocionado e a gente conseguiu Claro por conta da toda
+a preparação que teve nosso nossa equipe o ministério todo mundo seguiu todas as
+regras de distanciamento então a única coisa não pude dar um abraço lá Denilson
+
+00:23
+até hoje mas nós fizemos aquele high-five através do vidro ali na hora
+que a gente conseguiu ver o sucesso que deu certo que a coisa tava indo para o
+lugar certo acompanhou a ser você já acompanham muito lançamento na sua vida
+na e olhando aquele foguete olhando a performance do Foguete diga esse passar
+a gente deixou lá o satélite é perfeitamente na na horta o resto da na
+do posicionamento quanto que foi o erro ele foi ele dentro de falar foi
+quilômetros em um a 752 ele ficou três quilômetros acima
+parece quilômetros acima era Nada imagine o percentual disso aí acho que
+nada para ajustar é E quando é que o Brasil vai ter eu essa
+pergunta que todo mundo quer fazer eu também né e a gente tá aqui empurrando
+para isso acontecer um foguete nacional para orbital nos assim já tem subiu
+Vital é bom ressaltar esquecer que só faltou o Brasil não tem nenhum foguete
+
+00:24
+Tem sim né tem um tem vários deles se eu vim vaso tudo uma história de fogo e
+súbitas onde gente vai ter um foguete orbital aí dentro das nossas
+planejamento ou falando sobre o orbital único produto espacial brasileiro um
+sistema espacial regularmente suportado o nosso vsb-30 Kel um veículo de sucesso
+né já foi mais lançado no exterior do que no Brasil ele serve para
+principalmente experimentos de microgravidade que é o que tem crescido
+muito em termos de demanda principalmente do setor de fármacos é
+uma algo que a gente pretende explorar bem com a nossa indústria Mas falando
+então dos lançadores de satélites O senhor falou do lançamento a emoção de
+uma decolagem do Foguete é o mesmo estando a 56 km de distância e
+me lembrou muito o lançamento do vls 2 Os 60 minutos ele foi um exatamente em
+
+00:25
+cima da trajetória num dia de sol iluminado Então aquela sensação do voo
+conforme previsto em cima da trajetória Realmente é muito emocionante e a
+preocupação para quem já acompanhou outros lançamentos é cada evento cinco
+lados essa trajetória é um término de um
+estágio atendimento de outras separações
+então eu fiquei o olhar de quem já viveu isso né preocupado com as próximas
+etapas o psl ver o pé de Polar não é um sistema é o ver né se ao contrário não
+veículo lançador de satélite por lá esse
+é o que significa a sigla psl ver ele já tinha feito né meia centena de
+lançamentos apenas dois com insucessos Então isso é uma taxa de confiabilidade
+em cima para veículos lançadores então nós temos realmente uma confiança que
+ele poderia desempenhar plenamente o seu
+objetivo agora como o colégio eu disse é colocar praticamente na mosca é algo
+
+00:26
+realmente mais impressionante ainda e o que nós perseguimos no Brasil é isso a
+capacidade de colocar satélites em órbita com os nossos próprios meios é
+claro que hoje nós não temos um projeto ainda do pote de um pslv mas nós já
+temos projetos de veículos capazes de colocar nano satélite em órbita Então
+antes de entrar na faixa das centenas e centenas de quilos nós pretendemos
+colocar dezenas de quilos existe projeto em andamento existe projeto que ainda
+está na concepção mas nós acreditamos que com a engenhosidade da nossa
+indústria o apoio dos nossos institutos do i aê da própria gente espacial nós
+podemos conceber veículos que sejam não apenas capazes de colocar algo em órbita
+mas que seja a base de ser competitivos no mercado
+que cresce muito é o setor que mais cresce em termos de quantidade de
+lançamentos exatamente o de engano satélite
+um vídeo especial aí do lançamento não tem
+
+00:27
+e vamos dar uma olhadinha nesse vídeo é e foram oito anos de muito trabalho para
+que o primeiro satélite de observação da terra totalmente projetado integrado
+testado e operado pelo Brasil chegasse ao espaço em dezembro do ano passado o
+satélite passava pelos últimos testes no Instituto Nacional de Pesquisas
+espaciais em São José dos Campos com mais de 6 mil km de fios e 14.000
+conexões elétricas o novo satélite vai permitir ao Brasil monitorar não somente
+a região amazônica mas também a região Costeira reservatórios de água e
+florestas e desastres ambientais lançamento do amazon Foi um sucesso o
+satélite levou pouco mais de 17 minutos para atingir a órbita de 752 km que
+abrir seus painéis Solares esse feito histórico do governo brasileiro teve
+transmissão ao vivo e muita repercussão inclusive na mídia internacional o nosso
+
+00:28
+colega Eduardo da Cunha conta um pouco mais sobre o acontecimento Amazônia
+ovary of brazilian Amazônia o ante a notória a água
+tchau tchau mercearia o banco Amazônia um Amazônia Amazônia um foram centenas
+de matérias em sites de notícias no Brasil e no mundo milhares de citações
+em diferentes redes sociais inclusive pelo presidente Jair bolsonaro vehicula
+são de reportagens em programas de TV de grande audiência além da transmissão ao
+vivo do lançamento para tudo dar certo foi reunido um time de especialistas do
+mcti equipe e a e b que se dividiu para o sucesso da Missão em várias frentes
+direto da Índia o Ministro Marcos Pontes acompanhou o lançamento ao lado do
+presidente da Agência Espacial brasileira Carlos Moura e do diretor do
+Instituto Nacional de Pesquisas espaciais Clésio Denardin parte da
+equipe também acompanhou os trabalhos da sede do INCRA em São José dos Campos em
+
+00:29
+Brasília duas equipes foram escaladas uma comandou a transmissão direto do
+mcti enquanto outra participou ao vivo nos estúdios da TV Brasil
+o momento represents a very important that the top of all this effort made by
+so many people and our National institute for Space research and our
+brazilian Space Agency aqui é o ministério da Ciência Tecnologia
+inovações em Brasília a expectativa agora fica por conta do envio das
+primeiras imagens do Amazônia um temos satélite nacional no espaço coloca o
+Brasil no seleto grupo de países que dominam todas as tecnologias de
+construção de satélites e o próximo passo para alçar voos ainda maiores já
+foi definido pelo governo brasileiro lançamento direto do centro espacial de
+
+00:30
+Alcântara no Maranhão previsto para acontecer em 2022 e
+o ministério da Ciência Tecnologia e inovações
+o Ministro Marcos Pontes governo federal pátria amada Brasil
+e olha só a gente a emocionante não é não é muito bacana ver isso aí o esforço
+todo feito político dela parece também faz 1 litro laboratório de integração e
+testes tá no INPI é um dos únicos aqui na do do da nossa vizinhança toda o que
+é muito importante né e te é toda essa repercussão internacional é importante
+notar isso também é esse é o governo Jair bolsonaro colocando mais um
+satélite monitoramento da Amazônia monitoramento de toda né os nossos
+biomas e Outras aplicações e no finalzinho ali apareceu leva a questão
+
+00:31
+de lançamento lá de Alcântara já perguntei para o moro um pouco sobre
+sobre o foguete a gente tem um uma comissão de desenvolvimento integrado né
+que o mangrich aqui coordena também essa essa parte como é que como é que anda
+essa comissão para que que serve importante do Sol saber e às vezes é só
+fala assim poxa eu de como é que estão esse extrato e se está
+a todos é envolve as comunidades envolve local gente tá fazendo por conta para
+que que serve essa comissão eu acredito que nós vencemos Um Desafio né
+obstáculos Vou botar essa tela de ontem em todo esse esforço coordenado o
+trabalho Fantástico E Agora Nós temos outros desafios né e e Alcântara é um
+deles tem dúvida é nós temos a todo mundo fala isso talvez o local mais
+privilegiado do mundo mais abençoado do mundo lançamento desse tipo de artefato
+é nós temos uma área bastante propício a meteorologia propícia a questão
+
+00:32
+teológica propícia perfeito mais nós precisamos entender que aquela região
+ela tem características próprias né As populações que vivem ali então e esse
+grupo essa esse grupo é pretende e amanhã mesmo nós temos uma reunião
+importante né com outros ministros é um grupo multidisciplinar
+e é que leva em consideração não só aspectos técnicos mas o aspecto do
+desenvolvimento que congrega é esforços do Governo Federal do governo estadual
+dos governos municipais que estão no entorno de São Luis de Alcântara a
+bancada Federal do Maranhão que está sem por cento Coesa e focada me ajudar é
+projetos principalmente no aspecto socioambiental ali vive em populações
+quilombolas populações indígenas e tem que se tem que ser respeitado populações
+carentes que precisam aproveitar a esse desenvolvimento que tudo indica que
+
+00:33
+ocorrerá elas precisam ser lançadas também né para um patamar maior aí de
+qualidade de vida e sustentabilidade então é um projeto muito complexo mas
+muito interessante Então está bastante adiantado nós estamos próximos de
+apresentar agora na reunião já uma minuta do plano né Que deve ser assinado
+pela presidência a esperamos até até meados de outubro novembro
+a dança é uma atividade que está em pleno vapor e ela congrega é muito muita
+até esquecido da parte Empresarial das empresas indústria Então realmente é uma
+atividade que vai nosso desafio tornar Alcântara uma das maiores bases
+lançamento do mundo nesse Eu acho que o objetivo final e não vai demorar muito
+não gostei gostei do otimismo EA gente precisa de otimismo para vencer essas
+grandes desafios os grandes desafios do planeta só foram vencidos por pessoas
+otimistas ouviu falando aqui o seguinte pessimista ele já tá certo ele vai ter
+fracasso os últimos são os que constroem sucesso então tudo que foi feito né no
+
+00:34
+planeta até hoje foi feito por pessoas os times que vão brigam tanto de novo e
+vai ser mole consegue é realizar aqui lá e fazer satélite Não Foi Fácil Sem
+dúvida nenhuma não foi fácil mas é bom gente pegar da história lá atrás também
+desde o scd-1 né gente teve o é lá que continuou vamos assim operação
+de forma surpreendente durante muitos anos é eu que acho que prova bastante da
+capacidade que a gente tem na nossa engenharia também então para aqueles que
+às vezes ficam achando que o Brasil não vai conseguir fazer alguma coisa ou
+aquele que duvidam da capacidade das vi falando Confie na ciência brasileira né
+Tá aí uma prova é Cabal de que nós temos ciência para fazer o momento que nós
+tivemos orçamentos ligados à Ciência Tecnologia e inovação adequados para o
+desenvolvimento de todos esses temas vocês vão ver a mudança que vai
+
+00:35
+acontecer no Brasil eu falo isso através do fndct o Fundo Nacional de
+Desenvolvimento científico e tecnológico é um fundo criado justamente para isso
+eu falo isso através do próprio a própria melhoria da economia do país vai
+permitir também orçamentos melhores para o ministério Ciência Tecnologia
+inovações que por sua vez né através dos projetos também troco
+e a economia como foi feito em todos os países envolvidos para que tenha é mais
+empresas + nota fiscal + empregos né Então tudo isso é feito e ali umas umas
+foto importantes de mostrar aqui é o Mouro até que você tava falando né as
+fotos do início lá né do coisa pensando que você vê um satélite sendo levado por
+um carro de boi né a um grupo hora empurrando um foguete no a carreta Isso
+é para ver que na verdade é além e muito além da tecnologia muito a lendas dos
+
+00:36
+recursos vai muito do Espírito humano da atitude de falar eu sou capaz Eu vou
+fazer então isso é uma coisa que a gente
+tem certeza que o Brasil tem de sobra aí a gente vai conseguir chegar lá tem que
+até uma foto daquela trajetória do foguete de novo posso sair a trajetória
+porque quer alguma coisa perguntar uma coisa aqui para o Clésio é a respeito dos
+é só para você explicar aquilo ali eu sei o que que significa Mas é bom ser
+explicar na porque é o seguinte esse foguete ele tem uma série de Estágios né
+E à medida que durante a subida esse estágios eles vão ficando para trás isso
+é uma coisa natural que existe Você não vai ficar carregando peso morto né para
+O foguete vai gastando combustível que eles estavam ficando para trás para
+tornar logicamente a coisa mais eficiente durante a subida e isso Altera
+a quantidade de de motores que estão em atuação e etc então tem uma série de
+Estágios aqui durante a subida e ali mostrando a trajetória ele vai para a
+
+00:37
+órbita polar na E se puder colocar um pouquinho mais para frente onde começa o
+lançamento do satélite propriamente dito que você tem ali umas alterações
+interessantes é em termos de velocidade em termos de altitude é porque tem esse
+estagiamento do Foguete enquanto eles acham lá deixa eu fazer uma pergunta que
+esse fogo hoje eu quero falar desses até foi colocado em órbita polar explica um
+pouco para quem não conhece explica um pouco mais pedir órbitas de satélite
+porque o que que é uma horta por lá e por que que ele foi colocado em uma
+órbita polar e não uma Equatorial Corsan ou pergunta Ministro é bom esclarecer
+para o público isso porque assim você coloca diversas órbitas você escolhe a
+inclinação e que define a órbita normalmente a inclinação né E além disso
+você tem a órbita solar cêntrica e têm órbitas que são excêntricas Mas eles são
+satélite para aplicações específicas esse satélite de imageamento volta e
+
+00:38
+meia a gente fala em satélite de imageamento falou em satélite de
+imageamento você pode pensar se o seu país não está no Equador é óbvio que
+você quer uma órbita olar olar significa o seguinte o satélite ele foi lançado
+como vocês viram aqui na imagem que o ministro mostrou agora a pouco e foi
+lançado em direção ao sul que passa pelo Polo Sul e volta e sai do
+Polo Norte e vai passar na frente da terra aqui entre o sol e entre o sol EA
+terra do Norte e para o sul e fica sempre nessa órbita Norte para o sul e
+sai do Sul para o norte se é uma órbita polar significa que o satélite está
+passando por cima dos polos Por que que a gente quer isso a gente quer isso
+porque ele consegue fazer uma imageamento uma varredura de todo o país
+ele cobre todo o país e pode cobrir inclusive o globo todo E à medida que a
+terra vai girando e a órbita dele você bota uma pequena inclinação ele vai
+varrendo toda a terra que você deixar ele em tese parado à medida que a terra
+
+00:39
+vai girando ele vai imaginando todos os pontos da terra então se ele ficasse
+estacionário este satélite é uma órbita praticamente polar Então à medida que a
+terra vai girando ela vai fazer no papel de girar para o satélite fazer as fotos
+isso é um satélite Marchador outros tipos de satélites estão em órbita
+os fatoriais alguns satélites em órbitas inclinados como você conhece no seu
+celular também o satélite de GPS Você tem todo mundo tem GPS hoje todo mundo
+usa GPS para navegar ou usou os aplicativos comuns que estão em todos os
+celulares os satélites de GPS tem uma órbita inclinada não é polar mas ele não
+passa em cima dos polos não não passa em cima dos polos que o interesse disse a
+ter uma disponibilidade de satélites em todos os maior em todos os pontos do
+planeta Então a hora brincadeira hein tem nada mais ou menos 45 54 graus de
+inclinação depende do sistema se for o americano russo-chinesa o indiano cada
+
+00:40
+um tem a sua inclinação específica órbita polar é isso então do Polo Norte
+para o Pólo Sul uma órbita Equatorial o Foguete seria lançado em direção ao
+longo da linha do Equador então quanto maior quanto mais próximo de 0 a
+inclinação mais próximo da órbita e como ficaria o satélite a quem interessa
+isso a por exemplo satélite que são geoestacionários são colocados na
+posição exatamente em cima do Equador mais uma atitude muito alta de modo que
+ele fique numa órbita que coinseed com a órbita da Terra mas existe outro
+satélite mais baixo também que imaginam o Equador por exemplo só hora para fazer
+quatro olhar então excelente Deu para entender aí a questão de obra lembro
+quando eu tava na estação espacial internacional é se você pensar aqui a
+terra que se passar já tô fazendo assim para aqueles que acreditam em Terra
+plana né Esqueça essa bobagem né estão fazendo seguir aí você tem aqui o
+
+00:41
+Equador é se você pegar o Equador e inclinar o Equador 51° Abrir 400 km Essa
+é a óptica da estação espacial você cruza o Equador sobe e chega perto do
+Polo desce de novo no lado de lá e assim vai porque quando você vê o gráfico lá
+Nasa por exemplo na sala de controle de Missão se
+a senoide assim e cada obra que você faz a terra girou um pouquinho mais você vê
+aqueles enorme mudando de fase né aparecendo faz diferença Eu tenho
+algumas perguntas aqui deixa eu dar um algumas perguntas do Clésio algumas
+perguntas para o Mouro né do pessoal E daqui a pouco vou começar a pedir para
+vocês verem as perguntas gente estou distribuindo suas perguntas aqui mas
+aproveitando que a gente tava falando sobre óbitos aqui de satélites e sobre
+essas possibilidades que nós temos é de construção de satélites e aplicações de
+satélites aqui a gente viu que essa alta por lá tem a vantagem de passar por
+
+00:42
+praticamente todos os lugares da terra da o deixo aqui com o Moura né a gente
+tá é aliás eu me lembrando aqui né que nós temos nós temos né as imagens hoje
+aqui olha Vocês estão assistindo a ele as para quem está nos acompanhando no
+youtube.com/mcti clica aí em like leque legal também explica aí
+e para acompanhar para subscrever os canais né do seu ministério é importante
+que ele vai ter notícias assim sua aparência tecnologia muito interessante
+a gente mostra aqui na terça-feira à noite é nos Programa ciência e
+tecnologia no dia a dia e muitas oportunidades também para quem quer
+desenvolver as suas empresas suas ideias eu tenho secretário Paulo Alvim aqui
+também participando é o Soriano Talita bem ele só não tem a gente acabou de
+falar do ia2 né para inteligência artificial tem muitas oportunidades aí
+para criar empresas e aplicações inclusive o espaço né E aí dentro desse
+dessas possibilidades né de aplicações do espaço uma delas deve tá
+
+00:43
+desenvolvimento de nanossatélites junto com o INPI também Agência Espacial com
+universidades né ou mora dá um fazer um Panorama sobre essa participação das
+Universidades Inclusive fala da constelação do Catarina A Conservação
+Catarina lá sobre isso pessoal ter uma ideia de como que isso é possível né pô
+a área de satélite tem sofrido uma revolução muito grande como tudo que é
+aparelho que envolve eletrônica deve Tem
+havido uma compactação muito a grande de forma que objetos menores você pode
+concentrar muito mais capacidade de processamento só objetos mais leves mais
+barato se produzir e permite Então se coloque no espaço satélite que
+antigamente ficaria muito mais caros muito mais onerosos só para dar um
+exemplo concreto os dois SC deles pesam cerca de 115 kg são satélites de coleta
+de dados então a missão relativamente simples eles não tem memória então
+
+00:44
+quando ele passa em cima do Brasil ele rebate para as estações em terra
+informação que ele recebeu mas só que ela informação não for recebido em terra
+perdeu a informação só quando ele passar de novo é no esforço muito interessante
+do INPI através da sua unidade regional em Natal foi desenvolvido 13
+e para fazer esse tipo de Missão e ele deve voar num pequeno satélite 1kg site
+produzido lá pela Universidade Federal de Santa Maria então a parceria muito
+interessante do INPI ou desculpa Federal de Santa Catarina com apoio da Agência
+Espacial é um satélite que tenha um paralelepípedo de 10 por 10 por 20 cm
+vai pesar os cerca de 1kg de 200 gramas Então imagina e o poder disso né com 100
+vezes menos massa você consegue fazer mais coisas então esse paradigma de
+nanossatélites ele tem se transformado em algo muito interessante seja para
+aplicações seja para teste de equipamentos em ambiente real no espaço
+
+00:45
+e também para a formação de competências
+nas nossas universidades o nosso Vale do Paraíba é o berço de toda essa nossa
+tecnologia espacial mas hoje diversas outras competências já estão se
+desenvolvendo pelo país afora Agência Espacial já e os anos operando com essas
+universidades bancando os seus projetos nesse ano Agora nós estamos fechando o
+ciclo das Universidades com curso de engenharia aeroespacial é uma Federal de
+Minas Gerais EA Federal do Maranhão também vão fazer do seu filho do site de
+forma que todas elas já possam dizer assim realmente o meus Engenheiros ou
+engenheirandos os meus pós graduandos já tem alguma capacitação com um projeto
+completo e nós temos já outros satélites ou objetivos realmente de aplicação de
+desempenhar alguma missão completa é o caso do esporte que está sendo
+
+00:46
+desenvolvido pelo ITA em parceria com limpe aqui no Brasil e lá nos Estados
+Unidos com a NASA e outras universidades norte-americanas o próprio Ita também
+lançou um outro projeto agora sendo apoiado pela finep é o itasat dois é uma
+constelação de três satélites envolve além da Nasa também o Instituto technion
+de Israel então são Missões os resultados para a ciência para o
+estudo de problemas que acontecem aqui principalmente em cima do nosso
+território e no Atlântico Sul onde existem Outras aplicações isso também
+estão sendo desenvolvidas o caso de meteorologia ou de eventos climáticos
+extremos como os que ocorrem lá no sul do Brasil mas especialmente em Santa
+Catarina vocês tão doce lembram em Junho do ano passado houve um ciclone e bomba
+e levou à destruição ao boa parte do Estado praticamente mais de noventa
+porcento do sistema de energia elétrica ficou comprometido e um prejuízo de
+
+00:47
+bilhões de reais estão estudando essa situação por quê que isso aconteceu se
+havia ou não formas de se prevenir um exemplo dessa natureza o que nós é
+constatamos com o governo do estado com a Defesa Civil é que eles estão muito
+bem estruturados para reagir depois do evento mas para te
+e esse passam saber quando ele realmente vai acontecer eles precisariam de
+previsões climáticas de curtíssimo prazo com antecipação ali de 15 minutos e os
+modelos que o CPTEC do INPI consegue processar não dão essa antecipação ainda
+para isso eles precisam de mais informações aumentar a quantidade de
+informações estudando tudo isso com diversos especialistas da área de
+meteorologia de Defesa Civil chegou-se à
+conclusão e se houvesse mais informações através de satélite coleta de dados e
+através de mais plataformas instalados no território eles melhorariam muito
+
+00:48
+essa capacidade de resposta de antecipação o que minimizaria não só o
+prejuízo econômico mas também vidas foram cercados 1511 pessoas que morreram
+nessa última Fatalidade então a bancada Federal de Santa Catarina somou-se a
+esse esforço e eles se comprometeram em buscar
+recursos Para viabilizar um projeto que melhorasse as condições de antecipação a
+esses eventos lá em Santa Catarina Agência Espacial entrou como uma
+articuladora das nossas capacidades na principalmente do INPI de outras
+instituições E com isso surgiu a ideia da Constelação Catarina mas o Curioso é
+que ela não é uma constelação só para Santa Catarina como prejudice e só
+atende sem ordem para baixo eles ficam percorrendo o globo então um satélite de
+se vai percorrendo diversas regiões do Brasil o que essa constelação permitirá
+
+00:49
+então é mais capacidade de coleta de dados em todo o nosso território tão é
+um embrião muito interessante é uma forma diferenciada desfazer espaço no
+Brasil porque não tá saindo de um esforço do orçamento Federal do
+orçamento da agência é um esforço do que já tá chamando de um programa setorial
+um recurso que uma o a ação no caso um governo do estado
+apoiado puxou a bancada conseguiu e vai se valer das capacidades do Ministério
+do INPI da e b para ajudar nos articular
+essa construção Nós acreditamos que isso vai ser um embrião de diversas outras
+operações o aplicações seja para o Ceará Rio de Janeiro Natal que são os que
+estão namorando soluções deste tipo o perfil que o mora falou que é da vamos
+assim na aplicação moderna do que nós podemos fazer em termos de projetos no
+
+00:50
+ministério é com o cenário de restrições orçamentárias é importante é bom é um
+tipo de um crescimento que a gente tem temos de gestão da de trazer
+financiamentos externos para projetos do ministério e os tem sido feito aqui é
+uma busca constante deve fazer esse casamento e é extremamente importante
+que a gente possa colocar isso na prática né dá através das todas
+vinculadas do do ministério para conexões com Ministérios e também tem
+outra coisa né Eu vivo falando sobre a necessidade que nós temos de ir motivar
+jovens para as carreiras de ciência e tecnologia espaço é uma coisa que me
+motiva demais então nós temos aí de diversas né plataforma diversas
+Olimpíadas conectados uma plataforma aqui no ministério limpeza
+a agência São Pedro matemática física biologia química tem todo tipo de
+olimpíadas astronomia astronáutica é e olha se você tá aí na sua escola né
+
+00:51
+Tamos assistindo né E tem ou é um pai que quer aqui gosta de do filho
+trabalhando da filha trabalhando ele que tecnologia aliás nós queremos mais
+meninas participando é na área de tecnologia é Fale com a sua escola né
+Para que ela participe também é porque ela faça é Parte dessas olímpiadas que
+olha isso ajuda e muito ano crescimento do aprendizado de todos esses jovens e
+na definição do Futuro as carreiras que essa tecnologia que eu é o futuro futuro
+É exatamente esse conhecimento Ciência e Tecnologia eu tenho aqui na minha mão
+estão inscrições abertas a primeira competição aeroespacial site clarinete é
+o Cecília assim é para cooperação academia indústria essa iniciativa
+sueco-brasileiro tem como objetivo em e as melhores soluções no campo de
+sistemas e veículos Aéreos não tripulados os vants colaborativo então a
+nós temos as categorias Open Class que é focada em equipes compostas por
+
+00:52
+estudantes de doutorado pesquisadores e startups demais alunos podem participar
+também e o estudante Plus focado em equipes de estudantes até o mestrado
+então duas duas fases aí a premiação da equipe vencedora receberá um prémio de
+6.000 euros para custear as despesas de viagens dos Estudantes os integrantes
+que serão convidados a viajar ao Brasil se forem suecos ou a Suécia se forem
+brasileiros e se encontraram com os representantes da indústria aeroespacial
+dos países visitados na Então tá aí as informações né dá uma pesquisadinha Esse
+é o site aqui o o ponto Center Entra lá buscar informações para participar e nós
+estamos a incentivando os jovens a participarem de olimpíadas de satélites
+nacionais Olimpíadas de foguetes também né de construção nacional e aí o
+
+00:53
+Magritte dentro desse desse contexto não
+é que nós temos aí no desenvolvimento da ali na sempre na Secretaria de
+empreendedorismo e inovação a gente precisa levar esse conhecimento trazer
+jovens para participarem ter mais profissionais e chegar nos status né eu
+falo um pouco a respeito de programas de Startup né do da secretaria né E como
+que pode ser aplicado gente tá pensando aí com as novidades também para o setor
+exatamente para esse setor aeroespacial meu chefe está me observando aqui ó
+e é realmente ministrou a isso é fundamental né É isso que você falou
+aqui é fruto de uma cooperação brasil-suécia ele tá ele comece a
+primeira vez e nós focamos aí nos veículos remotamente lotados nos drones
+mas a ideia Já que no próximo se trabalho com lançadores né pequenos
+projetos lançadores porque foguete tem aplicação foguete para agricultura para
+
+00:54
+monitoramento para fazer chuveiro então quando fala foguete é só acha que eu vou
+entrar vai lançar um satélite não obrigatório mês então isso tem
+aplicações e diversos né E nós achamos assim é extremamente importante essa
+essa incentivo nós temos agora na próxima quinta-feira junto com o pessoal
+do Moura da Hebe já congregando é iniciativas vídeo editais desse tipo né
+buscando as startups a área acadêmica hoje surpreendi nós já identificamos
+estar tá a universidade está tarde já muito bem sucedidas né com jovens alunos
+informados são já estão é futuros empreendedores aí de sucesso né como
+estudante bem gravou a graduação tem então essa massa é crítica de
+conhecimento de desafio de energia ela é um poder fantástica tem que ser
+aproveitada é eu realmente como você falou nós consultamos aí os jovens né
+
+00:55
+Não se preocupe não lançam projectos o mais importante é a criatividade é a
+genialidade Não se preocupa com recursos
+com sofisticação que sequer são idéias e se criança que se aproveita e
+administrativas ideias as ideias é que fazem a diferença sedesc módulos e olha
+a Startup elas aparecem justamente para resolver problemas né e em período de
+pandemias Existem muitos problemas nos traz também muitas oportunidades aí para
+aqueles que tem 10 que querem empreender inclusive Nós visitamos lá olhando para
+os dois aqui eu não sei quem que vai responder essa mas as visitamos lá que
+ele centro né aliás Ali era um tipo de uma fita né aquela aquela um 101
+Instituto de Tecnologia e madrasta e anexo é o do outro lado da rua ali um
+centro de de Startup vamos chamar assim não ele de novo ação e eu fiquei
+impressionado com um dos projetos que nos foi apresentado lá é de um foguete
+
+00:56
+lembra que ele foguete feito eu queria alguém que quem couber quem comenta esse
+aí que eu eu fiquei realmente impressionado o Paulo vim também a gente
+assistiu ali com aquele garoto de vinte e poucos anos é com aquele foguete ali
+daí ele era um modelo um por 9 em todo o projeto lá aí comenta um
+pouquinho sobre isso as possibilidades como nós comentamos aqui o setor que
+mais cresce em termos de quantidade de satélites são os nano-satélites até
+desprezam alguns quilos algumas dezenas de quilos e não existe até pouco tempo
+nenhum veículo específico para isso os lei que foi a gente são muito grandes é
+como se usa no português no jargão comum vai voar batendo lata porque vai sobrar
+muito espaço ou contrário tem que ficar fazendo que nem uma lotação tem que
+ficar esperando Juntar uma série de satélite para justificar um voo nesse
+caso que acontece aqui o satélite vai ficar na órbita possível e não vai ter
+
+00:57
+uma órbita utilizada é um Anseio então da comunidade espacial ter pequenos
+lançadores ou humano lançadores que possam fazer voos dedicados é uma classe
+muito pequena de satélite para óbitos muito bem definidas e o que aquela
+Startup está fazendo é isso identificado um lixo
+e ela pulou um tipo de veículo lançador que inclusive pode ser ajustado na sua
+quantidade de motorista que faz impressão em 3D ou seja para utilizar
+Toda a relação massa potência e pretende
+mostrar inclusive o um vídeo para nós já fazendo teste do motor em bancada é a
+tendência é uma corrida em que existem diversos diversas tentativas de obter um
+veículo dessa natureza por enquanto que tem é o da Rocket Lab que já um veículo
+um pouco maior mas uma categoria inferior ainda existe espaço para a
+gente fazer algo desse tipo é nós temos na Agência Espacial um trabalho que já
+
+00:58
+vem sendo discutido aqui com o ministério e outros interessados na
+defesa é um projeto para Pelo menos já demonstraram a capacidade de fazer isso
+dentro de 12 meses a gente conseguir colocar alguma coisa em órbita e depois
+já otimizar esse esse projeto para que tenhamos no Brasil um serviço de
+lançamento os satélites não é feito o brasileiro eu
+até aproveito então para já dessa forma respondeu uma pergunta que vem de uma
+grande conhecida a nossa que a Nicole nha ela perguntando a senhora diante dos
+avanços da tecnologia e inovações podemos chegar a capacidade de fazer
+lançamentos da daqui do Brasil e em quanto tempo e qual linha sempre ligado
+e uma outra que também tem a ver com isso Qual a previsão para o lançamento
+de um foguete na base de Alcântara ela não eu só separar em dois aspectos uma é
+a questão de nós desenvolvemos no Brasil é um veículo algum tipo de veículo que
+Atenda esse nicho de mercado na no satélite para a órbita baixa e outra
+
+00:59
+capacidade de ter em Alcântara operando veículo já testados em outros locais
+para o caso brasileiro é o que eu falei a gente imagina quem 18 ou 24 meses
+gente já poderia ter algum protótipo brasileiro voando e para veículos que
+venham de outras empresas sejam nacionais e internacionais os contratos estão
+sendo negociados e a previsão que no início de 2022 nós já possamos ter essa
+capacidade instalada no Brasil por enquanto com satélite de menor porte um
+pouco mais adiante já capacidades do tipo do psl ver ou mais excelente olha
+só a gente é nós falamos aqui sobre foguetes nós falamos sobre o centro de
+lançamento nós falamos sobre é o a comissão de desenvolvimento integrado do
+centro de lançamento nós temos algumas perguntas aqui e o pessoal que está nos
+assistindo deve tá perguntando vem cá senão vai falar do Amazônia um ele vai
+falar do que está escrito E como que o satélite está funcionando né Por trás
+
+01:00
+dos bastidores a gente vai falar disso vamos começar né a focar mas isso então
+Clésio vai se vai esquentando aí você vai falar bastante agora né a respeito
+do satélite a respeito das coisas que aconteceram é por trás de tudo isso a
+gente falou sobre o centro aí de toda a emoção é por trás desses
+a todos os do lançamento mas a gente quer saber mesmo sobre o satélite eu
+quero saber uma coisa a gente tem as imagens aí só que pera aí não mostra as
+imagens ainda não que a gente vai postar no finalzinho as imagens lá do satélite
+é isso que eles vão ver é que uma coisa que eu quando vi essas imagens eu fiquei
+confesso que eu fiquei emocionado de olhar essas imagens aqui de um satélite
+100% nacional tudo trabalho desenvolvido
+né Para que chegasse nessa nesse estágio de precisão e o satélite Ele demonstrou
+ali uma capacidade muito grande né de performance logo de cara o que é
+
+01:01
+importante então vamo focar agora é no Amazônia um aqui no satélite usar vocês
+estão esperando aí aliás pode passar mensagem para seus amigos aí eu levo ele
+vai começar a falar sobre o Amazônia um Agora os detalhes dela então passa a
+mensagem aliás Clean e se inscrever no canal do ministério
+tube ponto com barra mcti vamos começar falando sobre o satélite em si né que é
+a parte Nações entrando na parte dos sistemas do subsistema do satélite essa
+daqui que são as barras magnéticas e são um partes do satélite na estação do
+módulo de controle essa parte aqui são as rodas de reação as rodas em azul e
+essa parte aqui é a parte onde fica a estocada o combustível do satélite sim o
+satélite Tem combustível Olá princesas estudam física aí as vezes
+
+01:02
+a gente fica chateado com o professor de física não fique não porque ele tá te
+ajudando da vida aí muita coisa vou dar a estação espacial como chegar na
+estação espacial ela você imagina se não tivesse que usar combustível o tempo
+todo para fazer o controle da atitude da estação para manter ela uma certa
+atitude atitude não altitude é atitude é o posicionamento da a página rolagem
+certo seria primeiro seria muito gasto de combustível segundo é eu tenho uma
+série de experimentos lá dentro cada vez
+que eu aciono um foguetinho daquele para mudar mas eu tô colocando uma acelerar
+sozinho espúria naquele experimentos Justamente a linha microgravidade não
+posso ter isso é tá liso tá vendo pra dar um ter acelerações
+E aí é você é físico né eu fiz nem precisa falar eu vou falar não era
+definido facial então é essa explica um pouquinho sobre a questão de pressão Por
+que que tem essas rodas aqui na casa funciona você goste vamo lá e o
+
+01:03
+importante dessas rodas de reação é a excitabilidade do satélite quando a
+gente fala em roda de reação significa E aí eu vou falar um pouquinho antes da
+roda de ração para entender a questão do Foguete o que que o Foguete quando ele
+sai ele não sai retinho ele está girando
+o pa Isso é novidade para você então vai lá na unidade física do Foguete
+lançamento de foguete você vai entender quando o professor faz aquele
+experimento da cadeira abre o braço fecha o braço chama Momento Angular
+Então quando você faz o giro quando você pega uma massa e faz ela girar e aquela
+massa é massa uma Silva suficiente um disco por exemplo A ideia é que ao longo
+do eixo do disco e para quem é da minha época do CD do
+DVD do long play vai entender o que eu tô falando quando bota o disco para
+girar ao longo do eixo do disco o disco fica estável e esse é o princípio das
+rodas de reação o princípio da proteção ao princípio do giro do Foguete para
+
+01:04
+aumentar a precisão para onde ele está apontando nessas rodas de reação vocês
+viram aqui que são três ou quatro rodas ó olha é isso aí o ministro a isso aí
+isso e significa estabilidade ao longo do eixo da caneta like beleza
+o vinagre faz a outra força Ele faz uma força você tentar incriminar ele faz uma
+força para tentar voltar na posição correta e esses aqui são as rodas de
+reação Então essas rodas são mantidas aceleradas numa rotação que a gente
+chama de rotação nominal é só mandar o mil RPM essa roda chega quanto chega a 6
+mil como eu tenho uma roda horizontal uma roda leste-oeste uma roda Norte Sul
+e uma sobre essa lente na diagonal eu mudou na aceleração de uma para outra eu
+vou mudando a força do satélite eu consigo só mexendo na rotação da roda
+mudar a inclinação do satélite isso melhora o apontamento EA estabilidade
+também então manter essas rodas e estáveis girando uma velocidade bastante
+alta eu consigo manter o satélite estava naquela posição por isso e esse é o
+
+01:05
+sistema útil nesse satélite não naquele que o Moura falou lá no início da missão
+espacial brasileira que tá funcionando ainda satélite de coleta de dados aquele
+satélite original ele era um satélite que fica
+o Spin que ficava compressão e por isso ele ficava na órbita mas esse satélite
+aquele a um satélite que coleta de dados Esse é uma outra classe de satélite
+satélite aqui é um satélite de imageamento ele precisa de capacidade de
+apontamento pessoa capacidade de controle sabe exatamente onde eu tô
+apontando e o principal sistema de apontamento é as rodelas que dá
+estabilidade ela que mantém depois vem as barras magnéticas que usa o campo
+magnético da terra para botar ele numa posição Zinha maior ou menor de acordo
+com a necessidade que a gente tem 52 km de altura
+e vai tá apontando para ele vai passar ali naquela para manter sua estabilidade
+
+01:06
+tirar uma eu vou falar disso porque de dentro da estação espacial que também
+tem as rodas lá de controle não é de atitude mas se dentro da estação para
+tirar foto de um lugar com a câmera você imagina o seguinte eu teu primeiro você
+tá em gravidade zero você tá flutuando aí você tem uma câmera que tem uma lente
+de 400 ou de 800mm que tem uma certa massa e aí para tirar e a janela pequena
+eu quero tirar foto de um ponto ali se eu parasse Estação está 28 mil km por
+hora se eu parar simplesmente a câmera tirar uma foto fica um borrão então eu
+ter eu tinha tirar foto em movimento é tipo apontar para aquela parte ali alvo
+e tirar uma foto em movimento eu confesso pra vocês a uma coordenação
+enorme ali não é fácil tirar uma foto a distância de um alvo uma certa precisão
+na terra e o satélite faz isso a estação fica a 350 e 400 km estado de
+
+01:07
+altura Terra praticamente o dobro da estação Estácio Cavalcanti com câmeras
+câmeras de um adiamento aí que tiram com resolução de 66m das nossas carpas
+estamos trabalhando para desenvolver mais para chegar em dezenas até metros
+se possível E aí vamos vamos aqui tem um sistema sair do satélite o satélite tem
+a plataforma multimissão também é importante né que como um agregado Como
+disse assim que é da missão não é de um objetivo grande aí da missão aqui é o
+módulo de controle da unidade Olha isso aqui é o módulo de essa é uma imagem
+explodida do satélite o que vocês estão vendo aqui nessa imagem ali no centro da
+imagem era a carga aonde fica o combustível né a hidrazina para quem não
+conhece as rodas de reação e os computadores de controle esse
+computadores abrem como uma pétala e eles são testados aí depois a gente levanta
+o e fecha isso que a gente chama de módulo de controle Aqui tá o cérebro
+
+01:08
+Aqui tá um cérebro que controla todo o satélite e depois na parte de cima vai
+acoplado à câmera para mim te dito aqui tem um barramento barramento de controle
+algumas unidades de bateria bateria na onde processamento algumas câmeras de
+São câmeras para olhar para as estrelas câmera de navegação câmera de Navegar só
+porque ainda mais uma novidade aqui para
+você que está acompanhando o canal do do mcti aqui na internet nós ainda
+navegamos pelas estrelas desde os primeiros navegadores que cruzaram os
+mares que espalharam a Comunidade Europeia pelo mundo todo nós ainda
+navegamos por estrelas os nossos satélites ainda confio nas Estrelas essa
+aqui são câmeras imageadores Olha o maquete Zinho aqui aqui beleza ó que
+bonitinho essa imagem da tu estás aqui a imagem ilustrativa não
+
+01:09
+estou esperando a gente vai mostrar a imagem daqui a pouquinho as imagens duas
+primeiras imagens da em primeira mão aqui para você ver as imagens das
+primeiras imagens do satélite amazônia-1
+os bastidores lá né e vi o lançamento na aí tem aquele a fase final ali do voo é
+que ele tá um pouquinho pouquinho antes 17 minutos Felipe liberou o satélite um
+pouco antes ele onde assim para o pessoal ali corte o motor em né corta o
+motor prepara faz o lançamento era a carga principal era o Amazônia hora que
+todo mundo segura a respiração na missa aquela hora que eu vejo que o pessoal vi
+você tão seu coração estava assim ou você dá para ver sua respiração né E
+tava mesmo aqui aquele momento que você vê aquela liberação e satélite saiu na E
+aí abertura do painel serve é o primeiro desafio era esse nadinha
+E aí correto na posição correta e depois abrir o painel que o pessoal será
+
+01:10
+Exatamente isso eu vou aproveitar o seu gancho aqui para abertura do painel para
+agradecer todas as empresas que participaram porque o programa espacial
+brasileiro o mistério mistério que o senhor tá liderando ele a uma das
+funções dele é que tem promover a indústria promovendo outro nacional e
+isso nós fazemos o ímpio é homem contractor ou seja aquele que lidera o
+projeto aquele que desenvolve uma nós estamos desenvolvendo isso e esse painel
+o que o senhor mencionou o painel Nacional até eu tenho uma lista das
+empresas que aparece aqui são todas as empresas para não ser não ser para não
+esquecer de ninguém a fibrafort trabalhou com a propulsão a Scenic com a
+estrutura a ela os conversores a orbital foi que fez o painel solar painel solar
+100% Nacional Equatorial a opto eletrônica o município a uma
+é com várias empresas que trabalham com a gente e a orbital quando fez o painel
+
+01:11
+solar ela fez esse painel é Originalmente era para mim são aoa
+Equatorial do é cor e aí com as contingências que nós tivemos nós usamos
+alguns legados do ciber nós trabalhamos com o recurso que nós temos o seu sábio
+nosso ministério precisa do apoio dos outros Ministérios o ministro vive
+dizendo nós somos uma ferramenta dos outros Ministérios e quando os outros
+Ministérios souberem o que o programa espacial pode fazer por eles pode
+economizar o seu recurso usar melhor o seu recurso aí vocês vão ver então vejo
+nós temos usado legado outras missões Por isso as nossas operações
+internacionais são importantes e aquela abertura dos painéis foi uma coisa de
+parar para a respiração e parar quando ele abriu o painel e ele começou a girar
+na direção da apontamento para o sol deu aquele susto deu aquela segura sabe
+quando você tá naquela montanha russa que passa pela
+em alta quem já andou de montanha-russa sábado que eu tô falando você passa na
+
+01:12
+parte mais alta que o carrinho daquela parada meu Deus faltou E aí você viu ele
+abrindo a câmera mostrou ele abrindo para quem estava presente e foi bonito e
+aí o coração voltou a bater eu não sei se quanto um card de um médico
+cardiologista consegue dizer que o coração fica parado mas o meu parou eu
+confesso que eu vou comprar uns minutos ali que ele parou olha ali ó olha minha
+hora ele vai ficar na verdade são os estágios intermediários ele tá largando
+quando ele sai correndo fechar aqui ó aí
+não é abrir o painel aí seus Comissários
+que são lançados juntos e Pois é exato É só um Esses são os estados que são as
+cargas que são cargas secundárias recomenda tava falando aqui e como não
+temos horário torço plural açaí Beach você tem um satélite que era carga
+principal porque ele foi lançado primeiro né e depois ele faz uma manobra
+
+01:13
+o motor acende motor em para colocar esses outros eram quanto 18 né 1818
+outros até Vocês saíram lá mas não sou ali e ele tem uma um sistema que faz a
+separação né porque para essa separação agência é Paz essa separação do satélite
+E aí o satélite ele saiu e ele sai com o
+certo giro na ali ó a previsão é tem que ser é antes lá é o do satélite nós aí
+ele sai com certo giro é normal ele sair
+com esse jiren ele vai deixar coloca ali a teste a tecnologia Nacional de
+Controle por isso que eu fiz questão de perguntar para você sobre as rodas
+aquela coisa toda por pessoal entender que não é simples fazer isso mas o
+sistema do satélite ele é responsável e reduzir esse giro estava prevista
+reduzir em 8 horas ele reduziu em sete horas 7:40
+e quando o satélite sai ele sai a gente faz alguns contratos nos contratos sai
+
+01:14
+com ele votação nominal que ele pode sair tudo isso é previsto aquilo que o
+senhor falou dos foguete indiano e que uma hora fez o comentário também tá de
+parabéns eles realmente fizeram o primeiro estágio aí a curva do estágio
+ele vai subindo dentro da curva ele apaga o motor principal desconecta tem o
+pirotécnicos e para o primeiro estágio segundo que o senhor falou também larga
+aquela parte para trás para não pesar aí tem uma quedinha depois ele começa a
+ligar o segundo estágio acelera o segundo estágio de novo então ele volta
+tudo isso foi nominal e essa parte também foi aquela que dá o frio na
+barriga que ele pode sair inspirando é natural não é sempre que ele vai sair
+com velocidade zero ele pode ser um espinho e esses pintava no nosso Limiar
+estava no limite do limite um elemento nós fomos ao extremo nesse spin e nós
+precisamos nós acabamos precisando de nós estimamos que levaríamos 8 horas
+para botar ele na posição Ah e por isso acho que nós vamos assim
+
+01:15
+7:40 em 7:40 e o satélite ficou em órbita Ele entrou na sua posição normal
+o que é a posição normal a posição Safe a posição seguro onde o satélite fica
+com os painéis Solares apontando para o sol Quem viu esses desenhos animados que
+tem para as crianças lembra daqueles robozinho tem um famoso aí na televisão
+que o robozinho tem uma hora que começa a bateria peepli tem que abrir os
+painéis Vinhos e fica as coisas que tomando banho de só foi isso que o nosso
+satélite fez ele ficou com a nossa engenharia controlando as rodas
+acelerando ela mas isso é normal acontece em todas as missões ministros
+mais uma coisa sensacional que eu queria ressaltar é que o satélite ele ele já
+nasci igual a igual a gente vê o nascimento de um bicho desses eu sei
+lá o cavalo uma coisa que ele já das e de seu filho já tá em pé e começa ele já
+
+01:16
+nasceu lutando ali colocou os sistemas funcionaram todos eu fiquei quero fiquei
+muito impressionado e satisfeito em ver esse sistema já operando já colocando o
+satélite na posição correta né E hoje ele tá funcionando sem por cento exato e
+isso ele tá agora é a parte mais interessante porque a gente passou por
+aquele sufoco Porque toda missão passa é natural faz parte todo mundo que lançou
+satélite as grandes nações que lançaram satélite agora o Brasil é uma delas
+autônomo passam por esses pequenos sufoco inicial de vai dar certo não vai
+dar certo eu deu certo porque porque a nossa plataforma e é uma plataforma
+nacional no início é resiliente ela é boa ela foi Além do que a gente esperava
+é a gente esperava que em 8 horas colocasse o sistema de volta na posição
+normal para ele como E o frio os testes em 7:40 nós fizemos
+isso muito robôs tudo bem feito e equipe competente viu minha pessoal que ficou
+
+01:17
+lá na madrugada para nós era amanhã da Índia possamos o dia inteiro trabalhando
+depois do lançamento quem não sabe nos Bastidores aqui ó se esse jovem aqui
+trabalha Passamos o dia inteiro trabalhando depois do lançamento mas o
+pessoal passar a madrugada que trabalhando para botar ele na órbita
+certa e olha gente eu fiz questão de falar essa parte aqui né para ver como
+todas toda missão tem um detalhe para que faz isso demonstra a resiliência dos
+sistemas a importância da qualificação do pessoal que trabalha dos
+profissionais é que acompanha o parte operacional eu quando de colei ali eu
+tava colocando a minha vida na mão do pessoal que faz o controle do Foguete é
+o controle de cada um dos sistemas juntos lá o meu treinamento para poder
+fazer o que eu tinha que fazer na hora certa e da maneira correta
+a possíveis emergências e assim por diante e olha nossa tela está p gente
+vai mostrar as imagens daqui a pouquinho né eu tenho você tem mais algumas
+
+01:18
+perguntas ainda Responde às perguntas do pessoal vai ser aguentar obrigado pela
+oportunidade que minhas porque os telespectadores tá mandando bastante
+perguntas de ser tá dando opção para eles o Carlos Assunção pergunta aqui
+qual a vida útil de um satélite da Amazônia o Bora já fez mais ou menos a
+resposta do satélite de corrente projeto um satélite de provérbios projeto é
+porque a gente chama de vida nominal e normalmente um ano a mais 12 anos a mais
+isso é baseado na experiência nos componentes que nós temos o Amazônia um
+o satélite por exemplo scd-1 foi projetado para durar 4 anos mas por
+causa da nossa segurança foi o primeiro satélite ele tá 30 anos no ar
+praticamente e continua operando e continua coletando vaso é um highlanders
+do satélite e uma reunião foi foi preparado
+há 8 rapaz desculpa para quatro anos de operação mas nem sempre sabe como é que
+é engenheiro né Engenheiro sempre projeta coisa com um pouquinho de
+segurança elevador não é aquilo que ele disse que sustenta um pouquinho mais
+
+01:19
+sempre um pouquinho mais tudo é um pouquinho mais o avião e sempre um
+pouquinho mais e o satélite não é diferente a gente prepara a gente
+confessa que o quatro anos ele com certeza operará mas a expectativa é que
+ele chegue nos oito talvez até dez anos de vida útil outra pergunta que apareceu
+aqui do Ricardo Dantas ele fala as imagens serão de acesso público
+certamente meu amigo todas as imagens todos os dados do INPE são de acesso
+público mas lembra que o Vinícius falou aqui quando ele sai tem essa operação
+inicial para colocar ele na posição inicial depois só Teles passa por alguns
+testes e até vão falar isso e isso é exatamente mesmo vamo colocar até para
+falar isso porque ele vai passando O que são esses a gente começa a Ligar
+ligar para os componentes fazer um teste do 1º circuito peça o resto dos
+circuitos auxiliares eu vou contar uma coisa engraçada que aconteceu que eu nem
+
+01:20
+sou chata Só os grandes são alguns desses testes a gente faz teste para
+ligar o subsistema um deles é o teste para saber onde está o sol lembra que eu
+falei apontamento a câmera precisa saber onde é que tá o sol para poder apontar
+os painéis Solares e quando a gente lança a gente faz todo um projeto o
+projeto é na bancada e aí vem a importância de participar de botar a mão
+na massa e aí vem a dificuldade de fazer o que a gente tá fazendo tem uma coisa
+que chama albedo o que que é o bebê Almeida a capacidade de refletir quando
+quando vem luz do sol ela bate Numa superfície e ela reflete para cima a
+superfície for Branca o albedo é alto significa que muito da luz que bate
+volta é superfície foi escura o que acontece
+e a luz é praticamente absorvida pouca luz reflete aí você enxerga com seu olho
+a luz escura que que aconteceu mesmo um desses testes que nós estamos fazendo
+
+01:21
+resolvemos ligar o subsistema e ele tava passando em cima da Antártica
+e o satélite olhou pra tava olhando mais ou menos para baixo para o solta ali
+apontou para baixo até de girou inteiro para baixo foi outro momento de Respira
+fundo meu Deus que que aconteceu o satélite ficou entrou uma entrou em
+parafuso no sítio no sentido não no parafuso do sentido de giro no parafuso
+de computador de bordo se perdeu Fala meu Deus onde é que tá o sol tá embaixo
+ou tá em cima e aí ele que que ele fez entrou no modo Safe ou seja ele cumpriu
+exatamente o que ele foi programado para fazer entrou isso mostra mais uma coisa
+além daquela resiliência Inicial que a gente conseguiu em 7:40 colocar ele na
+posição correta quando ele viu uma coisa que ele se perdeu ele modo Safe
+significa para tudo desliga comunicação painéis Solares apontando para o sol e
+
+01:22
+Ficou ali carregando as baterias quando ele passou em cima né são
+o que aconteceu a gente viu a nossa calibração de bancada não tava tão boa
+quanto a gente imaginava que estaria aí a gente corrigiu agora eu já tá passando
+em cima da Antártica acabou o mesmo é para isso que serve essas testes agora a
+gente termina na quinta-feira agora daqui há dois dias o comissionamento do
+sistema e nós vamos entrar no comissionamento das imagens aí nós vamos
+começar a fazer o comissionamento de imagens que leva no dia quinze agora até
+dois meses para garantir que as imagens você vir entregue por quê que nós
+falamos elas são úteis para agricultura elas são outros para as estradas elas
+são lutas para o monitoramento de barragem a gente tem que entregar um
+produto de qualidade ministros por isso isso comissionamento de dois meses para
+as imagens tá falando de imagens tá ficando está chegando o momento a gente
+
+01:23
+vai ter que terminar Daqui a pouquinho para mostrar as imagens e fazer alguns
+comentários aqui som é demais também sobre isso também tem
+uma pergunta aqui né hoje fala um pouquinho sobre essa pergunta aqui do
+Mateus vicari né é perguntando se o lançamento do Amazônia um pode abrir
+quais portas para o desenvolvimento do programa espacial brasileiro podemos
+pensar em desenvolvimento de mais satélites ou até lançar com veículos
+próprios é feito aqui eu acho que a resposta é sim sim sim né Essa é a
+grande grande sonho que a missão completa né construiu satélite fazendo
+construir o veículo lançar controlar e ter o domínio completo eu acho que é
+importante é maior do Amazônia é que se provou E agora para opinião pública pelo
+componente político componente a nossa área acadêmica que nós somos capazes foi
+isso abre portas né para para Inove incentivos novos nós investimentos nessa
+
+01:24
+área satélite de todo tipo né são necessários o moro aqui falou de alguns
+deles não satélite micos e eu lembro que é esse é um satélite que
+monitora ela é ótico então nós temos satélites radares que não tem problema
+com nuvem é esse tem uma aplicação o satélite radar tem outras então isso eu
+não tem fim se não tem rápido até de comunicação então assim hoje nós temos
+demanda para milhares de satélite né e finalmente com o Centro de Alcântara e
+com a indústria produzindo lançadores aí sim nós vamos ter a plena capacidade da
+missão completa e depois de explorar isso comercialmente para trazer
+dividendos trazer recursos né para para o país assistindo aqui é uma mudança né
+um ponto de inflexão no programa espacial brasileiro a gente está falando
+de um satélite foi projetado e construído no Brasil acabou de ser
+lançado Então tá funcionando agora a gente vai mostrar as primeiras imagens
+
+01:25
+dele ele tá falando de um centro espacial de Alcântara que tava lá
+há tantos anos aguardando e agora dever finalmente o desenvolvimento do seu
+entorno desenvolvimento dos sistemas integrados tudo aquilo que a gente tá
+vendo desenvolvimento de foguetes de aí a usasse uma categoria de foguete que é
+possível e muito é o mercado muito grande cenas envolvendo o Brasil
+aplicações ele falou de constelação de satélites eu vi lá na Índia o pessoal
+apresentou com um orgulho enorme né já a
+questão de voos tripulados eles voltarão no próximo ano dois já fazendo as
+primeiras missões tripuladas é a partir da índia é com veículos próprios e a
+gente vai seguir essa trajetória também o espaço é literalmente as duas opções
+espaço literalmente infinitas aí você que está assistindo aí pensando em um
+futuro né você tá vendo aqui a Gênese de um para olhar genes E também o nova
+
+01:26
+interessante né eu parei Este não é do dos israelenses significa o no começo
+e também tem uma parceria com Israel com
+isso eu muita coisa interessante aí pela frente mas finalmente chegou aquele
+momento ele está todo mundo esperando esperando demais né eu também para
+assistir para ver as primeiras imagens do Amazônia um então é Clésio você
+comanda aí agora vamos começar então com a primeira imagem a gente escolheu
+quatro imagens simbólicas aqui uma delas eu não posso negar a primeira delas eu
+queria começar Vou colocar aqui na tela minha querida São Paulo São José dos
+Campos como diz o moro berço do programa espacial Olha a qualidade Nós estamos
+vendo aqui São Paulo Guarujá toda Baixada Santista
+e essa imagem que vocês estão vendo ó tá
+
+01:27
+com resolução de 66m Olha a qualidade da para ver a Dutra dá para ver toda a
+região do Vale do Paraíba até chegar em Taubaté eu só consegue apontando com o
+mouse aí o que ele tá falando vai apontando que é legal e bota a imagem
+inteira aqui para dar tela imagem inteirinha a seria melhor ainda e vamos
+montando com o mouse aí não dá para fazer as duas coisas juntas
+E aí ele veja aquela mina que você encontra ali no canto da sua imagem que
+você tá olhando para a tela do seu computador das o tablet agora do seu
+celular aquela Ilha que aparece ali no canto inferior esquerda aqui no meu
+Ilhabela Um dos lugares mais bonitos que tem no litoral norte de São Paulo quem
+conhece quem não conhece precisa aí todo o litoral norte toda Caraguatatuba
+Ubatuba tá tudo para ver esses riscos que vocês veem a senha essas imagens
+essas coisas brancas Bang Sagas é aquilo que a gente tava falando de novo essa
+arco aí ó esse daí onde você está mostrando é São Paulo aí eu por São
+
+01:28
+Paulo mais subindo em direção ao nordeste é um caminhando com círculo aí
+ela fez foi a São José dos Campos você tá seguindo pela Dutra saindo de São
+José dos Campos chegando na região de Caçapava chegando em Taubaté indo em
+direção ao Rio de Janeiro essa é a primeira imagem que eu gostaria de mostrar em
+e também a equipe que trabalhou meninos por isso que a gente escolheu a primeira
+imagem São José dos Campos Taubaté São Paulo é a cidade aqui é levaram já isso
+é essa daí Guarujá do lado tem Bertioga mas seguindo o litoral subindo litoral
+sul ali um pouquinho mais para cima subindo um pouquinho aí a Bertioga
+subindo um pouquinho mais pelo litoral em Juquehy São Sebastião São Sebastião
+em Juquehy bem Hoje está em Juquehy São Sebastião é bem pertinho da Ilha Bela aí
+
+01:29
+é São Sebastião E aí vai subindo Caraguatatuba já essa grande aglomeração
+é Caraguatatuba bom e depois quando vocês conseguirem
+baixar se as imagens do site do ímpio vocês vão poder dar um você responder
+quase praticamente a sua casa você não vê como a qualidade dessas imagens é boa
+onde os comentários bastidores de novo mesmo nós estamos usando a tecnologia
+alegada das nossas antes outras lançamentos essa câmera é uma câmera
+alegada da nossa parceria anterior e mesmo assim a qualidade dessa câmera é
+melhor que os outros estão lá né nossos o pessoal que trabalhou que está
+processando as imagens aliás um abraço para todo mundo que está trabalhando
+trabalhou duro para entregar as imagens no prazo para que o povo pudesse ver
+eu disse assim ó é a qualidade dessas imagens tá melhor do que os satélites
+estão em órbita do nosso satélite nacional é melhor do que aquele que nós
+
+01:30
+desenvolvemos com as outras parcerias bombas repetir isso aqui gente a
+qualidade é show é show qualidade chow-chow satélite achou a plataforma é
+show e a qualidade é 10 vezes isso aqui gente eu tô lembrando do tempo ali da
+estação espacial passando em cima do Brasil eu queria tirar fotos para
+mostrar para o pessoal como é que era você fala assim por a foto nunca fica
+igual que eu tô enxergando aqui eu tô vendo esse negócio é basicamente como eu
+enxergava de lá então essa foto tá do jeito que eu enxergava então vice é
+muito legal isso aí é é Brasil velho Brasil aí para ter orgulho do nosso
+Brasil vai lá próxima foto aí ó Oi e aí Rio de Janeiro não tem como você
+né o nosso Rio de Janeiro conhecido no mundo todo aquela imagem que nós temos a
+ter eu tava em cores reais essa imagem a gente tá mostrando não só a imagem Mas
+tá mostrando outra técnica para mostrar a capacidade de processamento de imagem
+
+01:31
+para mostrar a importância do processamento aqui são cores falsas O
+que significa cores falsos ouvido nós trocamos uma cor propositadamente
+justamente para realçar Então veja que nós temos todos Rio de Janeiro Toda a
+Bahia é como é que chama a Marambaia Justina aqui ó ó
+a Restinga da Marambaia aqui ó essas e aqui ó é essa é a Restinga da Marambaia
+o rapaz bem você também quem tem outros pilotos de caça aqui ó esse decolado de
+Santa Cruz que fica logo aqui em frente à Restinga para que decolava dali e
+fazia as missões aí de bombardeio e etc da Restinga da Marambaia tem um um
+estande de tiro lá é região de Nova Iguaçu o Rio de Janeiro toda tô na
+
+01:32
+cidade maravilhosa a Bahia tô subindo aqui Mas acima você vê
+Petrópolis já começa a serra de Petrópolis aqui ó
+E aí é o Paulo O Paulo o link aqui com nosso secretário para o link aqui
+conosco ele é dessa região aqui daqui a pouco tiver um capacho a gente ver o seu
+sítio lá cuidar agora é só Milena né para não ver a sua a sua colheita de mel
+lá suas abelhas aliás bom trabalho que você faz com os Mel aumentando a
+população de abelha tá fazendo excelente trabalho próxima imagem podemos passar
+para a próxima imagem isso próxima imagem e esse daqui que nós estamos vendo é o
+Rio São Francisco Isso é para começar a mostrar além das imagens da cidade aqui
+tá represa de Sobradinho aqui onde eu tô mostrando aqui ó represa de Sobradinho
+
+01:33
+onde mostra todos os sobradinho dá para ver olha que maravilha olha as
+aplicações Olha o que os outros Ministérios pode usar as imagens
+produzidas aqui mostrando exatamente aquilo Ministro somos a ferramenta dá
+para ver assoreamento de rios dá para ver o que vem trazendo assoreamento da
+barragem que vai diminuindo a capacidade de armazenamento dá para ver as bordas
+dá para ver alagamento esse daqui que vocês estão vendo é o Rio São Francisco
+a Barragem de Sobradinho casa nova fica por aqui
+e aqui você tem Remanso aniversário de Remanso aqui ó aí Guarabira Guarabira
+Baía nós vamos descer o São Francisco E agora tem uma novidade desse ano em São
+Francisco nessa direção nós vamos mostrar essas aqui são em cores reais tá
+Nós estamos vendo aqui são coisas de novo esses esbranquiçados que vocês
+
+01:34
+estão vendo na imagem São nuvens então nomes aqui tem mais ao Sudoeste a
+Sudoeste da sua imagem você vê um complexo de novo e depois ela vem
+pingando aqui assim ao Sudoeste Depois ela vem pingando pingando pingando
+desaparece e deu uma excelente ideia de como é o São Francisco nós vamos descer
+agora vamos descer o São Francisco e vão ver a próxima imagem Ministro a parte
+imagem que a gente trouxe para mostrar é para mostrar outra capacidade do nosso
+satélite esse daqui continua sendo o Rio São Francisco subindo ele aqui você vai
+chegar na Barragem de Sobradinho mas olha aqui e o que nós estamos vendo aqui as
+plantações dá para ver a hora você vê aqui assim ó a hora que ele está
+plantando a hora que ele tá preparando a terra a hora que tava Olha a capacidade
+aqui ó a preparação da terra dá para ver se a plantação foi circular isso aqui
+
+01:35
+Possivelmente a plantação com pivô central Exatamente exatamente que o
+roteamento Então você consegue Olha só Banco do Brasil financiamento olha ao
+potencial de aplicação do setor espacial nisso eu vou confessar ele ainda não tá
+perfeitamente na órbita essa imagem aqui ainda não é no final do comissionamento
+essa daqui é a primeira imagem com qualidade Quando ele chegar na órbita
+está ruim e as ações de um satélite como esse como o
+Clésio falou elas vão geralmente Pessoal pessoal é o satélite amazonia-1
+relaciona né logo com monitoramento de batamento queimado vai ser bem que tem
+um monte de aplicações para a agricultura para o meio ambiente não é
+para para outros setores como é fronteiras oceanos vai passar em cima de
+
+01:36
+oceanos também né é esperamos estradas monitoramento de obras grandes obras
+horizontais Olha aí comendo aqui já usou Hoje ele já falar de contas que tem
+acompanhar o Tribunal de Contas do Pará que Paraná que querem acompanhar grandes
+obras pode acompanhar do seu escritório usando a infraestrutura gratuita imagem
+livre proporcionada pelo Ministério de Ciência Tecnologia inovações gente está
+dá para ver isso aí né Eu também vamos dar uma olhadinha nas quatro de novo
+assim só para passar para vocês ficarem com saudade aí mas seus seguinte esse é
+o sol começo tem muita coisa boa pela frente programa espacial é isso Agência
+Espacial brasileira aqui com a gente com
+Carlos Moura mangrich é responsável aqui
+no ministério é por todas as tecnologias
+estratégicas da parte de espaço na parte nuclear é segurança cibernética todas
+
+01:37
+essas tecnologias são estratégicas para o país essas não tão vendo aí mais tarde
+o Paulo vim Paulo Soriano tá o Zeca ele também né tá todo mundo aqui o pessoal
+nossa nossa nossa cerimonial porque esse é um momento muito importante é para o
+país o que nós vimos agora com essas imagens é um momento histórico para o
+país a quanta coisa pode dar errado no lançamento de um satélite na o desenho
+na produção e tá aí ó resultado É isso aí o satélite
+os espaços operando em comissionamento agora fazendo todos os testes para
+entrar em conta assim efetivamente uma operação daqui a alguns meses já com
+todas as imagens testadas com tudo isso aí a equipe controle completamente no
+Brasil isso é importante também né isso é importante mesmo só me permitir é
+importante para o Brasil faz parte de um
+consórcio chamado desastre Charter o que
+
+01:38
+significa isso significa que o Brasil já com os seus outros dois satélites em
+cooperações internacionais que nós já mantemos nós participamos quando existe
+algum desastre natural por exemplo o Etna entrou em erupção algumas coisas
+acontecer desastre de deslizamentos grande parte todos os países que têm
+esses satélites que eles controlam eles participam desse consórcio Internacional
+onde todo mundo se mobiliza para prover aquela nação que sofreu aquele desastre
+com as melhores imagens com a melhor revista nós
+a fazer isso agora ao absolutamente autônomo nós vamos ainda mais mostrar a
+nossa capacidade de ajuda aos nossos outros irmãos principalmente aqui da
+América Latina e e ficar falando aqui é a noite toda o
+assunto é muito interessante é demais eu queria agradecer muito Léo mangrich é
+que aquilo Ministério responsável pelas tecnologias e estratégias agradecer ao
+
+01:39
+Dr Clésio é diretor do INPE parabenizar todos da equipe do INPI é que trabalhou
+na forma O Magnífico é desde o primeiro lá do comecinho da história lá atrás até
+os dias de hoje a todos da Agência Espacial né do nosso programa espacial
+aí muita coisa a frente ainda é um trabalho grande feito agradecer a cada
+um de vocês que tem participado que conosco é acompanhando as nossas lives E
+torcendo aí para o programa espacial brasileiro é torcendo para ver essa
+bandeira verde-amarela no espaço e cada vez mais em lua Marte mais astronautas
+brasileiros o programa espacial realmente uma cor
+o jornal e agora não é só para gente ir encerrar a eu queria deixar vocês com um
+vídeo é um vídeo muito especial mostrando as imagens É isso aí gente
+
+01:40
+gostaria de agradecer a todos vocês ver para estarem conosco no próximo ciência
+e tecnologia no seu dia a dia diretamente daqui do ministério de
+Ciência Tecnologia inovações eu sou o Ministro Marcos Pontes Esse Ministério é
+seu é esse mistério é do Brasil nós estamos aqui para prover conhecimento e
+que Jesus para o país mais qualidade de vida para as pessoas Obrigado a todos
+vocês fiquem com o vídeo aqui das imagens do amazon Grécia e tem lá no
+colchão o salário do inhame e o lago Titicaca a borda do Chile é
+assim que o satélite passa quando a gente está operando o satélite recebendo
+as imagens é isso que a gente vê a gente tem um mapa no Brasil que a gente sabe
+da América Latina inteira do Globo na verdade essas linhas que estão passando
+aqui linhas vermelhas mostram a faixa que ele ta imaginando e a linha Central
+mostra o que que ele tá imaginando no centro da tela agora então você tá vendo
+
+01:41
+aqui ó o salário salário do Iumi aqui já para cima já ficou dedicar que eu só
+isso aqui é como se você tivesse voando nós estamos tendo um pouco eu vejo volta
+das suas que eu conheci a mesma coisa a fazer como se fosse uma claro que você
+vê a imagem não tá processado ainda essa imagem bruta e olha como é bruta ela já
+é bonita olha como ela já é boa mesmo bruta depois nós vamos fazer a
+composição de cores vai chegar nesse daqui olha que maravilha É isso aí gente
+Obrigado a todos vocês esteja conosco no próximo Ciência Tecnologia no seu dia
+tô falando sobre Amazônia 1 mostramos com exclusividade para vocês as
+primeiras imagens do nosso satélite brasileiro um abraço ou fiz na ciência
+brasileiro tchau tchau e E aí

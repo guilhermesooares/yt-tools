@@ -1,0 +1,592 @@
+
+00:00
+WEBVTT Kind: captions Language: pt [Música] olá pessoal
+meu nome é luciano azevedo eu sou professor livre docente do hospital das
+clínicas na disciplina de emergências clínicas hc da faculdade de medicina da
+usp som superintendente de ensino do hospital sírio libanês e coordenador do
+curso de atualização em terapia intensiva do hospital das clínicas em
+parceria com a educação tanto na modalidade princípios contra modalidade
+avançada hoje nesse webinar a gente vai discutir o cenário da perfusão do
+paciente grave quais são as implicações qual é o contexto que o lactato tem que
+está é é avaliado nesse cenário de perfusão então a gente vai comentar
+principalmente quais são as principais fontes de lactato não existe um cenário
+é equivocado de que o acusado seria derivada do metabolismo aeróbio mas a
+
+00:01
+gente sabe que existem outras possíveis mecanismos causadores de pela acta temia
+no paciente grave o paciente crítico notadamente no paciente séptico ea gente
+vai comentar também do ponto de vista clínico se faz sentido nós é tanto
+avaliamos o lactato clinicamente do ponto de vista de correlação com um
+prognóstico mas também se faz sentido usar o lactato como alvo da
+ressuscitação e se existem outras técnicas que podem ser usadas como
+alternativas ao acto do cenário de alvo da recitação do paciente com do paciente
+com um choque de pacientes com sepse do paciente crítico de maneira geral
+então se alguém quiser usar essa apresentação fico então os slides da
+apresentação estão disponíveis para vocês em qualquer dessas nesses formatos
+basta entrar em contato comigo ea gente pode disponibilizar os dados pra vocês
+sem nenhum tipo de problema bom quando a gente fala do paciente crítico quando a
+gente fala do paciente grave todo o nosso objetivo de tratamento do
+
+00:02
+da disfunção cardiorrespiratória do paciente em choque do paciente com
+disfunção hemodinâmica do paciente com qualquer fusão tecidual e pela academia
+disfunção de múltiplos órgãos tem como objetivo fundamental a gente é
+padronizar a oferta e consumo de oxigênio ou seja quando senna em
+cenários onde existem redução da festa tecidual de co2 a gente pode
+otimizar essa oferta tecidual 2 aumentando débito cardíaco do paciente
+aumentando o conteúdo material de oxigênio no sangue do paciente e
+consequentemente melhorar a perfusão para os tecidos e consequentemente
+reduzir hipoteticamente a disfunção orgânica
+o cenário de o paciente tem um consumo de oxigênio aumentado a gente também
+pode como por exemplo taquicardia extrema febre o paciente agitado paciente com
+convulsões o paciente com muita dor sepsi né no cenário de aumento do
+consumo tecidual a gente também pode reduzir esse consumo
+tecidual através de medidas para tratar esses processos que eu acabei de
+
+00:03
+comentar com vocês existe um cenário importante que já foi
+descrito há algum tempo de avaliação do da equação do balanço entre oferta e
+consumo de oxigênio que é exatamente o cenário que está inscrito para vocês
+aqui necessidade então vejam que existe uma curva de off de comparação entre a
+oferta e consumo de 12 de tal maneira que eu tenho um paciente
+estava hemodinamicamente com 600 por exemplo ml por minuto por metro quadrado
+excedente de oferta ter sido ao dia 2 ele tem uma determinada taxa de extração
+e com isso ele tem um consumo de oxigênio se acontece alguma coisa com esse
+paciente por exemplo um choque hipovolêmico ele sangra um choque
+cardiogênico essa oferta cai para 400 ml
+por minuto por metro quadrado é eu teria ainda um paciente com a confusão
+tecidual dentro do cenário adequado porque o consumo de oxigênio não mudaria
+eu estou numa fase de platô desse consumo onde existe não existe uma
+
+00:04
+dependência entre o consumo ea oferta porque quanto mais eu vou cair na oferta
+ainda nessa fase de platô eu continuo mantendo o consumo igual
+porque eu tenho um aumento da taxa de extração que werre assim em inglês da
+sert um ratio de oxigênio a nível dos tecidos só que à medida que o vai
+ocorrendo piora clínica complementar do paciente eu posso cair por exemplo de
+uma oferta de 400 que está aqui para uma oferta de 300 250 que está nesse ponto
+aqui quando ultrapasso o chamado the world
+mais crítico eu começo a ter uma queda do consumo é propor o consumo de prova a
+oferta de 400 tinha consumo nesta fase aqui dá do gráfico por um profeta de 250
+e tem um consumo muito mais baixo porque
+eu cheguei no máximo da taxa de extração não tenho como reduzir é aumentar
+substancialmente de forma adicional à taxa de extração e qualquer queda da
+
+00:05
+oferta tecidual de oxigênio que acontecer com esses pacientes
+vai acontecer uma queda proporcional do consumo e aqui nesse cenário é o cenário
+onde existe de acordo com a sugestão da terapia intensiva nos seus primórdios o
+cenário de janeiro 11 e vejam o que acontece com lactato na curva azul
+nesse mesmo contexto a medida que eu vou diminuindo o consumo de oxigênio e
+diminuindo a oferta e consequentemente ou seja paciente vai apresentando o pior
+da sua profusão tecidual o lactato supostamente aumentaria de forma
+significativa depois que ultrapassei o chamado the o2 crítico com o aumento do
+lactato aumento do metabolismo aeróbio esses pacientes seriam disfunção de
+múltiplos órgãos e consequentemente um aumento significativo da mortalidade
+isso era o que se achava do ponto de vista de fisiopatologia que explicavam a
+
+00:06
+perfusão tecidual dos pacientes em estado de choque eu teria quedas
+progressivas da oferta de oxigênio com manutenção do consumo às custas de um
+aumento da taxa de extração com quedas ainda maiores da oferta de oxigênio eu
+não consigo mais extrair o consumo começa a diminuir
+e essa diminuição do consumo de oxigênio geraria anaerobiose não conseguiria
+produzir mais atp eu teria que gerar lactato e o aumento desse lactato que
+vocês estão vendo aqui circulado era o que um dos motores a disfunção de
+múltiplos órgãos desse paciente só que se viu que esse mecanismo existe mas ele
+não é o único mecanismo capaz de produzir o aumento do lactato dos
+pacientes graves dos pacientes em choque dos pacientes com sepse então por isso
+que está escrito aqui o mito basterds caçadores de mitos
+por que a hipótese de que o lactato só é
+gerado por anaeróbio ozzy é uma hipótese de falha no cenário do paciente na
+unidade de terapia intensiva no cenário do paciente grave
+
+00:07
+então quais são os possíveis mecanismos que estão associados com aumento do
+lactato o primeiro claramente é o mecanismo que eu acabei de citar pra vocês
+então dentro da produção de atp da conversão do oxigênio para a atp dentro
+da mitocôndria dentro do ciclo de greves dentro do metabolismo celular
+a gente teria ok é pelo voto por conversão da privada das marginais
+entrada do ciclo de greves produção de atp em água e gás carbônico
+o problema é que nos pacientes graves você pode ter um bloqueio da pelo fato
+da gênese bloqueio da formalização alternativa e um bloqueio da produção de atp
+exatamente naquele cenário de queda do consumo de oxigênio tecidual ou ausência
+de aumento do oxigênio do consumo de oxigênio tecidual então aqui a gente teria
+conseqüentemente o acordo é conversão de se provar tuá lactato e aí esse lactato
+
+00:08
+seria é relatado produziria uma quantidade menor de atp do que
+proporcionalmente à produção de 36 a 38 atp da facilitação quantitativa e esse
+lactato ele seria capital é causador de daí pela academia do paciente grave
+na verdade o lactato ele seria utilizado como combustível
+o cérebro em alguns tecidos que são capazes de utilizar o lactato como
+combustível ou ele voltaria para a produção de glicose através do ciclo de
+cloro decore principalmente no fígado então a idéia inicial seria de que o ato
+era simplesmente um marcador de janeiro 11 de perfusão tecidual e
+consequentemente de disfunção orgânica dos pacientes
+depois se viu que o metabolismo do lactato nem a cinética do lactato é
+muito mais complexa do que simplesmente é maravilhosa hoje a gente sabe que
+existem vários possíveis mecanismos que estão associados com pelo atendimento do
+paciente grave ou discutir esses mecanismos com mais detalhes pra vocês
+
+00:09
+os próximos slides por exemplo existe uma discussão de que
+o actual é relacionado ou não a oferta de oxigênio tecidual
+toda essa lista de trabalhos aqui é uma lista de trabalhos que sugere que um
+paciente ou no modelo experimental de sexo onde disfunção orgânica grave
+você não tem um evidência muito clara de epóxi e tecidual significativa de
+hipóxia muscular e pode ser a musculatura da bexiga de box e tecidual
+e outros órgãos onde se colocou os sensores de oxigênio e civil também que
+não existe uma correlação muito adequada
+entre o lactato entre o valor do lactato o valor da saturação da nova central
+se vocês lembram a saturação da nova central é aquele parâmetro que compara a
+consumo e oferta tecidual de oxigênio ea gente viu como vocês estão vendo aqui
+que não existe uma correlação muito adequado entre o lactato existe uma
+disparidade entre os valores de lactato e de saturação da nova central
+assim como também não existe uma correlação muito linear ou qualquer tipo
+
+00:10
+de curva entre o lactato e oferta de oxigênio tecidual
+isso sugere que na verdade a causa do do acesso de lactato pode não ser
+simplesmente uma oferta tecidual de oxigênio aumentada e sim possíveis
+outros mecanismos que estejam agindo nesses pacientes incluindo o estado de
+pedra energização que tanto a própria doença quanto as nossas terapêuticas
+podem causar incluindo a uma piora da cinética do lactato por aos é por
+alteração do metabolismo hepático incluindo outros possíveis mecanismos
+que eu vou mostrar pra vocês mais pra frente então tanto endógena
+mente quanto exógena mente através do nosso tratamento é você pode ter uma um
+aumento da concentração sérica do lactato independente
+daí por perfusão tecidual então vejam por exemplo aqui que paciente com stress
+circulatório muito significativo paciente em choque o paciente sente se
+
+00:11
+ele tanto pode produzir a pininfarina endogenamente ou seja gerando ao
+estatuto um status imperador enérgico nesse paciente como também o simples
+fato da gente administrar pneu frio de forma só jenna é de forma
+a externa como tratamento da daí da profusão de hipotensão também pode pôr é
+é efeito nos mercados nos receptores de glicose celular aumentar a produção de
+lactato desses pacientes de forma significativa no bloqueio das 7h em cima
+há bloqueio da pelo voto desde o ginásio
+ou seja é o próprio tratamento exógeno a própria adrenalina que a gente está
+circulando nesses pacientes também pode aumentar o seu lactato
+significativamente gerar então e pela academia e o risco de morte aumentado
+independente desses pacientes estarem em regime de anair o pior o regime de área
+a bola então nesse cenário simplesmente o nosso tratamento pode piorar a
+
+00:12
+academia dos pacientes um outro mecanismo possível é uma
+alteração da do metabolismo uma alteração da atividade da só de potássio
+até pease de membrana também independente do status de nairóbi ozzy
+também independente do status de orbe 11 ou generosos simplesmente uma disfunção
+dessa enzima causada por exemplo pelos mediadores inflamatórios que é que podem
+ocorrer que podem ocorrer durante a sepse pode gerar um aumento da produção
+do lactato independente da aaa dada regime de harare 11 ou do regime
+generosa então quando você bloqueia enzima você pode reduzir essa produção
+do lactato como está demonstrado é como está demonstrado necessidade de cidade
+aqui então vejam que por alteração da enzima que está presente na membrana
+celular por excesso de hormônios adrenalina discos é é adrenalina e
+
+00:13
+outros metabólitos da hiperestimulação adrenérgica do paciente em choque do
+paciente e sepsi isso pode acarretar produção do lactato de forma
+significativa independente da do regime de janeiro 11 que esse paciente possa
+estar sendo submetido então a gente viu que tem estudos que não demonstram
+claramente esse box e tecidual pode ser que assim possa ter sido a
+ocorra precocemente no cenário por exemplo do choque e das apps uma vez
+suscitado s.paulo que tenha sido ou não mas se mantém
+e esse excesso de lactato circulante que a gente vença e pela acta temia que a
+gente vê pode ser por algum desses outros
+mecanismos bloqueio das da das enzimas e pedrina rpa de energização ou atividade
+alterada só de potássio atp as da membrana ou dificuldade de remoção do
+lactato a remoção do natal pelo ocorre no fígado em 60% 15 em 10% e em 30 por
+cento se eu tenho um paciente com disfunção renal e disfunção hepática e
+
+00:14
+se clareamento aliás clareamento não é o termo mais adequado o clareamento a
+gente fala pra meter medicamento para a droga
+então aqui pra lactato é é cinética ou remoção do lactato do organismo
+essa remoção do lactato essa cinética ocorre principalmente nesses órgãos
+logo se eu tenho um paciente com disfunção hepática significativa né com
+insuficiência hepática crônica agudizado mesmo com insuficiência hepática aguda
+ou pós transplante de fígado com disfunção tal isso pode haver uma
+dificuldade do clareamento da remoção desse lactato e conseqüentemente o
+aumento do lactato que a gente está vendo veneno da circulação ele é
+simplesmente um marcador de a dificuldade de remoção e não
+simplesmente de aumento da produção então é isso que a gente precisa
+entender quando a gente utiliza o lactato como marcador da perfusão
+tecidual ele é um marcador de estresse metabólico claramente e ele é o marcador
+fundamental de gravidade dos doentes a presença de peer na academia no cenário
+
+00:15
+de um paciente na unidade de terapia intensiva na enfermaria ou no
+pronto-socorro indica uma gravidade significativo indica um risco de morte
+bastante elevado como vocês vão ver nos próximos slides tanto para população
+adulta quanto para a população pediátrica mas dizer que o lactato é
+simplesmente o marcador janeiro o bronze
+é muito difícil de você identificar qual é o mecanismo principal que está
+causando o aumento do lactato sendo que existem tantos mecanismos relacionados à
+produção como também mecanismos relacionados à dificuldade da remoção do
+lactato como eu acabei de explicar a necessidade para vocês
+do ponto de vista clínico que a gente pode ver
+d a observação de correlação entre o lactato gravidade com relação a julho a
+taxa de mortalidade de pacientes graves até então um dos primeiros trabalhos que
+identificou isso é o trabalho do joel é de 2007 ele sugere uma associação
+
+00:16
+significativa entre e pela academia e hipotensão em pacientes com que podem
+dar para apresentando suspeita de infecção e para perfusão oculto que
+seria para perfusão oculta é simplesmente o paciente que chega com
+pressão arterial normal sem sinais em profusão no exame clínico mas tem pela
+academia então mesmo com pressões históricas dentro da faixa considerada normal
+pacientes com lactato acima de 4 mil imóveis por litro que multiplicando por
+nove para a gente ter o valor em miligramas por decilitro
+seria algo em torno de trinta e seis miligramas por decilitro que é um toque
+de lactato de paciente grave é significativo
+esses pacientes já têm uma mortalidade muito maior do que é pacientes com
+lactato os intermediários também têm uma mortalidade mais aumentar de lactato de
+considerados dentro da faixa normal se o cenário é de hipotensão e pela academia
+isso foi confirmado um estudo brasileiro
+
+00:17
+que nós vamos mostrar daqui a pouco se o cenário é de hipotensão pressão
+sistólica menor que 70 e perafita temia mortalidade desses pacientes aumenta pra
+algo em torno de 60% ou seja demonstrando a mortalidade bastante
+significativa nesse cenário de perfusão tecidual avaliando os dados da survival
+insere se empenhem a gente consegue dividir bem os padrões de lactato dos
+pacientes com hiperlipidemia e hipotensão e pela academia é 100
+hipotensão e pressão arterial normal a pressão normal e lactato normal e
+pressão até pressão arterial normal e lactato aumentado
+notem que a mortalidade predicta vai aumentando significativamente quando
+você tem é o paciente potência o lactato
+aumentado e medido de forma muito tardia ou seja isso
+mostra a importância dada da avaliação do lactato dentro da avaliação inicial
+
+00:18
+do cenário do paciente grave do cenário do paciente sexo se eu tenho um paciente
+com deterioração clínica na minha enfermaria no pronto-socorro mesmo na
+unidade de terapia intensiva é obrigatório para mim me de um lactato
+para ver se essa piora clínica alteração do nível de consciência sinais de
+perfusão e hipotensão se essa piora clínica não se associa ao internauta
+temia o que vai conferir um risco adicional significativo de morte para
+esses pacientes um outro dado que também se tornou
+clássico em relação ao lactato é o que se chamou a época de clareamento do
+lactato mas hoje novamente eu devo dizer
+que o termo adequado pra isso é cinética
+do lactato seja capacidade de remoção do akatu dentro das primeiras por exemplo
+seis horas de atendimento do paciente o grupo do emanuel rivas fez esse estudo
+onde eles avaliaram 111 dado que é o a cinética do lactato nas primeiras seis
+
+00:19
+horas então eles compararam o ataque na apresentação - o lactato na sexta hora
+dividido pelo atraso na apresentação x 100 e eles viram quando isso era maior do
+que 10% é essa essa cinética claramente o paciente tinha um menor risco de
+morrer do que com o descaramento de lactato era menor do que 10%
+veja aqui a chance de sobrevida quando o clareamento do arquiteto é menor do que
+10% é muito baixa a chance de sobrevida ao passo que a chance de sobrevida é bem
+maior quando o paciente consegue remover esse lactato ou seja o que é isso
+mas enxergou o lactato de 50 e outra te tratei depois de três horas o ato dele
+vem 52 eu tratei novamente batata dele em 49 ou
+seja não conseguiu reduzir o seu lactato em seis horas em relação é de 10% em
+relação ao acto da apresentação demonstrando que ele não tem reserva
+para a remoção do lactato os mecanismos produtores de lactato nesse paciente
+
+00:20
+então muitas acerbadas e o meu tratamento não está sendo eficaz no
+fluido em drogas vasoativas não está sendo eficaz em remover esse lactato do
+organismo estatal maneira que é isso está gerando um
+impacto academia persistente e isso como vocês estão vendo aqui diminui a chance
+de sobrevida aumenta o risco de morte significativamente para esses pacientes
+como eu disse os brasileiros também fizeram um estudo onde eles compararam
+diversos tipos de choque e um padrão entre hipotensão e pela academia
+então a gente vê aqui que se o paciente não tem hipotensão e não tem é exacta
+temia esse paciente não tenha um risco de ter
+um risco de morte obviamente ela sobre a vida dele vai diminuindo em até 28 dias
+mas o risco de morte não é tão significativo o que marca o
+risco de morte é o lactato alto e hipotensão de tal maneira que os dois
+
+00:21
+riscos de morte intermediários o risco de sobrevida é maior mais baixo
+intermediários são aqueles pacientes que estão com a pressão baixa e lactato
+normal e aqueles pacientes que estão com a pressão normal e lactato é levado e o
+pior cenário é obviamente o cara que tá aí pô tenso pressão arterial baixa e
+lactato aumentado esse cenário é o paciente que tem a chance de sobrevida
+muito menor em comparação com os dois cenários intermediários e do paciente
+que não tem função cardiovascular barra metabólica estatisticamente demonstrada
+então nota em que a gente sempre atribuir um valor maior e isso é
+importante para um comentário que eu vou fazer mais tarde sobre a definição nova
+de choque de sexshop sérvio a gente sempre atribuir um valor maior a
+epa atenção porque a gente vê potencial no exame físico do que eventualmente
+alienada temia mas notem que aqui nesse estudo brasileiro tanto aí pela ktm
+
+00:22
+isolada quanto a hipotensão isoladas são fatores que conferem um prognóstico
+intermediário mais um prognóstico ruim uma chance de sobrevida baixa para esses
+pacientes internados na unidade de terapia intensiva com sexo
+esse cenário também vale para o cenário pediátrico porque eu tô falando isso
+esse estudo publicado há dois anos atrás já o pediatrics mostrou que faixas
+intermediárias de lactato enlatado elevado também se associam com risco
+maior de morte nas crianças então veja aqui a mortalidade de crianças é muito
+menor do que a mortalidade de adulto então não fica muito clara a diferença
+mas é claro é diferente aqui a mortalidade do akatu alto do lactato
+baixo nas crianças mas também se associa o tempo de permanência na uti do
+hospital maior uso maior de drogas vasoativas necessidade de intubação
+admissão na uti pediátrica e admissão hospitalar
+
+00:23
+então esse estudo mostra que é é aí pela academia se associa com um excesso de
+uso de recursos na criança internada na unidade de terapia intensiva na criança
+grave internada na unidade de terapia intensiva e também um aumento do risco
+de morte então corrobora o fato da gente
+poder usar o lactato como um marcador da
+gravidade dessas crianças inclusive para o estabelecimento de prognóstico
+inclusive as discussões de prognóstico com a família é bem diferente você tem
+uma criança ou um adulto que tenha um lactato de 50 versos um ato de 20 e
+principalmente lactato a cinética não é adequada do ponto de vista de
+atendimento ou do ponto de vista de resposta a nossas intervenções então
+vejam que isso é significativo para a gente demonstrar a gravidade desses
+pacientes um ponto importante diz respeito às
+novas definições de sexo então se vocês lembrarem das discussões a respeito das
+novas definições aí pela academia não entrou como critério para é a definição
+
+00:24
+de sepse se você usar o esforçou fifa como marcador dessa definição então do
+ponto de vista do instituto latino americano de sepse e disso vai me servir
+se empenhem a gente acha que não usar um
+ato para definir um paciente com sepse é uma estratégia equivocada porque eu
+posso por exemplo reduzir a importância que o dólar que tatu no cenário de
+gravidade desses pacientes porque porque a não precisa para falar de um paciente
+se a hipertensão não precisa coletar lactato lactato não é não faz parte da
+nova definição sendo que a gente sabe que o lactato
+o marcador de disfunção metabólica bastante significativo e que se associa
+com mortalidade desses pacientes então o esforço ao felipão usa lactato
+eu posso ter por exemplo um paciente com pneumonia com um lactato de 40
+se ele tiver uma criativa de 1.9 nenhuma outra disfunção não vou chamar esse
+paciente de sepse sendo que eu tenho disfunção renal e pela acta temia como
+
+00:25
+marcadores de gravidade como marcadores de disfunção orgânica então não faz
+muito sentido a sugestão do instituto latino americano de sepse das mais sexys
+quem tem é que o lactato seja mantido como necessário com a sua coleta em
+todos os pacientes com suspeita de sepse no pronto socorro uma enfermaria ou na
+unidade de terapia intensiva então a gente acha que o lactato é preponderante
+interessante que a despeito de não ser usado na definição de sepse
+o lactato está sendo usado foi usado tal como critério na definição de choque
+séptico então se vocês lembrarem a definição nova é paciente com sepse que
+recebeu o fluido fluido para não ter que provar leme a lepra ausência de
+povoamento e recebeu fluido ele tem é mesmo assim hipotensão ele precisou
+
+00:26
+receber mais opressor para manter pra m acima de 65 e mercúrio e ele tem um
+nível sérico de lactato acima de 18 miligramas por decilitro então isso
+sugere que é o lactato é imprescindível para definição de choque séptico
+mas não é necessário para definição de sepse o que é um contrassenso do ponto
+de vista de fisiopatologia da doença por exemplo nesse estudo que nós fizemos a
+nossa das clínicas a gente tentou avaliar o cenário de paciente com
+hiperlipidemia que não têm outras disfunções orgânicas e que e por isso
+não seriam chamados de sepse notem que a ip na ktm isolada aqui
+marcado em vermelho nessa nessa nesse slide ela confere um risco de morte que
+é igual ao risco de morte o psi e ela não confere as outras
+disfunções orgânicas né elas não confere o risco de morte
+significativo então isso sugere que o lactato principalmente quando está acima
+
+00:27
+de trinta e seis miligramas por decilitro está acima de 4 mil motos por
+litro ele deveria ser usado como um marcador de disfunção orgânica
+nesses pacientes com o sepsi de acordo com o critério da da da nova definição
+dos 73 na definição de 2016 um outro ponto importante que deve ser
+mencionado é a discussão sobre se eu não tiver o lactato pra mensurar pode dizer
+que um paciente tem choque séptico notem que no estudo spred tudo que nós
+fizemos e publicamos em 2017 com 287 uti
+brasileiras 15 por cento aproximadamente 15% das loterias brasileiras não tinham
+lactato disponível o tempo inteiro então a gente não teria por exemplo como
+chamar um paciente de choque séptico se a gente aplicar estritamente a definição
+nova nestas uti se eu não tenho contato disponível o tempo interesse valor pode
+ser ainda maior em outros países como a mongólia índia china etc
+
+00:28
+em muitos lugares e mesmo no brasil fora do contexto da terapia intensiva nas
+unidades de pronto atendimento nos prontos socorros que não têm o tato
+disponível não têm pelo menos um ato disponível em tempo hábil pra gente usar
+como marcador de disfunção metabólica de disfunção cardiorrespiratória nesses
+pacientes então o que a gente faz não chamamos esses pacientes choque
+séptico porque não temos data disponível na realidade não
+nesse cenário você deve usar a definição
+anterior de choque séptico então tendo e hipotensão e necessidade do vaso ativa
+na ausência de polêmica independente de dodô valor de lactato se eu não tiver o
+lactato disponível eu devo chamar esse paciente de choque séptico de acordo com
+a definição anterior antes da publicação dos apps 3
+então é muito complicado a gente usar o cenário dos 73 que por exemplo quando a
+gente fala de disfunção orgânica única esse é o cenário do instituto latino
+americano de sepse só hiper lacta temia que vocês estão vendo aqui na ausência
+
+00:29
+de outras disfunções apesar de não ser muito
+freqüente ela confere um risco de morte bastante significativo e bastante
+próximo das outras disfunções cardiovasculares respiratórias população
+exceto ou seja e pela academia isolada é sim um marcador de prognóstico como eu
+falei pra vocês e não coletar lactato porque não estava a definição de sepse
+nova dos 73 ou eh eh eh eh como recomendado pela força tarefa
+não faz sentido do ponto de vista fisiológico e sim williams e surayev e
+se empenhem continuam sugerindo que você colégio lactato desses pacientes com
+sepse survive sugerem que não só você deva coletar esse lactato como também
+você poderia usar o lactato como alvo da ressuscitação hemodinâmica desses
+pacientes então surgem fez uma meta análise que
+incluiu apenas um número baixo de estudos apenas quatro estudos que são os
+estudos que são prospectivo randomizado e que tem um monte de vieses do ponto de
+
+00:30
+vista fisiológico mas mesmo assim é uma recomendação fraca com baixa qualidade
+de evidência então vejam que é uma sugestão da survive a luciano então eu
+posso usar o lactato como alvo terapêutico hipoteticamente sim se você
+acredita nessa ressuscitação da survive baseado por exemplo nessa meta análise
+que avaliou principalmente quatro estudos prospectivos organizado você
+poderia usar o lactato como alvo terapêutico mas notem que vários desses
+estudos estão estudos pequenos números de doentes muito pequeno os dois estudos
+grandes são estudos que a compararam lactato com saturação venosa então não é
+o estudo ideal e b é o estudo de de jansen de 2010
+ele usou simplesmente o lactato em pacientes com hipertensão e não
+simplesmente e não apenas exclusivamente nos pacientes com sepse
+
+00:31
+ele fez o cenário total de pacientes com e perfusão ou seja sugerindo que é
+talvez no contexto específico da sepse usar um laptop como alvo terapêutico não
+seja o ideal mas interessantemente r e esse é um estudo que eu recomendo que
+vocês tenha em mente e leiam né porque para
+quem gosta de estudar essa questão da recitação de hemodinâmica da sepse
+vale a pena ler o estudo andrômeda choque um estudo feito na nossa américa
+latina com participação de pesquisadores brasileiros que comparou lactato com o
+tempo de enchimento capilar como alvo da
+ressuscitação desses pacientes com é com choque séptico ou seja lactato alto o
+tempo de enchimento capinar elevado e se esses dois grupos eram randomizados pra
+lactato tempo de enchimento capilar e se seguir uma estratégia de ressuscitação
+que se usava fluido ou drogas vasoativas para otimizar esse é um algoritmo de
+
+00:32
+ressuscitação desses pacientes para otimizar esses indivíduos em relação a
+lacta temia o tempo de enchimento capilar e se viu uma tendência
+significante de melhora da tarde da mortalidade não significante aliás e
+melhor da mortalidade quando a gente usa o tempo de enchimento
+capilar em relação ao lactato a mortalidade foi um quase maior do ponto
+de vista significativo mas não maior quando se usou o lactato
+mais recentemente foi feito outra análise através de outra metodologia
+estatística que se chama metodologia base ana e análise bayesiana sugeriu que
+há benefício de você usar o tempo de enchimento capilar em relação ao lactato
+como alvo da recitação hemodinâmica desses pacientes então podemos usar o
+lactato podemos seguir o curling da survive e utilizar o acto como alvo da
+estratégia lembrar que é uma estratégia cuja evidência não é tão clara
+já depois do estudo do estudo andrômeda choque que ainda carece de um pouco de
+
+00:33
+de validação principalmente com os doentes maio com um número maior de
+doentes não foi feito só em 400 doentes depois o estudo andrômeda choque
+aparentemente usar o tempo de enchimento capilar como alvo da recitação é igual
+ou superior ao lactato né e você não precisa ficar coletando o lactato saltem
+preenchimento capilar uma medida que você pode fazer
+clinicamente e que também pode se associar a redução da mortalidade desses
+pacientes uma pergunta importante que se faz
+pois é tudo bem eu devo normalizar o lactato mas até quando é mesmo que eu
+queira normalizar o lactato mesmo que eu queira seguir survive
+services também até quando devo utilizar o lactato como alvo levou quase até
+quando eu posso utilizar o ataque como alvo
+será que eu posso usar o lactato depois de 24 horas de ressuscitação então a o
+clareamento do lactato é muito maior nas primeiras seis horas e depois esse
+carregamento do lactato é muito menor ea tendência é que o doente vai removendo
+
+00:34
+esse lactato do organismo independentemente do nosso tratamento
+não tem alguns estudos que mostraram isso então talvez usar o lactato depois das
+24 horas como ainda alvo da terapêutica não seja a estratégia ideal talvez dê
+principalmente nas primeiras seis horas é onde a gente nas chamadas golden hour
+onde a gente deve usar o lactato como alvo da nossa estratégia então eu quero
+utilizar o lactato eu vou perseguir a otimização do lactato pelo menos um
+clareamento de 20% nas primeiras seis horas para esses pacientes e depois o
+resto vai o fluxo do lactato é a cinética do lactato ela vai melhorando
+com o meu o meu tratamento independente de eu continuar perseguindo ativamente
+uma redução desses níveis séricos do lactato dos meus pacientes graves então
+a gente deve podemos seguir essa essa estratégia de clareamento do acta tu
+porém essa estratégia era deve ser feita principalmente nas primeiras seis horas
+
+00:35
+se você chegou em você no plantão e você viu que o doente está aí pela ktm com a
+24 horas e ninguém fez nada por isso muito provavelmente isso já tá essa
+hiper academia se estabeleceu de forma tardia e a sua intervenção terapêutica
+vai ser incapaz ou muito pouco efetiva na remoção do lactato desse paciente daí
+a remoção da perda tem medo desse paciente
+então pra concluir lá até o marcador de disfunção metabólica de gravidade da
+doença é essa disfunção metabólica não necessariamente a oferta de oxigênio ela
+pode ser simplesmente não tem capacidade de utilização do oxigênio tecidual
+no começo ela pode ser a oferta então eu posso ter
+a fusão aumentando lactato por redução da oferta mas depois o problema pode ser
+por outros mecanismos de excesso de de lactato cérebro de pelata temia
+ressuscitar a sepse é visando lactato é controverso pode ser usado porque por
+
+00:36
+exemplo a survival sugere mas existe muita dúvida existe muita discussão na
+literatura se realmente a gente deve seguir esta estratégia e é importante
+frisar que os valores lactato devem ser interpretados no contexto da
+hemodinâmica global do paciente então a gente deve usar o lactato como marcador
+de gravidade mas principalmente no contexto de toda esta dinâmica do
+indivíduo então avaliando a saturação da
+nova central de oxigênio avaliando o gap de co2 avaliando diurese nível de
+consciência todos os outros marcadores de perfusão são indispensáveis na sua
+avaliação no cenário da doença grave no cenário da sepse desses desses
+indivíduos então se vocês não acreditam no que eu
+estou falando para vocês acreditem no time da survival services quem pensa que
+é o michel levy esse aqui é o andré rodini os dois já
+foram sherman da survival sets quem pensa que a professora flávia machado
+que todo mundo conhece e esse é o professor inácio noites da
+irlanda que também é um estudioso da sepse todos estão fazendo comentário que
+
+00:37
+não quer a pergunta que não quer calar é o o o afr ase que não quer calar
+devemos coletar o lactato fique calmo nicoletti o lactato do seu paciente
+séptico porque o lactato vai fazer diferença em relação ao desfecho do paciente
+pra finalizar esse aqui é o nosso curso de atualização em terapia intensiva um
+curso da disciplina de emergências clínicas hc em parceria com a manu
+educação curso de princípios não é que a gente está finalizando as inscrições
+ainda a possibilidade de se inscrever e essas aulas vão estar abertas até até
+março do ano que vem mas a gente já está preparando o curso de 2020 que será
+lançado no mês que vem mas para quem quiser fazer o curso de 2019 ainda a
+gente tem a possibilidade é um curso 100% online o sistema princípios é o
+módulo princípios é principalmente há os estudantes de medicina os
+estudantes da área da saúde ou aqueles profissionais que estão tendo o primeiro
+
+00:38
+contato com a medicina intensiva suas grandes síndromes só choque sepsi
+insuficiência respiratória aguda é a situação polêmica é isso que a gente vai
+discutir isso que a gente tem discutido no módulo princípios no módulo no outro
+módulo do curso que o módulo avançado aí se a gente já vai com mais
+profundidade nas principais controvérsias do atendimento do paciente
+grave então no módulo avançado a gente discute controversas da silva
+vice-campeã em controvérsias do recrutamento nas área controversa
+antibioticoterapia então é muito mais aprofundada essa discussão exatamente
+para que a gente é é atualize vocês nas principais dúvidas que trata o
+atendimento do doente aqui já é pra quem já tem já fez o curso de princípios e
+quer se aprofundar ainda mais no cenário
+da terapia intensiva para pessoas que já trabalham terapia intensiva longo tempo
+e querem se atualizar para o grupo multidisciplinar que trabalha na uti
+
+00:39
+então esse é o objetivo da modalidade avançada ea gente tem ainda um pacote é
+o pacote prêmio que é um pacote que tem até um cupom de desconto a quem o tem e
+2019 é um pacote que abrange os dois cursos soma 45 horas de 1 50 horas de outro
+praticamente 100 horas 95 horas e estão vendo aqui de cuidado ao paciente grave
+então a gente abrange todo um contexto de atendimento desses pacientes na
+unidade de terapia intensiva é é e principalmente na discussão das grandes
+dúvidas e das grandes o grande do tratamento das grandes nomes
+que afetam esses pacientes e por fim é o último sábado do eb na convidar vocês
+por um lançamento finalmente da quarta edição do livro medicina intensiva
+abordagem prática o lançamento será no congresso brasileiro de medicina
+intensiva a primeira semana de novembro num em
+fortaleza mas depois a gente fará o lançamento aqui em são paulo e esse
+
+00:40
+livro logo na sequência será disponibilizado para todos que compraram
+o curso avançado de forma gratuita e também para as pessoas no site da manuli
+pra compra é esse livro está bem atualizado é o livro terapia
+intensiva eu não tenho dúvidas que o livro terapia intensiva mais atualizados
+que vão encontrar no mercado a gente atualiza a seleção a cada dois anos
+com o novo carro novos capítulos com retirada de capítulos que a gente acha
+que são menos importantes então vale a pena realmente comprar esse livro para
+quem tiver interesse em se aprofundar no cuidado do paciente grave no cuidado do
+paciente da unidade de terapia intensiva muito obrigado pela atenção de todos

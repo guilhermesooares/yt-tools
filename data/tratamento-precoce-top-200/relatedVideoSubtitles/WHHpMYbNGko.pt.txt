@@ -1,0 +1,797 @@
+
+00:00
+WEBVTT Kind: captions Language: pt o Olá pessoal boa noite meu nome é
+rassan eu sou médico da disciplina de Emergências clínicas do Hospital das
+Clínicas da Faculdade de Medicina da USP e trabalho também no hospital
+sírio-libanês tem muito orgulho de falar que me formei na Universidade Federal
+Fluminense lá no Rio de Janeiro eu vou discutir um pouquinho com vocês
+hoje sobre anticoagulação dos pacientes com convide Espero que eu trago alguma
+algum conteúdo interessante para quem tiver assistindo lá E aí
+eu dou é começar o compartilhamento de tela aqui as mensagens iniciais da aula
+
+00:01
+que eu vou apresentar uma hora né quero primeiro falar que não tem nenhuma
+atividade que empresa farmacêutica não tenho eu não tenho esse conflito de
+interesse mas o participou de uma pesquisa científica sobre o tema de
+formulação É corrido então tem fim desse conflito de interesse as imagens que eu
+vou apresentar de artigos científicos elas são citadas no próprio de lado eu
+fiz questão de colocar em cada slide o artigo que eu tô me faltando e algumas
+ilustrações outras eu peguei são todas as situações de acesso público em algum
+site da internet eu quando a gente fala de anticoagulação a gente está falando
+de trombose e quando a gente fala de trombose em uma patogênese famosa que a
+gente conhece aprende logo cedo na faculdade que aquele de bicho que essa
+trilha de representa o bicho comentado do paciente tem alguma dentro trombótico
+e essa Trend incluem imobilidade o material algum estado de
+hipercoagulabilidade então a gente precisa pensar se o nosso paciente em
+
+00:02
+questão ele tem essas características Então vamos começar falando definido que
+a gente vai trabalhar aqui na aula com paciente com um convite que tá dentro de
+um contexto de uma internação hospitalar então paciente que precisou ser
+internado ou seja o paciente que tá dessaturando é um paciente que tá
+cansado tá Stenico também né Não só tentando dispneia mas ele está prostrado
+da doença então ele já tem e mobilidade então Vamos considerar isso como um fato
+e vamos pensar será que esse paciente tem alguma lesão endotelial será que
+esse paciente tem um estado de hipercoagulabilidade e eu vou trazer
+evidência disso para vocês a respeito de levando material parece que sim né a
+gente tem alguns trabalhos mostrando que o próprio vírus Ele gera uma lesão
+Direta do endotélio isso É bem interessante e e ao gerar essa lesão
+direta dentro do tédio ele acaba gerando a liberação de fator de Von willebrand
+aumentando adesividade plaquetária em algumas interior Silas e
+desencalhando a produção de mediadores tanto inflamatórios que geram vaso
+
+00:03
+constrição mas também mediadores trombóticos né então a gente tem uma
+evidência de bancada já mostrando pra gente que não me fale aparece e tem
+lesão endotelial vírus Leslie endotélio vascular e que a gente fala de estado de
+hipercoagulabilidade a gente vai entrar agora trabalhar em um contexto clínico e
+Laboratorial Então a gente tem um trabalho bem legal é feito já um pouco
+mais antigo que mostra na verdade que este paciente eles tiveram o Tang
+analisou e a sua equipe analisou 183 pacientes consecutivos e eles viram que
+os pacientes que faleceram eles tinham valor de maiores d dimero d TP e ttpa
+com muita atenção dos pesquisadores a gente tem outro trabalho também
+mostrando que 24 pacientes de UTI eles tinham maiores valores também de
+mediadores é que a gente usa para trabalhar a coagulação dos
+
+00:04
+um dos maiores valores de de pp pead fibrinogênio de dinero dpcrd fator 8 de
+fator de Von willebrand e valores de plaquetas também menor de valores já
+estão vindo a menor de valor de proteína
+ser tudo isso ainda foi analisado também com uma prova para você avaliar a com
+algumas ondas de pacientes uma angiografia e também mostrou um estado
+de hipercoagulabilidade Então a gente tem alguns trabalhos é iniciais
+mostrando isso e foram ratificados é contra os trabalhos pequenos e trabalhos
+maiores então a gente parece que tem é este fatores de hipercoagulabilidade
+Associados no paciente com convide e eles ainda parecem ter quando a gente
+fala de trombose coagulação a gente ainda tem que passar em mais uma
+característica são fatores genéticos E aí por que que eu coloquei a
+interferência de fatores É nesse slide eu vou explicar então
+primeira coisa porque assim pessoas obesas elas são mais inflamadas e quando
+
+00:05
+a gente fala de obesidade a gente pode estar falando sim de características
+genéticas de obesidade mas nem sempre a gente tá falando sobre características
+genéticas dela é então por isso é esse um dos motivos de eu colocar ou não no
+título dos slides e o outro motivo também do colocar ou não é justamente em
+cima do tópico pessoas negras então a gente parece Tem um bicho um pouco
+aumentado de pessoas negras terem eventos trombóticos trambolico por outro
+lado a gente tem um déficit na notificação apropriada de diferentes
+estilos idades e raças que são cometidos pelos números isso É bem interessante e
+esse deste ele acontece não só no Brasil mas no mundo inteiro então a gente pode
+ter um viés também quando vai discutir esse termo digo que fofa é tem trabalho
+direcionado e esse tipo de coisa é que indica que os
+pacientes que as pessoas negras realmente parecem ter um risco maior de
+
+00:06
+tromboses E embolias então quando a gente fala voltando na ter de lixo para
+guiar esse momento inicial da aula que a gente está falando de imobilidade
+exemplo tem um material estado de hipercoagulabilidade parece que os
+pacientes com covide e lixar com esses três blocos eles têm essas três
+características e a gente ainda pode ter alguns fatores específicos rondando
+também esse paciente é bem esses pacientes têm essas três
+características pode ser interessante eu cansar e anticoagulação será que tem
+algum benefício onde fórmula as pessoas e quando a gente fala de anticoagulação
+a gente pode pensar também que a gente tem na heparina alguns efeitos que vão
+além do anticoagulante a função de neutrófilos ela é duas
+expressão de mediadores inflamatórios endoteliais além nível proliferação de
+
+00:07
+musculatura Lisa vascular e ela e parece que tudo isso junto acaba reduzindo os
+mediadores inflamatórios EA permeabilidade do meu lado a pele O
+problema é que esse discurso ele assimila é para algumas outras moléculas
+Vinny mexe a gente tem uma ideia genial sobre uma molécula medicamentosa né a
+partir de uma evidência de bancada e quando a gente vai para a beira do leito
+é muito mais complexa fisiologia patogenia da doença aquela ideia genial
+a partir da vigência da bancada ela não se mostra eficaz Então a gente tem que
+tomar cuidado com essa esse tipo de evidência mas isso realmente uma
+evidência interessante para impulsionar a gente a procurar alguma relação de
+benefício no tratamento quando a gente olha o paciente com
+como por exemplo a gente tem na análise bem interessante a gente tem alguns
+trabalhos que permitiram uma revisão sistemática e metanálise mostrando que
+
+00:08
+talvez olha parece que é parindo talvez tem papel até para redução de
+mortalidade das sete quando a gente usa ela de maneira profilática tá as pessoas
+habituais que a gente usa os pacientes Não parece que ela tem um papel
+interessante e é isso vai suscitando essas dúvidas já e voltando para o
+convite a gente tem que pensar então será que existe evidência do ponto de
+vista Clínico existe evidência de maior risco tromboembólico desses pacientes
+mesmo ou foi uma coisa mais assim de até
+o os mediadores inflamatórios tem alguns mediadores tem alguns exames
+laboratoriais em é que indica o maior risco de trombose é será que tem risco
+Clínico quando a gente vai para a parte Clínica a gente também evidência disso e
+eu coloco agora por data organizado lá em Maio de 2020 começar a observar 150
+é uma análise retrospectiva de 154 pacientes tiveram trombose relevante do
+
+00:09
+ponto de vista Clínico a maior parte deles teve PVP ou técnica nessa a gente
+for pegar o dado aí é Além disso dos pacientes estavam terapia substitutiva
+renal continua hemodiálise continua a gente teve trombo no circuito de 28 dos
+29 pacientes que receberam a terapêutica a maior parte apresentava elevação do
+d-dímero do fibrinogênio do fator de Von willebrand e do porto da coagulação
+o pegar um 57 desses pacientes que usaram anticoagulante lúpico viram que
+50 deles tinham anticoagulante lupico Positivo e aí a gente compara o risco de
+evento de paciente covide versus não convido e a gente encontra o risco dos
+pacientes com vídeo E é em maio Então se a gente pega para
+sumarizar isso tudo né a gente tem esses dados aí desses pacientes não cair e
+
+00:10
+isso sugere um jeito bem claro para gente é o risco maior nesse perfil de
+população desses 50 e 150 pacientes entre é um número pequeno ainda mais se
+tratando de uma pandemia hoje eu espero números maiores na mais chamativos nos
+publicações é a gente tem outro estudo retrospectivo também bem interessante
+estrela lendo no título dele porque depois eu vou fazer um comentário
+específico mas o que que eles fizeram eles pegaram 449 paciente com couve de
+grave eles definiram configurado como uma frequência respiratória maior que 30
+ou uma saturação menor igual que 93 ou uma peça menor igual 300 Então vai que
+não é um grave necessariamente UTI né é outro perfil
+um desses Eles colocaram 99 paciente para receber heparina ou sete dias ou
+mais e 350 por menos de 7 dias então nem
+
+00:11
+receberam durante a internação né é essa postar um pouco é é talvez arrojada
+porque foram internados pacientes que acabaram não recebendo profilaxia com
+enoxaparina que talvez a gente de ver sem receber né porque a gente tem de de
+evidência para doenças de uma maneira geral né mas enfim o trabalho foi
+realizado eles perceberam quando eles analisaram um grupo como um todo é 30
+pacientes morreram com 28 dias no grupo que recebeu a página e 104 morreram com
+28 dias no grupo que não recebeu a panela recebeu muito pouco tempo de
+aparelho não teve diferença estatística achei que eles tentaram fazer eles
+fizeram uma outra na ali só assim ah mas eu tipo assim dinheiro muito alto se eu
+pegar só os pacientes com dinheiro maior que tal
+E no caso desses colocar um valor de marca e três mil Será que tem diferença
+e mostrar Olha quando eu pego os pacientes com dinheiro maior eu tenho
+diferença então o que que eu trabalho fez ele fez uma análise retrospectiva
+Ele olhou para trás e ele procurou assim
+
+00:12
+será que tem alguma alguma relação entre essas coisas alguma força de associação
+entre essas coisas que consegue dizer para a gente olha Parece que quem recebe
+parei na profilática é vai melhor pelo menos quando o dinheiro da marca e três
+mil o problema ui até o nome desse trabalho eu coloquei no trabalho em
+ali embaixo que eles falam tratamento anticoagulante associado com
+redução da mortalidade é esse nome é o nome é muito apelativo da publicação e
+não foi não foi exatamente essa a conclusão que pode ser retirado nos
+dados que eles apresentaram que eles analisaram que eles apresentam pacientes
+que faleceram e viram que neste pacientes que faleceram
+e tem vários que não estão góticos aconteceu em vasos pequenos no pulmão eu
+não tenho Grande até que eu não tenho uma grande TVP mas quando pega os
+vasinhos do pulmão tá cheio de trombinho acontecendo lá foi mais ou menos nessa
+
+00:13
+época também que as pessoas começaram a comentar sobre el paciente de pouco ser
+feliz o pode ser paciente hipoxemico angustiado é um clínico 84 paciente de
+33 holandeses eles eles avaliaram um total 78 pacientes desses 184 foram de
+alta 65 continuavam internados e 41 faleceram né todos sem exceção receberam
+profilaxia porém vários pacientes tiveram eventos tromboembólicos então o
+principal evento que a gente pode colocar aí foi mais uma vez TVP e tep né
+a gente coloca até de peteca no mesmo bloco totalizando A parte desses casos
+mas nos 184 a gente teve 75 pacientes com algum tipo de evento
+e nem saber se acumulativa alto de 57 por cento e os pacientes que tiveram
+evento eles identificaram que tinham maior mortalidade ao longo da internação
+e em agosto eu tenho dado maior já mais robusto também tem uma análise
+
+00:14
+retrospectiva que pegou 3300 mais ou menos pacientes hospitalizados por
+convide e evidenciou aqui 16 por cento desse paciente tiveram eventos
+tromboembólicos e dentro desse bloco nessa nesse estudo ele inclui também um
+quarto e aí infarto é um pouco mais é discutido você essa inclusão de
+diferente porque às vezes o paciente ele tá criticamente enfermo ele leva um
+pouco troponina isso não infarto infarto
+que a gente está procurando saber quando a gente fala de um risco tromboembólico
+né esse talvez sejam fácil sob demanda no paciente inflamado agudamente enfermo
+que exige mais do meu Card o meu carro no meu caso vai fazendo com algum grau
+de lesão Mas qualquer maneira eles analisaram isso em uma publicação
+subsequente mais recente também identificou isso e nessa publicação de
+agora de 2018 interessantes eles compararam essa estágios nos
+e o vídeo com os pacientes que tiveram outras infecções por vírus respiratórios
+
+00:15
+e outros momentos e você vê como assim olha parece que não paciente com convite
+essas taxas são bem maiores do que nos pacientes com infecção viral
+respiratória por outro vírus Então deve ter alguma particularidade do coronalite
+né Nem tudo isso junto leva mais uma vez
+a pergunta Será que eu devo anticoagular os paciente com coronavírus então eu
+pareço ter uma trilha lixo que faz faz sentido eu tenho a vidência que essa
+Trio se apresenta nos pacientes com colite eu tenho evidência Laboratorial e
+clínica também que esses pacientes Eles parecem estar num estado pró-coagulante
+né E vocês estão no estado pró-coagulante Poxa eu tô vendo mais mas
+evento de TP eu tô vendo mais aqui dentro de tep eu tô vendo mais evento é
+de vez em clusive de embolia arterial de tronco
+
+00:16
+o ponto de diálise puxa então será que faz sentido anticoagulantes paciente bem
+a nossa ideia quando a gente fala de anticoagulação no convide não é um monte
+de população para necessariamente prevenir a TVP prevenir a outra mobília
+pulmonar por quê Porque o nome disso seria um desfecho uma profecia
+auto-realizável que que você quer dizer Ora Bolas se eu resolvo É eu mesmo
+passar minha vida inteira tomando anticoagulante
+é fato que o meu risco de ter uma TVP ou
+embolia pulmonar é muito menor porque se eu passar minha vida inteira sem tomar
+um anticoagulante Isso vai acontecer porque porque ontem volante para mim
+isso daí é de formação de trombo Então isso é uma profecia auto-realizável não
+adianta desenhar um estudo para avaliar necessariamente a incidência de TVP e
+
+00:17
+tep depois que eu começar a fazer uma dose diferente a nossa a nossa dúvida
+científica na verdade é um pouco mais delicado aqui isso a gente imagina que
+que acontece dentro do pulmão dessas pessoas são vários pequenos troncos
+vários pequenos coágulos né E esses trombos E com árvores eles vão
+aumentando conforme a doença vai progredindo e talvez o paciente já é
+mais avançado da doença ele tenha muito mais desses pequenos trombos e com
+hábitos é esses eventos não são os eventos que a gente procura fazer
+a tomografia por quê Porque isso vaso muito pequeno na verdade que a gente tá
+tá discutindo e quando a gente vai para a evidência de balcão de bancada de
+pesquisa ou previdência sobre análise Laboratorial dos pacientes a gente
+encontra uma correlação que talvez seja Principalmente um dinheiro mas também
+contra outras provas já com algumas são que a gente pode colocar de maneira
+simplificada que eu coloquei aí baseada baseado Nesse artigo que tá na
+
+00:18
+referência em baixo é tão conforme o paciente ele vai progredindo pequenos
+thrombosis pequenas é um boletim pulmonares o dinheiro dele vai
+aumentando também ele vai consumindo plaqueta e ele vai alterando os próprios
+da população e aí provas da população eu colocando aquelas que são mais
+disponíveis acessíveis para todo mundo que é o TP e ttpa é então diante disso a
+gente tem dúvida Puxa qual que vai ser dose ideal para o fazer então de
+aparelho de baixo peso molecular e e tem que manter mantém a mesma dose da
+profilaxia habitual que a gente sempre fez para todas as doenças Será que eu
+faço uma dose diferentes Será que o meu paciente tem indicação de realmente
+anticoagular será que isso vai ser benéfico né Aí eu responder essa
+pergunta é importante que eu entendo um pouco sobre medicina baseada em
+evidência Quando olho a maior parte dos estudos que eu citei Eles foram estudos
+
+00:19
+observacionais não estudo observacional ele pode gerar alguma hipótese ele pode
+observar alguma associação mas ele é diferente de um estudo de intervenção um
+estudo de intervenção que é um ensaio Clínico randomizado controlado que que o
+que que eu faço um estudo de intervenção eu consigo observar uma causalidade uma
+relação direta entre a minha terapêutica
+e o efeito que eu quero observar então o estudo que permite que o de fato
+modifique a minha proposta terapêutica a intervenção e não estudo observacional
+quando que eu não vou fazer um estudo de intervenção Por exemplo quando eu faço
+um estudo observacional que eu tenho a plausibilidade biológica muito muito
+forte eu tenho uma força de associação enorme e que fazer uma randomização
+ética Talvez seja pouco um pouco possível da gente fazer E aí eu vou
+
+00:20
+fazer estudo observacional ou vou fazer estudo de intervenção mas não vão ser
+ensaios clínicos com dois braços por exemplo não vamos supor eu creio uma
+molécula que ela consegue modificar o DNA da pessoa e fazer com que uma pessoa
+deixe de ter anemia falciforme puxa isso é tão significativo tão significativo
+que talvez eu submeter paciente depois comprovar que essa molécula ela tem
+segurança para ser usado em humanos É talvez eu submeter paciente a um braço
+controle um braço intervenção Talvez seja antiético
+é então que tu tem que fazer talvez eu tenho que fazer só o braço intervenção e
+eu vou acompanhar este paciente isso não
+mezzini da tarefa de fazer algum tipo de
+estudo né confirme essa essa necessidade e importância e relevância do
+medicamento mas talvez o desenho tem que ser diferente e no caso em questão
+quando a gente está falando sobre sobre esse tema anticoagulação no convívio eu
+
+00:21
+não consigo fazer com que os estudos observacionais eles sejam suficientes
+para resolver para responder essa dúvida científica eu preciso de estudo de
+intervenção E aí o que que legal a gente tem um monte um monte de paciente sendo
+recrutado para diversos ensaios clínicos eu coloquei essa tabellone aí que é de
+um uma uma revisão sistemática e mostra carninha dessas é é um ensaio Clínico
+diferente que tá estudando de fogo ação com ou sem alguma outra moléculas
+o item a nossa digital brasileiro aí a gente tem alguns trabalhos sendo
+conduzidas no Brasil sobre esse assunto não só aquele que eu participo mas
+também outros outros trabalhos de relevante que vão sair para a gente
+poder tomar noção da resposta melhor o que que eu recomendo para todo mundo se
+você tem dúvida sobre o manejo do paciente com coronavírus no momento o
+melhor lugar para você se informar de maneira bem clara e direta é o site do
+
+00:22
+british Medical Journal que o bmj nessa página do bmj você consegue acessar em
+tempo real aquilo que está sendo publicado hoje recomendações realizadas
+por Expert então assim eu recomendo que se você tem dúvida no manejo vai aí você
+vai encontrar uma resposta de ótima qualidade para aquilo que você precisa
+Oi mãe eu tenho que traz alguma recomendação geral né Para vocês eu não
+posso só falar e não dá uma alguma resposta um pouco mais objetiva né senão
+eu não vou estar ajudando ninguém então antes da gente chegar nas recomendações
+Gerais só para realizar a gente tem a gente tem prova de bancada mostrando o
+maior é uma lesão endotelial direto pelo vírus a gente tem prova Laboratorial
+indicando que este paciente eles têm alteração nos exames é corroborando no
+estado de uma hipercoagulabilidade é a gente tem o imobilismo relacionado com
+
+00:23
+internação desse paciente né que tá de saturando display frustrado ele não anda
+da mesma forma que uma pessoa é que interna para fazer uma cirurgia eletiva
+por exemplo e a gente tem alguns fatores genéticos
+Ou pelo menos fatores externos que são importantes como obesidade talvez é que
+está características de raça tinha também influencia no risco trombótico
+das pessoas são importantes da gente tem mente a gente tem dado retrospectivo
+mostrando que realmente paciente com cor verde em mais eventos de TVP e tep de
+hambúrguer arterial de AVC do que a população geral que a gente interna e do
+que a população com outras infecções virais respiratórias que a gente interna
+tudo isso legal são dados robust os ensaios clínicos prospectivos sobre
+anticoagulantes em corrigir esses ainda não a gente ainda não tem nada que a
+gente tá bem ansioso na verdade para que saiam logo essas publicações e tem uma
+
+00:24
+previsão de que saiam os resultados nos próximos dois meses tão beijo a gente já
+começa resultado de algumas publicações aí pela frente então vou
+e recomendações Gerais se você quiser você pode usar os valores de TP ttpa
+fibrinogênio e dímero d é para Obter dados de prognósticos parece que quando
+esses quando esses exames estão alterados para cima eles indicam um pior
+prognóstico assim é um paciente que já tá muito muito grave mesmo faça sentir
+vou ficar Reis Paraty ficando prognóstico dele é uma pessoa que eu tô
+muito na dúvida se eu vou internar ou não se eu vou deixar em observação ou
+não acho que uma pessoa jovem é assim como habilidade Mas tem uma frequência
+respiratória de 22 saturando 94 pessoa fala que tá sentindo mais cansada de
+
+00:25
+oxímetro Batman 94/95 não vejo você possa incluir Esses exames nacionais e
+falou assim olha se o dinheiro dessa pessoa virar um pouco mais alto menor
+500 particularmente sizemore eu vou segurar você um pouquinho aqui
+vou te deixar observação 24 horas 48 Horas ver qual caminho que a doença está
+tomando para daí a gente ia conversar por exemplo então esses exames eles
+podem ser usados para dados prognóstico e agora não existe evidência que me
+permite indicar alguma intervenção a partir dos valores desses exames então
+assim existe evidência que falhar mas se eu tiver um dinheiro maior que 1000 eu
+vou anticoagular e se eu tiver um dinheiro maior que
+3.000 vou não existe isso aquele trabalho lá que eu citei lembra e um
+trabalho retrospectivo ele ficou procurando coisas que ele pudesse bater
+que ele conseguisse fazer encaixar é como se ele fica mexendo nos dados para
+você conseguir encaixar uma peça de quebra-cabeça com a outra mas não
+
+00:26
+necessariamente aquele encaixa que está sendo feito representa de fato uma uma
+relação verdadeira entre as coisas e lembrando mesmo naquele trabalho ele
+comparou não fazendo nada de profilaxia ou fazer alguma coisa de profilaxia e a
+dose aquele usando aquele trabalho eram as doses habituais que a gente faz
+é bem Quando a gente tiver de fato pensando em PVP Tec é importante que eu
+lembre que teve petep Assim como as outras doenças isquêmicas tem uma maior
+apresentação dos pacientes com convite e quando tiver de fato pensando nessa
+possibilidade eu vou ter que ir atrás de
+um diagnóstico e por que que eu coloquei o Yoda oh baby oh da aí para gente
+Porque alguns pacientes essa decisão bem
+difícil por exemplo toda a gente tem uma
+pessoa que tá disponível tá que cardíaca tá que pinica dessaturando e a gente
+olha para ela ela tá lá numa unidade crítica unidades e me critica eu posso
+
+00:27
+olhar para as pessoas falar ele é tudo no convite não tem mais nada acontecendo
+mas pode chegar um clone meu olhar para ela e fala Olha é tudo com vídeo mas
+pode cidade porque porque tenho que dar ataque na área da taquicardia da
+saturação isso é super difícil porque a gente antes para a gente conseguir
+organizar por o Inter tep de alguém ttp a gente
+aplicava os carros Ford Wells tanto para TEP como para te ver só que quando eu
+não vejo esse paciente com convite respiratório assim bem sintomático ele
+vai ter os mesmos sintomas de uma pessoa com tag no score Wells perde sua
+relevância porque porque a minha premissa Inicial Não era essa pessoa
+chegou no pronto-socorro as pessoas chegou não tem por teste a minha prima
+essencial na verdade é essa pessoa que tá aqui para corrigir eu quero saber se
+ela tem que ter também Deus com Jonas ele não vai se aplicar também E aí não
+tem jeito a gente vai precisar de um pouco de F1 Clínico de experiência
+
+00:28
+clínica para decidir aquele paciente que
+eu vou procurar TV que eu vou procurar a tep puxa mais diferença Clínica você
+citou monte de ar tigo Cadê a medicina baseada em evidência Pois é experiência
+clínica na verdade faz parte da medicina baseada em evidência não medicina
+baseada em evidências não é só citar artigos mas
+a ler os artigos compreender aquilo que passado é ter experiência ter expertise
+no manejo de pacientes que a gente adquire com residência médica ou
+especialização o custo e vendo o paciente nada como ver paciente e por
+fim associando os seus valores do paciente né então é esse tripé que faz a
+medicina baseada em evidência e nesses casos vai ser fundamental isso puxa o
+paciente que tá tá no 14º dia não tá melhorando tá no 20º dia não tá
+melhorando não tô conseguindo de mamão oxigênio puxa será que esse cara teve
+uma teve uma embolia pulmonar que passou batida será que esse cheio de fibrose
+
+00:29
+cicatriz no pulmão Talvez uma nova onde eu tomografia vai ser nessa resposta bem
+e por fim o fim nesses olhos é pacientes Não internados não deve receber mais de
+coagulante é a priori essas pessoas elas estão bem elas conseguem se mobilizar e
+só um eu ia encher a gente realmente nesse tom
+que a gente tem mesmos ele de saindo de que seja benéfico o uso de alguma a
+quimioprofilaxia é claro que o caso excepcional pode existir né mas aí vai
+ser uma Finest do manejo Clínico não é uma recomendação geral é por outro lado
+todo mundo que internar tem que receber profilaxia química isso isso tem que ser
+um consenso é um ponto em comum é tanto de pesquisadores como enfim de médicos
+na linha assistencial todo mundo concorda que as pessoas devem receber as
+
+00:30
+doses habituais que a gente prescreve elas são expulso em evidência robusta de
+benefício por exemplo é nossa página de 40 60 miligramas uma vez por dia então a
+priori são essas duas que eu vou fazer Puxa não tem a nossa parente nem para
+ainda não fracionado bem para ele não fracionar são cinco mil unidades tudo
+com tênis às vezes por dia de 8 em 8 horas então você trabalha que eu prendo no
+fracionário ao acrescentando paciente é um pouquinho ruim então o valor de 2
+Então em vez de você fazer carinho no fracionado 5.000 três vezes por dia você
+pode fazer cinco mil duas vezes por dia perfeito Então são outras possibilidades
+de idosos que são possíveis de ser aplicado
+em doses que são chamadas intermediárias né o pleno e que uma das plena da
+reprimenda do acidente população propriamente dita EA dose de por exemplo
+na nossa página 1 MG por kg duas vezes por dia né E a nossa intermediária
+
+00:31
+qualquer coisa no meio do caminho disso então o paciente tem vamos supor 80 kg e
+eu quero fazer uma dose de 40 duas vezes isso é nós é habitual nem a dose plena
+são das intermediário o que tem de recomendar mais uma vez que a gente não
+previdência prospectiva e confirma que essas doses são superiores é do ponto de
+vista de desfecho é é do uso assim é mas existe a recomendação de alguma
+sociedade mesmo previdência que essas doses diferentes elas podem vir a ser
+considerados os pacientes mais graves eu pacientes de unidade crítico de idade
+semi-crítica é ele sugerem que você Considere a gente não sugerem que você
+e eu vou para todos os pacientes é é é pacientes com trombose esse sim
+deve ser notificado lados Sem dúvida nenhuma Se você puder muscular com
+enoxaparina é mais interessante porque por causa que ele princípio lá que a
+
+00:32
+nossa página talvez tem alguns benefícios específicos enterro de
+adultério lesão do endotélio alguns mediadores a bateria antes é bem isso é
+tudo que eu tinha para comentar com vocês deixa eu algumas referências
+Gerais que eu coloquei na que eu usei também na leitura machucados laje eu eu
+coloquei com as referências que foram usadas para a construção daquele slide
+bem acho que isso era tudo que eu tinha para falar eu vou dar uma lida agora no
+chat aqui para ver ver se eu vou pergunta que eu possa que eu possa responder
+um bolsinho de profilaxia com anticoagulantes domiciliar para o
+paciente pós-alta de corrigir que não tem tido técnica e depois documentada se
+sim por quanto tempo dose plena ou reduzida de Duarte bem então vamos lá é
+profilaxia para o domicílio quando o paciente teve alta né O que a gente tem
+
+00:33
+sobre o trabalho com isso o risco de trombose após uma internação ele
+aumentado não só hoje subsequente mas nos meses subsequentes somente uma
+internação isso gente já sabe tanto que que tá lá é no score Wells por exemplo
+se o paciente ele teve internação recente a gente sabe que isso acontece
+a recomendação a partir de alguns trabalhos também não dá era com o vídeo
+mas mais antigos de algumas sociedades sugere inclusive o projeto de diretrizes
+brasileiro ele sugere-se também que a gente faça um paciente Clínico né
+paciente cirúrgico é a parte mas é paciente Clínico do paciente Clínico ele
+receba por volta de sete dias de profilaxia pelo menos ou seja se o
+paciente for de alta com três jeans ele vai para casa recebendo mais 4 dias até
+completar o site de profilaxia Total esse valor ele pode ser aumentado pode a
+
+00:34
+gente tem estudo mostrando que isso uma estratégia eficaz não não muito então a
+gente não tem a gente não tem evidência para falar que seja uma estratégia
+eficaz né posso usar do aqui em vez de usar uma estratégia com a nossa Karina é
+pode também a experiência maior na literatura e na
+a dica é com a nossa parede e mais uma vez ela que você pode não parece ter
+alguns benefícios em termos do endotélio que não estará mente Outras Drogas
+anticoagulantes vão ter que eu sou segurando a preferência pela nossa
+página sucesso dose pleno reduzido Sanji doses que a gente e aí cai nessa nesse
+último na última parte da aula são os gases que a gente habitualmente faz é
+para profilaxia e não para tratar teve Pepe isso que a gente pode recomendar
+com segurança baseado em evidência e isso pode mudar em alguns meses já
+
+00:35
+e quais os principais indicadores clínicos para indicar a anticoagulação
+paciente internado com cor verde ou Faleiros a gente a única indicação que
+eu posso falar que realmente é forte para indicante coagulação do convívio é
+a presença de um evento tromboembólico fora desse contexto anticoagulação ela
+não pode ser recomendada com base nas evidências prospectivos atuais para ver
+se uma conduta de exceção que você vai ter que traçar o seu paciência foi o
+caso de acordo com aquilo que tá na literatura o ideal é que você também
+conversa com o paciente que você explica Olha eu tenho uma proposta que eu quero
+te fazer de tratamento que eu acho que funciona por isso isso isso mas a gente
+não sabe ainda se tem realmente benefício o risco de sangramento é um
+risco que existe maior risco de sangramento sangramento é baixo para
+diminuir esse risco eu vou monitorizar por exemplo só creatinina eu vou
+monitorizar o fator de 10 anos eu tô trabalhando com a nossa
+
+00:36
+é mas eu sei que ser conversado dialogado um paciente para se colocar
+essa proposta terapêutica no momento a gente não deve a gente não tem
+literatura suficiente para gente ficar musculação é mesmo esse chá de baixo de
+baixo risco é um monte de Facundo paciente convide
+é bem então o xadrez mágico tem uns for utilizado para identificar o risco de
+evento isquêmico um paciente com fibrilação atrial crônica né então é aí
+eu é um pouco fora fora do contexto é outro é um escorre onde que a gente usa
+tem que usar no paciente com o teatro do astral mas ele não é aplicado no
+paciente com convide Tá certo e a paciente de está debaixo debaixo bicho
+ontem coágulo não não lógico a gula tá você vai articular baseado em tudo isso
+
+00:37
+que acabei de falar mais uma vez só o sucesso nome de ser mais pergunta você
+acha que dinheiro a 500 adequado com o ponto de corte para solicitar um anjo
+toma de kartepe ou esse ponto de corte deve ser maior para a população Murilo é
+essa dúvida muito legal muito interessante a gente é pouco provável na
+verdade que o dinheiro Marquinhos devo levar indicar a gente fazer onde
+tomografia para os pacientes né a gente sabe que a maior parte dos pacientes que
+a gente foi internar principalmente no contexto das internações Brasileiras que
+a gente acaba imperando o paciente mais graves que eu vejo que os lugares do
+mundo por escassez de recursos escassos direito e demora do paciente acessar o
+sistema de saúde é pura incompetência e que nós temos um ponto de vista de
+garantir o direito ao cidadão é talvez quase todos os pacientes que a gente tem
+um dinheiro maior 500 a última nos passeios piorzinho sun
+
+00:38
+teremos me arrumar 500 é não é pouco provável que um dinheiro Marcos 500b
+bate mobilizar a fazer alguma coisa né e
+a gente cai naquela conversa que eu tive
+sobre a dificuldade de se identificar um paciente que de fato você suspeite de
+tep e que você indique onde tomografia nesse sentido eu posso usar o dinheiro
+como uma ferramenta para auxiliar olha poder pode a gente não tem informação
+baseada de fato do robusto para colocar um corte mais apropriado para mobilizar
+a gente para se investigar som Mas se você tiver um paciente que tá ruim
+e diz aturando precisando de O2 e tem dinheiro de maior talvez que cinco maior
+que 10 mil e aí vem mais sugestão é pessoal pautada daquilo que ele que se
+lei pautada no todos os pacientes com um
+
+00:39
+convite que eu participei de atendimento
+também no HC é eu acho que isso deve ser suficiente para te mobilizar procurar
+ter É verdade então nesse perfil de paciente eu acho que ao paciente ta
+nasce saturando tá precisando de bastante o de hoje tem dinheiro maior
+que 5.000 maior que 10.000 rapaz procura TV Pet Não achou efeito não acho mas eu
+acho que sim valeria a pena procurar o corte de 500 o corte de mil eles não são
+cortes eficazes para gente falar isso o que a gente pode falar é paciente com
+dinheiro menor que 1000 para o melhor do que os pacientes com
+dinheiro maior que 1000 Mas isso não não não suficiente para te dar um
+empurrãozinho para você procurar até Pet em qual a probabilidade de casa de
+covide com relacionado a eventos hemorrágicos mais graves que podem ser
+
+00:40
+hemorrágico a gente não tem a gente não tem um risco de sangramento tão
+aumentado assim nesse perfil de paciente
+com coronavírus a gente vai ter os dados das pesquisas é prospectivos para
+corroborar isso eu acabei de falar mas por enquanto isso não é uma preocupação
+adicional eu considero que o risco de sangramento desse perfil de paciente é
+como o risco de sangramento da população geral é plaquetopenia grave é contra
+indicação absoluta de anticoagulação no contexto profilaxia é plaquetopenia
+grave eu sempre é interessante colocar esses termos porque às vezes essas
+coisas se confundem né Pode parecer aqui porque eu queria gravar alguma coisa
+grave ou pode um lugar falar que fala também grava um valor outro enfim fica
+gente usa né então paciente com plaqueta de menores que 50 mil a gente não
+costuma fazer uma profilaxia E aí jogos como deixar o nox heparina
+heparina não fracionada o ideal seria que não temos de profilaxia que as
+
+00:41
+pessoas usem compressor pneumático intermitente durante a internação é mais
+vale a pena ressaltar sempre importante você diante de uma tampinha é pensar o
+motivo Você só diz função hematológica pela infecção enfim raciocinar de acordo
+com o paciente que você tá vendo isso vocês tem uma indicação de
+anticoagulação pela prometido Então vamos se dizer um paciente com teto e tá
+com uma placa de 40 mil vai no de fogo Lar E aí você tem que ponderar o
+risco-benefício Mas provavelmente o benefício da anticoagulação vai superar
+o risco dessa de população plaqueta menor 40 mil e às vezes até pela
+patogenia da trombose que consome plaquetas vezes até a placa da começa a
+subir depois que você começa a gente calcular tá nesse contexto que eu tô
+e se você tiver falando Ah não paciente com púrpura trombocitopênica imune PTI
+
+00:42
+que tá plaquetopenico e enfim tá com alguma intercorrência a conversa muda né
+porque a patogenia da preferi dele é diferente também tá bom Existe algum
+malefício usar essa página sempre dance nos casos de convite isso comparando
+aquelas outras medicações que também estão utilizando eu não tenho de dentes
+muito louco então como qualquer medicação a gente tem a gente tem sim
+gente os associados né no caso do executaremos o principal risco que a
+gente tem o risco de sangramento e o sangramento ele pode acontecer desde
+sangramentos leves que são os mais comuns né sangramento de gengiva nariz
+pele mas também pode acontecer acionamentos graves estão hemorragia
+digestiva então problema de estômago mulher do colo hemorragia intracraniana
+é sangramento dentro da cavidade abdominal sobre a mente na coxa
+e como qualquer medicação sim o risco existe e por isso que a gente tem que
+
+00:43
+saber quem é o paciente que realmente se beneficia da medicação porque se não eu
+vou só trabalhar dando risco para o paciente sem ter nenhum benefício então
+eu sou super importante e por isso também se eu for tentar fazer alguma
+coisa é um termos de idosos Diferentes né como eu falei algumas sociedade elas
+recomendo inclusive é que você deva pensar sobre uma dose diferente nos
+paciente um pouco mais grave isso tem que ser conversado com paciente a gente
+tem que explicar que o que a gente tá fazendo com o paciente no Marina Claro
+porque ele entenda a nossa dúvida e a nossa certeza e a nossa proposta para
+essa pessoa não é passar a bola por paciente para saber se o paciente quer
+tomar ou não é o remédio mas é falar né diante de tudo isso eu acho eu quero
+construir essa proposta terapêutica mas tem um rio
+o ifix E aí que que você pensou se assunto vamos conversar beleza não aqui
+
+00:44
+é a mesma eficácia que nossa página bem para eu saber isso preciso saber o que
+ficasse nossa página para convide que eu ainda não tenho certeza tem alguns
+trabalhos estão sendo conduzidos também com os nossos então em breve nós teremos
+essa essa resposta é mesmo gestantes ou puérperas corrente Positivo eu não
+usaria de Formação em nível ambulatorial pós-alta hospitalar
+é perfeito então assim isso é super interessante porque a gente exclui
+pacientes gestantes e puérperas boa parte dos trabalhos porque a gente
+reconhece que o risco dessas pacientes é um pouco maior do que o da população
+geral e é um perfil de paciente sempre diferente esse estudar então é diferente
+o manejo da gestante e aí para a gente fazer o manejo da gestante a gente ou
+puérpera a gente vai precisar conversar também com a equipe de Obstetrícia que
+
+00:45
+está acompanhando essa paciente para identificar os riscos gestacionais os
+eventos de estacionárias que se a pessoa está tendo ou já teve para decidir em
+conjunto sobre a melhor dose o melhor tempo de profilaxia
+Eu acho que eu consegui responder todas as perguntas só não responde se vai ter
+mais tem mais livro não sei é paciente com história de câncer você usaria
+anticoagulante oral são de quatro vezes Marco normal então é como falei não dá
+para gente faltar anticoagula alguém por
+causa de algum exame Laboratorial eu não tenho evidência que isso seja ficaste E
+se eu tentar fazer isso eu posso eu posso cair numa pegadinha' que a gente
+já caiu várias vezes na medicina que é olhar para pesquisa de bancada que é
+super relevante olhar para um exame Laboratorial que é interessante que
+
+00:46
+indica muita coisa para gente mas eu olho para isso eu entendo que a
+fisiopatogenia da doença é esse microcosmo estou olhei e eu acho que por
+causa desse microcosmos vai dar um tratamento vai dar certo
+e a gente já cometeu esse erro números vezes não só a cocô vídeo mas com outras
+doenças não adianta ficar insistindo desse erro ele não vai mudar ele não vai
+aprender comigo a fisiologia humana é muito complexa e às vezes aquilo que faz
+muito sentido para gente tá errado porque porque a gente não consegue
+enxergar todos os variados que estão envolvidos para responder de fato essa
+pergunta eu preciso de um trabalho prospectivo para conseguir falar para a
+Glória de maneira prospectiva realmente quando eu coloco essa droga nesse perfil
+de paciente e eu comparo com o outro que não recebeu essa droga ou recebendo uma
+loja diferente eu tenho Tais diferente que eu consigo agora comparar chegar
+numa conclusão eu preciso desse tipo de evidência para poder traçar uma conduta
+
+00:47
+que eu consigo falar assim Olha isso é uma recomendação geral e só o que a
+gente deve fazer Enquanto essa vivência não sai eu só posso ficar com sal bolão
+sobre coisas e essas coisas um palestino risco é
+e vamos ver se tem umas perguntas pacientes com corrigir em uso de
+heparina desculpa mas voltando dessa daqui na pergunta sobre o câncer do
+Cláudio quatro vezes o valor normal acho que o valor normal geralmente a 500
+dependendo do laboratório unidade diferente tá pode ser 0,5 em vez de 500
+não sei qual o conselho valor absorvente para vocês mas quatro vezes o normal
+então de 500 seriam de Melô de 2000 por exemplo um indivíduo de 2.000 o dinheiro
+bem alterada bem antenado mas é um livro que a gente vê com frequência nos
+pacientes internados com maior necessidade de oxigênio esse paciente
+não tem evento tromboembólico gente procura da liberdade e ver e Mexe junto
+
+00:48
+entendeu para estepe né E aí tá na mesma coisa que a gente já foi conversando
+em pacientes com convite uso de aparelhos com sangramento importante de
+mucosa oral e nasal TP ttpa pela que tá normais Qual o provável etiologia
+a heparina eu acho que seria acho que você deve estar perguntando sobre isso é
+baseado e em algum caso que você viu né Anderson é mais provável que seja da
+própria Marina Claro agora é ser interessante ver qual o tipo de página
+que está sendo usado Falconi que está sendo feito né então tipo de aparelho
+influencia a heparina não fracionada meu aparelho de baixo peso molecular que
+influencia qualquer dose que está sendo feita e pouca função renal desse
+paciente como que eu tô acompanhando as heparina Eu por exemplo só para escrever
+
+00:49
+Box aparelho um miligramas por quilo duas vezes por dia é a forma de garantir
+que essa panela tá indo seguro é fazer um exame que é o que é o fator anti 10 a
+que não é disponível em todos os lugares mas um fator de design permite me
+identificar para mim se eu tô usando dose de mais de nossa Party in USA
+o filme já Box aparelho não ser uma forma de você entender outra coisa que
+vai ter a gente faz quando os pacientes pensa sangramento é procurar também
+algum algum para todo local Então por vezes até um sangramento de mucosa Mas
+você analisa a dentição da pessoa tem muita gente evite muita lesão então
+assim Precisa melhorar a escovação melhor coisa da boca você tem prótese
+higienizar prótese mucosa nasal foi continente paciente tem a mesma coisa
+simples como tirar meleca com unha grande você fala Olha tem que cortar a
+unha para tirar meleca Então esse é um cuidado que a gente toma também nos
+
+00:50
+paciente até uma coisa um pouco mais complexa que é procurar algum vaso são
+grande né E aí a gente pode fazer isso é
+claro como a Renault Coupé direta mas um otorrino ele consegue ajudar bastante a
+gente nesse sentido Principalmente se o sangramento nasal sua unilateral Isso
+deve ser uma prova que deve ter algum vasos sangrantes ali realmente
+em baixo e não é para iniciar né que faz o sangramento seccionamento dos dois
+narizes como você falou do paciente está sangrando narinas e boca eu tô com
+relacionado mais com heparina o que contar todos locais agora pode ter a
+culpa de heparina junto com os outros locais também né tem uma paciente com
+corrente positiva pistache importante relato de internação na semana anterior
+provavelmente realizada para falar com você com heparina como manejar então é
+mais uma vez que você foi na semana anterior se a função renal dessa pessoa
+normal a heparina já já foi lavada do corpo né então já não deve ter mais eu
+
+00:51
+parei na circulante A não ser que ela tenha continuar vou usar aparelho né
+então assim provavelmente com uma semana já deu tempo de nossa página perdeu o
+efeito dela no corpo humano e até de aparelho não funcionou perdeu o efeito
+dela a não ser que seja uma pessoa conte um som Renault modelar recirculando a
+droga é provável relação com a página e você
+tem que tem que analisar aí carne aquilo ver plaqueta TP ttpa para ver se tem
+alguma diferença específica Às vezes a pessoa tem uma doença da coagulação que
+nunca foi foi diagnosticada uma doença de Von willebrand vamos p**** é uma
+premonicao nos ninguém agora também vai ser importante procurar o fator local e
+aí Tainá acabei de falar sempre chat phone lateral a importância do otorrino
+vai ser maior do que não está Xing lateral mas né que está cheio de lateral
+somente pode ter Valsa dos dois lados ou às vezes o vaso está sangrando só de um
+
+00:52
+a pessoa engole né ela manda para a nasofaringe e devolve pela outra Marino
+sangramento e parece ser bilateral quando na verdade é unilateral também
+pode acontecer A Juliana falou programa normal Então
+você tá é coagulograma imagina seja o tptp a né imagina o que é plaqueta
+também esteja normal se essas três coisas forem normais e eu Começarei a
+pensando em fatores vontade ou dá uma revisada sobre doença de Von willebrand
+que às vezes é pega a gente pega a gente na esquina digamos assim não falar que
+você tem pacientes obesos acima de 100kg de dose intermediária perfeito então
+pode ser que a dose intermediária é seja feita pelo paciente grande o peso né
+então por exemplo meu trabalho que a gente está conduzindo em vez da gente
+usar o peso em si a gente tá usando o IMC né É claro que também não é perfeito
+mas é porque eu penso ele pode variar muito de acordo com a sua altura né Você
+
+00:53
+pode mos um cara grande obeso enfim é é difícil difícil falar sobre isso
+talvez vale a pena fazer você considerar é pacientes com IMC maior igual que 35
+Mari no 40 todos uma dose um pouco maior
+Talvez seja interessante que uma dose de enoxaparina por exemplo 40 duas vezes
+por dia essa evidência a gente tem principalmente de paciente é grande
+obeso em cirurgia bariátrica pós-operatório de cirurgia bariátrica
+então parece que essas lados um pouquinho diferente se sai um pouco
+melhor neste paciente grande obeso Tá mas enfim também não era na época preco
+o vídeo não era um consenso esse padrão de dose também mas pode ser que seja
+interessante realmente antes continue paciente eu diria o Mc não é igual 3540
+
+00:54
+onde vai ser mais interessante E aí perguntaram sobre a s clopidogrel e
+sobre sobre no Whats falar alguma específico já me perdi aqui bem sobre
+Nossa gente que sejamos objetivos são remédios muito
+interessante mas são mais caros são mais recente e as empresas farmacêuticas
+ganham mais dinheiro então é claro que existe um viés de propaganda em cima dos
+benefícios da tia Nete né a gente está atenta a esse tipo de coisa a s
+clopidogrel eles têm em ele diminui um pouco quando a gente compara vamos supor
+um paciente que teve teve o tep eu comparo acontece para sem fazer nada
+versus acompanhante paciente com uma dose de Aécio os pacientes fios uma dose
+
+00:55
+de Aécio eles têm um pouco menos de dentro tromboembólico de repetição
+quando eu comparo isso por exemplo uma Rei balaque Savana em dose baixa
+paciente curricular com essa banda ainda menos eventos do que aqueles conhece
+então no contexto de uma a profilaxia novos eventos
+tromboembólicos a gente poderia falar que talvez vá é se tem algum grau de
+participação no contexto da corrigir a gente não tem essa resposta mas pouco
+provável que a gente tem um estudo prospectivo com isso é com a esse por
+exemplo porque não vai gerar não vai gerar É talvez muito interesse de
+pesquisadores e de farmacêuticos né pelo
+baixo custo da droga mas mas se você nem ficar com você a gente tem fator de
+risco outro para usar um antiagregante você pode já introduzir agente agregante
+
+00:56
+durante aquele dia que nós temos convide
+durante o dia durante a internação enfim Talvez seja o momento interessante de
+você introduzir se tiver outros fatores né É cuidado que às vezes a gente acha
+principalmente para sentir o velhinho idoso a gente acha que assim a
+eu não vou dar enox porque nossos injeção é perigoso e tal mas vou dar um
+s um corpo do aluguel porque vai fazer da menos risco E numa dessas a gente cai
+do cavalo paciente de risco alto risco de sangramento ele o paciente de alto
+risco de sangramento com todos os terapêutico você fizer então tem
+paciente que usa dupla antiagregação o antiagregação única cai bate a cabeça e
+Sandra a cabeça horrores né então cuidado porque Jesus dá uma falsa
+sensação de ficar com uma comprimido como é só uma f é menos riscos né
+
+00:57
+Cuidado para escolher bem o paciente que a gente vai usar o remédio né
+e é pintores do fator 10 da algumas esse
+benefício da profecia então é essa droga excelência para dentro de baixo peso
+molecular como nós aí né são essas que de fato em benefício da profilaxia Ufa
+falei muito em bem Espero que vocês tenham que tenham gostado tenta
+responder é todas as perguntas do chat e Tentei colocar na aula os trabalhos
+todos que eu usei para consultar para que vocês possam consultar também que
+vocês possam criar própria opinião e questionar e fala assim curto está
+errado isso que ele falou tem tem nada a ver o não ouriço aqui de uma forma
+diferente eu tenho uma conclusão diferente é acho que a ciência é ela é
+
+00:58
+feita a partir de discordância é pautada pautada na educação daí no estudo a
+gente precisa é isso a gente não dá para frente né da
+gente a gente encontra o país consegue ser melhor do que do que a gente tá
+sendo bem Se alguém quiser entrar em contato comigo tem o meu e-mail aí o meu
+twitter também que a vontade é isso sucesso grande abraço para vocês a tua
+disposição eu vou interromper agora o oco

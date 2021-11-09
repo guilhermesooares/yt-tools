@@ -1,0 +1,887 @@
+
+00:00
+WEBVTT Kind: captions Language: pt E aí [Música]
+o Olá pessoal tudo bem eu sou o Luciano Azevedo seu professor livre-docente da
+disciplina de Emergências clínicas da USP o médico pesquisador do Hospital
+sírio-libanês diretor-presidente do Instituto latino-americano de sepse hoje
+a gente tá aqui para o nosso webinar do curso Nacional de atualização em terapia
+intensiva onde a gente vai discutir a utilização de corticosteróides E
+covid-19 então é desde que a epidemia surgiu é em março e uma das principais
+terapêuticas que tem sido discutido e eventualmente tem sido utilizada para
+tratar esses pacientes com covid-19 tem sido um corte constrói Só que também
+como tudo que se relaciona a cobra de 19 isso tem sido muito associado com o uso
+abusivo e indiscriminado uma indicação na adequada idosos frequentemente
+
+00:01
+inadequadas né então com os objetivos desse ordinária que a gente possa
+disseminar esse conhecimento sobre qual é o paciente ideal
+e é usar o corte posteroid quanto de corticosteróide tem que ser feito Qual é
+a melhor droga Qual o melhor corte controle para usar nesse paciente Ou
+seja a nossa ideia com esse ordinária exatamente tentar direcionar o
+tratamento de acordo com a medicina baseada em evidências para que a gente é
+20 a utilização indiscriminada inadequada desse medicamento que tem
+sido tão comum na prática Clínica dos pacientes com covid-19 Então esse é o
+meu conflito de interesse relacionada ao tema e os ou inversão dos valores
+principais dos estudos da coalizão covid-19 Brasil Urgente avalia diversas
+terapêuticas em pacientes com corrigir e incluindo a utilização da Dexametasona
+como vocês vão ver mais para frente no decorrer dessa aula o nosso estudo e
+como eu sempre falo né o meu slide como filho né como você tá escrito aí nessa
+situação então é mais o mesmo caso dos meus filhos eu não dou para ninguém mas
+
+00:02
+os meus ir lá e os meus slides eu disponibilizo para quem quiser então
+fique à vontade para entrar em contato comigo por algum desses meios que vocês
+estão vendo aqui o que a gente possa discutir de algum
+caso elaborar alguma conduta o mesmo que eu possa organizar os slides para vocês
+dessa apresentação dessa aula então nossa agenda de hoje ela vai englobar o
+conhecimento fisiopatológico que Embasa a discussão da utilização do código
+asteroide para corrigir 19 a gente vai discutir também rapidamente sobre a
+indicação do corticoide para infecção viral e para pneumonia adquirida na
+comunidade principalmente pneumonia adquirida na comunidade gráfico que isso
+também embasou a discussão do uso de corticoide para ouvir 19 depois a gente
+vai falar rapidamente também sobre o corticoide em síndrome do desconforto
+respiratório Agudo não convide o que é isso também gerou o embasamento
+inclusive do ponto de vista terapêutico de idosos etc para uso do corticóide
+
+00:03
+covid-19 e o Finn antigamente a gente vai falar dos estudos que delimitaram a
+utilização do corte posteroid em pacientes com covid-19 a gente sabe que na
+e o corticoide é o Talvez um pouco renda exibir né mas o corticoide do ponto de
+vista de efeito em mortalidade corte Cláudia único tratamento que tem sido
+demonstrado como tendo um efeito na mortalidade desses pacientes com
+convênio 19 desde que usado no momento certo para o paciente correr usar o
+corticoide para pacientes no momento inadequado no começo da infecção ou a
+uma dose inadequada a dose muito alta um super a pia pode-se reverter um
+malefício preciso doente então é importante a gente entender o cenário da
+utilização do corticoide covid-19 vamos falar um pouquinho então para começar
+sobre a fisiopatologia Eu já mostrei esse site em algumas das minhas
+apresentações para vocês né então a gente discutir aqui a resposta inicial
+
+00:04
+do organismo a infecção ocorre 19 Então você tem uma fase inicial de resposta
+viral para infecção precoce e vai até é do 5º a sétimo dia nesse momento
+sintomas são puramente constitucionais são sintomas parecidos com sintomas
+gripais mesmo posse cerca cefaleia febre
+Talvez um pouco de diarreia naqueles com
+mais sintomas gastrointestinais mas aqui você tem uma fase de presença viral
+muito significativa nos pacientes isso se mantém até o 5º 7º dia quando
+naqueles pacientes que vão evoluir com maior gravidade da doença aqui
+identificado pelo pelo gráfico Lu Preto né A Evolução com maior gravidade da
+doença é esses paciência eles vão ter uma fase de resposta inflamatória do
+hospedeiro mais significativo anteriormente no não dá para falar
+antigamente porque a doença não tem nem um ano tá fazendo um ano agora as
+
+00:05
+anteriormente se dizia que essa frase de resposta inflamatória mais intensa do
+organismo era que se chamava ele sai com a carne Storm tempestade
+e com a publicação de estudos que avaliaram a resposta inflamatória do
+ponto de vista quantitativo nesses pacientes civil e existe claramente uma
+resposta inflamatória exacerbada importante mas não chega a ser uma certa
+caindo storms paciente não combinam desenvolvem Picos muito significativos
+por exemplo de interleucina-6 como os pacientes com sepse por exemplo
+desenvolve o contexto de uma doença mais
+grave então a prática você tem de fato é responsável de resposta inflamatória do
+hospedeiro importante essa fase de resposta inflamatória do hospedeiro
+Então fica por volta do 7º ao 10º dia e aí com essa frase de resposta
+inflamatória do hospedeiro você teria um cenário onde terapêuticas que atuam
+nessa frase de resposta inflamatória do hospedeiro poderiam ser benéficas Como
+
+00:06
+por exemplo o próprio corte posteroid né modulando a resposta inflamatória e vou
+mostrar como isso aconteceria mais para frente para vocês ou medicamentos anti
+imprimir o senhor seis como é uma buscarino mag-7 aqui também estão
+em investigação Nesse contexto então o paciente que evolui
+é um covide do ponto de vista de evolução Clínica é tanto sobrevivente
+combo tu não sobrevivente então tem uma fase inicial até por volta do sexto
+sétimo dia né onde ele tem fundamentalmente sintomas sintomas
+constitucionais né E eles vão começar a desenvolver dispneia aqui em azul escuro
+tanto Sobreviventes quantos não sobrevivem o volta do sétimo dia mais ou
+menos e aí volta do nono décimo dia é onde eles vão desenvolver a disfunção
+orgânica relacionada ao covil de 19 tô nesse sentido faz muita faz muito
+
+00:07
+sentido você usar o corticosteroide Nesse contexto mesmo neste momento aqui
+onde o paciente está desenvolvendo essa resposta inflamatória mais exacerbada
+exacerbada começando evoluir com esse quadro de síndrome do desconforto
+respiratório Agudo ou de infecção grave com disfunção orgânica Porque como
+como é que uma CEP de rua CEP geral Mas é uma certa é uma infecção grave com
+disfunção orgânica Então quando você tem
+ocorrido 19 evoluindo quando só orgânica ali você tem o acesso ocorre 19 Então
+faz sentido você usar o corticoide exatamente nesse cenário né Vamos tentar
+entender um pouco melhor do ponto de vista Clínico como é que isso repercute
+então você tem o cenário de pacientes que têm o aumento das concentrações
+séricas de várias citocinas então interleucina-1 Beta fator de necrose
+tumoral-alfa né tanto paciente cuidados não tem como não cuidados na UTI e
+também interferão Gama note aqui como você tem o aumento das concentrações
+
+00:08
+séricas desses marcadores existem estudos demonstrando por exemplo que a
+interleucina-6 o aumento da interleucina-6 no cenário de couve 19 é
+capaz de associar ao prognóstico desses pacientes então tanto interleucina-6
+a retina e são aqui também é o marcador de atividade inflamatória elas estão
+mais aumentadas né nesse grupo de pacientes que está circulado aí para
+vocês em vermelho que é o grupo de pacientes que morre e go 2019 em relação
+aos pacientes que sobrevivem Então os que sobrevivem em azul eles têm menores
+concentrações séricas de fenitoína e menores concentrações séricas de
+interleucina-6 demonstrando então uma resposta inflamatória - exacerbada tendo
+essa resposta inflamatória - exacerbada você poderia associar É de fato que o
+tratamento da resposta inflamatória poderia se associaram a redução desta
+obviamente dessa resposta inflamatória e
+
+00:09
+consequentemente uma redução no risco de óbito desses pacientes vamos ver com um
+pouco mais de detalhe essa fisiopatologia do covid-19 para a gente
+entender de onde vem tanta produção de mediador inflamatório de onde vem a
+ativação da cascata de coagulação e de onde vem a disfunção orgânica ou seja
+eu poderia atuar com corticoide para tentar melhorar esse processo
+fisiopatológico do comitê 19 então não tem que uma vez que o vírus Ele entra
+pela na célula através do receptor da enzima conversora de angiotensina do
+tipo 2 ele vai produzir Então dentro da célula fase de replicação viral produção
+EA reggina viral produção de proteínas virais maturação do vírus e
+consequentemente liberação desses vírus tá o mesmo logo essas células inflamadas
+e infectadas Na tentativa de combater essa atividade viral secretam o número
+grande de demarcadores pró-inflamatório então tanto produção de interleucina 6
+
+00:10
+isso aqui são as células do epitélio pulmonar daí aqui você tem o macrófago
+alveolar também elas estão intimamente relacionadas é e obviamente o macrófago
+vai também liberar esses mediadores pró-inflamatórios e esta liberação de
+mediadores pró-inflamatórios como vocês é preciso Eyed é que vai causar todo o
+mecanismo que aqui tá escrito como sai tocar no histórico Mas como eu falei
+para vocês hoje em dia a gente não chama
+mais alguns autores até chamam ainda ele vai tocar na história mas ele não fecha
+totalmente os critérios de estar com a carne sobra porque ela não é uma com a
+produção de extremamente ampliada de citocinas como a gente vê por exemplo no
+contexto de um acesso mais de todo modo você tem a liberação de todos esses
+macacos mediadores inflamatórios Você tem uma Resposta imune disfuncional né
+com infiltração de mo nós uma próximo e saiu do apê a edema pulmonar e pneumonia
+né então a síndrome do desconforto respiratório Agudo isso nos pacientes
+
+00:11
+que vão evoluir covid-19 na sua forma mais grave na sua forma de cima do corpo
+respiratório Agudo a sua forma de pneumonia viral disse não respiratória
+aguda grave é que a gente vê que são aqueles cinco porcento dos pacientes que
+acabam internado na unidade de terapia intensiva
+e por outro lado se a resposta do organismo era uma resposta mais a
+healthy uma resposta mais Sadia você consegue remover lá clarear essas
+células infectadas rapidamente né você Os vírus são inativados pelos anticorpos
+neutralizantes E você tem pouco dando pulmonar e pouca informação Então esse
+aquele cenário do paciente que tem uma um comprometimento na tomografia de 10
+15 20 25 porcento mais esse comprometimento vai melhorando ao longo
+dos dias o que o leva o indivíduo a ter uma Resposta imune disfuncional e
+evoluir com síndrome do desconforto respiratório Agudo versus indivíduo tem
+
+00:12
+uma Resposta imune saudável e não tem nenhuma dessas complicações ele pela
+estrada como na área e melhorar a diferença entre um e outro não se sabe
+muito bem tá E é interessante Porque mesmo porque o 2019
+é a base fisiopatológica é que discutir por que que um paciente a volume mal em
+outros é volume melhor não tá totalmente cara né Por exemplo saiu essa semana no
+estudo o relato de dois casos de gêmeos idênticos submetidos provavelmente ao
+mesmo inóculo viral que eles tiveram mesmo contato com a mesma pessoa que nos
+transmitiu covid-19 e Esses gêmeos idênticos eles a um evoluiu bem teve
+essa resposta Verde aqui a Resposta imune Sadia os dois internaram mais um
+evoluiu bem não precisou ir para a UTI e o outro foi para UTI foi entubado
+evoluir com síndrome do desconforto respiratório Agudo ou seja imaginava que
+a fisiopatologia estivesse relacionada com a alteração genética se você tem
+
+00:13
+gêmeos idênticos provável que eles têm a mesma a mesma composição genética então
+isso não explicaria porque uma resposta de uma diferente da do outro poderia ser
+por inóculo viral mas aparentemente eles tiveram acesso ao mesmo ao mesmo é
+e ao mesmo contaminante consequentemente foi Provavelmente o inóculo viral dos
+dois foi parecido intenso uma na prática a gente ainda não sabe totalmente o que
+é que leva um indivíduo a ter uma resposta mais aguda e mais grave do
+indivíduo obter uma resposta mais tarde a digamos assim e melhorará rapidamente
+e conseguirá evoluir com uma boa melhora Clínica Nesse contexto de couve então
+todo esse cenário fisiopatológico que vocês viram no slide anterior ele é
+ocasiona esse Exatamente Essa ativação da cascata de coagulação ativação de
+neutrófilos e macrófagos ruptura vascular hemorragia formação de coágulo
+no na vasculatura pulmonar essa lesão alveolar que vocês estão vendo aqui né
+formação de membrana hialina formação de
+
+00:14
+trombo Ou seja você tem um dano pulmonar e é vascular mas também é um dando
+pomonar alveolar e tudo isso sim se e já eram como junto se sobrepõe para um
+evolução desfavorável desses pacientes com convite que obviamente do ponto de
+vista fisiopatológico essa evolução desfavorável começa no pulmão claramente
+mas depois o convite assim como a sepse de origem bacteriana também se torna uma
+doença órgão com disfunção orgânica múltipla então note aqui os diversos
+órgãos que podem ser acometidos no cenário do comitê 19 o cérebro pulmão
+coração uma disfunção cardíaca associada a corrigir lesão renal aguda tá bem
+documentada no contexto de couve de disfunção intestinal disfunção hepática
+e disfunção da cascata de coagulação ou seja ângulos inicialmente se imaginava
+que convide era uma doença pulmonar hoje se sabe ficou 2019 é uma doença
+
+00:15
+sistêmica ela pode acometer um contexto bastante é multi orgânico dos pacientes
+e consequentemente será essa disfunção orgânica onde que o corte com
+o e atuar para minimizar esse processo fundamentalmente dentro da atividade
+pró-inflamatória E aí vamos tentar avaliar o uso do corticóide dentro da
+atividade pró-inflamatória pulmonar Então se sabe que o corticoide essa
+idade apesar de ter 21 anos de perdão 20 anos de 20 anos de vida ele ainda é um
+dos slides mais bonitos Não é uma das mãos gráficos mais bonitos que se tem em
+terapia intensiva né em um artigo desse novo desconforto respiratório Agudo
+sempre imitado né então você tem aqui do lado alvéolo o a interação do pulmão
+normal e ao lado dessa interação do pulmão normal a interação do pulmão
+
+00:16
+inflamado no com presença de surfactantes ativado neutrófilo ativado
+a membrana hialina né que aquela membrana que é responsável pela
+descrição da síndrome do desconforto respiratório Agudo original né a
+síndrome da membrana ea a formação de debir celular ativação da
+cascata da produção do colágeno preci paciente formação de fibroblasto né ou
+seja todo o processo inflamatório e fibrótico que esses pacientes com
+Síndrome do desconforto respiratório Agudo seja porque o vídeo por não
+convite apresentam tá aqui escrito nesse slide e o corticoide pode atuar e
+inúmeras dessas etapas ele pode atuar tanto minimizando modulando né Essa
+produção dessa resposta inflamatória minimizando essa resposta inflamatória
+prejudicial diminuindo o dano que essa resposta inflamatória pode causar para
+os pacientes e consequentemente reduzindo essa disfunção pulmonar e
+consequentemente reduzindo o seu a sua evolução desfavorável o outro contexto é
+
+00:17
+a fase mais tardia da síndrome do desconforto onde aqueles mecanismos de
+produção é de fibroblastos e de produção de colágeno de espessamento da membrana
+alvéolo-capilar é o mesmo dentro do alvéolo podem estar presente né então
+dentro desse contexto o corticoide também tem o seu efeito Antes
+cicatricial também tem o seu efeito antibiótico diminuindo essa produção e
+diminuindo o contexto de efeitos fibroproliferativa da síndrome do
+desconforto respiratório agudo e consequentemente uma maior redução dos
+danos tardios que a síndrome do desconforto respiratório Agudo podem
+causar do tipo hipóxia crônica né retenção de gás carbônico Chrome Então o
+corticoide pode atuar nesses contextos melhorando evolução Clínica do paciente
+então você tem esse cenário do uso do corte costeroides né do impacto do uso
+
+00:18
+de corticosteroides nasce em nome do desconforto respiratório agudo e esse é
+um dos mecanismos pelos quais se cogitou a possibilidade
+a usar o corte posteroid numa fase mais tardia da síndrome do desconforto
+respiratório Agudo tá ou seja exatamente para tentar reduzir esse processo
+profibrotic esse processo fibroproliferativa da síndrome de
+conforto se pensou em utilizar o corticoide uma fase mais tardia como eu
+vou explicar para vocês daqui alguns minutos então a gente tem a discussão
+sobre a utilização do corticoide para infecções virais e pneumonia adquirida
+na comunidade então durante muito tempo se cogitou exatamente Por conta desses
+efeitos anti-inflamatórios do corticoide se usar o corticoide por exemplo para
+pneumonia por influenza é para para pacientes com influências da grave
+também se cogitou utilizar o corticoide para pacientes com o corticoide é usado
+né mas ele nunca foi testado ensaios clínicos randomizados para esses
+
+00:19
+contextos de influenza ou de meras né que a síndrome respiratória do Oriente
+Médio causado por um monte Oi primo o Sasuke of dois então ele já
+foi discutido a utilização do corticoide para todas essas essas infecções E aí o
+que que a gente tem de evidência tá a gente tem a diversos estudos
+observacionais e na sua prática não mostraram é o efeito benéfico ou
+protetor do corticoide ao contrário a maior parte deles mostrou a técnica um
+certo efeito deletério e corticoide e quando juntos nessa metanálise publicada
+ano passado discutiu-se que o corticoide aumenta vejam aqui tudo que tá deste
+lado da do gráfico indicaria que o corticoide seria benéfico tudo que tá do
+lado direito do gráfico que eu tô pintando agora indicaria que o controle
+
+00:20
+seria é seria Malé seria seria e seria mais benéfico ou seja não usar o
+corticoide seria mais importante doenças então da prática vejam que não
+metanálises você tem um efeito é deletério do corticoide para tratar a
+tratamento de pacientes com pneumonia por influenza notem porém que todos
+esses estudos são o primeiro a maior parte deles são estudos relativamente
+pequeno só tem só três estudos que são os maiores 230 doentes mil e poucos
+doente 2000 doente Tá mas nenhum desses estudos é um estudo Clínico prospectivo
+randomizado são todos os estudos observacionais e que tem os seus vieses
+por exemplo a gente já tende a usar corticoide nos pacientes com pneumonia
+mais grave né então isso envia ESA o resultado o resultado do estudo e
+consequentemente a gente atende a usar corticoide paciente com pneumonia mais
+
+00:21
+grave um risco desses pacientes morrerem é maior então parte desse possível
+efeito deletério que a gente tá vendo aqui com a utilização do corte posteroid
+pode ter sido causada pela exatamente pela abordagem feita é a parte
+o ensaios clínicos e observacionais tá então isso poderia justificar
+parcialmente a dificuldade que a gente tem é de demonstrar o benefício Claro e
+corticoide para tratamento pneumonia por influência mas isso gerou uma
+preocupação substancial esses dados aqui
+e os dados dos estudos observacionais de um juntos por essa metanálise e mostrar
+muito corte que gera maléfico fizeram com que no início da pandemia as ordens
+ação Mundial da Saúde outras entidades sugerissem que não devesse ser usado
+qualquer coisa que corresponde para tratar pacientes com covid-19 por esse
+resultado do da influência e por esse resultado que eu vou mostrar para vocês
+agora esse aqui é um dado do paciente comércio que é assim não respiratória do
+
+00:22
+Oriente Médio causada por um outro coronavírus que é parente do Sales of
+dois notem que não existe impacto na mortalidade da utilização do corticoide
+sem diferença estatisticamente e da utilização do corticoide para esses
+pacientes com Messi porém é como você analisa a clareamento do RNA viral ou
+seja o tempo que o paciente fica liberando o vírus lá para na respiração
+liberando vídeos e mentalmente contaminando-os as pessoas que estão a
+sua volta e só aumenta significativamente quando se usa o corte
+costeroides sugerindo então que o corticoide pode prolongar o tempo de
+clareamento virar ou seja o paciente passa mais tempo liberando o vírus e
+pode aumentar então o tempo de doença quando você usa e corticoide no contexto
+da síndrome respiratória do Oriente Médio notem que esse aqui também é um
+
+00:23
+dado de estudo observacional tá E esses dados não foram replicados em covid-19
+Mas isso também nos trouxe um pouco de pé atrás sobre a utilização de corte
+e também por esse mesmo então a gente tinha dado influenza e sugeria maior
+mortalidade com os do corticoide e dado em média um coronavírus sugerindo que
+ocorre aumentavam o tempo de clareamento viral Pode ser que quando você usa o
+corticoide uma fase precoce da doença Você bloqueia uma resposta inflamatória
+e imunológica que é benéfica para o doente e vai fazer clarear o vírus é
+exatamente aquela resposta da tabelinha verde que eu mostrei pra vocês na
+fisiopatologia então usaram corticoide muito precoce e ainda não pacientes em
+uma Gravidade significativas em uma resposta inflamatória significativa Pode
+ser que você seja mais prejudicial ao doente do que propriamente benéfico
+então por isso a discussão de que eu e eu vou mostrar um uma tendência do
+
+00:24
+estudo recovery de mostrar o malefício do uso de corticoide um paciente menos
+grave então usar o corticoide precocemente no paciente menos grave
+pode ser maléfico eu ouvi 19 a gente não tem essa resposta
+totalmente mas esses dados de influenza esses dados de mulheres e o dado do
+recovery e sugerem que eventualmente pode ser deletéria sua utilização
+a hiperamonemia adquirida na comunidade essa também é uma discussão grande aqui
+de origem bacteriana fundamentalmente essa também é uma discussão grande sobre
+a gente deveria usar corte posteroid ou não para pneumonia adquirida na
+comunidade essa é uma revisão publicada Há dois anos atrás onde os autores
+fizeram uma revisão sistemática e uma metanálise das metanálises digamos assim
+eles incluíram todas as metanálises que avaliam corticoide para pneumonia
+adquirida na comunidade grave ou seja aquele paciente que precisa de internar
+
+00:25
+no hospital o eventualmente internar na UTI e viram aqui somente metanálises que
+avaliaram estudos prospectivos randomizados ou seja estudos que tem
+menor odeia de viés e essa metanálise demonstrou o efeito essa essa essas
+metanálises demonstraram o efeito estatisticamente quase todas elas
+demonstraram o efeito estatisticamente significante do corticoide reduzindo o
+risco do paciente com pneumonia adquirida a cidade evoluir de forma desfavorável
+tem também o estudo Clínico publicado em 2016 se não me falha a memória no jama
+onde os autores demonstraram que utilizaram corticoide para pneumonia
+adquirida na comunidade mais grave é reduziu o tempo de doença desses
+pacientes melhorou o tempo até cura Clínica desse paciente então existem
+indicações importantes de que usar o corticoide pra todo mundo adquirida na
+comunidade é benéfico principalmente onde eu tenho um contexto de pacientes
+
+00:26
+que têm pneumonia adquirida na comunidade e você identifica esses
+pacientes como tendo uma resposta inflamatória mais exacerbada então é BCP
+de comunidade grave que precisa internar no hospital ou na outra aí mais uma PCR
+bastante aumentado isso indicaria um subgrupo de pacientes com resposta
+inflamatória mais exacerbado e se beneficiariam mais da utilização e
+corticosteróides e avançando na nossa discussão Vamos
+falar agora um pouquinho sobre corticoide ensinando do desconforto
+respiratório Agudo essa também é uma agenda que já existe há bastante tempo
+essa discussão do corticoide em Içara obviamente não covid-19 porque isso já
+existe há pelo menos 20 anos essa essa discussão e essa discussão ela tinha
+sido parada com a publicação desse estudo Esse é o estudo guarde NET né
+publicado em 2006 onde os autores não conseguiram Demonstrar um benefício da
+utilização da metilprednisolona e comparação com Placebo quando
+
+00:27
+administrado na fase mais tardia da síndrome do desconforto respiratório
+Agudo persistente ou seja depois de 15 dias exatamente para tentar Minimizar
+aquele efeito fibroproliferativa que a gente tem da da sala mais tarde a né da
+resposta de reparação tecidual a lesão pulmonar então usar o corte pode Nesse
+contexto a associou a benefício redução da
+mortalidade em redução do a necessidade de ventilação mecânica porém em termos
+de desfecho secundário usar o corticoide tirou doentes mais rápido o número de
+dias livros de ventilação dia28 foi maior quando você usa um corte pode em
+relação ao Placebo um dado que vai se repetir no nosso estudo por exemplo no
+estudo codecs e o número de dias livre de disfunção cardiovascular também foi
+
+00:28
+maior quando você utilizou o corticoide em relação ao seco ou seja algum sinal
+de benefício existia com corticosteroides estudo Nossa então
+estudo pequeno né 90 doentes em cada braço 90 para servir 90
+metilprednisolona e talvez não tivesse de fato um poder para demonstrar um
+benefício Claro na mortalidade desses pacientes nos 60 dias quando você vai
+analisar os dados da literatura por exemplo não é
+e vai tomar não tinha publicado em 2016 quando você analisa os estudos que se
+usaram corticoide para síndrome do desconforto respiratório Agudo você vê
+que claramente os dados são benéficos para a utilização do corticosteroide né
+existe uma tendência de maior benefício quando você usa o corte posteroid pra
+tratamento desses pacientes com Síndrome
+do desconforto respiratório Agudo Qual o metalist Gere isso gera algum benefício
+
+00:29
+e esse dado da metanálise de sugestão de benefício foi eventualmente confirmado
+com esse estudo publicado imediatamente antes da academia né Então esse é um
+estudo chamado estudos dessa área distrito na Espanha né e várias unidades
+de terapia intensiva onde os autores conseguiram demonstrar de um esquema de
+Dexametasona 20 miligramas por cinco dias + Dexametasona 10mg por cinco dias
+é dos rios estatisticamente a qualidade desses pacientes com
+Síndrome do desconforto respiratório Agudo quando administrado precocemente
+então a Chiara 24 horas no diagnóstico da síndrome do desconforto respiratório
+Agudo então ele diminuiu a mortalidade ele aumentou também de novo os dias
+livres do ventilador com diferença estatisticamente significante para esses
+pacientes Então se vocês junto o d'avo da minha canária de 2016 mais o dado o
+estudo that's a arte de backside de 2020
+são altamente sugestivos de um benefício da utilização do corticoide para
+
+00:30
+síndrome do desconforto respiratório Agudo não convite tá quando você junta o
+dado fisiopatológico que eu mostrei para
+vocês o dado de inflamação ativação é de mecanismos inflamatórios vários nesse
+uma resposta inflamatória desregulada eventualmente sai trocarem Storm
+produção de interleucinas produção de carnitina aumentada um
+se liga para cima do desconforto respiratório agudo e o dado de que o
+corticoide pode ser benéfico mas ainda existe existia em certeza do corticoide
+próximo do conforto respiratório Agudo você pensa que de fato Conte pode tinha
+que ser uma das principais drogas a serem estudadas para tratar paciente com
+covid-19 estão de fato desde que é a pandemia começou se se estudou o
+primeiro através de estudos observacionais Depois de estar os
+prospectivos randomizados o possível efeito benéfico do corticoide para
+
+00:31
+tratar pacientes com covid-19 Então os primeiros estudos observacionais
+sugeriram o efeito benéfico da associação entre o uso de uma maior
+parte desses estudos uma associação entre o uso de corticoide e melhor
+evolução de pacientes com couve 19 mas de todo modo o game changer o que mudou
+o jogo da utilização do corticoide o que fez o corticoide c&amp;a
+a ser utilizado em Ampla escala em larga escala no contexto de cobra de 19 é o
+recover recovery foi publicado em julho e2020 é ele foi inicialmente apresentado
+na forma de pré print depois apresentado primeiro concurso Miss depois da forma
+de print é um estudo que a gente chama de pragmático porque ele ele é um estudo
+que coletou muito pouco dado dos pacientes ele só coletou dados da
+intervenção e o lado do desfecho com a gente não tem nenhuma informação a
+respeito de segurança no os dados do que comer mas de todo modo o recovery
+
+00:32
+mostrou aqui o esquema de Dexametasona 6mg C
+E durante 10 dias endovenoso oral para pacientes com covid-19 hospitalizados se
+associou com um benefício em termos de redução da mortalidade de pacientes esse
+benefício foi tanto maior quanto mais grave Era uns pacientes Então veja o que
+são devido tá ventilação mecânica invasiva o efeito foi uma redução do
+risco de trinta e seis por cento se o paciente estava em oxigênio o efeito
+também estatisticamente significante foi a redução do risco de 18 por cento e se
+o paciente estava hospitalizado mas não recebi a oxigênio não houve esse
+benefício ao contrário houve uma tendência de dano ou de malefício quando
+você utilizava Dexametasona Então nesse sentido cuidado usual foi melhor vamos
+destrinchar um pouquinho mais esse dado do paciente que não tá recebendo
+
+00:33
+oxigênio eu vejo aqui na curva e se você tem é um
+e o paciente que não tá recebendo oxigênio 1.500 pacientes ou seja um
+número substancial de pacientes hospitalizados 510c metazona e mil
+recebendo Cuidado usual quem recebeu Dexametasona que em vermelho eles vão
+mortalidade maior tudo bem não foi estatisticamente significante mas foi
+uma mortalidade maior do que em que recebeu o cuidadoso ao então houve uma
+tendência de dano quando você administrava Dexametasona os pacientes
+que não estavam recebendo oxigênio e para os pacientes no início da doença
+com menos de sete dias de surgimento dos sintomas sugerindo então que não faz
+sentido você utilizar o corte posteroid para pacientes ambulatory Ice para
+paciente fora do hospital o mesmo para pacientes hospitalizados que não estão
+
+00:34
+usando oxigênio Eu tô batendo muito nessa peca o senhor que a gente mais vê
+é receita de paciente no ambulatório recebendo Dexametasona tão importante
+o bug essa mensagem e corticoide na fase inicial dos pacientes convide pode ser
+deletério aumentar o tempo da doença e eventualmente até piorar a gravidade do
+paciente Nesse contexto E aí depois que o [Música]
+e ficou bem foi publicado é a gente publicou né conduzir e publicou o estudo
+Clínico brasileiro explicou dexo coalizão covid-19 três e também
+demonstrou um efeito estatisticamente significantes da utilização do
+corticoide em paciente com comida 19 então o codex Ele usou Dexametasona é e
+avaliou Dias vivos e livres de ventilação mecânica e já num contexto de
+pacientes mais graves era um paciente com síndrome do desconforto respiratório
+
+00:35
+Agudo moderada a grave causada por covid-19 ou seja era o grupo de
+pacientes mais graves que a gente tem para avaliar uma intervenção terapêutica
+para resumir os dados do nosso tudo a gente viu então 300 pacientes né 851
+receber o dexametasona e 148 receberam cuidado padrão sendo que a gente avaliou
+então Dias livre de ventilação durante os primeiros 28 dias e a Dexametasona
+aumentou e de forma estatisticamente significante
+os dias livres de ventilação em relação ao cuidado padrão tá em relação ao
+cuidado padrão desses pacientes ou seja usar a Dexametasona para paciente com
+síndrome do desconforto respiratório Agudo moderada a grave covid-19 é
+reduziu né o aumentou os dias que esses pacientes passaram fora do ventilador
+mecânico qual dose a dose nosso estudo foi a mesma dose Dexametasona daqueles
+tudo que eu mostrei para vocês o estudo dessa Artes 20 MG de Dexametasona por
+
+00:36
+cinco dias depois 10 mg de Dexametasona por mais 5 dias para esses pacientes
+Então a gente tem o recovery uma dose Dexametasona de 6 MG e foi afetiva né
+que vai ficar e a gente tem o nosso estudo uma dose Dexametasona de 20/10 MG
+e também foi Afe trás em relação ao tratamento desse paciente com covid-19
+o que a gente viu também é o elaboração um pouco melhor sobre dados de segurança
+da utilização do corticoide Então as preocupações fusão Cole a gente vai
+falar um pouquinho mais para frente sob efeito adverso é preocupações são
+infecção né ah e principalmente uso de insulina para controle glicêmico a gente
+não viu o risco maior de evento adverso grave de infecção quando a gente
+utilizou corticoide em relação ao cuidado o padrão e também não viu o
+
+00:37
+risco aumentado de hiperglicemia né os estudos eles são alguns mostram um risco
+aumentado de hiperglicemia quando você usa corticoide e outros não nesse
+contexto então pode ser que a gente tenha efeitos variados sair da
+utilização mas de todo modo Vale você ficar de olho na na utilização do
+corticoide Será que o benefício é só a Dexametasona Esse estudo aqui publicado
+no mesmo o brasileiro Obrigado no mesmo dia que a
+metanálise que eu vou mostrar para vocês aqui a pouquinho o mostrou que não tá
+então esse estudo Ele usou hidrocortisona né avaliou a mortalidade
+disfunção orgânica de paciente covid-19 grave tá é um estudo fez parte de um
+estudo chamado Obmep e não tem aqui e quem utilizou hidrocortisona
+Olá seja na dose de Shopping seja numa dose fixa teve uma chance maior de uma
+
+00:38
+boa evolução do que quem não utilizou a hidrocortisona na análise bayesiana e
+foi andado de feita neste estudo ele também foi interrompido precocemente por
+conta da publicação do pobre mas na análise bayesiana se mostrou que é a
+chance de você ter um efeito benéfico é acima de 80 90 porcento com a utilização
+de hidrocortisona Nesse contexto então isso sugere que não só a Dexametasona
+seja benéfica mas também a hidrocortisona e muito provavelmente
+também a metilprednisolona então muito provável que esse efeito benéfico do
+corticoide que a gente tá vendo seja um efeito que a gente chama baseado num
+efeito de classe desse medicamento Tá bom depois da publicação do recovery e
+dos estudos brasileiro é americano e do outro escritor estudo francês a OMS
+e é atualizou o seu Karine a utilização de corticoide em covid-19 e a gente
+
+00:39
+publicou na junto com o grupo da MS uma metanálise onde nós vimos exatamente o
+efeito de corticoide em sete estudos que
+utilizaram corticosteroides em termos de evolução Clínica e melhora da evolução
+desses pacientes com covid-19 para a gente viu que usar o corticoide seja
+Dexametasona seja hidrocortisona seja metilprednisolona se associou com um
+benefício em termos de redução da mortalidade para esse paciente por isso
+a própria MS no seu gaydar é publicado no bmj no dia quatro de Setembro sugeriu
+e a o corticoide devo ser aplicado para todos os pacientes covid-19
+hospitalizados em uso de oxigênio e a dose preconizada pela OMS foi de 6mm
+miligramas por dia de Dexametasona ou em até 10 dias para esse paciente e
+aí vamos falar rapidamente sobre eventos adversos então adoro Bottero né Bottero
+
+00:40
+é o exemplo do corte costeroides retenção de sódio retenção de água né
+deixa as pessoas edemaciados como nosso amigo aí tá como vocês estão vendo aí da
+nossa nossa família bacteriana digamos assim é então de fato o corticoide como
+vocês sabem pode se associar com um número significativo de eventos adversos
+então desde necrose asséptica da cabeça de fêmur alterações cognitivas Psicose
+né a tetraparesia né fraqueza muscular do paciente crítico a incidência
+aumentada de infecções distúrbios hidroeletrolíticos distúrbios da
+glicemia então por exemplo essa metanalise aqui
+o javali o corte pode parar se Observe que mostrou claramente o aumento da
+incidência de hiperglicemia e um aumento da incidência de hipernatremia com
+diferença estatisticamente significante aumento de onze por cento de risco de
+hiperglicemia e de 67 por cento de risco de pele de Imperatriz Mia quando você
+
+00:41
+utiliza o corte Ford ingerindo Então o que uma eu devo usar para aqueles
+pacientes específicos mas eu preciso de uma monitorização estrita da minha da
+minha utilização do corticosteroide Nesse contexto Tá bom então pra gente
+finalizar né para responder às perguntas que suscitaram essa aula para quem o
+corticoide capacetes.com covid-19 que necessita de internação hospitalar e o
+uso de oxigênio jamais o corticoide deve ser administrado a pacientes com
+covid-19 sem necessidade de O2 ou no início dos sintomas a menos que não tem
+algum outro motivo seja asmático e outra
+coisa que justifica a utilização no pote por corticóide pra covide apenas o
+indivíduo Inter o hospital e usando oxigênio Qual os
+estudos foram feitos com Dexametasona e também tudo bem Vai hidrocortisona as a
+Rigor você poderia usar decks aí deu confusão em metilpred porque Muito
+provavelmente os efeitos são de classe quanto então se você vai usar
+
+00:42
+Dexametasona você vai usar uma faixa de dose de 6 MG por dez dias até o esquema
+do estudo brasileiro esquema do Dex árvores 20mg 5 dias seguida de 10
+miligramas 5 dias então você pode usar essa faixa de dose se você não é tão
+doente mais inflamado você tende a aumentar essa dose Dexametasona por
+exemplo chegar próximo dos 20 MG ou 10 mm se você não é tão doente
+o o o que deixa de hiperglicemia ou menos informado você pode usar uma dose
+de corticoide mais baixa como você deve monitorizar A então estritamente os
+efeitos adversos glicemia efeito nos óleo feito no potássio risco de infecção
+Tá bom então esse é o contexto que a gente deve usar a corticoide para
+paciente covid-19 agora fala rapidamente
+das nossas atividades né 2020/2021 então
+a gente tem um sem-número de a gente vai aumentando muito o portfólio de cursos
+do Hospital das Clínicas Qual a manobra educação da disciplina de Emergências
+clínicas Qual o nome da educação Então a gente tem curso Nacional de atualização
+
+00:43
+em terapia intensiva princípios que novamente estamos lançando esse curso
+para 2021 atualizado com os dados de couve 19 o novas aulas de corrigir 19
+esse curso é feito fundamentalmente professores estão começando no contexto
+da Medicina intensiva as principais síndromes clínicas da insuficiência
+respiratória Sept coma são discutir e esse curso para quem já tem um
+contexto mas é apropriado dentro da terapia intensiva ou seja se você já é
+um residente de medicina intensiva e o gel intensive se você já fez o curso
+princípio você já é um membro da equipe multidisciplinar com bastante
+experiência em terapia intensiva a gente
+recomendo avançado é um curso avançado é um curso para quem quer se aprofundar
+quando o próprio nome tá dizendo dentro do contexto da Medicina intensiva
+discutir os últimos estudos discutir as últimas controversas recruta não repita
+
+00:44
+como recuperar senha do conforto a corticóide vitamina C stepsy avaliar os
+estudos então de fato Esse é um curso mais aprofundado dentro do ambiente né
+do paciente crítico do ambiente da terapia intensiva e a gente tem um outro
+curso e já tava sua 6ª edição também está atualizado para covid-19 que é o
+curso Nacional de atualização em ventilação mecânica onde a gente discute
+na dentro que horas as principais formas de abordar o paciente com síndrome do
+desconforto né então dentro da da ventilação mecânica a gente usa esse
+esse é saco esse curso exatamente para vocês entenderem os modos ventilatórios
+a ventilação mecânica mais avançada quando indicar cada modo ventilatório
+Então esse é um curso para quem quer se atualizar e se aprofundar dentro do
+estudo da ventilação mecânica no paciente crítico E aí esses cursos são
+combinados né em formatos diferentes concurso o combo Premium né onde você
+tem o curso princípios e avançado juntos e com isso você tem um desconto todos
+
+00:45
+esses cursos estão disponíveis no site da manolina manole.com.br Então você tem
+lá e pode só digitar o nome do procurar os cursos pelos nomes e você terá toda a
+disponibilização desses curso tem um pouco mais um combo prêmio né que é o
+combo nos cursos de 2021 mais 2020 mais o curso de ventilação mecânica então
+é realmente se aprofundar para quem tá trabalhando e eu te convide e quer se
+aprofundar Nesse contexto né mas aí você vai ter mais de há quase duzentos mais
+de 200 horas de aula né desses desses peças desses quadros clínicos aí para
+vocês estudarem realmente e além de tudo a gente disponibiliza livros textos
+também aí de medicina intensiva para vocês estudarem dentro do contexto do
+curso que a gente está lançando outros cursos agora em 2021 gente está lançando
+o curso de monitorização hemodinâmica e choque circulatório o curso de 22 horas
+Onde a gente vai discutir tudo sobre como monitorizado o ponto de vista
+
+00:46
+hemodinâmico paciente crítico é como abordar o paciente em choque
+circulatório principais soluções de reposição volêmica principais mecanismos
+de monitorização hemodinâmica fisiopatologia do Choque tudo tá e muito
+mais detalhe dentro desse curso de monitorização hemodinâmica E também o
+outro curso que nós estamos lançando agora em 2021 é o curso de
+a interpretação de estudo científico Principalmente depois do convite vocês
+viram que houve uma demanda muito importante da gente entender como é que
+é feito o estudo científico e a partir daí consegui é interpretar da forma mais
+adequada Esse estudo e consegui ver aplicabilidade deste estudo a nossa
+prática no nosso dia-a-dia tão exatamente para de Tarso é suprir essa
+demanda a gente sabe que os cursos da área da saúde não formam adequadamente
+os profissionais para isso a gente está lançando esse curso de leitura e
+interpretação e estudo científica e também está lá disponível no site da
+Manu e para quem quiser se inscrever nós
+
+00:47
+vamos nos discursos no começo de 2021 as aulas vão estar disponíveis no começo
+2021 mas já tá disponível para quem quiser se inscrever já com desconto
+nessa modalidade de ensino Tá bom muito obrigado pela atenção de vocês pessoal
+eu tô disponível para responder às perguntas
+Oi e aí pessoal vamos lá então depois dessa aula dessa discussão sobre o uso
+de corticosteroides em pacientes com covid-19 Eu acho que já deu para ficar
+mais caro para vocês sobre as questões de quem deve usar né quem todo paciente
+deve usar Qual é o tipo de controle pode ser feito mas vamos responder aqui as
+perguntas do pessoal é o André Ferreira por exemplo tá perguntando como é que
+seria prescrição de desmame de corticoide anticoagulação na alta
+obrigado então poder na verdade a gente não sabe muito bem o que fazer com esses
+
+00:48
+pacientes depois que os estudos clínicos mostraram que o corte pode a benéfico
+então em teoria você poderia usar por exemplo Dexametasona preço pacientes na
+dose que eu falei né de 6 MG do estudo recovery barra da dose de 20 MG uma
+barra 10 miligramas do estudo podem Instituto Brasileiro você poderia usar
+essas doses durante 10 dias e depois você pararia de usar o corticoide tous
+a fazer um desmame mais mas é progressivo o que você tem discutido
+aqui no número grande de pacientes eles permanecem com algumas alterações
+pulmonares depois esses 10 dias Então nesse sentido você poderia usar por um
+tempo mais longo Qual é esse tempo mais longo ninguém sabe muito bem não tem a
+vidência para isso qual seria o melhor corticoide para usar Nesse contexto por
+exemplo para prevenir fibrose pulmonar o mesmo a longo prazo durante um ou dois
+meses após esses dez dias recomendados também ninguém sabe então ainda ainda
+
+00:49
+existe uma incerteza muito grande em relação à O que fazer com esse corte
+costeroides depois dos 10 dias preconizados pelos estudos né que a
+gente sabe da medicina baseada em evidência que na fase aguda ele funciona
+né nessa nesse aspecto de doses agora o que fazer depois é muito discutível né a
+gente não tem uma evidência Clara anticoagulação também o tema da hora
+para esse mas anticoagulação também vai mais o
+a linha no sentido de que alguns gadila e recomendam você continuar
+anticoagulante o paciente Ou pelo menos usar Pare na profilática para esse
+paciente né Depois que ele vai de alta principalmente se ele tem fator de risco
+e se o d dimero dele tava muito elevado durante a internação hospitalar então de
+dinheiro muito alto associado por exemplo a obesidade associada por
+exemplo a tumores prédios a câncer de prédios associado por exemplo a outras
+condições que são TV prédio etc condições predisponentes da trombose
+
+00:50
+justificaria você manter anticoagulação desse paciente por mais 10 pizza 15 dias
+mas é tudo muito incerto ainda a gente não sabe muito bem como é que deve se
+comportar para esses para esses pacientes então a Laiane Alana tão
+perguntando com as igrejas as quais seriam as doses de hidrocortisona e de
+metilprednisolona são as doses equivalem a 6 MG de Dexametasona ou 20 MG de
+e a gente põe naquela tabelinha de cálculo de equivalência de corticoide e
+transporta para lá 6 MG de dessa dá mais
+ou menos 150 MG de hidrocortisona por aí tá então seria mais ou menos essa
+equivalência mas o mais certo mesmo é você usar a tabelinha de equivalência do
+corte posteriores tá bom É o Guilherme tá perguntando assim ó causa das doses e
+compre o codex está sendo usada nas instituições em que trabalha então
+Guilherme Depende muito do doente não é o doente que tá por exemplo de um
+
+00:51
+cateter de oxigênio uma semi-intensiva com sinais menores de inflamação um PCR
+pouco aumentado você poderia usar 6 MG de Dexametasona já o cidadão que tá com
+síndrome do desconforto respiratório Agudo É internado em ventilação mecânica
+com PCR super estourado contém evidências Claras de infecção nesse caso
+você poderia aumentar a dose para uma dose até próxima dose no estudo
+brasileiro a dose do Sul do codex de a mudar o dia os cinco dias depois das
+Graças aos cinco dias é a grande vantagem como mencionei na aula é que
+você tem nenhuma espectro de idosos que mostraram eficácia tanta dose de 20/10
+rosto vai ficar você conta dose de 6 MG mostrou eficaz então você poderia usar
+dependendo do contexto do doente uma dose maior ou menor que é um diabético
+que você sabe se é previamente diabético
+tarde compensado não tá tão inflamado os uma dose mais baixa o c6digo 118
+miligramas e é um divido e não tem cenário de compensação diabética e tá aí
+
+00:52
+para inflamado última dose mais alta 10 miligramas 12mg E por aí vai tá bom
+o Ricardo tá perguntando se na prática a gente tem mantido corticoide em
+pacientes graves e assistência ventilatória mecânica após 10 dias como
+é feito antifibrótico temos sim Ricardo a gente tem deixado em alguns doentes a
+própria dose Dexametasona 10mg por um tempo um pouco maior ou dependendo do
+doente se for o doente ele tratado pelos pneumologista do queremos acabou
+gostando mais da metilprednisolona né então alguns deixam uma dose equivalente
+de metilprednisolona preciso paciência Então a gente tem ajustado nesse cenário
+aí por um tempo mais longo mas também é muito variável você vai acompanhando
+para o marcador inflamatório principalmente proteína C reativa né E
+vai acompanhando também eventualmente até com o ponto de vista radiológico
+paciente Oi Andreia uso de corticoide precoce na
+
+00:53
+fase inicial poderia interferir no tempo de isolamento do paciente visto que o
+tempo de clareamento virar o poderia ser mais prolongado muito Provavelmente sim
+Andreia a gente não tem comprovação de isto do ponto de vista de medicina
+baseada em evidência mas é possível que quando você usa o corticoide uma fase
+muito precoce da doença você usa esse medicamento no momento onde você deveria
+ter atividade anti-inflamatória sendo exacerbada para combater o pico se
+propriamente combater o vírus então se você usa o corticoide nesse cenário você
+pode prolongar o tempo de duração da doença e isso pode interferir no
+isolamento é a gente tem visto alguns pacientes que estão usando o corte
+posteroid que um 13 14 15 dias é tem uma continua tendo febre continua inflamado
+ou seja tem uma resposta mais pro traída mais prolongada da doença
+e isso é causado pelo uso de corticoide muito precocemente ou não não sabemos
+
+00:54
+Mas é uma possibilidade você prolongado se arrastar o tempo da doença porque
+você dificulta os mecanismos de clareamento viral do organismo por conta
+da utilização do corte posteroid tá bom Igor tem diferença de usar Dexametasona
+via oral ou endovenoso apropriadamente não Igor É principalmente um paciente
+mais leve né no indivíduo que tá comendo por boca e o uso de cateter de O2 você
+pode usar Dexametasona ver ó pontuação é muito boa já do indivíduo que tá na UTI
+a tocado é com síndrome do desconforto respiratório a gente dá preferência a
+utilização endovenosa porque você garante Nesse contexto as você não sabe
+muito bem como é que tá a perfusão explica perfusão da mucosa
+gastrintestinal desse paciente você garante que é a dose chegou na corrente
+sanguínea né chegou onde você quer ter o seu efeito antiinflamatório chegou do
+o Mateus e o efeito antiinflamatório então indivíduo mais grave melhor
+
+00:55
+endovenoso indivíduo com quadro mais leve pode fazer oral ou endovenoso meio
+que tanto faz a pergunta da Elaine é muito boa escolha entre Dexametasona
+hidrocortisona do cenário de uso de drogas vasoativas então obviamente isso
+não foi o tema do seminário né a utilização da hidrocortisona mas a gente
+sabe que a hidrocortisona existe uma uma sugestão de utilização para pacientes
+que estejam com choque principalmente choque refratário né ah você pode usar
+hidrocortisona por volta de 200 A 300mg então a hidrocortisona foi benéfica
+nesse contexto e o indivíduo tá usando Dexametasona e tá que entra evoluir com
+choque refratário eu acho que as duas condutas podem ser adequadas você pode
+por exemplo aumentar Dexametasona ou você pode usar a hidrocortisona é que
+tem um efeito também O que foi dado preferência para esse
+contexto então você poderia aumentar Dexametasona ou usar a hidrocor tesoura
+
+00:56
+nessa dose de 300mg para paciente com choque refratário mais de novo isso
+também é opinião e especialista digamos assim opinião pessoal não existe
+evidência para dizer que no shopping eu tenho que trocar dessa puridro ou eu
+tenho que manter a Dexametasona tá Elizabeth Vendramini cheguei agora aula
+vai ficar gravada vai vai ficar no YouTube da manole exatamente onde você
+tá assistindo você pode depois voltar para assistir às aulas quantas vezes
+você quiser Victor Louis Vuitton Lucas Tem alguma indicação para uso de
+corticoide paciente ambulatorial com PCR alto não independente do resultado de
+PCR usar corticoide paciente ambulatorial pode piorar a evolução da
+doença para você como eu disse dificulta
+o mecanismo de clareamento do vírus você reduz a resposta que é combater para
+utilizada para combater é de virar o principalmente no no
+momento mais precoce por isso que não recovery o análise de subgrupo com sete
+
+00:57
+dias que eu não gostei na aula mas é importante comentar a análise de
+subgrupo com sete dias não mostrou o benefício da utilização do corticoide
+apenas depois de sete dias da evolução da doença tá bom
+o João Vitor já vi colegas para inscreverem no João Vitor tirou a
+mensagem acho que exatamente algo mais ou menos a mesma pergunta André poderia
+falar um pouco sobre o uso racional de antibióticos e como fica liminar de
+suspensão de infecção desse contexto de uso do corticóide então não não não tem
+muita diferença tá é uso racional de antibióticos em paciente covid-19 ele
+ele tá cada vez mais demonstrada a sua importância porque a gente tem uma Alta
+alta utilização de antimicrobianos principais clientes 70 80 porcento dos
+pacientes utilizam antibiótico e na prática você vai olhar só tem quando
+você analisa acordado de Cultura só tem 2,5 por cento desses pacientes que que
+
+00:58
+precisariam receber antibiótico porque tem como infecção no momento da sua
+internação hospitalar tá então usar antibiótico para esse paciente com
+covid-19 a maior parte das vezes não se justifica
+e se você tem um doente crítico né antes
+de repente começa a ter febre de repente aumenta o PCR Independente se tá ou não
+usando o corte com cerol é de um paciente piora clinicamente você tem
+obrigação de suspeitar de infecção nesse caso e administrar terapêutica
+antimicrobiana adequada Tá bom então mas aí aqui a utilização de antimicrobianos
+aqui mais ou menos a utilização do do do antimicrobiano fora do contexto do
+covid-19 fora do contexto do uso de corticosteroides tá então piora Clínica
+novo episódio febril e hora da secreção pulmonar nova imagem do raio-x Então é
+
+00:59
+isso que a gente usa para diária antibiótico terapia o Bruno tá
+perguntando qual é o tempo mínimo ideal para começar o corticoide 7 dias não
+existe tempo mínimo Bruno se o doente tem uma evolução rápida e taí
+o hospital usando oxigênio você deve usar o corticoide para ele mesmo que ele
+tem há 56 dias de início de sintomas ele pode ter tido uma resposta inflamatória
+como eu expliquei na aula mais precoce né e geraram essa resposta inflamatória
+com maior começa por volta do sétimo dia mas alguns pacientes ela começa mais
+para o ocidente por exemplo eu tô com um paciente particular internado no
+sírio-libanês hoje que tá conversando corticóide com 6 dias de doença então às
+vezes essa resposta inflamatória é mais precoce do que 7 dias ele tá precisando
+usar oxigênio tá conseguindo os critérios do da utilização de corticoide
+recomendado por exemplo pela anp o ms Hugo boa noite para frente que desgrama
+
+01:00
+oxigênio suspende adexa antes de completar os 10 dias ou mantém é
+e na verdade você pode utilizar o pote pelo menos tempo né se ele desmama
+oxigênio você pode usar ocorre por exemplo por sete dias não
+necessariamente você vai precisar usar por dez dias que ele desmamou oxigênio
+melhorou não sintomas clínicos você pode
+suspender o corticoide mais precocemente na maior parte das vezes esses dois vão
+tomar por 7 dias pelo menos cinco a sete dias alguns ao chegar até a 10 dias a
+Bruna tá perguntando aqui ó anticoagulante também só no contexto
+hospitalar é então anticoagulante a gente usa pro paciente hospitalizado por
+paciente ambulatorial não tem a vidência do ponto de vista de estudo Clínico tem
+estudo em andamento tentando identificar o papel do anticoagulante agora hoje em
+dia a gente usa anticoagulantes para paciente hospitalizado a gente usa
+anticoagulante a nossa profilaxia né dose de 40 por exemplo miligramas
+
+01:01
+enoxaparin novo até 60 a nossa página doses intermediárias tá e
+a gente usa anticoagulação plena quando você identifica sinais de trombose
+venosa profunda ou de tromboembolismo pulmonar depois que esses doentes vão de
+alta do hospital que ficaram internados por exemplo na UTI tiveram sepse ou tem
+algum outro fator de risco como obesidade Como eu disse cansa ele certa
+você pode ter alguns garimpos que sugerem uma opinião de especialista você
+manter esse anticoagulante o 10 a 15 dias depois que o paciente vai de alta
+do hospital Elizabeth tá perguntando aqui se o desmame do corticoide Deve ser
+gradativo não se você usar 10 dias de hidrocortisona 10 dias de Dexametasona
+você pode suspender o corte pode o que se vê às vezes é Principalmente quando
+você usa a hidrocortisona o metilprednisolona quando você desmama do
+quando você tira o corticoide alguns pacientes Às vezes tem um episódio de
+rebote voltam aumentar o PCR voltam a ter novos sinais inflamatórios aí você
+
+01:02
+precisa reproduzir um por um tempo um pouco maior tá ele
+tem essa peças essas dúvidas tá bom pessoal Muito obrigado pela atenção de
+vocês espero que vocês tenham gostado da discussão eu acho que essa discussão
+Como Eu mencionei no início da aula é super importante para a gente conseguir
+diminuir a prescrição do corte posteroid e impaciente concorrente 19 um os
+pacientes estão recebendo isso ambulatorialmente e esse esse essa
+utilização ambulatorial sem necessidade pode estar piorando eventualmente a
+evolução Clínica desse paciente então a gente precisa saber qual é o remédio
+certo na Dose Certa no paciente certo E no momento certo então espero que essa
+Live nessa questão tenha servido para caracterizar isso para vocês e que vocês
+possam Compartilhar esse conhecimento não só a própria Live mas também o
+conhecimento que vocês tiveram aqui para que a gente consiga eventualmente
+
+01:03
+diminuir essa esse abuso não é da prescrição no corticoide
+e obrigado pela atenção de todos uma boa noite e um grande abraço

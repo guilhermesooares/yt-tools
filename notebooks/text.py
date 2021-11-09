@@ -1,25 +1,33 @@
 from unidecode import unidecode
 from nltk.corpus import stopwords
 from nltk import RegexpTokenizer
+
 from nltk.stem import RSLPStemmer
+st = RSLPStemmer()
 
 tokenizer = RegexpTokenizer(r'\w+')
 
-def normalize(doc):
-    return unidecode(doc)
+def c(myDoc):
+    cleanedDoc = []
+    doc = normalize(myDoc.lower()) # remove acentuacao
+    for word in tokenizer.tokenize(doc):
+        cleanWord = clean(word.strip())
+        if cleanWord and len(cleanWord) >= 4:
+            cleanedDoc.append(cleanWord)
+    return " ".join(cleanedDoc)[28:]
 
-def remove_stopwords(doc):
-    myStops = ["ta", "ai", "ne", "ia"]
+def normalize(word):
+    return unidecode(word)
+
+def remove_stopwords(word):
+    myStops = ["ta", "ai", "ne", "ia", "entao", "nbsp", "voce", "gente", "pode", "porque", "aqui", "fazer", "assim", "acho", "tambem", "coisa"]
     stop = stopwords.words('portuguese') + myStops
-    return ' '.join([word for word in tokenizer.tokenize(doc) if word not in stop and not word.isdigit()])
+    if word not in stop and not word.isdigit():
+        return word
+    
+    return
 
-def apply_stemmer(doc):
-    stemmer = RSLPStemmer()
-    return ' '.join([stemmer.stem(word) for word in tokenizer.tokenize(doc)])
-
-def clean(doc):
-    doc = doc.lower()
-    doc = normalize(doc)  # remove acentuacao
-    doc = remove_stopwords(doc)
-    #doc = apply_stemmer(doc)
-    return doc
+def clean(word):
+    word = st.stem(word) #Stemmer
+    word = remove_stopwords(word)
+    return word

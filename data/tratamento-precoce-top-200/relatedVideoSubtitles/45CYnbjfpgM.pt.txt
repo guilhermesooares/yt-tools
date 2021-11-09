@@ -1,0 +1,191 @@
+
+00:00
+WEBVTT Kind: captions Language: pt o Olá Nesta aula nós vamos discutir a
+relação de toda a lógica entre a pergunta experimental os métodos e a
+conclusão se primeira coisa importante a gente lembrar que quando você fala em
+pesquisa a pesquisa ela representa uma atividade investigativa não
+necessariamente essa atividade ela tem que estar ocorrendo dentro de um
+laboratório muito estruturado certo o que caracteriza a pesquisa é a
+realização do processo um método científico e não os procedimentos um
+instrumento que você usa preste tá a ideia da pesquisa é gerar novos
+conhecimentos dentro daquela área de interesse a por quê Porque se você
+considerar a pesquisa enquanto elemento da ciência aquisição de conhecimentos
+
+00:01
+seja na área que for e para representar uma consequência da
+aplicação do método científico a você quer saber um pouco mais eu recomendo
+esse livro A O que é Ciência Afinal do Alan chalmers que ele apresenta alguns
+conceitos bem interessantes é uma leitura bastante agradável a
+eu vou dentro desse aspecto para você desenvolver um experimento tá é preciso
+você ter conhecimento daquilo que vai ser investigado há entre os elementos
+importantes a serem investigados você tem as variáveis Quais são os elementos
+que você vai estudar que você vai manipular dependendo da característica
+da sua pesquisa algo que a gente vai discutir em outros momentos tá então é
+
+00:02
+esses gráficos aí eles mostram para gente por exemplo a relação entre o
+tempo EA quantidade ou de popular de pessoas de uma determinada população e
+de alimento então você tem uma relação aí Direta em que nos dois casos você tem
+que o aumento do tempo faz com que a população
+e aumente a quantidade de alimentos aumente só que a gente percebe que
+matematicamente aí você tem uma relação diferente a enquanto você tem uma em
+progressão aritmética outro tá em progressão geométrica no outro gráfico
+você tá mostrando o mesmo princípio da para mostrar a relação entre as
+variáveis tá então quanto maior a altitude em quilômetros a no gráfico
+aqui há a tendência é que a pressão atmosférica ela diminua Então você tem a
+relação entre as variáveis que algo característico da pesquisa científica
+
+00:03
+Tá bom então entendendo conceito de pesquisa o conceito de ciência a baseada
+na aplicação do método a a ideia de que experimento é algo de palpável a é
+preciso a gente entender que a origem de um problema de uma pesquisa a ela não
+pode ser um tema de interesse é muito comum aluno que está realizando
+iniciação científica ou que está em fazendo estágio com alguém é quando você
+pergunta assim ele tá gostando tá e tal e qual é o seu projeto Qual é a sua
+pergunta de pesquisa e o aluno fala a área em que ele tá tudo certo aí é na
+genética é em pedagogia ou em no que for
+a então isso não é uma pergunta esse não é um problema na verdade é um problema
+
+00:04
+causou a é mas não é um problema de pesquisa as
+pesquisas Elas têm como fontes de ideias principais as revisões sistemáticas
+Bom dia as questões que emergem naquela época lá chamado os modismos científicos
+o momento atual a gente está vivendo uma pandemia a do covid-19 então uma
+quantidade enorme de perguntas foram geradas em diferentes áreas de
+conhecimento a e que tem gerado uma série de resultado alguns conflitantes
+outros não com relação e a situação atual então a fonte
+Bom dia informação ela é gerada a partir de perguntas de um momento aí muitas
+ocasiões em outras situações a fonte de informação ela pode ser o próprio
+
+00:05
+ambiente o próprio laboratório a própria equipe a através de trabalhos que
+responderam algumas perguntas e acabaram gerando novas perguntas ou do trabalho
+de outros colegas na literatura a de Outras Drogas e a própria lógica da
+pergunta certo a De onde veio essa terra tem lógica ela a por quê que é
+importante estudar este a isso vai contribuir a muitas pessoas elas têm
+receio com determinados estudos porque elas não compreendem a importância da
+gerar de se gerar determinar o tipo de conhecimento a isso não vai contribuir
+para nada e pode ser o caso mas na maioria das ocasiões quando você tá no meio
+acadêmico e dizem que aquela situação ela não vai gerar nenhuma contribuição é
+porque a pessoa não tem o conhecimento do meio a muitas situações o trabalho
+
+00:06
+gera uma contribuição para outros trabalhos que vão ser realizados a
+posteriori a bom então a gente vai discutir agora esse fluxo a básico do
+trabalho tá primeira coisa que você tem que ter essa pergunta a pergunta em
+muitas ocasiões agora partem do senso comum tá mas você precisa ter um mínimo
+de base teórica a para sustentar uma pergunta experimental a você precisa ter
+leitura a você precisa ter conhecimento mínimo necessário dentro dessa área que
+você tá o segundo é preciso ter o chamado zeitgeist a que eu chamado espírito da
+época a qual é o momento clima intelectual e cultural daquele momento
+para fazer com que aquela pergunta ela seja de interesse que ela seja
+
+00:07
+interessante por exemplo no momento em que a gente tá então e no século 21 é
+desenvolver perguntas que venham a questionar a estrutura geológica da
+terra dizendo que a Terra é plana ela e não tem lógica toda a base científica
+de diversas áreas mostram que esta pergunta ela não tem caráter científico
+ela não tem base para se sustentar então este é um exemplo de zeitgeist quem
+discutir que a Terra é plana tem que voltar lá para o século 10 para o século
+11 porque lá o espírito da época a secretaria esse tipo de discussão
+e o segundo é preciso entender Quais são as variáveis que você vai muito pular
+
+00:08
+certo que você vai estudar e isso está diretamente relacionada com a teoria a a
+base da sua pergunta a em geral Você tem dois tipos de variáveis principais a
+variável independente que é aquela que você vai manipular e a variável
+dependente que aquela que você vai medir como consequência da manipulação da
+variável independente Então vamos ver dois exemplos aqui é o primeiro exemplo
+lá testar Qual é a melhor forma de se estudar metodologia
+E qual seria a variável independente você poderia manipular o ambiente a com
+mais luminosidade com menos luminosidade com controle de ruído de som com música
+Sem música Qual é a melhor forma de estudo lá tantas horas seguidas sem
+parar ou fazer ou método pomodoro estuda
+40 minutos distância 20 estuda 40 estuda 20 a mecanismos que você pode manipular
+
+00:09
+né E como que você vai medir Como que você vai verificar qual é a variável
+dependente você vai verificar o seu desempenho como uma prova não teste a ou
+o seu nível de compreensão do conteúdo tá outra opção nessa época é que o
+pessoal tá fazendo isolamento todo mundo quer ser masterchef né qual acertar o
+melhor jeito para preparar um brigadeiro Quais são as variáveis Independentes
+aquilo que você vai manipular os ingredientes a o chocolate da má
+e a temperatura a do do fogão a gás a chama é quanto tempo quantos minutos
+fica no fogo maior mas tenha com menos tempo Ferb no ferro o que for a qual é o
+que que você vai medir é o sabor ou com gostoso ou agradável ficou aquele
+brigadeiro para você tá então são exemplos simples de como que você pode é
+
+00:10
+correlacionar a ideia de variáveis dependentes e Independentes a depois
+você tem que definir o seu método tá a definição do método é o que vai mostrar
+qual é o caminho que a sua pesquisa vai seguir certo e nas próximas aulas não os
+próximos vídeos a gente vai discutir isso tá uma das formas é determinar qual
+o tipo de abordagem você vai adotar uma abordagem quantitativa a uma abordagem
+qualitativa ou ela é mista qualitativa e e quais são os objetivos da pesquisa
+também a a sua pesquisa ela tem caráter o que estou Oratório explicativo ou é
+descritivo a a sua população é formada por quê Pro sujeito tem uma amostragem
+em variação de caracteres gênero faixa etária a Quais são os instrumentos que
+vocês vão analisar para medir as variáveis dependente você vai utilizar
+
+00:11
+um questionário você vai fazer análise estatística então todos esses elementos
+eles são importante porque são as estratégias que você vai apresentar para
+responder a sua pergunta entra a ideia Central é sempre responder à pergunta o
+método Tem que ser ao método mais adequado para responder esta pergunta
+Ah tá então definida essas características Você vai precisar da
+definição da técnica tá Qual o procedimento chamados protocolos a você
+vai fazer um estudo de campo é uma pesquisa experimental
+e é uma revisão bibliográfica A então a gente vai discutir isso também quais são
+os protocolos que você vai adotar pode ser mais de um depende da característica
+da pergunta ou das perguntas sério Quais são os instrumentos que você vai
+
+00:12
+precisar e eles estão disponíveis a você tem os equipamentos os insumos Às vezes
+a gente tem um equipamento Mas a gente não tem um material para fazer a
+pesquisa rodar ou às vezes a gente tem um material mas o equipamento não tá
+disponível por alguma outra questão existe tempo abro Fábio para isso a esse
+cronograma ele é importante também a e depois disso você vai efetivamente
+para sua coleta de dados A então você aplicando o seu método você vai coletar
+os seus dados de pesquisa então é preciso ter uma série de cuidado é isso
+a cuidado com as variações intra-específicas a por exemplo eu
+trabalho com uma determinada espécie de mamífero se essa espécie de uma mifero
+
+00:13
+tem hábito noturno Será que coletar os dados de dia não vai impactar no
+resultado tá ter cuidado com os instrumentos que você vai aplicar tá com
+a a material que esteja ou não calibrado é pessoal treinado ou não a treinado
+adequadamente para coletar as informações tudo isso é muito importante
+para que você é não tenha resultados falsos-positivos eu sou falso-negativos
+em diante disso após a coleta dos nachos
+você chega aos dados certo em geral é aí que o negócio fica complicado porque as
+etapas iniciais Elas costumam ser tapas bem estabelecidas e bem esclarecidas
+pelo seu Gente o que complica no final das contas é ele começar a analisar os
+
+00:14
+dados vão seus resultados e discutir o significado desses dados e essa fase que
+costuma ser a mais dolorosa para o aluno porque precisa de leitura precisa de
+esforço precisa de persistência e tende a levar muito tempo às vezes eu trabalho
+é lindo mas o aluno ele não teve o esforço suficiente para explorar os
+resultados e fazer uma discussão robusto
+lembra que a a monografia ao trabalho de
+conclusão ele tende a ser a contribuição boa noite
+e para a sociedade então o que importa mais profundamente daquele trabalho todo
+é a qualidade da discussão tão em algumas áreas essa discussão é mais
+rápido ela avança mais rapidamente A então atualização da Leitura ela tem que
+ser constante tá o indivíduo ele precisa retomar os objetivos para verificar se
+
+00:15
+os resultados que Ele alcançou atingir ou não atingir esses objetivos a é
+preciso entender que nem tudo que a gente acha em pesquisa é semelhante a
+oxiteno a literatura isso não quer dizer que os nossos resultados estão errados
+se você aplicou o método científico corretamente você só vai mostrar que
+existem diferenças a e é preciso indicar a se houveram falhas
+problemas dificuldades a e apontar possíveis novas perguntas a lembra uma
+das principais fontes de perguntas nas pesquisas são próprias pesquisas
+anteriores A então fiquem atentos a esse tipo de situação o final das contas a
+pergunta ela vai orientar a escolha EA decisão pelos métodos e esses métodos
+
+00:16
+vão permitir Como que você determine a conclusão dos todos Ah E aí concluído
+você viabiliza e verifica se a sua pergunta experimental
+e foi alcançado bom por hoje é isso e até a próxima tchau

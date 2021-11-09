@@ -1,0 +1,257 @@
+WEBVTT Kind: captions Language: pt 00:00:00.000 --> 00:00:03.322
+RKA10GM - Olá, meu amigo ou minha amiga, tudo bem com você?
+00:00:03.322 --> 00:00:08.294 Seja muito bem-vindo ou bem-vinda
+a mais uma aula de Ciências da Natureza. 00:00:08.294 --> 00:00:14.018
+Nesta aula, vamos continuar falando sobre a infecção por HIV.
+00:00:14.018 --> 00:00:18.277 Sabemos que em uma infecção por HIV não tratada,
+00:00:18.277 --> 00:00:26.706
+os níveis do vírus se elevam de forma extremamente alta em toda a corrente sanguínea e em todo o corpo.
+00:00:26.706 --> 00:00:31.785 Isso porque o HIV está ficando
+nas células imunológicas. 00:00:31.785 --> 00:00:35.963
+Basicamente, elas "sequestram" as células T e as usam
+00:00:35.963 --> 00:00:41.032 para se replicarem
+e fazerem muitas cópias de si mesmas. 00:00:41.032 --> 00:00:49.077
+Também observamos uma queda maciça nas células T,
+particularmente, as células T CD4. 00:00:49.077 --> 00:00:53.287
+Então a pergunta é: como isso está acontecendo? 00:00:53.287 --> 00:01:01.019
+Quero dizer, se temos todas essas células sendo infectadas, por que tantas delas estão morrendo?
+00:01:01.019 --> 00:01:04.599 Será que todas que estão infectadas morrem?
+00:01:04.779 --> 00:01:07.624 E elas morrem quando são infectadas?
+00:01:07.624 --> 00:01:11.990 Essa é uma questão na qual os cientistas
+estão trabalhando há décadas, 00:01:11.990 --> 00:01:15.425
+provavelmente por cerca de 30 anos até agora. 00:01:15.425 --> 00:01:20.202
+E uma coisa interessante é que em uma infecção por HIV,
+00:01:20.202 --> 00:01:25.528 apenas cerca de 5% a 10% das células imunes
+que acabam morrendo 00:01:25.787 --> 00:01:28.661
+estão, realmente, infectadas pelo HIV. 00:01:28.661 --> 00:01:36.552
+O restante de 90% a 95% das células que morrem nem sequer estão infectadas.
+00:01:36.682 --> 00:01:40.325 Isso é meio estranho, não é? Como isso é possível?
+00:01:40.409 --> 00:01:42.641 Vamos dar uma olhada nisso um pouco.
+00:01:42.641 --> 00:01:48.630 O fato é: todas essas células, tanto as infectadas
+como as não infectadas, estão morrendo, 00:01:48.630 --> 00:01:51.541
+e isso se deve a algumas causas. 00:01:51.541 --> 00:01:57.126
+Nesta aula, poderíamos falar sobre todos os detalhes moleculares que estão envolvidos
+00:01:57.126 --> 00:01:59.829 e que são as causas desse problema.
+00:02:00.154 --> 00:02:07.731 Mas não quero nos atolar em tantos detalhes,
+então vamos nos concentrar apenas nos conceitos. 00:02:07.731 --> 00:02:10.741
+Esta é uma célula T infectada, certo? 00:02:10.741 --> 00:02:16.894
+Este cara faz parte dos 5% a 10% das células
+que morrem enquanto estão infectadas. 00:02:16.894 --> 00:02:25.168
+Aqui está a célula T, e dentro dela podemos
+ver que há pequenos pedaços de RNA do HIV. 00:02:25.168 --> 00:02:31.348
+Também podemos ver novas partículas do HIV brotando aqui do lado de fora.
+00:02:31.348 --> 00:02:35.282 Este cara está apenas produzindo
+mais partículas de HIV. 00:02:35.282 --> 00:02:40.902
+Vamos colocar um pouco de névoa avermelhada em torno das bordas aqui.
+00:02:41.210 --> 00:02:45.026 Isso é para nos lembrar
+que muitas células infectadas morrem 00:02:45.026 --> 00:02:49.169
+enquanto ainda estão viajando na corrente sanguínea,
+00:02:49.169 --> 00:02:53.645 então é apenas para nos mostrar
+onde isso está acontecendo. 00:02:53.645 --> 00:02:56.954
+As células T CD4 infectadas vão morrer, 00:02:56.954 --> 00:03:04.574
+ou diretamente por causa de coisas que o vírus
+está fazendo dentro da célula infectada, dentro de si,
+00:03:04.574 --> 00:03:09.367 ou por causa de como o sistema imunológico
+responde a ele. 00:03:09.367 --> 00:03:16.576
+O nosso sistema imunológico não gosta de quando
+as células se infectam, o que é uma coisa justa. 00:03:16.576 --> 00:03:20.202
+Mas vamos começar por aqui, coisas relacionadas ao vírus.
+00:03:20.202 --> 00:03:26.172 Lembre-se que quando o vírus coloca
+o seu RNA em nossa célula imunológica, 00:03:26.328 --> 00:03:30.784
+ela é considerada infectada a partir desse momento.
+00:03:30.784 --> 00:03:36.174 Então a partir daqui, nossa célula pode
+morrer de algumas maneiras diferentes. 00:03:36.174 --> 00:03:44.811
+Primeiro, se o HIV entrar e começar um processo
+de retrotranscrição ou transcrição reversa, 00:03:44.811 --> 00:03:46.442
+o que vai acontecer? 00:03:46.442 --> 00:03:56.262
+Se o processo começar e diversas cópias do DNA viral começarem a ser produzidas através do RNA do HIV,
+00:03:56.262 --> 00:03:59.138 a célula pode começar a perceber.
+00:03:59.138 --> 00:04:02.826 Começamos a perceber essas transcrições virais
+se acumulando. 00:04:02.826 --> 00:04:10.244
+E o interessante é que temos uma proteína específica em nossas células chamada IFI16,
+00:04:10.244 --> 00:04:16.410 e o trabalho dela é ficar atenta
+a todo esse DNA desonesto, 00:04:16.410 --> 00:04:20.747
+ou seja, um DNA que realmente não deveria estar nas células.
+00:04:20.747 --> 00:04:27.433
+Então, se a IFI16 tomar conhecimento de todas essas transcrições virais se acumulando,
+00:04:27.433 --> 00:04:32.109 ela vai ativar uma cascata inflamatória
+dentro da célula. 00:04:32.109 --> 00:04:40.433
+O que acontece é que a cascata inflamatória ativa
+uma sequência de autodestruição dentro da célula. 00:04:40.433 --> 00:04:43.583
+Isso, inclusive, chamamos de piroptose. 00:04:43.583 --> 00:04:48.667
+Basicamente, a célula se autodestrói por causa do processo inflamatório
+00:04:48.667 --> 00:04:51.891 que está ocorrendo no seu ambiente interno.
+00:04:51.891 --> 00:04:54.284 Isso é chamado de piroptose.
+00:04:54.284 --> 00:04:56.337 E guarde isso em sua mente,
+00:04:56.337 --> 00:05:02.520 porque esse mecanismo de piroptose
+será muito importante mais tarde neste vídeo. 00:05:02.520 --> 00:05:04.326
+Então guarde isso, tudo bem? 00:05:04.543 --> 00:05:10.227
+A segunda maneira que uma célula T infectada pode morrer é através da integrase.
+00:05:10.227 --> 00:05:12.606 Você lembra o que é integrase?
+00:05:12.750 --> 00:05:20.875
+Esta é a enzima do HIV que vai pegar este DNA viral
+e vai arrastá-lo para o núcleo da célula 00:05:20.875 --> 00:05:24.048
+e, depois, vai tentar integrá-lo ao DNA. 00:05:24.048 --> 00:05:30.039
+Bem, às vezes, enquanto a integrase está começando seu processo de integração,
+00:05:30.039 --> 00:05:33.245
+a célula pega o que está acontecendo, por assim dizer.
+00:05:33.245 --> 00:05:40.188 A célula identifica isso, porque temos
+um outro sensor celular chamado DNA-PK 00:05:40.428 --> 00:05:44.426
+que, inclusive, percebe quando há uma quebra no DNA.
+00:05:44.426 --> 00:05:48.055 Neste ponto, o sensor disparou.
+00:05:48.055 --> 00:05:52.557 Aí, novamente, vamos ter um
+processo de infecção pelo HIV. 00:05:52.557 --> 00:05:57.322
+Obviamente, isso vai desencadear uma sequência de autodestruição.
+00:05:57.322 --> 00:06:01.971 Exceto que esse processo é um pouco
+diferente para o caso que vimos antes. 00:06:01.971 --> 00:06:04.955
+Esse processo é chamado de apoptose. 00:06:04.955 --> 00:06:09.615
+Provavelmente você já deve ter ouvido falar na aula de biologia celular.
+00:06:09.615 --> 00:06:13.613 A apoptose e a piroptose são bem parecidas,
+00:06:13.613 --> 00:06:18.422 mas diferem principalmente
+na maneira como são acionadas. 00:06:18.422 --> 00:06:22.891
+Lembre-se que a piroptose é desencadeada pela inflamação.
+00:06:22.891 --> 00:06:30.392 Mas a apoptose é desencadeada por algo específico,
+como se fosse um cão de guarda celular 00:06:30.392 --> 00:06:35.765
+que, assim que percebe algum dano crítico acontecendo na célula,
+00:06:35.765 --> 00:06:42.023 como no caso do dano no DNA que vimos acima,
+o processo será desencadeado. 00:06:42.023 --> 00:06:48.748
+Finalmente, outra coisa que pode acontecer
+é que a integrase realmente vai ocorrer 00:06:48.748 --> 00:06:52.790
+e o DNA viral vai acabar se integrando ao DNA do corpo.
+00:06:52.790 --> 00:06:57.020 Neste ponto, teremos cópias
+do vírus sendo produzidas. 00:06:57.020 --> 00:07:04.664
+Lembre-se que um dos últimos passos na criação
+de um vírus do HIV é que essa proteína viral, 00:07:04.664 --> 00:07:11.385
+a protease do HIV, tem que clivar os precursores virais
+que foram feitos na célula, 00:07:11.385 --> 00:07:15.479
+a fim de ativá-los e torná-los infecciosos. 00:07:15.479 --> 00:07:19.596
+Então, o que acontece... acho que, como um subproduto disso,
+00:07:19.596 --> 00:07:27.805
+a protease do HIV também vai se dividir e ativar outras proteínas nas células, chamadas de caspases.
+00:07:27.805 --> 00:07:31.735 Especificamente, um fragmento de caspase número 8.
+00:07:31.735 --> 00:07:38.494 Um detalhe: existem muitos tipos diferentes
+de caspases, mas este ativa o número 8. 00:07:38.494 --> 00:07:46.316
+As caspases são bem legais e muitas vezes, quando há um problema dentro da célula, como existe agora,
+00:07:46.316 --> 00:07:49.537 elas são ativadas e disparam...?
+00:07:49.537 --> 00:07:53.453 Você adivinhou: uma sequência de autodestruição.
+00:07:53.714 --> 00:07:56.617 Que, nesse caso, é a apoptose novamente.
+00:07:56.617 --> 00:08:02.012 Existem outras maneiras pelas quais as células T
+infectadas também podem morrer. 00:08:02.012 --> 00:08:07.311
+Por exemplo, temos outro grupo chamado de células T CD8 que,
+00:08:07.311 --> 00:08:14.961 quando veem uma célula CD4 infectada, elas ficam
+muito chateadas e, claro, vão acabar com isso. 00:08:14.961 --> 00:08:20.873
+A propósito, a razão pela qual elas conhecem as células CD4 infectadas
+00:08:20.873 --> 00:08:28.144
+é porque as células CD4 infectadas começam a exibir certas proteínas do HIV em sua superfície.
+00:08:28.144 --> 00:08:35.282 Por exemplo, talvez elas comecem a exibir
+os envelopes do HIV, tais como o GP120. 00:08:35.282 --> 00:08:40.413
+Outra coisa a se ter em mente é que,
+depois de um mês ou mais de estarmos infectados, 00:08:40.413 --> 00:08:44.161
+começamos a produzir anticorpos contra o HIV. 00:08:44.400 --> 00:08:51.719
+Esses anticorpos anti-HIV podem ficar nas
+células T infectadas e marcá-las para destruição 00:08:51.719 --> 00:08:54.861
+por outras células do sistema imunológico. 00:08:54.861 --> 00:08:58.246
+Tudo o que conversamos até agora são apenas conceitos
+00:08:58.246 --> 00:09:01.575 sobre como as células CD4 infectadas morrem.
+00:09:01.575 --> 00:09:09.743 Mas como mencionei antes, percebemos uma perda
+enorme de células imunes em uma infecção pelo HIV. 00:09:09.743 --> 00:09:17.262
+E, na verdade, a grande maioria das células T CD4
+que morrem nem sequer estão infectadas. 00:09:17.262 --> 00:09:24.475
+Essa perda de células T não infectadas
+é tão grande que esse é o principal motivo 00:09:24.475 --> 00:09:29.065
+para a falha do sistema imunológico em uma infecção avançada pelo HIV.
+00:09:29.065 --> 00:09:34.063 Um dos motivos pelos quais há uma perda
+tão grande dessas células não infectadas 00:09:34.063 --> 00:09:37.614
+é porque quando as células T são expostas ao HIV, 00:09:37.614 --> 00:09:44.483
+mesmo que não sejam infectadas por isso, elas começam a produzir uma proteína em sua superfície.
+00:09:44.483 --> 00:09:49.072 Isso faz com que elas se aproximem
+dos gânglios linfáticos. 00:09:49.072 --> 00:09:53.336
+Ou seja, vão começar a viajar para os gânglios linfáticos.
+00:09:53.336 --> 00:09:59.732 A razão para isso é porque os gânglios linfáticos
+são as áreas do sistema imunológico, 00:09:59.732 --> 00:10:05.891
+nas quais as células imunológicas vão ser expostas
+a novos tipos de bactérias e a outros vírus 00:10:05.891 --> 00:10:08.260
+que elas deveriam estar combatendo. 00:10:08.260 --> 00:10:13.259
+É como se fossem campos de treinamento para as células imunes.
+00:10:13.259 --> 00:10:19.492
+Sabemos que os gânglios linfáticos formam um enorme viveiro de partículas de HIV em uma infecção.
+00:10:19.492 --> 00:10:23.866 Isso é parte do porque vemos as glândulas inchadas
+e os gânglios linfáticos 00:10:23.866 --> 00:10:27.005
+elevados em uma infecção aguda por HIV. 00:10:27.005 --> 00:10:31.717
+Como as células dendríticas estão levando HIV para os gânglios linfáticos,
+00:10:31.717 --> 00:10:35.117 respostas imunes começam a acontecer lá.
+00:10:35.117 --> 00:10:41.700
+De qualquer forma, acaba-se tendo uma quantidade muito grande de células T não infectadas
+00:10:41.700 --> 00:10:44.304 dentro dos gânglios linfáticos.
+00:10:44.304 --> 00:10:47.131 Deixe-me desenhar esta névoa cor de creme.
+00:10:47.131 --> 00:10:55.050
+Isto é para nos lembrar de que toda essa morte celular
+vai acontecer, principalmente, dentro do tecido linfático.
+00:10:55.050 --> 00:10:59.194 O que acontece aqui é a piroptose novamente.
+00:10:59.194 --> 00:11:05.373 Isso é morte celular programada, como
+a apoptose, mas iniciada por um mecanismo diferente.
+00:11:05.373 --> 00:11:09.158 E isso é impulsionado
+por essa quantidade louca de inflamação. 00:11:09.158 --> 00:11:11.403
+Deixe-me fazer isto um pouco melhor. 00:11:11.403 --> 00:11:16.385
+Temos o HIV tentando infectar uma célula T CD4 aqui.
+00:11:16.661 --> 00:11:21.186 Mas lembre-se que a proteína IFI16,
+da qual falamos anteriormente, 00:11:21.186 --> 00:11:25.483
+percebe todas estas transcrições virais que estão acontecendo.
+00:11:25.483 --> 00:11:29.112 Quando ela percebe isso, vai ativar uma caspase.
+00:11:29.112 --> 00:11:30.911 Caspase 1, desta vez.
+00:11:30.911 --> 00:11:34.470 E ela faz algo muito interessante:
+00:11:34.470 --> 00:11:38.815 começa a estimular a criação
+dessa molécula pró-inflamatória 00:11:38.815 --> 00:11:43.274
+chamada de interleucina 1 beta dentro da célula. 00:11:43.274 --> 00:11:46.252
+Mas a interleucina 1 beta faz o quê? 00:11:46.252 --> 00:11:50.723
+Cria o mecanismo inflamatório dentro da célula. 00:11:50.723 --> 00:11:57.511
+O que acontece quando temos um ambiente
+massivamente inflamatório dentro da célula? 00:11:57.511 --> 00:12:04.562
+Ela pode acabar sendo destruída por piroptose
+e isso, de fato, é o que está acontecendo aqui. 00:12:04.562 --> 00:12:07.767
+Podemos pensar nisso como uma granada explodindo. 00:12:07.767 --> 00:12:12.858
+E acho que todos sabemos que as granadas são ruins por causa dos estilhaços
+00:12:12.858 --> 00:12:16.783 que elas liberam, causando danos
+a quem está por perto. 00:12:16.783 --> 00:12:20.362
+E, de fato, há uma coisa muito semelhante acontecendo aqui:
+00:12:20.362 --> 00:12:23.091 os estilhaços após a piroptose
+00:12:23.091 --> 00:12:28.566 são todas essas pequenas partículas
+pró-inflamatórias de interleucina 1 beta 00:12:28.566 --> 00:12:34.825
+que, em seguida, são expostas a todas
+essas outras células CD4 ao redor dessa área. 00:12:34.825 --> 00:12:40.027
+Todas as células que vieram para tentar controlar a infecção pelo HIV.
+00:12:40.027 --> 00:12:44.559
+Quando elas são atingidas pela interleucina 1 beta,
+00:12:44.559 --> 00:12:49.362
+começam a desenvolver um sério ambiente inflamatório dentro de si também.
+00:12:49.362 --> 00:12:54.274 Devido ao que está acontecendo,
+elas também sofrem piroptose. 00:12:54.274 --> 00:12:57.957
+Nós realmente observamos uma reação em cadeia. 00:12:58.144 --> 00:13:04.103
+A piroptose ocorrendo com todas essas células
+cria uma perda enorme de células CD4 00:13:04.103 --> 00:13:06.878
+que não foram infectadas inicialmente. 00:13:06.878 --> 00:13:09.122
+Isso acaba provocando o quê? 00:13:09.122 --> 00:13:12.033
+Todo esse estado de inflamação crônica. 00:13:12.033 --> 00:13:14.498
+Tudo isso em todo o corpo. 00:13:14.498 --> 00:13:19.768
+Por causa de todos esses sinais pró-inflamatórios que estão sendo liberados,
+00:13:19.768 --> 00:13:23.011 essa inflamação crônica
+se desenvolve continuamente, 00:13:23.011 --> 00:13:25.539
+ativando as células imunológicas. 00:13:25.539 --> 00:13:30.697
+Basicamente, 24h por dia, ou seja, o tempo todo. 00:13:30.697 --> 00:13:36.121
+Isso acaba desgastando o sistema imunológico
+e levando ainda mais células à morte. 00:13:36.121 --> 00:13:41.266
+No início deste vídeo, tínhamos a impressão de que todas as células CD4
+00:13:41.266 --> 00:13:48.473 morrem por estarem infectadas pelo HIV,
+que acabaria levando à apoptose dessas células. 00:13:48.473 --> 00:13:51.634
+Mas agora sabemos que é uma quantidade muito pequena,
+00:13:51.634 --> 00:13:59.315
+já que as reações em cadeia resultantes da piroptose
+fazem com que mais piroptose ocorra. 00:13:59.315 --> 00:14:07.358
+Esse processo é o grande responsável pela maior
+parte da perda de células CD4 na infecção pelo HIV.
+00:14:07.597 --> 00:14:13.489
+Espero que tenha entendido esses processos que vimos hoje e tenha compreendido o motivo
+00:14:13.489 --> 00:14:20.965
+pelo qual um número muito grande de células CD4 acaba morrendo em um processo de infecção pelo HIV.
+00:14:20.965 --> 00:14:24.344 Quero deixar um grande abraço,
+meu amigo e minha amiga. 00:14:24.344 --> 00:14:26.362 Até o próximo vídeo!

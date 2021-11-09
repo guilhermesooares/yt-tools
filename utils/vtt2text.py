@@ -5,7 +5,7 @@ youtube-dl  --skip-download --convert-subs vtt <video_url>
 Note that default subtitle format provided by YouTube is ass, which is hard
 to process with simple regex. Luckily youtube-dl can convert ass to vtt, which
 is easier to process.
-To conver all vtt files inside a directory:
+To convert all vtt files inside a directory:
 find . -name "*.vtt" -exec python vtt2text.py {} \;
 """
 

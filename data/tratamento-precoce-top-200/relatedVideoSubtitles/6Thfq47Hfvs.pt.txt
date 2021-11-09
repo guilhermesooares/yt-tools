@@ -1,0 +1,256 @@
+WEBVTT Kind: captions Language: pt 00:00:00.080 --> 00:00:04.560
+A ivermectina é uma droga barata e amplamente disponível que está ganhando muito barulho agora
+00:00:04.560 --> 00:00:09.280
+com seu potencial para prevenir e tratar cobiçado 19, o que estou cautelosamente otimista sobre
+00:00:09.920 --> 00:00:13.760
+termos visto o hype antes com diferentes drogas que no final das contas não deram certo
+00:00:13.760 --> 00:00:19.040
+para ivermectina, o ônibus começou quando pesquisadores na austrália mostraram que in vitro, significando em um
+00:00:19.040 --> 00:00:26.160
+tubo de ensaio, a replicação do sars cov2 foi reduzida em cerca de 5.000 vezes em um intervalo de tempo de 40 horas em
+00:00:26.160 --> 00:00:31.520
+abril. Eu fiz um vídeo sobre isso e expliquei como essa droga é pensada para inibir a replicação viral
+00:00:32.080 --> 00:00:36.160
+e também é amplamente acreditado que ele tem propriedades antiinflamatórias também.
+00:00:36.160 --> 00:00:41.120
+Desde abril, passei por vários estudos, já que os cientistas em todo o mundo têm conduzido muitos
+00:00:41.120 --> 00:00:47.280
+deles e até agora 14 foram concluídos, mas esses estudos não estão isentos de falhas existem
+00:00:47.280 --> 00:00:52.240
+estudos retrospectivos que introduzem viés e a maioria dos estudos tem números pequenos e
+00:00:52.240 --> 00:00:57.360
+alguns estudos são publicados como pré-impressão antes que um processo de revisão por pares completo possa ser co Concluído
+00:00:57.360 --> 00:01:02.560
+o benefício da publicação de estudos pré-impressos é que o conhecimento pode ser rapidamente compartilhado em todo
+00:01:02.560 --> 00:01:07.120
+o mundo e a esperança é que estudos randomizados prospectivos sigam esses estudos observacionais ou
+00:01:07.120 --> 00:01:12.640
+anedóticos, a desvantagem é que os estudos são frequentemente publicados e retratados uma vez que são
+00:01:12.640 --> 00:01:18.240
+revisados ​​de forma mais crítica para Por exemplo, consegui encontrar três estudos pré-impressos de ivermectina que
+00:01:18.240 --> 00:01:23.520
+já foram retirados, mas preciso saber se devo prescrever ivermectina para covid, se sim, em que
+00:01:23.520 --> 00:01:28.880
+dose e por quanto tempo neste vídeo estarei objetivamente nesses estudos,
+00:01:28.880 --> 00:01:34.080
+o padrão ouro para um ensaio científico é um estudo prospectivo duplo-cego e
+00:01:34.080 --> 00:01:38.960
+randomizado com um tratamento e um grupo de controle e deve ser bem combinado em
+00:01:38.960 --> 00:01:45.520
+tantas variáveis ​​quanto possível para reduzir o risco de fatores imprevistos e não o ação da medicação
+00:01:45.520 --> 00:01:50.320
+está causando o efeito que os pesquisadores estão estudando um estudo prospectivo inscreve participantes
+00:01:50.320 --> 00:01:56.480
+para avaliar o protocolo de tratamento segue os efeitos colaterais e avalia os resultados
+00:01:56.480 --> 00:02:01.120
+um estudo duplo-cego é aquele em que nem os investigadores nem os destinatários do tratamento
+00:02:01.120 --> 00:02:06.240
+sabem se receberam o tratamento ou o placebo em meio a tomadores de decisão da epidemia têm
+00:02:06.240 --> 00:02:10.800
+tentado equilibrar a necessidade de medicina baseada em evidências e boas práticas clínicas com a
+00:02:10.800 --> 00:02:15.520
+necessidade urgente de tratamentos seguros e eficazes para os defensores de Cobi19 que estão do lado de
+00:02:15.520 --> 00:02:20.880
+pressionar por mais protocolos de tratamento por meio desse processo, mesmo que isso signifique confiar em evidências clínicas
+00:02:20.880 --> 00:02:24.800
+abaixo do padrão . Eles vão argumentar que a taxa de mortalidade continua para aumentar
+00:02:25.360 --> 00:02:30.400
+e argumentar que não há tempo suficiente para justificar um estudo prospectivo completo que pode levar
+00:02:30.400 --> 00:02:34.560
+meses, eles também notarão que os medicamentos que estão escolhendo para tratar covid 19
+00:02:35.200 --> 00:02:40.560
+já foram aprovados pelo FDA para outros usos e, portanto, são considerados seguros, mesmo que não
+00:02:40.560 --> 00:02:46.160
+tenham sido testados para verificar a segurança e eficácia do covid 19. A ivermectina é vendida sem prescrição
+00:02:46.160 --> 00:02:51.280
+em muitos países t o tratar pessoas para animais e para infecções parasitárias em países
+00:02:51.280 --> 00:02:56.560
+da américa latina, como peru guatemala bolivia, tem sido muito procurado, pois as pessoas acreditam que
+00:02:56.560 --> 00:03:02.400
+isso os protege de cobiçosos. 19 pesquisadores na américa latina apontam que são escassas as evidências de
+00:03:02.400 --> 00:03:08.000
+que a ivermectina protege contra cobiçado 19. no entanto, eles têm dificuldade em recrutar participantes para
+00:03:08.000 --> 00:03:13.520
+realizar um ensaio clínico e testar suas hipóteses porque quase todo mundo já assumiu o preconceito
+00:03:14.080 --> 00:03:18.560
+da droga pode levar a crenças que se tornam difíceis de desalojar e questionar se as
+00:03:18.560 --> 00:03:22.800
+pessoas acreditam que a medicação funcionará pode ser difícil de obter para desafiar essa crença,
+00:03:23.360 --> 00:03:28.160
+muitos justificarão o uso de remédios não comprovados, dizendo que ele tem um bom perfil de segurança
+00:03:28.160 --> 00:03:33.600
+e não vai doer mesmo se não funcionar. Uma crença zelosa de que um medicamento vai curar
+00:03:33.600 --> 00:03:39.040
+pode levar os usuários a ignorar os efeitos colaterais, o que é um viés de confirmação, a dose máxima recomendada
+00:03:39.040 --> 00:03:44.800
+para ivermectina é de 200 microgramas por quilograma. Os efeitos colaterais são muito raros, mas incl ude fadiga
+00:03:44.800 --> 00:03:51.280
+dor abdominal náusea diarreia tontura e erupções cutâneas efeitos colaterais menos comuns incluem piora
+00:03:51.280 --> 00:03:57.920
+da asma steven's johnson reação hepatite e icterícia em altas doses de uma overdose acidental
+00:03:57.920 --> 00:04:02.880
+pode causar convulsões dormência e formigamento ataxia significando dificuldade em manter o equilíbrio
+00:04:03.440 --> 00:04:08.000
+e então há o potencial para graves interações de droga para droga, lembre-se que no início
+00:04:08.000 --> 00:04:12.400
+deste vídeo mencionei que o estudo que foi feito na austrália onde foi demonstrado que
+00:04:12.400 --> 00:04:18.480
+inibia bem a replicação viral in vitro, isso leva à questão de qual dose de ivermectina
+00:04:18.480 --> 00:04:23.680
+seria necessária para atingir o mesmo antiviral efeito em um ser humano, então há grandes questões
+00:04:23.680 --> 00:04:30.160
+com isso, como mesmo com a dose mais alta relatada de 1.700 microgramas por quilograma, que é oito
+00:04:30.160 --> 00:04:38.240
+vezes e meia a dose aprovada pela FDA, a concentração plasmática máxima da ivermectina foi de 0,28 microgramas
+00:04:39.200 --> 00:04:45.760
+93 da ivermectina está ligada às proteínas plasmáticas que limitam sua absorção pelas células quando a
+00:04:45.760 --> 00:04:51.760
+concentração de ivermectina no tecido foi estudado em bezerros, foi insuficiente para atingir um efeito antiviral,
+00:04:51.760 --> 00:04:56.400
+então a conclusão do autor deste estudo foi que embora doses mais altas de ivermectina sejam
+00:04:56.400 --> 00:05:02.320
+geralmente bem toleradas, os efeitos clínicos de doses na faixa de cinco micromolares são desconhecidos e
+00:05:02.320 --> 00:05:07.680
+podem estar associados a toxicidade e este é a grande incógnita de quanta ivermectina as pessoas precisam
+00:05:07.680 --> 00:05:13.040
+para tratar covid 19 e essa dose fará mais mal do que bem? A única maneira de saber é fazendo
+00:05:13.040 --> 00:05:17.760
+estudos prospectivos randomizados controlados que incluem diferentes regimes de dosagem, o que significa que
+00:05:17.760 --> 00:05:22.960
+você precisa de muitas pessoas nesses ensaios para obter uma resposta concreta, há atualmente 47 ensaios
+00:05:22.960 --> 00:05:27.840
+clínicos registrados em clinictrials.gov e esses ensaios são para estudar os efeitos da ivermectina e covid 19,
+00:05:27.840 --> 00:05:34.000
+14 dos quais foram concluídos com o objetivo de organizar esses estudos para este vídeo,
+00:05:34.000 --> 00:05:38.960
+vou numerar eles e eu discutirei brevemente os estudos mais significativos, então, começando com o estudo número
+00:05:38.960 --> 00:05:44.480
+um, foi um estudo duplo cego randomizado em dhaka medica l faculdade em bangladesh, eles examinaram
+00:05:44.480 --> 00:05:51.360
+400 pessoas com cobiça leve, metade das quais receberam ivermectina 6 miligramas junto com doxiciclina 100
+00:05:51.360 --> 00:05:56.800
+miligramas duas vezes ao dia e durante cinco dias, a outra metade receberam tratamento padrão
+00:05:56.800 --> 00:06:04.240
+para cobiça no grupo de tratamento 61 por cento teve início recuperação 23 por cento tiveram recuperação tardia no grupo de placebo
+00:06:04.240 --> 00:06:11.760
+44 por cento tiveram recuperação precoce e 37 por cento tiveram recuperação tardia agora no grupo de tratamento, nove por cento tiveram um resultado
+00:06:11.760 --> 00:06:16.960
+grave , o que significa que a cobiça progrediu para uma doença mais grave e isto foi em comparação com
+00:06:16.960 --> 00:06:21.840
+18 por cento que foi no grupo de placebo, embora este não tenha sido um grande estudo, os
+00:06:21.840 --> 00:06:27.760
+que receberam ivermectina e doxiciclina tiveram melhores resultados, ok o segundo estudo foi
+00:06:27.760 --> 00:06:34.320
+um estudo prospectivo observacional em um hospital urinakian na Argentina, onde recrutaram 229
+00:06:34.320 --> 00:06:41.200
+participantes que foram randomizados e colocados em dois grupos 131 pessoas receberam tratamento padrão e
+00:06:41.200 --> 00:06:49.360
+ppe mais carragenina tópica de iota no nariz e bucal al mucosa na bochecha e ivormectina
+00:06:49.360 --> 00:06:55.600
+tópica na mucosa oral e a outra recebeu medidas profiláticas padrão junto com o EPP,
+00:06:55.600 --> 00:06:59.360
+então os participantes foram acompanhados por um mês, nenhum participante do
+00:06:59.360 --> 00:07:05.600
+grupo de tratamento testou positivo para covid 19 e 11 do grupo profilático padrão testado o estudo positivo
+00:07:05.600 --> 00:07:10.080
+número três foi um estudo de atribuição sequencial randomizado sem mascaramento
+00:07:10.080 --> 00:07:18.320
+na universidade de Zaghzig no Egito e inscreveu 340 pacientes. 228 receberam ivermectina profilática com
+00:07:18.320 --> 00:07:23.920
+uma dosagem baseada no peso e o grupo de controle sem tratamento. Os participantes foram acompanhados por 14 dias
+00:07:23.920 --> 00:07:30.960
+7,4 por cento do tratamento grupo e 58,4 do grupo de controle desenvolveram sintomas de covid, em
+00:07:30.960 --> 00:07:36.160
+seguida, houve um ensaio clínico randomizado feito no Iraque, onde inscreveu 140 participantes,
+00:07:36.160 --> 00:07:41.120
+metade dos quais receberam 200 microgramas por quilograma de ivermectina e também receberam
+00:07:41.120 --> 00:07:46.480
+doxiciclina; a outra metade recebeu cuidados padrão. Os pesquisadores relataram que o
+00:07:46.480 --> 00:07:53.200
+grupo ivermectina com doxiciclina reduziu o me um tempo de recuperação de 17,9 dias a 10,6 dias e
+00:07:53.200 --> 00:07:57.360
+a porcentagem de pacientes que progrediram para a randomização da doença mais grave foi feita por
+00:07:57.360 --> 00:08:02.960
+dias da semana, mas limitada pelo número de inscritos com um nível subjetivo de doença
+00:08:02.960 --> 00:08:07.520
+que pode ter introduzido viés e há outro ensaio clínico randomizado feito no
+00:08:07.520 --> 00:08:14.560
+Egito que inscreveu 600 pacientes, 400 dos quais eram sintomáticos e 200 eram da área de saúde e contatos domiciliares. Os
+00:08:14.560 --> 00:08:19.120
+participantes foram designados a seis grupos diferentes. Vou mostrar aqui que
+00:08:19.680 --> 00:08:25.040
+o desfecho do estudo foi melhora clínica dois testes pcr negativos em pelo menos 48 horas de intervalo
+00:08:25.040 --> 00:08:30.240
+e número de dias de internação, portanto, os resultados do estudo foram variáveis ​​- este estudo
+00:08:30.240 --> 00:08:34.960
+não teve um braço com placebo e os autores concluíram que a ivermectina foi mais eficaz no tratamento
+00:08:34.960 --> 00:08:40.240
+e profilaxia do que o outro grupo que incluiu hidroxicloroquina com tratamento padrão,
+00:08:40.240 --> 00:08:45.680
+mas sem placebo braço, então é realmente difícil chegar a uma conclusão sólida, há outro ponto observacional
+00:08:45.680 --> 00:08:51.280
+retrospectivo udy que foi conduzido observando pacientes com covid hospitalizado de quatro
+00:08:51.280 --> 00:08:56.480
+hospitais diferentes na Flórida, os prontuários foram revisados ​​para 280 pacientes
+00:08:56.480 --> 00:09:02.480
+e 173 deles foram tratados com pelo menos uma dose de ivermectina a 200 microgramas por quilograma
+00:09:03.120 --> 00:09:09.760
+e 107 sem ivermectina na maioria dos pacientes em ambos os grupos também receberam hidroxicloroquina
+00:09:09.760 --> 00:09:15.920
+azitromicina ou ambos os pesquisadores encontraram mortalidade mais baixa no grupo ivermectina com uma
+00:09:15.920 --> 00:09:22.880
+redução de risco absoluto de 11 e nenhuma diferença no tempo médio de internação ou taxa de extubação significando quem foi
+00:09:22.880 --> 00:09:27.760
+capaz de sair do ventilador agora no grupo ivermectina a taxa de mortalidade geral
+00:09:27.760 --> 00:09:33.440
+foi de 15 por cento da taxa de mortalidade para aqueles que receberam ivermectina e que tiveram
+00:09:33.440 --> 00:09:40.560
+envolvimento pulmonar grave foi de 38,8 por cento no grupo não ivermectina a mortalidade geral foi de 25
+00:09:41.360 --> 00:09:46.960
+e a mortalidade com envolvimento pulmonar grave foi de 80,7 por cento, então os autores
+00:09:46.960 --> 00:09:51.680
+afirmaram que seu estudo teve vários limitações que podem ter introduzido viés, incluindo estar
+00:09:51.680 --> 00:09:57.040
+em uma retrospectiva estudar um viés de tempo e uso de outros medicamentos como a dexametasona,
+00:09:57.680 --> 00:10:03.440
+os autores concluíram dizendo que mais estudos em ensaios randomizados apropriadamente desenhados são
+00:10:03.440 --> 00:10:08.880
+recomendados antes que qualquer conclusão possa ser feita e há também outro estudo na Argentina que
+00:10:08.880 --> 00:10:15.120
+não foi concluído ainda, mas é um estudo duplo-cego ensaio de controle randomizado e 500 pessoas inscritas,
+00:10:15.120 --> 00:10:20.480
+sendo que 250 no grupo de tratamento receberão avermectina com base no peso e a
+00:10:20.480 --> 00:10:24.960
+outra metade receberá um placebo. Os participantes serão acompanhados para avaliar
+00:10:24.960 --> 00:10:30.800
+a porcentagem que requer tempo de hospitalização até a hospitalização e número de dias no hospital
+00:10:31.440 --> 00:10:35.760
+e a porcentagem de pessoas que precisam de cuidados de saúde intensivos o instituto nacional de saúde
+00:10:35.760 --> 00:10:42.000
+o nih em 27 de agosto de 2020 fez uma forte recomendação contra o uso de ivermectina
+00:10:42.000 --> 00:10:47.840
+para tratar cobiçado. Essa recomendação foi baseada na opinião de especialistas que defendem o uso de ivermectina
+00:10:47.840 --> 00:10:53.520
+. que esta recomendação foi feita antes de muitos ensaios clínicos sobre Ivermectina serem realizados preenchido
+00:10:53.520 --> 00:10:58.480
+e a recomendação precisa ser atualizada agora, revendo os ensaios clínicos até o momento, mostra que
+00:10:58.480 --> 00:11:03.200
+muitos têm leis que tornam difícil tirar conclusões científicas por uma série de razões
+00:11:03.760 --> 00:11:09.840
+. A ivermectina funcionará tanto para a prevenção quanto para o tratamento de covid 19 talvez eu permaneça esperançoso e
+00:11:09.840 --> 00:11:14.160
+eu acho que há uma boa chance de que funcione, pois há algumas evidências que sugerem que sim,
+00:11:14.800 --> 00:11:19.360
+mas em vez de nos apressarmos em julgar como fizemos com plasma convalescente de hidroxicloroquina
+00:11:19.360 --> 00:11:25.040
+e remdesivir, precisamos esperar pelos resultados de estudos prospectivos cegos randomizados com estudos em
+00:11:25.040 --> 00:11:31.200
+grupo de placebo deve demonstrar claramente uma relação causal entre o uso de Ivermecting
+00:11:31.200 --> 00:11:38.320
+e tratamento ou prevenção de covid 19 versus um efeito correlativo um medicamento barato, seguro e eficaz
+00:11:38.320 --> 00:11:44.240
+trará a pandemia covid 19 sob controle mais rápido do que uma vacinação. Os dados exigem que
+00:11:44.240 --> 00:11:50.160
+as agências reguladoras em todo o mundo invistam em estudos para fornecer evidências definitivas de uma forma ou de outra,
+00:11:50.160 --> 00:11:55.840
+então por enquanto eu não vou ser presc costurando, mas espero que mude logo

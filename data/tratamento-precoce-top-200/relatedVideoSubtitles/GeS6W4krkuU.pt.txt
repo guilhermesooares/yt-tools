@@ -1,0 +1,134 @@
+WEBVTT Kind: captions Language: pt 00:00:00.080 --> 00:00:04.320
+até agora, realmente não houve nenhum estudo bom olhando diretamente para a ligação
+00:00:04.320 --> 00:00:09.600
+entre exercício e gravidade da doença cobiçosa. Eu sou o médico Mike Hansen e neste vídeo vou
+00:00:09.600 --> 00:00:15.200
+mostrar a vocês um novo estudo na revista médica britânica de esportes remédio que fez exatamente isso
+00:00:15.200 --> 00:00:19.760
+, já temos uma tonelada de pesquisas que nos mostram que o exercício nos ajuda a nos sentirmos melhor mental e
+00:00:19.760 --> 00:00:26.000
+fisicamente, evita ou melhora muitas condições médicas, como doenças cardíacas, diabetes tipo 2,
+00:00:26.000 --> 00:00:32.800
+hipertensão, obesidade, certos tipos de demência por câncer e pode estender nossas vidas é
+00:00:32.800 --> 00:00:39.040
+por isso que as diretrizes de atividade física dos EUA e a associação cardíaca americana recomendam pelo menos
+00:00:39.040 --> 00:00:44.400
+150 minutos de atividade física moderada todas as semanas, então agora vamos ao estudo que foi feito
+00:00:44.400 --> 00:00:49.360
+na kaiser permanente na Califórnia para entender este estudo que você tem saber sobre
+00:00:49.360 --> 00:00:54.560
+algo que já estavam fazendo antes de os profissionais de saúde da pandemia de lá fazerem rotineiramente
+00:00:54.560 --> 00:00:59.360
+a todos os seus pacientes duas perguntas simples sobre sua atividade física, eles se referiam
+00:00:59.360 --> 00:01:05.840
+a isso como o sinal vital do exercício as perguntas eram uma em média quantos dias por semana você se
+00:01:05.840 --> 00:01:11.680
+envolve em exercícios moderados a extenuantes, por exemplo, como uma caminhada rápida as opções de resposta
+00:01:11.680 --> 00:01:17.120
+são de zero a sete dias agora a segunda pergunta foi em média quantos minutos você se envolveu
+00:01:17.120 --> 00:01:25.840
+em exercícios neste nível as opções de resposta foram 0 10 20 30 40 50 60 90 120 ou 150 minutos ou mais
+00:01:26.480 --> 00:01:31.360
+agora com base em pesquisas anteriores, essas duas perguntas são uma boa medida da atividade
+00:01:31.360 --> 00:01:36.480
+das pessoas níveis não só isso, mas essas duas perguntas predizem alguns problemas médicos, como
+00:01:36.480 --> 00:01:40.880
+pressão alta e açúcar no sangue alto, agora a maioria das pessoas já sabe que existem
+00:01:40.880 --> 00:01:45.440
+muitos problemas de saúde que estão fortemente relacionados com a falta de atividade física,
+00:01:45.440 --> 00:01:50.400
+como os que acabei de mencionar a muitos deles também são fatores de risco para doença grave
+00:01:50.400 --> 00:01:56.560
+ou morte quando se trata de contrair cobiça. 19 isso inclui obesidade, pressão alta e diabetes,
+00:01:56.560 --> 00:02:02.960
+portanto, neste estudo eles se inscreveram levou 40.000 adultos com mais de 18 anos que confirmaram covid 19,
+00:02:02.960 --> 00:02:09.040
+que foi diagnosticado entre janeiro e outubro de 2020, o que foi antes de qualquer pessoa ser vacinada,
+00:02:09.600 --> 00:02:14.160
+todos eles eram pacientes em kaiser permanente por pelo menos seis meses antes de testar positivo
+00:02:14.160 --> 00:02:18.960
+para covid 19 quando olhou em seu gráfico o significado em seu registro médico eletrônico
+00:02:18.960 --> 00:02:24.480
+cada paciente tinha pelo menos três dessas medições de sinais vitais de exercício em seu registro dentro
+00:02:24.480 --> 00:02:31.120
+deste sistema de saúde 43 dos pacientes eram latinos ou latinos 34 eram brancos 11 por cento
+00:02:31.120 --> 00:02:37.760
+eram negros e 10 eram asiáticos ou pacíficos ilhéu a divisão dos grupos que tinham covid 19 eram
+00:02:37.760 --> 00:02:44.000
+65 latinos 18 brancos, sete por cento negros e seis por cento asiáticos ou ilhéus do Pacífico
+00:02:49.600 --> 00:02:56.160
+todo o grupo foi dividido em três categorias, um daqueles que atendeu consistentemente às diretrizes
+00:02:56.160 --> 00:03:02.960
+de atividade de mais de 150 minutos por semana em todas as três medidas. chame este grupo de agora o
+00:03:02.960 --> 00:03:08.400
+segundo grupo era aquele que é consistentemente inativo com apenas 0 a 10 minutos por semana
+00:03:08.400 --> 00:03:14.320
+em todas as três medições nts vamos chamar este grupo c, então há o terceiro grupo, aqueles que estão ativos
+00:03:14.320 --> 00:03:20.560
+na faixa de 11 a 149 minutos por semana ou que tiveram variabilidade em suas três medições, vamos
+00:03:20.560 --> 00:03:26.080
+chamar esse grupo b os pesquisadores também analisaram outras características importantes de esses mais de
+00:03:26.080 --> 00:03:31.440
+48.000 pacientes, quantos anos tinham, eram homens ou mulheres, fumavam ou tinham enfisema
+00:03:31.440 --> 00:03:37.760
+, se eles tinham obesidade, diabetes, hipertensão, doença cardiovascular, doença renal,
+00:03:37.760 --> 00:03:42.960
+analisaram outros fatores, coletaram e analisaram uma tonelada de dados e então eles calculou
+00:03:42.960 --> 00:03:47.760
+o risco e correlacionou que, com resultados diferentes, a grande conclusão do estudo
+00:03:47.760 --> 00:03:53.920
+é que as pessoas que eram consistentemente inativas tinham um risco significativamente maior de internação na
+00:03:53.920 --> 00:03:59.440
+UTI e morte após ficarem cobertos 19 em comparação com aquelas que eram ativas por pelo menos
+00:03:59.440 --> 00:04:05.280
+150 minutos por semana também o que eles descobriram foi que para aqueles que eram ativos por mais de 10 minutos por semana,
+00:04:05.280 --> 00:04:10.640
+significando o grupo b, eles tinham alguma proteção contra i Inundação ou morte por covid 19,
+00:04:10.640 --> 00:04:17.520
+mas não tanto quanto o grupo A, agora este foi um estudo que examinou a correlação direta entre exercício
+00:04:17.520 --> 00:04:22.880
+e gravidade da doença covid, mais estudos seriam necessários para confirmar esses achados, mas com base no
+00:04:22.880 --> 00:04:28.800
+que temos, é mais um motivo para encorajar e promover a atividade física para todos, idealmente um
+00:04:28.800 --> 00:04:34.640
+mínimo de 150 minutos por semana, certos tipos de exercícios podem trazer
+00:04:34.640 --> 00:04:41.840
+mais benefícios para a saúde do que outros, mas todos eles se sobrepõem, por exemplo, treinamento de resistência ou treinamento de força
+00:04:44.320 --> 00:04:48.080
+que inclui levantamento de peso e exercícios calistênicos, o que é especialmente bom,
+00:04:48.080 --> 00:04:52.240
+não apenas para adicionar músculos e permanecer forte, mas especialmente ótimo para prevenir a
+00:04:52.240 --> 00:04:55.840 osteoporose, 00:04:59.600 --> 00:05:03.920
+então você tem um treinamento intervalado de alta intensidade, que é especialmente ótimo para perder gordura,
+00:05:03.920 --> 00:05:08.800
+então você tem treinamento aeróbio ou cardio que é especialmente bom não apenas para perder gordura, mas também para
+00:05:08.800 --> 00:05:14.720
+aumentar a resistência de todos esses tipos de exercícios se sobrepõem quando se trata de benefícios para a saúde,
+00:05:14.720 --> 00:05:20.000
+agora eu sei que algumas pessoas vão trazer à tona esta questão: como fazer exercícios, juntamente com
+00:05:20.000 --> 00:05:25.840
+alimentação saudável e dormir bem, etc, como isso se compara a tomar a vacina invejável, digamos que
+00:05:25.840 --> 00:05:31.680
+você treine 150 minutos ou mais por semana e não tenha a vacina que dá o mesmo
+00:05:31.680 --> 00:05:37.760
+nível de proteção bem, não temos nenhum estudo comparando as duas de frente, tudo o que posso dizer é
+00:05:37.760 --> 00:05:44.400
+que, com as vacinas mrna feitas pela pfizer e moderna, elas são 95 eficazes contra cobiça severa
+00:05:44.400 --> 00:05:50.640
+e eu duvido seriamente que se exercite mais de 150 minutos por semana, você obterá o mesmo nível
+00:05:50.640 --> 00:05:55.920
+de proteção, então, para fazer esse estudo, você precisaria fazer um ensaio clínico randomizado que
+00:05:55.920 --> 00:06:03.200
+consiste em quatro grupos comparando a vacina da vacina mais exercícios físicos, mas nenhuma vacina e nenhuma
+00:06:03.200 --> 00:06:09.200
+vacina ou exercícios, mas isso é um estudo isso provavelmente nunca será feito por várias razões e
+00:06:09.200 --> 00:06:14.400
+nessa nota esta nova variante delta de covid que é a pior cepa covid ainda está crescendo nos Estados
+00:06:14.400 --> 00:06:20.320
+Unidos e logo será a cepa dominante que eu falei mais sobre neste vídeo aqui
+00:06:20.320 --> 00:06:24.640
+e se você quiser saber mais sobre os 10 principais benefícios do exercício, confira este pequeno e
+00:06:24.640 --> 00:06:29.520
+agradável vídeo aqui se você sabe o que é bom para você, isso é tudo para este, obrigado por assistir
+00:06:29.520 --> 00:06:34.320
+e se você gostou não se esqueça de apertar o botão de curtir e se inscrever e a notificação do sino até

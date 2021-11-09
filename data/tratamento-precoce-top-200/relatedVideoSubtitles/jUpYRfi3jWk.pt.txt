@@ -1,0 +1,1482 @@
+
+00:00
+WEBVTT Kind: captions Language: pt e transmitindo a
+Oi boa noite a todos e todas é dando continuidade à programação da expe em
+relação as lives discussão no enfrentamento da pandemia convide a
+gente agradece a presença de vocês nossa
+intenção hoje é discutir uma atualização de protocolo do manejo nesse momento
+onde a pandemia nós atravessamos uma segunda onda com o número crescente de
+casos de internações Então a nossa missão que na escola de saúde pública é
+tentar fornecer e discutir com vocês as principais evidências que temos em
+
+00:01
+relação às recomendações de manejo dos pacientes com com vídeo eu queria
+agradecer a todos vocês estão que presente dizer que essa é uma live
+interativa a gente vai ver o chat tentar discutir com vocês tentar o máximo que
+puder responder às perguntas as considerações é meu nome é Fabrício
+Martins o pneu e aqui da educação permanente da escola
+de saúde pública hoje na Live estão Professor Kenny colares do Hospital São
+José da escola de saúde pública Universidade de Fortaleza
+infectologistas professor Marcelo Alcântara superintendente da escola de
+saúde pública do Estado A pneumologista em pense Vista a gente vai dividir aqui
+em cenários né iniciando a primeira parte com quem do manejo ambulatorial
+depois eu vou falar de algumas coisas relação terapêutica do paciente a
+enfermaria o Marcelo passará para o outro Gene therapy suporte Eu vou antes
+de começar as apresentações vou passar a palavra Marcelo e fazer algumas
+
+00:02
+considerações Gerais aí nessa noite espero que seja proveitoso para todos
+vocês estão aqui no momento Obrigado é muito boa noite a todos e todas eu
+queria só começar a fazer uma saudação a todos que estão nos acompanhando aí no
+nosso canal no YouTube Espero que vem feedback é esse o áudio o seu vídeo está
+rodando bem para vocês queria pedir também para vocês aumentar em audiência
+desse tipo de transmissão é dando um like aí no nosso canal compartilhando
+com um colega se nas redes sociais E se for possível e a essa é uma live
+que eu vou abrir aqui a introdução uma live que eu gostaria de estar discutindo
+aqui com vocês outro tema gostaria de estar discutindo com vocês a
+reabilitação dos pacientes um convide gostaria de estar discutindo com vocês a
+eficiência da vacinação como é que tá andando mais a gente tem que encarar a
+
+00:03
+realidade e ela é dura e esse é o papel da escola de saúde pública da Secretaria
+de Saúde Então nós vamos discutir aqui hoje é o protocolo do tratamento do
+paciente Agudo ou seja paciente que desenvolve covid-19 que infelizmente no
+Brasil a ver em ascensão em ascensão em todo o país é de forma sincronizada
+entre diferentes regiões isso não aconteceu antes na primeira onda vamos
+dizer assim e no Ceará é um acessório número de casos e a gente
+vê uma sobrecarga do sistema de saúde eu devo deixar claro que o nosso sistema
+de saúde não está em colapso o sistema está sobrecarregado é um sistema que tá
+sofrendo por esse por excesso de internações O que é esperado por excesso
+de consultas nas emergências UPA de todo o estado e certamente vai se associar a
+
+00:04
+um aumento do número de óculos Mas se a gente souber trabalhar um protocolo de
+maneira adequada que soubermos tratar os pacientes também de maneira adequada
+evitando as principais complicações da corrigir a gente vai conseguir reduzir
+mortalidade a gente pode ter como nós tivemos ao longo do tempo uma taxa de
+mortalidade que vem se reduzindo E chegou a 10,7 por cento na primeira onda
+e agora é menor do que um processo não dá mais tempo que fazer um esforço
+conjunto solidário para aplicar um protocolo baseado em evidências também
+baseado na experiência acumulada nesses meses todos e baseado em inovação o
+vocês vão ver a gente vai falar da aplicação do nosso Elmo é o capacete que
+aplica sepatu né os pacientes com insuficiência respiratória
+e é eu hoje fiquei triste de ver na Globo News uma notícia crise são tão é
+
+00:05
+queria saudáveis agradecer a presença e já passar a bola de volta para o nosso
+pedido Doutor Fabrício é que inclusive é
+o tecido um herói era o quero dizer isso aqui junto com quem né na educação
+permanente dos próximos é o cenário da pimenta primeiro atendimento ao paciente
+com convite né suspeito ou confirmado a gente vai começar por aí depois
+decrescente para a enfermaria ir e para o suporte de ventilação e oxigenoterapia
+o seu Kane obrigado mais uma vez e presente a sua palavra é você é
+Oi beleza Boa noite a todos o prazer estar aqui com vocês aqui com professor
+Fabrício professor Marcelo tentando fazer mais atividade ativa dos SUS e aí
+baixar o aplicativo E nele você vai encontrar várias coisas inclusive o
+manejo ele tá acessível às vezes mais importante ele está acessível na hora do
+cuidado do que uma aula que a gente apresenta assim nem sempre todas as
+
+00:06
+informações são aproveitadas né também na internet nesse site basta você
+procurar manejo Clínico com o vídeo Ceará no Google você vai esbarrar nessa
+página facilmente né hoje a gente coloca lá por enquanto esses cinco essas cinco
+abordagens aqui eu cinco capítulos né eles estão organizados de uma forma que
+rapidamente você entrando você vem um resumo das principais recomendações e
+aqui tem um índice onde você pode clicar e chegar mais rapidamente o que você
+precisa tudo na ideia de facilitar o profissional que tá Às vezes atendendo e
+não pode ficar perdendo tempo clicando atrás de notas técnicas as vezes que
+estão desatualiza os materiais que estão dispersas na
+internet ele foi atualizado em Vinte e Dois de Dezembro acho que a gente tá
+discutindo eu já trago aqui nas nossas discussões algumas novidades que vieram
+que aparecendo aqui de lá até agora tá certo chama atenção que esse esse
+maneiro já foi apresentado do jeito que ele era em dezembro nessa Live aqui que
+tá disponível no YouTube então eu vou como para não fazer um exatamente igual
+
+00:07
+eu vou tentar trazer alguma novidade né Ou pelo menos alguns aspectos que a
+gente acha que tem que ser mais incentivado e não vou repetir exatamente
+abordagem do jeito que foi feito inicialmente para não fazer a mesma aula
+de Janeiro Tá certo então eventualmente no final posso discutir se eu passar
+muito rápido alguma coisa ou então quem não tiver tido contato com ele uma vez
+de visita a página visita essa apresentação que ela vai estar mais
+realmente focado em cima dessa em cima do manejo aqui eu vou sair um pouquinho
+vou fofocar um pouquinho em alguns aspectos que eu acho que ainda não estão
+funcionando do jeito que deveriam é perfeito então vou ter que competem
+utilizar né critério de definição de caso confirmação diagnóstica os cuidados
+de prevenção e controle de infecção estratificação de risco forma de
+monitoramento indicações de tratamento é mais ou menos aqui a organização da
+nossa apresentação essa aqui é a definição de caso suspeito a gente já
+falou isso na outra Live eu achei da Organização Mundial de Saúde ela coloca
+que o paciente com menos de sete dias de
+
+00:08
+sintomas Agudos que tenha pelo menos ela coloca três critérios né tem a febre
+mais tosse ou segundo critério pelo menos três desses sintomas aqui vejo tem
+sintomas sistêmicos sintomas respiratórios sintomas digestivos né
+sintomas sistêmicos neurológico né ou então alteração de Paladar ou de ao fato
+já seria suficiente para atualizar um caso suspeito acho que ele é um
+pouquinho mais preciso interessante do que o critério digamos do Ministério da
+Saúde né eu a gente por isso que a gente colocou lá no manejo depois de esbarrar
+no é um caso suspeito e você enquadrar se
+ele preencheu no prédio em preencher os critérios estão segundo passo seria
+definir qual o teste pedir Como confirmar este diagnóstico é a gente
+conhecer slide já vem aí desde Maio do ano passado mas ainda é um dos mais
+ilustrativos para mostrar os marcadores né que às vezes a gente tá aqui na
+primeira semana de doença a gente vai utilizar os marcadores viram lógicos que
+
+00:09
+daí fica o diretamente o vírus ou Genoma como PCR que aquele que tem o menor
+melhor sensibilidade e é considerado o padrão-ouro né seja aqui no trato
+respiratório superior que tá aí azul ou no trato respiratório inferior que tá em
+rosa né ou então Montijo no essa curvinha aqui é da cultura esse aqui não
+faz muito parte da vida da gente da rotina mais um antígeno ele tem uma
+relação muito boa com a cultura ele vai dar positivo praticamente na primeira
+semana tem uma boa relação com a fase aguda da doença mas logo ele vai ficar
+negativa entre a cidade menor que o pessoa é por isso que a gente tem que
+colocar dele como uma alternativa né a fazer o pé se por acaso você não tiver
+eu tiver alguma dificuldade batismo como a segunda escolha a segunda semana veja
+que ainda é o teste molecular ele já perdeu um pouco a sensibilidade mas ele
+ainda é o teste mais utilizado mas é recomendado seja no trato respiratório
+superior e inferior a partir da terceira semana você já começa a ter os
+marcadores sorológicos uma forma mais importante hoje em dia se recomenda usar
+
+00:10
+especialmente o Gegê né aquela história de g a BM eles estão praticamente século
+sendo abandonados eles têm muito problemas de interpretação tá certa mais
+ou menos assim que a gente organiza aquela ideia inicial de que tem que
+esperar até o terceiro dia eu tô diagnóstico tem causado muitos problemas
+a gente já vi lá no nosso manejo a gente tem adotado a recomendação que o CDC
+recomenda né que não esperar é solicitar o teste o mais precocemente possível
+apesar de ter saído um trabalho lá no começo que falava que o terceiro dia
+Seria onde havia mais sensibilidade isso e não há consenso esse trabalho aqui no
+a atividade no de um primeiro dia de sintoma e ela foi caindo daí em diante
+né existe até algumas evidências que talvez na fase pré-sintomática onde
+existe a maior transmissão onde acontece a vó transmissão talvez acabe graus e
+até mais alta antes de começar os sintomas né então a ideia não adianta a
+solicitação do SPC primeiros porque não me essa informação de que a felicidade é
+
+00:11
+melhor no terceiro dia ela parece que não é consensual segundo que muita gente
+muitos pacientes às vezes deixo de fazer vai na primeira consulta na unidade de
+saúde não faz o teste fica para fazer depois e depois não faz Ou ele fica bom
+ou então muitas vezes vai a óbito fica grave e não tem o diagnóstico então não
+perder a oportunidade na primeira consulta já fazer logo a essa
+solicitação né e outro detalhe que também gera Muita confusão é a ideia de
+que o PC é ele pode ficar positivo com muito tempo então não vai dar tempo a
+pena querer fazer PCR de controle né vejam aqui nesse trabalho foi feito
+repetindo o teste impaciente os seis semanas ou mais
+e veja o que há para a mediana de tempo aqui para o clareamento geral foi 23
+dias ou seja com 23 dias Metade dos pacientes ainda tinha teste positivo
+Metade dos pacientes já tinha o teste negativo né o três semanas ou mais de
+três semanas né 16 semanas ainda tinha cinco porcento dos pacientes que tinha
+teste Positivo eu tem muita gente que fica fazendo esse PCR e ele continua
+
+00:12
+dando positivo e a pessoa vai ficar ansiosa e vai enfim querendo fazer
+alguma coisa porque ainda tá com vírus então a recomendação atual que não se
+faça que se de alta do paciente baseado nos sintomas né se são geralmente dez
+dias no paciente é ambulatorial 20 dias no paciente hospitalar ele pode ter alta
+na desde que ele esteja clinicamente bem né então resumindo a indicação do
+diagnóstico na primeira semana para evitar a mente aí TCR alternativa o
+antígeno na segunda semana prioritariamente o PCR se você puder
+utilizar só se a PCR mais sorologia é interessante que o de pedir os dois se
+tiver que escolher melhor pedir o PC é a
+partir da terceira semana aí realmente a sorologia passa à frente em termos de
+benefício de acurácia né e a recomendação é que não se utiliza Mais
+teste rápido para diagnóstico Clínico Deixa apenas para avaliação
+epidemiológica é agora nossa estratégia de ação eu vou eu vou tentar focar um
+
+00:13
+pouco dentro do tempo que a gente pode ter que é muito curto né para a gente
+ver um dilema que a gente tem a atualmente tema de abordagem desse
+paciente Qual a melhor estratégia de ação né é fazer o tratamento precoce ou
+acompanhamento precoce né nessa uma polêmica enorme pelo menos nosso país os
+outros países a polêmica parece não existir a gente acredita que o
+monitoramento Clínico seja abordagem do paciente ela tem um papel Central no
+atendimento como Praticamente todo cuidado de Medicina né a infelizmente a
+nossa medicina moderna se transformou meter um pouco precarizado e veloz e a
+gente em tentação a substituir o nosso cuidado
+por exame ou por remédio ou pelos dois é
+cada vez valorizando - a consulta médica
+cada vez fazendo ela mais curta cada vez observa no menos aqueles cuidados
+necessários e paradoxalmente desvalorizando a nossa própria profissão
+né é eu faço e a gente trouxe até o nosso o nosso desenho de de abordagem
+
+00:14
+ela é um pouco inspirado no Cuidado que a gente tem que o paciente a dengue
+quando a gente vai cuidar de um paciente com dengue a gente sabe que no começo
+ele tá bem que vai ter um período crítico aqui geralmente do terceiro ao
+sexto dia que é onde ele pode complicar então quando eu consulto ele aqui eu
+posso pedir exames mas eu digo para ele que ele olha o Oriente o fatores eu
+oriento para ele que ele vai ter ele pode ter sinais de alarme e ajudou ele a
+identificar os sinais de alarme eu não mandei ele para casa sem eu tô marcado
+Eu quero meio que peço o exames para ele fazer dentro de 2448 horas eu vou
+observar a curva de plaquetas no paciente também fica ansioso porque como
+não tem tratamento o paciente fica Ah tá ele não fica querendo ir embora
+para casa ele quer voltar quando é que eu volto então aí ele vai fazer muito
+raramente aqui das plaquetas do hematócrito e se por acaso alguma coisa
+de errada vai ser identificado precocemente está relacionado com a
+sobrevida né Eu tô querendo colocar esse esse paralelo porque muitas vezes
+paciente tem saído com receitas na mão cada vez mais longas sem orientação para
+fazer exames em orientação de retorno se
+
+00:15
+orientação de transmissão sem orientação em termos de sinais de alarme
+simplesmente com a lista de remédios cada vez mais extenso mostrando que
+cuidado tá sendo substituído por uma receita né e eu acho que a gente precisa
+refletir em torno disso então quando eu vou fazer essa abordagem se ela tem um
+monte de coisa que eu preciso fazer identificar se ele é o caso fazer o
+exame Laboratorial a orientar essa pessoa fazer isolamento domiciliar ou
+hospitalar eventualmente rastrear os seus contatos oriental sinais de alerta
+monitorar durante a evolução a clínica fazer o exame
+a coragem marcadores que podem me ajudar
+a identificar aquele paciente complicado
+e prescrever medicamentos como uma coisa digamos uma parte de um pacote muito
+maior que aparentemente a Cal substituindo tudo isso aqui tá sendo
+feito pela metade pelo menos igual a parte dos atendimentos que a gente
+observa na cidade medida de prevenção só Ultra resumo isso aí tá lá no nosso
+manejo né Então na hora que eu tenho caso suspeito aqui eu devo mesmo antes
+
+00:16
+de fazer o teste dele eu já tenho que tratar como se ele for aguardar como se
+ele fosse como se ele tivesse a doença Então tem que orientar aquela pessoa se
+afastar não pode ficar esperando o resultado do exame com o exame mas ele
+vai ficar orientado vai ficar em isolamento até que sai o resultado que a
+gente reveja né idealmente por dez dias né meu paciente ambulatorial cerca de
+dez dias é o tempo que esse paciente tem um risco maior de transmissão os
+pacientes ambulatoriais né eu vou avaliar os seus contatos precisa pagar
+seus contactantes para ver se algum deles precisa ser testado eu preciso
+também ser colocado Que pena né então não é todo mundo que
+teve contato com esse indivíduo são as pessoas que tiveram contato entre o dia
+menos dois e o dedo é isso então às vezes quando a gente vai conversar tem
+alguns contactantes desse que tiveram contato com esse vídeo aqui Ou tiveram
+contato com esse Divino Depois de dez dias não incluído né Eu ainda mais que
+tipo de contato defina o critério aqui de contato próximo seus contatos seu
+
+00:17
+domicílio é o risco é maior que tem se ele foi por um tempo prolongado acima de
+15 minutos uma distância menor que 1 metro né se houve contato físico e se
+havia uso de e&amp;p especialmente Mas você
+pode fazer a gente considerar que foi ou
+não foi um contato próximo então no caso aqui só dois aqui foram contatos
+próximos esses aqui são orientados a manter aí é que os termos As definições
+né distanciamento são orientações Gerais para a população que a gente da
+quarentena as orientações que a gente dá
+para o paciente contactante isolamento é o que a gente faz para o caso suspeito
+né no tempo de isolamento ambulatorial e 10 dias né
+e esses indivíduos aqui de aumente eles devem ser Eles foram contatos próximos
+idealmente eles devem fazer o teste ele deve fazer o PCR também a orientação
+esse indivíduo passar 14 dias em quarentena Tá certo alternativamente ele
+pode fazer o PCR então não adianta querer fazer o PCR logo depois da
+exposição idealmente tem sido recomendado fazer por volta do sétimo
+
+00:18
+entre o 7º eo 10º dia né e no nosso manejo inspirado um pouco no CDC não é
+exatamente igual aquele indivíduo que tiver um PCR não não detectável entre 7
+e 10 dias e tivessem sintoma ele poderia ser liberado no décimo dia né como um
+paciente que tá liberado vai voltar lá para o distanciamento EA o padrão de
+precaução né se ele se devia o aparecer sintomas ou então se positivar aqui o
+PCR ele já é um caso e aí começa a contar o prazo para ele de novo mas dez
+dias a partir do dia do início dos sintomas ou data da coleta do exame se
+for o caso ok é isso aqui é um resumo Zinho tá lá no
+manejo eu vou passar a pra gente a partir para o abordagem Clínica né então
+a gente propõe aqui alguma coisa já tá já tá bem batida na apresentação
+anterior que a estratificação de risco desse indivíduo que é baseado um
+pouquinho no exemplo da dengue seja baseado os fatores de risco estadiamento
+Clínico em sinais de vulnerabilidade social paciente mora longe paciente que
+
+00:19
+não tem isso pode confiar né e marcadores laboratoriais né
+o fator de risco Existem várias listas essa que é do manual Brasileiro né
+existem divergências mas só consegue tem fator de risco a gente já vai olhar
+aquele paciente com mais cuidado no estadiamento Clínico a gente tem
+utilizado aqui o estadiamento do cliente que é muito parecido com o da OMS e que
+vai estar de ao paciente com uma sintomático eventualmente
+pré-sintomático sintomas aparecerem né é sintomático leve moderado e grave
+crítico né Oi aqui é mais ou menos um resumo do que
+tem lá no manejo né e eu paciente aqui que não tem pneumonia tem um toque só um
+assim no gripal esse paciente já tem pneumonia já tem dispneia já pode ter
+alteração da imagem mas é um paciente que está relativamente bem o moderado
+paciente grave e aquele paciente que já tem um sinal de alteração da função
+respiratória é importante e um comprometimento maior na imagem e o
+paciente crítico aquele paciente que já tem uma comprometimento aí de múltiplos
+
+00:20
+órgãos uma descompensação maior só que não mudou Tá certo e sinais de alarme eu
+acho que são parâmetros interessantes primeiro que eles podem dedicar um pouco
+mais precocemente alguns deles a gente pode orientar o paciente a fazer
+oxímetro observar os seus sintomas e ele
+também é interessante Porque ele leva em consideração algumas algumas alterações
+que não sejam estritamente respiratórios né então às vezes o paciência ele tá
+conseguindo se ele tá com sem dispneia agir e não consegue se hidratar não
+consegue alimentar se ele tá oligurico se ele tá com tontura é sinal de
+estabilidade circulatória né muitas vezes não tá na classe
+o principal personagem de alarme a gente
+acha que interessante que a gente lembre que a gente Oriente o paciente vai
+funcionar dia lá para que ele volte antes mas ele aparece aqui muitas vezes
+aqui no cartão de acompanhamento ele pode ser muito interessante a cronologia
+é lembrar que essa classificação é a atenção precisa ser fundamental a partir
+do sétimo dia essa doença partir do sétimo dia seja certa tendência em
+maioria dos indivíduos caminhar para cá uma minoria a caminhar para cá e a
+Talvez seja o momento ideal para a gente identificar precocemente aquele
+
+00:21
+indivíduo que não está indo bem esse paciente aqui vai ter muita coisa para
+gente oferecer para ir lembrar que essa classificação ela tem um padrão ela é
+dinâmica né então na primeira semana todo mundo geralmente tempo quadro leve
+e alguns vão complicando durante a evolução então a cada visita esse
+paciente precisa ser é estadiado não está diante estadiamento fixo né e entre
+o 7º eo 10º dia onde é mais importante que você veja se paciente então mandares
+paciente para casa sem sem retorno e sem exame é meio complicado
+o sétimo dia isso que a gente já colocou né o período crítico 7º ao 10º dia esse
+aqui também a gente já viu isso aqui também já tá lá no nosso manejo do
+laboratório também começa a mudar a partir do sétimo dia então eu costumo
+solicitar os exames somente no sétimo dia partir daí a cada 24 a 48 horas de
+acordo com seu parceiro tá bem o seu clinicamente o paciente que preocupa
+mais estamos pode ser mais curtinhos é ou não eles também não devem ser visto
+de uma forma isolada né esse marcador só muito interessante quando eles são
+
+00:22
+vistas dentro do conjunto do caso mas muitas vezes tem gente querendo tomar
+conta somente pelo exame né e muitas vezes paciente nem tem diagnóstico
+específico ela faz ela vir em casa perfeita do nosso de convívio só não só
+baseado no dedinho e admiro muito inespecífico né é isso aqui é para
+marcador de prognóstico não é marca do diagnóstico aqui são alguns tá lá no
+nosso manejo alguns sugestões aí de limite de corte para a gente considerar
+uma alteração mais significativa né E aí baseado nisso é que a gente constrói as
+estratificação de não e vai ter o paciente no grupo A que não
+vai ter fatores de risco nós vai ter outras alterações do paciente do grupo B
+que geralmente aquele paciente já tem fator de risco ou vulnerabilidade social
+o grupo será que é indivíduo que já tem sinais de alarme tem a quadro clínico
+moderado né e marcadores em que marcadores não deve ser vista de forma
+isolada e o paciente deu paciente grave crítico né pela forma geral sugestão da
+gente é que o paciente A e B seja Vista na UBS pacientes em ambiente pronto
+
+00:23
+atendimento a emergência secundário terciário e o paciente ideia é um
+paciente tipicamente internado né paciente ser aquelas que ele Cinzento
+que pode ser internado ou não né a partir do Sétimo Dia ofereceu exames aos
+pacientes e avaliar necessidade desse paciente fazer retornos frequentes essa
+parte final aqui eu vou falar só um pouquinho da do tratamento né é a nossa
+recomendação do manejo tá que não existe droga disponíveis os antivirais você
+deve considerar apenas o tratamento com essa também
+Ah tá certo os anti-maláricos nessa gente avaliar que a tem um monte de
+trabalho sendo feitos né Mas se a gente pegar só revisão sistemática que saiu
+recentemente aí avaliando dois mil e poucos pacientes são oito trabalhos aqui
+foram vistos né Sem aqui é uma aquele gráfico de Floresta né que a gente vai
+ter esse diamante aqui se ele for desviado para o lado de cá ele sugere um
+bom efeito da hidroxicloroquina se ele for para o lado de cá ele sugere
+
+00:24
+malefício você ver que ele ficou exatamente em cima da linha em cima da
+trave não teve benefício e temos de mortalidade não teve benefício em termos
+de clareamento geral não teve benefício aqui no sumário né em termos de
+clareamento virar um de 7 e em termos de eventos adversos ele teve malefício
+Então se deu melhor quem não fez a medicação né então já tem bastante
+evidência de que essa medicação não deve ser utilizada né então não é só coisa
+não existem evidências Eu acho que já não oi oi permitindo realmente não tem
+evidência isso aqui são as observações na Greys colocando várias críticas ao
+trabalho já tem alguns trabalhos mas todos eles são muito problemáticos e
+forma que nem o trabalho razoável tive para trazer aqui para vocês é
+sentimentos ao trabalho quase toxina mostramos também que ela não deve não
+melhorou a sobrevida sequer do recovery um trabalho muito importante agora em
+fevereiro achando que Azitromicina ela não tem benefício nesses pacientes só
+deve ser utilizado Se for para tratamento de infecção bacteriana
+
+00:25
+dependendo do caso vitamina dela também esse trabalho foi feito em São Paulo né
+um ensaio Clínico randomizado também não mostrou benefício né e sugere que não
+deve ser utilizado lá não existe benefício utilização de vitamina D nem
+paciente que não tinha deficiência de vitaminas nem naqueles pacientes que
+tinham deficiência de vitamina D não houve benefício Clínico cinco vitamina C
+também sai do trabalho e recentemente agora em fevereiro mostrando que não
+existe indicação não existe benefício em tratamento com zinco e vitamina C né
+em termos de antimicrobianos a orientação é que a gente utilize apenas
+se houver um evidência de infecção secundária considerando essas situações
+à medida que a gente conhece melhor a doença a gente vai ver que boa parte dos
+pacientes que complicam interno não eles não tem o Jackson bateria lá na maioria
+dos carros né então prescrever antibiótico para todos os indivíduos
+talvez não seja a melhor ideia algumas situações que a gente coloca no consenso
+lá no nas recomendações corticoide acho que o Fabrício vai vai vai falar um
+
+00:26
+pouquinho mais sobre o corticoide mas ambulatorial a gente não tem visto a
+evidência de pressão de corticoide em ambulatório com uma coisa interessante
+você se o Fabrício vai trazer alguma coisa muito nova aí que eu não vi né
+então aqui são as posologias de corticóide isso aqui tá lá no manejo a
+gente não precisa falar só comentar aqui para gente terminar alguns trabalhos eu
+acho que talvez se tem uma novidade que a gente não colocou ainda no manejo mas
+acho que tá aberto pra gente discutir E aí até gostaria de resumir aqui ver a
+opinião de todos é a questão da conchinchina né você quer o trabalho fim
+o preto é um site vinculado amizade pegou o paciente hospitalizado com cópia
+de moderada a severa e fez com a oficina comparando com o padrão né o Placebo
+mais o tratamento padrão com esses desfechos aqui era um pouco paciente 36
+em cada braço de seu alimentação do estudo aqui o base line do que do caso
+não vai trazer grandes coisas são mais ou menos parecido esses indivíduos Tá
+
+00:27
+certo e aqui houve uma melhora né a em termos de tempo de ver o 2 ou seja
+Quando é que dá para retirar o a dois a colchicina mediana de quatro dias
+Placebo mediana de seis pontos 5 dias houve diferença significativa né esse
+paciência eles ficaram livres e no sétimo dia apenas nove porcento dos
+indivíduos que estavam no braço da colchicina ainda precisava de oxigênio
+né que aparece o resultado interessante e em termos de tempo de hospitalização
+também sete dias a mediana para colchicina 9 dias por Placebo ou uma
+diferença significativa né e termos de necessidade de UTI foi dois indivíduos
+na coxa ensina e quatro duplas emo mas um ele é muito pequeno não deu para
+fazer uma avaliação estatística e também
+aqui 0 e 2 de óbito também numericamente beneficia Costa ensina mais
+estatisticamente não dá para gente afirmar nada né é a proteína C reativa
+também caiu de forma significativa aí no paciente que fez o uso né E às vezes
+adverso diarreia especialmente numericamente maior no paciente que
+
+00:28
+tomou com oficina apesar de não ser significativo e esse texto estudo que tá
+para a gente terminar que está em pré print e mostrando a utilização agora em
+paciente ambulatorial isso é muito interessante para gente do paciente com
+mais de 40 anos não atualizados ou sem previsão de atualizar aquele paciente
+que não tinha assim não tava na biqueira de sinter
+o que tinha um fator de risco estão aqui só que eu digitar alguns laboratoriais
+alguns clínicos é e utilizavam uma colchicina aqui no uma dose semelhante a
+3 dias mas ele usou por mais tempo e uma
+dose menor do que aquele outro estudo né 30 dias de costas Ainda não entendi
+porque tanto tempo e a dose mais baixa aqui é o desfecho hospitalização outro
+aqui gera um número maior dois mil e pouco dois mil e pouco de cada lado né é
+pessoas aí com 50 e poucos anos de idade de mediana e quando ele avaliou que
+todos os pacientes Não houve a tendência
+de benefício nesse grupo aqui esse grupo todo aqui foram indivíduos que foram
+
+00:29
+admitidos com suspeita ou diagnóstico confirmado de convite e esse aqui 2075
+2084 foram indivíduos com diagnóstico confirmado são bastante paciência que
+tinha um diagnóstico confirmado de convite no ambulatório houve a redução
+de 25 porcento no and Point final é que foi príncipe a hospitalização reduziu a
+hospitalização desses indivíduos necessidade de ventilação mecânica caiu
+pela metade mais ou menos pequeno acabou não dando significativo mais de dez
+indivíduos aqui 20 dívidas aqui e óbito 5 x 9 indivíduos mas não deu não deu o
+significativo do ponto de vista estatístico mostrando aí um benefício
+dessa medicação para vocês uma novidade aí para a gente discutir para o paciente
+ambulatorial para não dizer que a gente não faz nada o subgrupo são terminados
+interessantes efeitos colaterais também só a questão da diarreia né E o restante
+vou deixar para o Fabrício falar ela que a gente vai tromba para falar que você
+
+00:30
+ambulatorial ela deve ser uma exceção então a recomendação geral é que apenas
+aqueles indivíduos que têm já faltou já tem indicação prévia de utilização de
+anticoagulante eu vou por acaso tiver foi considerado o
+paciente de alto risco de eventos tromboembólicos são esses aqui os
+critérios né ele ele coloca como considerar essa essa utilização e
+domiciliar Fabrício vai falar um pouquinho mais sobre isso só que vai
+ficar Marcelo vai falar mais sobre essa parte né então fechando aqui no que a
+gente no lugar de Lines da MS aquele paciente ambulatorial não severo não
+existe recomendação de fazer hidroxicloroquina nem uma medicação nem
+redeserie é isso nem corticoide pelo pela orientação do INSS pela orientação
+do em leite também eles estão utilizando nos Estados Unidos algum preço e
+paciente Inicial alguns anticorpos monoclonais e o plasma para
+convalescentes para pacientes de alto risco algum benefício tá certo mas isso
+
+00:31
+aqui não tá muito a nossa mão para gente utilizar né e usa e corte pode também é
+recomendado não utilizar naquele paciente não hospitalizado também pela
+último gardeline aqui E aí né Então aí talvez a boa parte dos
+nossos recomendações aqui elas estão mais ou menos encaixando com as outras
+recomendações utilizados no mundo e fica questão aí da consciência para a gente
+discutir ainda não está em nenhum consenso nem uma recomendação que eu
+conheço mas os resultados são tentadores e e a acho que aqui é só um resumo né
+gente conclui peço desculpa aí você passar um pouquinho o tempo foi ocorreu
+o máximo possível e fica à disposição aí depois para a gente discutir debater
+jeito que você achar melhor E aí e quem obrigado Mais uma vez tava
+tentando acompanhar que a apresentação mesmo tempo algumas perguntas que
+surgiram os missão trazendo aqui para o chat e carro do que é colega em duas
+
+00:32
+perguntas que a gente já Podia começar a discutir as perguntas até o começar
+porque a gente não perde aqui o foco né que são é uma pergunta no Ricardo
+togashi e a colega da gente neurologista de Sobral sobre o papel da budesonida
+inalatória o reino posso responder essa pergunta a budesonida é colegas também
+se quiserem o reino pergunta acho que vou deixar que mais se o Marcelo você já
+tem benefício comprovado de plano em paciente acordado e a Clara Randall
+papel do d-dímero em nível ambulatorial né E tem uma pergunta sobre a repressão
+E as novas variantes ou c pois eu acredito que seja se existe alguma
+alteração de sensibilidade especificidade
+o ferry por conta das novas cepas é uma possibilidade maior falso negativo acho
+que eu vou começar a por essa das cepas aí com quem que já tava aí na
+
+00:33
+apresentação tranquilo É e tem um diagnóstico né É ainda bom a gente tá
+conhece pouco sobre essas Novas Novas variantes a única variante que já
+mostrou potencial aí de causar dificuldade se tem algum teste PCR é a
+variante de damas inglesas né só 17147 não é só você tem empresa ela tem
+especialmente no prime aqui que identifica lá Justamente a proteína S
+onde tem as votações ele tem mostrado algumas falhas e alguns protocolos essa
+essa separa não tá ainda pelo menos muito circulante a forma muito
+importante aqui na e e o e as aquivos aqui trabalha com diagnósticos
+o frango né até que ponto isso aí vai ter algum tipo impacto nos pés que a
+gente utiliza as outras especialmente a a as duas brasileiras aí que tem a
+circulação maior ainda não tem informações nem dizendo de alguma falha
+
+00:34
+de diagnóstico por conta da presença delas né então a gente claro que deve
+ficar atenta muita novidade mas ainda não tem nenhuma evidência de que o nosso
+pessoal é posso falhar com essas cepas peixe é isso quem é Ricardo Ricardo tô
+gastar de Sobral perguntando sobre o papel da budesonida inalatória E caso a
+gente tem um trabalho que assim até semana passada ele tava em presente que
+ele é bem interessante que é utilização da mudança de inalatória é 800
+microgramas dia né para vocês terem uma ideia
+é uma das marcas por exemplo do decote busonid você utilizar 800 microgramas
+dia na tentativa de reduzir a necessidade da emergência ou
+internamento de paciência concorre de leve precoce no sétimo dia então no
+sétimo dia eles fazem budesonida no grupo no outro a visão eles não faziam
+os códigos de nenhuma forma e eles perceberam que no grupo da budesonida e
+isso reduziu a necessidade da emergência e internações é um trabalho que os
+
+00:35
+próprios autores falam da alimentação ele tá indo Inicial são 139 pacientes eu
+não me ama é bem pequeno mas é um trabalho que eu acho interessante que
+tem uma fundamentação fisiopatológica né gente tem visto dos pacientes asmáticos
+Não recomendação de uma dessas medicações inalatórias principalmente o
+corticoide Possivelmente como fator protetor Talvez seja uma droga
+promissora mas ainda realmente é o único estudo que a gente vê é esse não é com
+isso e tem a vantagem de ser uma droga pouquíssimos efeitos colaterais reação
+praticamente há mais volta aqui ao caso são passeios
+leves precoce com um número pequeno de pacientes ainda e o Renan o reino pessoa
+faz uma pergunta sobre prolonga no paciente acordado ventilação espontânea
+maçã Ele pergunta do benefício do risco também né O que fazer para mim
+eu posso comentar agora se quiser eu guardar para depois mas vai agora você
+que manda Pode ser que aproveitar o embalo ainda Boa pergunta do Reno na
+
+00:36
+vamos lá a prona na posição na espontânea acordada não é paciente
+acordado ele ela realmente traz um melhora da oxigenação Renan e é óbvio
+que se esse recurso é um recurso que é fácil de ser feito pelo paciente não
+gera desconforto perfeitamente aceitável paciente ficar algum tempo em clona o
+máximo tempo que ele consegui ficar desde que fique confortável mas na
+prática é muito limitado esse recurso porque ele um paciente consegue ficar
+muitas horas ou uma conquista um percentual aí vai conseguir ficar muitas
+horas em pro na mesmo né então eu não vejo não vejo nenhum risco e se tentar a
+posição prona vejo um benefício de você Posso até a diminuir um pouco afo2 do
+paciente E é claro tem um tenho sempre um risco
+mínimo de voltei mascarar um determinado com a bru achar que aquele tratamento
+
+00:37
+pra resolver e posso pegar uma decisão de usar ventilação não invasiva Elmo
+cepap o até cama de Alto fluxo dá para fazer para o outro também com qualquer
+um desses dispositivos só que é muito mais complicado então a gente não tem
+uma resposta Clara da literatura mas eu não vejo mal nenhum E aí você tentar
+fazer um trabalho de Bruna durante algumas horas por exemplo que ele tava
+paciente dormiu período entrou na Seria algo interessante Obrigado Marcelo
+realmente o relato dos colegas aqui tem que ter bastante sucesso com pronação e
+ventilar o paciente ventilação espontânea né pergunta da clara clara eu
+vou responder à tua pergunta sobre de dinheiro ambulatorial anticoagulação
+durante a apresentação que tá bom obrigado aí pela pergunta então acho
+que passando para mim agora eu vou fazer uma apresentação pouco mais objetiva
+porque vou focar nos aspectos terapêuticos né do paciente internado é
+
+00:38
+o interesse maior que nosso Então vou começar aqui apresentação E aí
+eu acho que tá tudo ok se vocês estão conseguindo ver visualizar
+e sem Roberto ok então nós pro pessoal é
+brilha fazer aqui um agradecimento a ele somente homenagem aos colegas que vem
+acompanhando pacientes com 22 o início da academia estão na linha de frente a e
+que a experiência deles né ajuda demais também a gente a discutir conhecimento a
+
+00:39
+tentar discutir evidência a perceber o que é que tá acontecendo na ponta esse e
+principalmente a colagem e oferecer o melhor cuidado possível aos pacientes
+Então essa ela vai muito para somente ao grupo onde eu trabalho essa Waldemar
+Alcântara o grupo dos profissionais que estão nas unidades convite lá no
+hospital a passa pela homenagem a eles aqui nessa nessa apresentação
+eu vou falar um pouco paciente internado em enfermaria principalmente em três
+aspectos queria começar a tentar discutir um pouquinho de uma coisa que
+ainda parece um pouco confuso a recomendação que a gente tem dado no
+protocolo é que cada unidade de saúde no município não é unidades hospitalares
+ambulatórios atenção básica Estabeleça critérios bem claros para decisão de
+internar ou não paciente o quem já falar um pouco sobre isso e às vezes esses
+critérios eles podem fugir um pouco do que tá aqui nesse slide mas só lembrando
+que 25 porcento pelo menos na primeira Ronda dos pacientes permaneceram
+
+00:40
+assintomático a maioria dos pacientes ainda permanece com doença leve a doença
+moderada já começa a se perceber Há algum sinal Clínico radiológico de a
+comédia era inferior aquele paciente que começa a tossir tem algum grau de
+desconforto respiratório a saturação mais a saturação ainda permanece maior
+igual 94 a partir daqui já é um paciente você precisa acompanhar mais de perto
+talvez não tem ainda critérios de internação Mas onde estava o link como
+tal né e a internação que vem mais nesse paciente que tem doença grave e o
+crítica naqueles que é Bem óbvio doença grave aquele paciente com saturação
+menor que 94 e ou o índice oxigenação menor que 300 onde você tiver a
+gasometria disponível e o paciente com frequência respiratória acima de 30 ou
+com acometimento acima de cinquenta por cento dos Campos pulmonares onde você
+tiver disponibilidade da tomografia a aqui a gente começa a entrar naquele no
+
+00:41
+onde a gente vai discutir mais nessa aula de hoje né a terapêutica que eu vou
+falar um pouco quer para esse contexto paciente com doença grave crítica ea
+em várias perguntas a serem respondidas em relação a doença moderada que é uma
+boa parte dos pacientes nossos né bom então vou começar a falando que você
+deve algumas sugestões que a CDC INSS que a sociedade britânica Ministério da
+Saúde aqui o nosso protocolos recomendam no internamento dos pacientes e me
+lembrar da Necessidade ao internar o paciente solicitado pelo menos
+marcadores basais né eu coloquei aqui elas seis só para mostrar para vocês que
+realmente é a informação e tem leucina ela sobe nos paciente mais inflamados e
+essa informação começa a mais ali depois do sétimo dia e vocês percebem que
+quanto mais inflamar mais e ali seis esse vermelhinho aqui são os pacientes
+que foram alto né Maior mortalidade a gente encontra aí Alice fez não é
+disponível na grande maioria dos nossos serviços mas a gente tem outro
+
+00:42
+marcadores que estão disponíveis e que a gente deve solicitar é pelo menos basal
+durante a internação e dependendo da evolução do paciente então ele está
+periodicamente enquanto ele estiver admitido no hospital um deles é o de
+dinda fica bem claro que as elevações admiro aqui né sobretudo acima de 1 m
+e são mais associadas com pacientes que não sobreviveram a corrigir isso aqui é
+um corte de pacientes internados né já respondendo à pergunta da quadra sobre o
+dedinho ambulatorial mas não temos nenhuma recomendação de sociedade no
+momento seja europeia seja brasileira a de acompanhamento de dinheiro em
+pacientes ambulatoriais que não apresentem algum tipo de fator de risco
+né que ele paciente que não presta o sétimo dia peça em ti com sintomas
+começa a apresentar sintomas de tosse dispneia desconforto respiratório é um
+passo Principalmente aqueles que têm fatores de risco há uma recomendação
+sugestão Nossa de você solicitar os marcadores desse grupo de paciente e o
+dedinho estar entre eles mas esses dados que a gente está apresentando aqui são
+
+00:43
+de pessoas que precisaram se internar então de dinheiro deve ser solicitado na
+admissão a i.a. recomendação é que a partir da admissão você passa a
+solicitar quando o paciente apresenta algum lança Clínica né ou
+e agora inflamatórios alterados ao longo do internamento Ah não precisa você
+pedir de dia mesmo todo dia para paciente internado é porque a gente sabe
+que a disponibilidade não é tão grande uma subida de d-dímero associado à
+marcadores inflamatórios e levado a uma Peão de oxigenação do paciente pode ser
+um alerta para você investigar o fenômeno embólico até pensar no nível de
+anticoagulação pouco mais elevado mas isoladamente o de diâmetro é não não vai
+te indicar nenhuma conduta sozinho e não dica tá tem que vir associada aos
+marcadores e ao contexto Clínico do paciente os reforços você já conhecem
+não tem já falou né também vou começar a cair a partir do sétimo dia e quanto
+mais enfoque ia maior chance de mortalidade da Argentina também
+
+00:44
+mostrando quase inflamatórios ldh que também é disponível né bem disparado
+disparando a partir do 7º 10º dia aqui que a doença Começar a se separar entre
+os que sobrevivem bem E os que vão acabar teor hã-hã-hãe Então é só um
+exemplo de que a a o paciente solicitar marcadores de base
+e e solicitar periodicamente de acordo com a evolução do paciente ou para
+investigar alguma outra complicação como insuficiência renal infecção secundário
+aqui lembrado o PCR que não tá nesses lados mas que também possa expressar
+acompanhamento dos pacientes com o vídeo uma coisa que a gente sempre chamou a
+atenção a gente colaborar com a comissão
+de óculos ficar Fernanda tá aqui o que a
+gente são bem mais Artes na comissão que eu a a gente percebe que muitas das
+avaliações de ovos que a gente faz a gente não tem muitas vezes registro de
+imagem do paciente então radiografia e tomografia de todos são mandatórios ao
+internar um paciente com convite né elas servem para reforçar o diagnóstico na
+
+00:45
+ausência de swab e isso vale mais para tomografia a geografia pode ajudar a
+fazer um diagnóstico diferencial ela colabora com a estratificação se você tá
+em dúvida o paciente que tá piorando Mas você ainda não é inscrito era
+internamente tá ali no limite a uma tomografia a 150 por 100
+a internação por exemplo fazer o diagnóstico Inicial com pneumonias
+bacterianas é muito comum virem ou associadas ao corrigir ou na verdade
+como causa da doença do paciente ele não tem corrigir ele tem uma pneumonia
+bacteriana é mais comum mais tradicional entre "como a gente conhece e ele ajuda
+muito a reforçar o diagnóstico de convite quando você tem esse padrão que
+da tc de vidro fosco bilateral periférico né que a gente tá vendo por
+aqui que pode a valor inclusive rapidamente para consolidações nos
+pacientes mais graves que está envolvido lançaram que tem já infecção secundária
+na situação de você não tem um suave compensar disponível para confirmar um
+diagnóstico do paciente internado você poderia somar suspeita Clínica com a
+
+00:46
+tomografia paciente que tem síndrome gripal e que tem essa TC Você tem uma
+suspeita muito forte uma curasse até de 97 por cento para convite nesse momento
+a gente estava com Ademir né a mais reforçando que a necessidade sempre
+tentar solicitar o Inter PCR e é até ser um auxiliar no diagnóstico e
+para essas essas outras funções que eu citei aqui então uma mensagem é sempre
+fazer um exame de mais se não tem que ser pelo menos radiografia de tórax E aí
+a gente vai começar a falar um pouco de corticóide nunca vi esse trabalho é um
+trabalho no virar é que a gente tinha discutido ele no ano passado Marcelo
+relembrou que você já tô novamente esse ano que era usa a Dexametasona no
+tratamento da Sara não convide nesse trabalho foi publicado em fevereiro de
+2020 né pouco antes da pandemia se estabelecer uma que não convide e mostra
+aqui os quais já vinham sendo utilizados na tentativa de melhorar pacientes
+graves com condições inflamatórias importantes como é sabe como é o
+
+00:47
+corrente né então a queda seguinte pacientes que tinham Sara moderada a
+severa oxigênio bem baixo né com esses parâmetros aqui de fo21 sejam pacientes
+que necessitavam de muito oxigênio né e preencher critérios de Sarah e eles
+fazem e essa mãe tá zumba intravenosa por 20 miligramas os 5 dias e depois dessa
+mental zona 10 miligramas por cinco dias versus um tratamento convencional da
+Sarah com antibiótico é esse aqui fazer o tratamento convencional Mas pode
+explodir esse apenas tratamento convencional objetivo era ver se o caos
+pode reduzir o tempo de ventilação mecânica nesse paciente né paciente com
+corte pode talvez ficasse em menos tempo e ventilação mais dias aí fiz o
+ventilador e o secundário é ver se eu posso pode aceitava mortalidade em 28
+dias dos pacientes com Saram que aquele viu aqui no grupo da Dexametasona que
+tinha 139 pacientes versus terapia convencional que tinha 138 as caras
+querem fazer um semelhante né e uma coisa interessante que ele viu foi que
+
+00:48
+no grupo controle sem a dessa eles verificaram mais o número de infecção
+trabalho parece dar uma indicação de que o uso de corticoide nos pacientes com
+Sara se bem indicado na dose nas doses que tem sido recomendadas parece não
+aumentar infecção e certo lugares nesse trabalho
+e sem calar como Verdade Absoluta mas o principal resultado dele mostra o
+seguinte nos pacientes com dessa eles ficavam menos dias ou ventilador hora
+mas mais dias livres sem necessidade de ventilação mecânica né 12,3 estão em 28
+dias nesses pacientes aqui saiu da ventilação mais rápido e ficava mais
+tempo sem ventilação então a dessa serviu para reduzir o tempo de
+ventilação e significamente também reduzir a mortalidade a partir daqui né
+você vai ver aqui os eventos adversos como eles não foram tão diferente nos
+dois grupos né novas infecções e pegam esse meu barotrauma e a isso trouxe as
+uma pergunta o questionamento Será que vale a pena usar Dexametasona não
+corrige nos pacientes graves né o outro corticoide Já que é uma doença que a
+
+00:49
+gente sabe como quem falou que na segunda fase tem uma tempestade
+inflamatória bem significativo aí começaram a surgir trabalhos alguns
+estudos chineses No começo é que a mente dos mais abertos na hora valorizados os
+resultados aparentemente não era muito animadores as
+O que aconteceu com H1 N1 e corticoide mas agora a gente começou a ver
+vivenciar estudos randomizados né com controle mais com o número maior de
+paciente e o principal deles é o estudo recovery né que ele não estuda apenas
+corticoide também incluiu Outras Drogas na sua avaliação Inclusive essa
+silkience então hidrostock em outras a que ele não viu benefício né e outras
+que ele ainda continua estudando qual se pode é uma delas porque encontrou
+benefício vem aumentando os braços o estou e aqui é o seguinte todo mundo que
+se internava nos hospitais britânicos em um grupo da cidade gritantes num total
+de mais de seis mil paciente Eles vão usar os dois para um então 2104
+
+00:50
+paciência com convide que precisavam de internamento ou qualquer casa usavam
+dessa metazone 4.300 não usaram Dex tá todos os fizeram terapia convencional
+que ela escolhida pela aqui né através de protocolos As instituições que
+aconteceu a mortalidade ele viu que sim usar
+Dexametasona é benéfico em relação a reduzir a mortalidade principalmente
+naqueles pacientes que tinham já tinha mais de 7 dias de sintomas né a quando
+ele foi olhar esse efeito ele era bem mais importante dos pacientes críticos
+que precisavam de ventilação mecânica o leque no grupo da dessa ele teve uma
+mortalidade de 29 por cento sem corticóide 41 por cento Com redução
+relativa de mortalidade 36 a partir daí ao MS passa a recomendar o uso da
+Dexametasona na dose do estudo que foi de seis miligramas para os pacientes
+internados né Principalmente os críticos
+aqueles que não precisamos de ventilação mecânica mas que usaram oxigênio seja
+
+00:51
+pouco até prevenir ou alto fluxo a dessa também reduzir mortalidade de forma
+significativo mas como redução menor de dezoito por cento Então parece
+corticoide tem mais aplicação naqueles pacientes que realmente precisam de
+ventilação mecânica Ah mas isso que não tem necessidade de
+oxigênio se internar por algum outro motivo mas não precisava de oxigênio
+suplementar ele não viu diferença na mortalidade e mortalidade foi até um
+pouco maior nos pacientes que usaram 10 né o alto até reforça bastante estudo e
+nas meta-análises que vieram a seguir de que usar corte pode precoce pode ser
+Inclusive a deletério ao paciente né é isso é uma tendência que foi mostrado
+nesse estudo pelo menos que se internaram
+Oi e a partir daí a recomendação aqui já que você desceu MS pacientes internados
+com a necessidade de oxigênio terapia fazer Dexametasona 6 MG ou 10 dias ou
+
+00:52
+até a saída do paciente principalmente pacientes críticos o aqueles com suporte
+de oxigênio tá então é isso passou a ser uma recomendação não paciência que não
+tem esses critérios a o estudo não consegui responder à pergunta mas pelo
+menos nesse grupo ele não houve benefício imortalidade e houve até uma
+tendência é o pior desfecho quando você usava o corticoide mas surgiram os
+estudos nessa aqui mais específico é o cox um estudo que viu Dexametasona 20
+miligramas tá igual aquele do Vilar né sendo que esse aqui já era o bastante
+com Sara e covid-19 né então ele usou o mesmo protocolo daquele Primeiro de tudo
+espanhol 20 miligramas por cinco dias de dessa a seguir por 10 miligramas ever
+por cinco dias vão até a alta e não eram muitos pacientes mas Sara não
+é tão fácil assim fazer o randomização e seleção a e ele queria ver os dias
+livres de ventilação da cama e o que é que ele viu que no grupo da dessa os
+pacientes aí mais rápido do ventilador e permaneceu mais tempo livre sem
+
+00:53
+necessidade de ventilação e isso foi significativo com doses mais altas do
+que o que foi usado no recovery né mas esse estudo não mostrou diferenças
+significativas em relação à mortalidade geral embora a mortalidade tinha sido
+menor no grupo da dessa né mas estatisticamente não foi significativo
+aí a gente começou a observar alguns metanálises né os estudos maiores
+estudar esse brasileiro foi publicado no jama em 2020 o causas e começaram a
+surgir metanálises né A pergunta agora é se o recovery mostra que corte corte
+funciona o causa que também mostrava que
+ele reduziu o tempo de ventilação Qual é a dose em que tipo de paciente eu
+deveria usar corticoide as metanálises que surgiram a principal delas é essa
+que foi publicado no chão pelo stern então ele
+e ele pegou vários estudos com doses e corticoide Diferentes né certo aqui é o
+deve ser convide que utilizou 20 miligramas de entra ver novo aquilo
+corda aqui né em todos eles né como quem já mostrou a gente tava o gráfico Zinho
+
+00:54
+Diamante todos eles mostram-se favoráveis aos corticoides né aqui o
+desfecho não é mortalidade alguns e mortalidade o tempo livre ventilação mas
+são favoráveis assim se usar pode entre entre a 12 de 6mg C20 né doses mais
+altas e suas com hidrocortisona algum só mostra o benefício foi o clipe que usou
+dose baixa de hidrocortisona quase a dose equivalente do recovery da dessa né
+E isso não Se mostraram entrosamento com doses maiores já não mostram também que
+o benefício não foram favoráveis alguns estudos cometil apenas um com dose alta
+de 40 também não parece ter sido favorável então ainda existe uma
+pergunta no ar né é a resposta para a chegada de serve
+para o vídeo em casos bem definidos sim serve principalmente em pacientes com
+necessidade de internação uso de O2 ou que vão proteína e eu e vão perguntei a
+qualquer um serve aparentemente dose de equivalentes a 6 MG de Dexametasona
+
+00:55
+servem em pacientes críticos nesses dois
+trabalhos dos mais altas foram benéficas né É em relação à tempo lhe de
+ventilação certo a na recomendação do CDC ele fala que ele alta o recomendado
+é o recover 16 miligramas dia ou dose equivalente de outros corticóides né nem
+sempre você tem deve ser disponível Oi e aí várias outras mecânicas foram
+surgindo algumas com estudos menores estudos chineses aqui comparando
+corticoide se vê a favor do corticoide em vários deles em alguns ainda não são
+favoráveis à chega-se a uma conclusão que ele realmente serve mais para quem
+precisa de O2 ou se interna ou principalmente a gente vai na UTI né
+desse a gente tava muito tempo aí não existem dados Ainda que sustentem os
+precoce de corticoide e nessa revisão aqui nessa metanálise aliás e pegou
+
+00:56
+vários estudos você vê que já tem 2835 paciência né tá crescendo muito o estudo
+avaliação do corte pode nunca vi ele separou para o cenário né A então o que
+é que ele viu aqui o qual se pode ser benéfico nos pacientes com ventilação
+mecânica e na não tão benéfico nos pacientes em
+ventilação e não mostra tanto benefício dos pacientes que não requerem terapia
+com oxigênio certo então quem precisa de O2 e quem precisa de ventilação Sem
+dúvida corticoide parece auxiliar parece
+tem papel na retirada da ventilação e em alguns trabalhos na redução da
+mortalidade e fechando aqui né Para dar uma visão
+geral reforçando mais uma vez quem sinta
+ela precisa de O2 o qual se pode parecer benéfico
+e nem paciência necessidade de oxigênio até o braço recovery não parece a ter
+
+00:57
+benefício tá fecha-se aqui essa disfunção do corticóide com uma mensagem
+aos corte já serve já foi incorporada à margem dos Protocolos de hospitais
+precisa chegar a um consenso sobre essa dor essa dose pode variar de vocês
+ninguém nosso recovery até uma dose é mais alta que foi usado por exemplo no
+córtex de 20 miligramas de ex é preciso de ter mais trabalhos robustos com
+pacientes internados em UTI e não tem a indicação precoce nem se fala os estudos
+falam muito nisso de utilização de corticoide meses e 7 dias Possivelmente
+deletérios né e fica aí um Igor que aquele paciente que não tá precisando de
+oxigênio naquele momento mas começa até uma queda de saturação tem marcadores
+inflamatórios elevados persiste com febre com alguns conforto respiratórios
+mas que aí o campo lá tutorial se ocorre não seria
+benéfico nesse nesse cenário ainda é uma pergunta com resposta a ser dada em
+
+00:58
+melhor discutir um outro ponto é a anticoagulação né uma vez que o paciente
+entra eu não vou discutir aqui mais sobre evidências trabalho já são muito
+robustos né os elásticas são muito repetitivos paciência uma corrente tem
+mais chance de evolução de microtromboses que aumenta a mortalidade
+Pepe dvp Então se sabe o seguinte hoje internou o paciente iniciante com
+ablação profilática certo você só não vai fazer anticoagulação profilática no
+paciente que precisa de anticoagulação com ele ou que tem alguma
+contraindicação para anticoagular que dá presente sangrando ativamente é é
+possível utilizar uma de coagulação mais intensa né entre a profilaxia eo
+tratamento pleno alguns algumas recomendações
+é do que sim a que você pode ir para sempre alto risco principalmente
+
+00:59
+críticos pacientes com necessidade de Alto fluxo de ventilação mecânica você
+poderia usar uma profilaxia com idosos dobrada na que não é um plano
+intermediário principalmente naqueles que tem alguma condição de risco de
+fator de risco para Pepsi né internados para cirurgia trombofilicos paciência
+com eventos prévios aqui não é de qual rede né TVP e tep certo e aí você
+precisaria individualizar e talvez fazer
+uma dose de provar que ser mais ampliada e ficar de olho na possibilidade desse
+paciente evoluiu com o PEP mesmo né mesmo com a profilaxia adequada onde é
+que você vai pensar nesses casos né um paciente que você tem uma tomografia que
+não está tão alterado um raio-x não tão alterado que tenho hipóteses
+proporcionar um paciente que apresenta sinais de TVP outras o mostrando TVB um
+paciente que rapidamente evolui para ventilação mecânica Paris
+se melhora mais que cai né tá ali com febre melhorando marcadores diminuir
+mais faz um evento de pior de deterioração com ele e paciência que vão
+
+01:00
+elevando o dedinho nela durante o internamento outros marcadores elevados
+né aqui são cenários que ele pode está tendo uma TVP e tep deve ser investigado
+é sempre importante discutir a exploração plena ou profilaxia ampliada
+com aqui não ser uma decisão individual tá alguns hospitais têm adotado o
+critério de fazer profilaxia ampliado nos pacientes críticos é uma
+recomendação mas que precisa ser bem avaliada na verdade e aí aqui essas
+recomendações das principais sociedades né ah o teste existissem americanos ele
+sempre eles indicam nosso profilático é após a alta eles não indicam ou fax
+estendida para o paciente e nos pacientes Não hospitalizados são contra
+e a sociedade internacional de trombose e hemostasia que é mais a e mato né Ele
+fala de profilaxia com as duas nos pacientes críticos podendo considerar né
+uma dose maior de profilática no os pacientes após a alta
+
+01:01
+há cerca de 30 dias você poderia fazer para aqueles que têm risco alto de
+trombose e que tem o baixo o risco de sangramento E aí vocês podem a gente vai
+atualizar o protocolo colocando alguns desses critérios mas existem vários na
+literatura e nenhum deles recomenda para fazer para paciente não hospitalizados
+tá a então ainda existe aqui a gente está deixando as duas opções um
+protocolo para que você avaliar caso a caso mas não se esqueça de fazer pelo
+menos a profilático Oi e para terminar uma outra coisa né o
+paciente ao se internar porque eu vi já deve fazer antibióticos essa é uma
+pergunta difícil de ser respondida e a gente sabe que por exemplo o paciente
+diante uma radiografia como essa aqui é convite né Fica bem difícil você não
+fazer ontem deve ter abrir associada bom então a gente vai tentar mostrar
+aqui alguns sinais são recomendações do que são aí um compilado da literatura e
+você fica mais seguro para fazer um antibiótico naqueles pacientes que você
+
+01:02
+ainda tem certeza diagnóstica do convite naqueles pacientes que estão melhorando
+mais volta ela tem febre nos pacientes com culturas positivas ou que o padrão
+radiológico surgiram pneumonia bacteriana associada naqueles pacientes
+mais críticos começaram é bem difícil na maioria deles vai acabar fazendo
+antibiótico terapia associada né e o esquema que você usa apesar da
+Azitromicina até ganho não é todo esse uma vez que eu faço interna e você vai
+iniciar a cobertura de microbiana você vai seguir o protocolo tradicional das
+pneumonias no paciente com indicação internas Fosse para lá né não é
+necessariamente Azitromicina e nem deve ser feito isolado numa situação como
+essa tá E algumas orientações Gerais que ainda surgem as perguntas né posso usar
+medicamentos por via inalatória no paciente internado com o vídeo não é a
+nebulização Oi Aninha do paciente né sim eu devo
+manter-se no paciente as mais que tá se virando eu devo fazer medicação
+combinatório Mas eu não lembro deixar nebulização Só pelo fato do paciente
+
+01:03
+assim internado com infecção respiratória e vocês sabem que somente
+inclusive um risco de contaminação do ambiente um lembrete pessoal que é
+sempre importante a gente tá começando essa semana uma campanha seu
+paramentação mesmo que você já tenha se vacinado as duas doses mesmo que você já
+tenha sido com o vídeo não entrar no ambiente de assistência médica seja
+hospitalar ambulatorial sempre se parlamentar a você protege o seu
+paciente né e lembrar que a vacinação maior eficácia dela reduzir a forma
+grave ela não reduz totalmente a possibilidade de você se contaminar
+novamente tá lembrar que o isolamento dos pacientes críticos deve ser com 20
+dias não críticos da existe ainda é uma coisa que se pergunta muito e uma coisa
+que a gente tem recomendado é após a alta nos pacientes graves né mas que eu
+sempre reproduz ambulatório reais né Se pá
+o ouvido muito para chamada síndrome pós qual vídeo necessidade de reabilitação
+tenha cuidado esteja exemplos você não usa paramentação é muito difícil é
+convencer uma acompanhante ou as outras pessoas administração usar se você não é
+
+01:04
+um exemplo dentro da sua unidade tá a aqui são lembrete Zinho nesse é o
+momento que você se retraem se cuidar ficar dentro aí da sua bolha não
+misturar a senão aglomerar a gente está numa fase de extrema subida dos dos
+casos essa hora de se cuidar mais ainda mais ainda do que abrir mais do ano
+passado tá só deixar essa mensagem final não há resposta a utilização precoce de
+corticoides recomendação mais forte é internet que necessitem de 12 ou
+ventilação mecânica ou que nasceu alto fluxo mas fica em uma dúvida naqueles
+pacientes que persistirem os sintomas um
+ambulatório dos marcadores inflamatórios continuam alteraçao e depois do Sétimo
+Dia Que Não caindo saturação Será que não haveria um benefício usar corticoide
+aqui nessa população Oi e a escola ação não vou repetir mas
+lembrar que não se justificam hoje em dia e não vou fazer porque meu paciente
+
+01:05
+renal né sempre existe uma cidade de você ajustar dos da profilaxia tá e
+pensar na possibilidade de fazer 12 maiores uma criadas Em algumas situações
+mais críticas por exemplo Ok era isso a gente chegar à disposição
+E como eu não tava vendo apresentação não sei se o Marcelo já
+eu quero trazer alguma pergunta nesse momento se a gente passa já para
+apresentação sua massa o conta do tempo Valeu a companheira e parabéns pela
+apresentação é o rapidamente acompanhei algumas perguntas até coloquei no nosso
+chat aí uma delas é gostei muito da colocação sua de três níveis de situação
+né uma em que o indivíduo ambulatorial precoce não tem nenhuma indicação do
+corticoide que o que ele já tinha falado uma do paciente internado em enfermaria
+que precisa de oxigênio Ficou claro que doses baixas de corticóide funcionam a
+
+01:06
+por intervalo restrito de tempo e a a situação mais grave também doses mais
+elevadas de pacientes com Sara né baseado no estudo dessa armas que se
+mostrou do Jesus vi lá e os estudos que tem saído do Brasil estudo brasileiro né
+da coalizão hospitalar e que mostrou bom então muito bom isso aí porque
+Dexametasona aí não metilprednisolona Ou será que isso tem alguma importância a
+gente sabe que a afinidade desse corticoide para os receptores varia né e
+a décima tentação você mais potente por exemplo e talvez mais propensa ao uso de
+uma vez por dia tem alguma vantagem ou isso não é uma questão tão relevante
+assim uma pergunta ou não problema Aguiar Nossa colega pneu Nossa colega
+foi minha acidente Malena Malena assim é uma ótima pergunta essas justificativas
+formação colocou tem sido colocados pelos autores né posso cuidar de fazer
+uma dose uma vez ao dia a potência maior
+
+01:07
+da Dexametasona a disponibilidade da meu tio que não é tão disponível em boa
+parte dos Serviços Hospitalares e o a coalizão é um estudo brasileiro a existe
+um estudo que comparou metil com dessa médico parecia ser superior e nesse
+estudo mas não eram super idade e era um pouco paciência né ali não era
+pulso né a dose de médico foi usada nesse estudo se eu não me engano era 62
+e meio né então assim um estudo cabeça a cabeça não tem tem só esse que eu tô
+citando a gente não tem como responder essa pergunta agora mas eu acho que a
+dessa ficou mais ela postar de reproduzir-se é uma droga mais Universal
+nessa potência maior recovery foi uma população muito grande e as metas são
+todas influenciadas pelo recomendo se você for olhar eles são seis mil
+pacientes to recovery 200 dos outros traz mas essa última meta não é
+interessante porque ela separou níveis né então eu pegou o braço do recovery da
+ventilação mecânica mesmo nesse braço a dose mais baixa de dessa reduzir a
+
+01:08
+mortalidade né então ele tem um editorial que está sequer do jama né
+Qual é o alvo da dose do corticóide um e ainda a tendência é essa que você
+falando os mais altos em pacientes mais graves uma dose mais intermediário em
+pacientes com internação e oxigênio sem VM Pois é mas eu acho que o nosso A
+Malena Pode ficar tranquila que eu acho que ela fazendo a correspondência de
+dose né eu Dexametasona Provavelmente você não sei similares né mas tem esse
+cuidado realmente de fazer a equivalência né a gente a gente
+recomendou assim mesmo exemplo do CDC seguiu né quem é pode falar de volta lá
+até as equivalências já é importante é a clássica mas ela assim terapia pelo
+tempo também ok ok pessoal então eu vou entrar agora vou tentar ser bem sucinto
+
+01:09
+tá amigos e amigas aí que estão com a gente desde o início que entrou agora né
+eu vou compartilhar minha tela e a gente
+vai entrar no protocolo é atualizado foi assim atualizado saindo do forno que eu
+quero colocar aqui praticamente em primeira mão para você está aqui é o do
+suporte respiratório sem ventilação mecânica tá não em vazio Então vou
+colocar aqui apresentação espero que dê certo o que selecionei a tela
+e vamos ver aqui E aí já salvei aqui é Meu Tchan
+o ok então a tive um feedback se tá todo mundo vendo tá aparecendo tutela não tá
+
+01:10
+mais utilizado mas está dá para ver se dá para ver verdão melhorou eu vou
+tentar seguir essa apresentação eu vou dando uns um PDF que nós fizemos que tem
+vai ser distribuído já a partir de amanhã para toda a rede sesa e vai ficar
+disponível no site da expe e também no aplicativo e-sus tá que são quadros que
+resumem a abordagem do paciente com insuficiência respiratória aguda pela
+covid-19 então sempre isso começa por ela no quadro um onde a gente avalia
+Esse envolvimento respiratório né do paciente e a peça mais importante
+disparado de monitorização é a saturação de pulso a oximetria eu acho que não
+a venda o vídeo Todo mundo tem um oxímetro em casa praticamente né que se
+
+01:11
+possível né porque pelo menos para investigar doenças respiratórias nada
+melhor pessoalmente não elas são agudas e a gente tem um top aqui de uma
+saturação de pulso de 93 acima disso vocês 94 para cima como sendo algo
+relativamente tranquilo em que a gente não tem indicação de oxigenoterapia né
+ou seja nessa situação basicamente a gente teria que manter a observação
+talvez realizar algum exame como raio-x o TC em casos selecionados Mas se a
+saturação cai abaixo de 93 em ambiente Claro e esse paciente já tem
+Possivelmente indicação de no mínimo um cateter nasal de O2 porque às vezes essa
+para ser mantida por hiperventilação então o paciente já faz um trabalho
+respiratório maior esse o fluxo aí de 3 litros por minuto e
+agora a gente tem usado até quatro alguns colegas fazendo até cinco
+
+01:12
+maltrata bastante a mucosa nasal porque a gente não tem usado umidificação
+nesses sistemas né Mas qualquer maneira essa seria uma indicação da esse nível
+de saturação e por outro lado se o paciente chega com
+a saturação muito baixa e aí muito baixa série A inferior 85 porcento ou se ele
+não tem bem oximetria e tem cianose Central né que é um sinal Clínico
+importante um marcador importante junto com a frequência respiratória acima de
+35 Aí talvez iniciar até de pronto uma máscara com reservatório né que aqui tem
+uma fotografia que nós colocamos o protocolo e essa máscara ela precisa ser
+bem utilizada por isso nós fizemos questão de colocar aqui vou dar um zoom
+aqui nela é que ela tem que ter essas membranas aqui em cartas para evitar a
+inalação de CO2 assim como o sistema lá tem outra membrana aqui que a Vita que
+
+01:13
+Reinaldo está dentro dessa bolsa né e a isso permite uma fio2 que vocês estão
+vendo aqui que vai variar para 10 litros por minuto entre 65 a setenta por cento
+para 15 litros por mim o tempo 85 e 90 porcento é importante
+que a gente faça uma relativa à titulação desse fluxo da máscara de
+reservatório e a gente vai na literatura tem pouquinho nos trabalhos com esse
+tipo de dispositivo o e finalmente se o paciente já chega
+aqui no preto com sinais Claros de fadiga o risco iminente de parada
+respiratória ou se tem outras indicações clínicas por exemplo é tocou coma de
+intubação orotraqueal não ao que perder tempo e já a partir para a incubação com
+todos os cuidados obviamente Tá bom então vamos para esse paciente
+aqui laranja e vermelho que é o principal foco aqui tá se esse paciente
+
+01:14
+recebe oxigênio a gente deve sempre sempre avaliar a resposta do paciente né
+Então essa resposta ela tem que ser avaliada rapidamente ao redor de 30
+minutos meia hora e avaliar saturação de pulso sinais vitais frequência
+respiratória frequência cardíaca pressão conforto e dispneia né E sempre uma
+gasometria arterial agora já em uso de oxigênio então muitas vezes a gente não
+tem a gasometria prévia a gente tem somente aquela qual dois mas tudo bem
+isso é a nossa rotina a gente não vai esperar né é colher gasometria para seu
+paciente está saturando mal o que devo realizar um raio-x do tórax
+no leito se ele não tem ainda o raio x tá com isso avaliando a resposta e aí eu
+botei aqui três possibilidades eu comecei a 12 se meu paciente aqui tá no
+verde ele atingiu metas de que indica o melhor clínica esse paciente eu vou
+
+01:15
+manter uma enfermaria ou vou manter em isolamento lá nessa enfermaria e seguir
+a monitorização dele ao longo do pé se senta no sinal laranja significa o quê
+que ele não teve uma melhora Clara ele ficou mais ou menos como estava antes
+nesse grupo A gente vai ver que existe uma alternativa que seria seguir com
+essa possibilidade aqui internar ou não e UTI e usar métodos não-invasivos de
+suporte como vem isso é papo que pode ser feito por máscaras nasal ou facial
+total no ventilador ou pelo Elmo uma a gente
+o ou ainda usar cânula nasal de Alto fluxo possível alternar um com o outro
+onde a gente tem que responder três perguntas primeiro esse material é
+acessível segundo a equipe está treinada e terceiro os equipamentos GP estão em
+
+01:16
+uso pela equipe se a resposta for não a essas perguntas não dá para usar esse
+equipamento pessoal isso é o que a gente tem que ter em mente a gente tem que se
+preparar para atender esses pacientes se a resposta for sim aí eu vou poder usar
+a vem Ei Elmo CPAP ou cânula nasal de Alto fluxo o que for mais acessível e
+factível na unidade onde é o trabalho né aí a gente vai dar uma caminhada por
+esses quadros aqui é logo mais tá então isso é para situação laranja onde o
+paciente teve não teve melhor com a máscara de reservatório ou com cateter
+de O2 até três quatro litros e E se o paciente piorou a isso é bem
+importante que é o vermelho aqui ó se ele piorou ou seja se ele entrou
+inclusive em assim de Mia se a frequência respiratória você levou você
+teve piora Clínica Ou aquele sinais Claros de fadiga o risco de parada então
+
+01:17
+eu vou partir para intubação traqueal né ou seja seguindo esse algoritmo
+dificilmente a intubação traqueal vai ser atropelada por que eu tenho aqui um
+caminho muito claro do que que eu posso fazer com meu paciente
+a seguir adiante se eu tô aqui nesse caminho intermediário do suporte não
+invasivo eu vou avaliar se a resposta em até duas horas com a Nova gasometria
+Arterial e eventualmente mediu o indie rocks se for o caso do na cama nasal de
+Alto fluxo que é um esse simples que é basicamente esse que tá aqui do lado que
+mede a relação saturação de pulso efo2 do paciente né é um outro ponto que eu
+gostaria de chamar atenção é que se nessa avaliação novamente aqui né no
+tratamento que suposta não invasivo se tem melhora Clínica eu sigo adiante com
+tratamento se não tem melhora realmente considerar a possibilidade de novamente
+
+01:18
+de proceder À intubação traqueal tá então é esse é um quadro um mais
+importante a meu ver bom e que coloca muito bem essa situação
+é o que que é difícil na na covid-19 é que esse é esse quadro ele não é
+resolvido no primeiro dia de admissão ou no segundo dia as vezes o paciente fica
+nesse processo por vários dias então é necessária uma reavaliação sistemática
+pela equipe multiprofissional tá bom então agora eu vou adiante passar
+aqui para os outros Quadros e o que estão só quero fazer uma abençoa
+ação no invasiva né então novamente a indicação qual vai ser seu paciente que
+tá usando a oxigenação mas ainda não atingir metas estão Claros a saturação
+continua abaixo tá o PT 2 uma gasometria
+campeão 2 litros se abaixo dos 65 usando ao dois até ter um máscara de
+
+01:19
+reservatório e Mais veja que ele tem aí um PH cima e dissesse 34 né ele não tem
+a cidadania então nesses casos eu posso tentar vir tá E aqui vocês tem uma foto
+uma imagem de como é que seria essa menina essa menina ela precisaria usar
+uma máscara bem vedada fácil do paciente
+a geral - vazamento e menos de expressão
+facial tocar muito boa para isso tem que ter escuta o vê-lo azul nesse exemplo
+com circuito duplo do ventilador mecânico e um filtro hepa na válvula de
+exalação alguns recomendo até colocar um filtro h
+o que que é isso é controverso não é necessariamente em todos os casos então
+com isso e usando ventilador de UTI no modo venir eu aqui a recomendação Nossa
+é usar preferencialmente o modo CPAP inicialmente os primeiros minutos 5 cm
+de água e depois aumenta aí para rapidamente cinco dez minutos para
+
+01:20
+níveis com 10 cm já tá afo2 vai ser titulada para a saturação na faixa de 92
+a 96 Eu visto muito hiperóxia né na prática essa atração 99 100 porcento
+nenhuma necessidade disso vamos usar bem o nosso oxigênio né até porque tá em
+falta no Brasil e considerar a pressão de suporte geralmente níveis muito
+baixos já que ele tá envie vai ter desconforto começar com 4 ou 5 no modo
+PSV mas se ele tiver principalmente retenção do CO2 ou se o paciente tem
+depois você e se beneficia muito da pressão de
+suporte após 1 a 2 horas davenir nova gasometria se o paciente tem uma melhora
+vou chamar 2 litros aqui com o melhor do conforto respiratório e da relação pao2
+fio2 se isso acontece eu sigo adiante com a minha vem ir se isso não acontece
+
+01:21
+eu tenho que ir novamente considerar entubação desse paciente sempre por
+critérios clínicos e julgamento Clínico pelo médico assistente pela equipe multi
+se terapia por exemplo tá cuidando colando nesse paciente ta sigo com a
+venir por muitas horas e após 12 a 24 horas e o rei avalia e alguns pacientes
+precisam realmente ficar muito tempo em Zenir o desmame dessa vez vai ser
+conforme a tolerância a gente deve reduzir os níveis de ser parte
+progressivamente mas primeiro afo2 deve estar abaixo de qual
+e não é que eu dois abaixo e quarenta por cento nesses casos é já é já é uma
+razão que a a melhor assim da oxigenação por troca gasosa facilitada pela
+presença das e papo que melhora Clínica mesmo do paciente resolução da
+inflamação pulmonar por exemplo E aí você é doido você parte aí 987 partir
+
+01:22
+daí retirar a venir né e nos intervalos que é que eu posso fazer eu posso usar a
+câmera de Altos luz posso usar máscara de reservatório é enquanto eu estou sem
+venir né então isso é importante porque permite uma alternância isso o paciente
+chega até no intervalo ficar tão bem que eu posso usar um cateter nasal de o 2
+até 4 litros Eu vou diz continuar essa Vem Ne tá então esse é o roteiro é o
+quadro de higiene bom mas eu não tenho Vini eu não tenho ventilador eu não
+tenho nada assim ah eu posso usar dessa forma
+é uma máscara facial Total então você poderia usar o Elmo sim o Elmo que o
+capacete e ele ele tem aqui no quadro específico dele um site tá que esse site
+tem todas as instruções e materiais para uso do El e o que é que você precisa
+para usar o ela primeira dentro tá disponível E você tem que medir a
+
+01:23
+circunferência cervical do paciente e dependendo dessa circunferência Você tem
+o tamanho do Elmo que que é um colar cervical que vai ser usado para dpp até
+GG e esse paciente que vai usar o é a indicação é a mesma davenir meu paciente
+que tá usando ou dois mas não atingir as
+metas mínimas E aí você inicia aplicação
+do Elma né Lembrando que você vai ter um
+detalhes como usar protetor auricular os a touca retirar os na mente da cabeça
+com brincos óculos etc e vai usar oxigênio
+o medo no fluxo diferente aliás cada um então precisa de um fluxômetro até 30 a
+soma dos fluxos deve dar 60 litros por minuto isso é muito importante para
+evitar a inalação de CO2 dentro do capacete e ele vai gerar um cepap por
+uma válvula de sapato e aí você deve medir se você papi e manter a nossa
+recomendação em torno de 10 cm de água a
+
+01:24
+gente viu o nosso estudo piloto que isso produzir um excelente resultado na
+oxigenação e no conforto do paciente sempre secar vazamentos e a insuflação
+do é homem deve ficar bem insuflável e o som do céu mas tem um som peculiar
+Porque como a gente usa o fluxo é levado esse fluxo geram uma turbulência um som
+que varia com a respiração do paciente Dá até para contar a frequência
+respiratória pela variação do som como é que eu posso titular é CO2 como
+se faz no alto fluxo novamente visando manter a saturação na faixa terapêutica
+após 1 a 2 horas checar resposta como como na avenir mesmo critério conforto e
+melhora da relação pao2 fio2 é o principal claro que a gente olha o CO2
+tudo mais o principal são esses dois quadrantes para resumir E continuo
+
+01:25
+titulando a minha feo2 seu paciente está respondendo sigo adiante mantendo essa
+situação alvo é a Valeu a parte 12 a 24 horas se o paciente não responde vem
+aquela história de considerar entubação em alguns pacientes pode ficar numa
+gangorra de melhora e piora e não é fácil essa decisão é tão simples eu já
+tive paciência usando o real por uma semana 7 dias por exemplo e a gente
+ficava ali em cima do muro porque a resposta não era tão brilhante mas
+sempre que a gente olha para relação pao2 fio2 ela melhora Esse é um
+excelente marcador de resposta tá e o desmame do Elmo Alice da do mesmo jeito
+que davenir sfo2 tá menor do que 40 esse
+é o número bom de a gente seguir a gente passa a usar cada vez mais tempo cânula
+nasal de Alto fluxo massa de reservatório E se ele chega no cateter
+nasal eu concluir o desmame do Leo né se é muito bem feito pela fisioterapia
+
+01:26
+Então essa é um quadro do Elmo eu quero só mostrar aqui para vocês depois o site
+o e finalmente a cânula nasal de Alto fluxo mesma indicação eu inicio essa
+Camila adaptando essas câmeras com o oxigênio é o tamanho adequado às narinas
+e esse o com fluxo de O2 e ar comprimido ambos em 20 litros por minuto dando um
+total de quarenta e depois eu título a o
+valor máximo tolerado o paciente é então
+sfo2 começa também consegue sessenta por cento como começa com o Elma né e vou
+seguindo a minha situação aqui na avaliação da resposta além da relação
+pao2 fio2 tem um esse rocks e nós já falamos que a saturação dividida pela
+fiel dois dividido pela frequência e cientes Quanto maior melhor então acima
+de 4.881 trabalho que mostrou que esse é um boca Tofe você consegue otimizar
+reconhecer que tá vendo uma boa resposta e a chance de sucesso não entubação
+
+01:27
+portanto é maior né se não é Eu já estou na intubação agora almoço
+alguns colegas têm usado o Elmo ouweneel como resgate de falha do alto fluxo é
+isso tem sido feito eu tenho o bicho almoço paciente com sucesso outros não
+pode ser tentado não é proibido você tentar usar um cepap porque a gente sabe
+que o alto fluxo não gera pressão positiva suficiente para o paciente e
+depois segue-se o paciente responde diminuindo gradativamente fo2 até 30
+mantendo o fluxo e só depois que é fiel dois baixa é que você vai iniciar o
+desmame do fluxo por exemplo 5 litros por minuto a cada 6 horas é uma saída e
+mantendo-o sempre o controle sobre a frequência respiratória tentar manter
+abaixo de 25 Olha esse fluxo atingir valores abaixo de 15 provavelmente Dá
+para mudar com cateter nasal de O2 tá então aqui um quadro da cânula de Alto
+
+01:28
+fluxo é aqui eu quero mostrar para vocês uma o site
+do Elma eu vou colocar aqui mudar aqui ó alimentação
+Eu recomendo que todos vocês visitem o site site criado pela escola de saúde
+pública e sobretudo para quem for usar que sigo
+as instruções dos do Elmo assim como a biblioteca onde é você vai ter acesso a
+artigos inclusive o artigo que foi o artigo o nosso de que mostra como é que
+o desenvolvimento do capacete que tá publicado esse ano agora pouco uma
+semana atrás o jornal brasileiro de pneumologia assim com uma série de
+artigos internacionais com muita evidência sobre o uso dessa ferramenta tá
+quem é é tão Global tá aqui para a eu queria mostrar aqui rapidamente um vídeo
+
+01:29
+e deixa eu ver se tá aqui aqui o vídeo é só que eu tenho que colocar
+compartilhar link Se não me engano já não sei se vai aparecer vocês não dão
+feedback se passa o vídeo aí tá e por favor o Tá bastante massagem Ok é só
+enfermagem só uma enfermaria de pacientes utilizando o Elmo no hospital
+aqui grande setor privado da cidade isso para mim foi uma surpresa Vocês estão
+vendo aí eu paciente não são pacientes gravíssimos né são pacientes que
+permitem a ventilação não invasiva e aqui um paciente já melhorando o ruído
+do é uma aí por trás que o fluxo é alto paciente melhorando e já fazendo
+exercício com elbem confortável né é uma interface realmente que depois dos
+
+01:30
+primeiros minutos que a gente usa fica bem confortável tá E aí quem é
+bom então a devido ao temos as 1995 eu o resumo então dizendo que temos esses
+protocolos prontos para vocês serão todos publicados Serão distribuídos é
+online e serão a gente até pensa pensa aí também fazer uma distribuição física
+nas unidades para que esse material fique fácil acesso a quem tá de plantão
+no situação de uva a emergência etc e também muita gente já foi treinada aí
+com Selma aí pela escola né Acho que mais de 400 profissionais o Estado do
+Ceará e em outros estados Manaus né Por exemplo é uma zonas e todas as
+evidências estão no site para quem quiser checar o nosso projeto eliminar
+
+01:31
+piloto tem também resultados bem consistentes da melhora da oxigenação
+faz isso convide moderada a grave e Sem dúvida nenhuma
+se você papo pode prevenir entubação em até metade dos casos grosso modo falando
+é isso que se espera nesta situação de sobrecarga no sistema de saúde deve tá a
+metade da situações é é muito significativo não só para esses
+pacientes Mas para todos os pacientes que irão podem adoecer né na qual 20 o
+tema ventilação mecânica invasiva a gente deixa para outra para outra Live
+que a gente possa fazer não tema extenso e que merece muita discussão também
+porque E aí eu quero deixar esse número aqui a gente tem uma taxa de mortalidade
+da primeira onda de oitenta por cento bom então de cada cinco pacientes
+entubados na fase de primeira onda a pandemia acaba 54 foram a óbito não isso
+
+01:32
+no Brasil em média né então é é uma cifra que a gente nunca tinha visto antes
+Ah tá obrigado aí pela oportunidade vou ligar Marcelo Parabéns pela
+apresentação mais uma vez tem algumas perguntas aqui na verdade que envolve
+alguns temas mas o chá na parte da frente terapia né mas lembra tu
+perguntou e haja algum estudo que mostre alguma superioridade do Elmo em relação
+a cnaf ao cateter de Alto fluxo ou e vem você vem perguntar Malena é depende do
+de superioridade em relação a t né Por exemplo existe um estudo da doutora
+patel de Chicago paciência com Sara que o Elma tem que ser entendido como uma
+interface então teria que ser comparado com a interface como você falou ou a
+interface para venir máscara ou cânula nasal de Alto fluxo tem uma comparação
+
+01:33
+com a máscara oronasal em paciência com Sara em paciente Sara é moderada a grave
+mostrou uma vantagem muito grande em relação à intubação traqueal
+e ficou em vinte por cento no grupo Elmo o realmente né que era americano versus
+um grupo máscara oronasal chegou ao redor de sessenta por cento isso na UTI
+de Chicago nos Estados Unidos no grupo do dioclécio da doutora papel Esse é um
+dado muito consistente que nos fez inclusive nos animou a fazer o projeto é
+o segundo uma outra comparação diz respeito à conforto e possibilidade de
+usar a interface por muitas horas ou Dias neste sentido eu te afirmo
+categoricamente sem medo que usar um capacete por 12 horas por 24 24 horas às
+vezes que me aconteceram algumas vezes alguns pacientes é virtualmente
+Impossível com a máscara bom e com capacete é possível então eu
+
+01:34
+vi realmente pacientes que se conscientizaram que aquilo poderia
+salvá-lo da intubação e realmente vestir o capacete e dormir dentro do capacete
+ficar confortável ler porque o campo visual fica livre por exemplo então usar
+o celular ouvir música então isso é possível porque o paciente fica usando
+por dias é claro que não percentual vai falhar e esse percentual a gente tem que
+ficar alerta porque é um conforto é muito grande Às vezes isso pode mascarar
+uma falha do paciente mas você sabe se falha você percebe que é fiel dois vai
+ser no progressiva e progressivamente elevada para esse paciente então relação
+pao2 fio2 o melhor marcador além do conforto bom então tem esse estudo grande de
+Chicago estudo grande assim estudo importante e tem alguns estudos
+observacionais porque na Itália que saíram agora há pouco tempo em qual víd
+
+01:35
+mostrando que o uso do realmente italiano é enfermaria paciente as vezes
+que tinha indicação inclusive de não educação acabou resultando em um sucesso
+que ele chama assim de 60 70 porcento em
+evitar em Cubatão esses estudos estão no site também a disposição em
+e o outro ponto que eu queria falar Fabrício é que esse terapeutas adoram
+quando o paciente pode fazer Fisio motora durante a ventilação invasiva
+Então é isso que a gente tem visto com o helmo ou com realmente no exteriores
+viram também paciente consegue ficar em pé consegue fazer exercício muscular e
+ainda se usar você papo com conforto Eu acho que isso é outro ponto Prefeito
+enorme vantagem né paciente mantém a mobilidade e sobra comparação com
+autoclub saber se eu tenho visto assim o alto fluxo é maravilhoso só que ele não
+gera você Pepe e depois de muitos dias de uso a lesão nasal pode ser importante
+
+01:36
+da mucosa e o paciente não tolera mais o ponto alto nas narinas então isso pode
+ser um o limitante do autofluxo tem observado isso na prática e uma
+informação bem pessoal na Prefeito excelente muito boa pergunta na Marina
+vamos pessoas que tem várias perguntas Mas pelo tempo aí eu vou fazer uma
+e tem que ter várias pessoas tão insistindo para que ele comente aí os
+detox ele somado à pergunta da Eveline ela fala sobre qual seria o Magno
+Lamborghini e plasma convalescente aí você vai dar tempo de responder os três
+mas acho que eu tô serviço matem voltado aí a barba né é um estudo tinha um
+recovery com o resultado até bom sul do Ninho já não foi tão assim deixa o que
+em comentasse sobre ele é essa conversa acabaram ficando de Fora talvez até
+porque fica um pouco fora da nossa realidade né ela tá não tava aqui até no
+usando aqui de acesso Paralelos aqui para poder perguntar isso aí é Em
+
+01:37
+relação ao corpos tanto o plasma como os anticorpos monoclonais tem alguns têm
+alguns algumas poucas evidências de algum benefício o plasma tem resultados
+controversos que nasce de uma de uma de uma de um paradoxo é
+bom aparentemente eles podem ser benéficos utilizados precoce na primeira
+semana mas a primeira uma ninguém agrava o suficiente para você lançar mão de um
+de uma digamos uma abordagem de alto custo ou de alta digamos risco né e é
+você fazer um plasma humano no momento em que o indivíduo não está no Instagram
+porque ele vai comer feito especialmente viral mas tem alguns até alguns
+trabalhos mostrando a utilização em pacientes que têm fator de risco para a
+doença grave ou seja não tá grave mas tem fator de risco para doença Grave se
+ele Isa precocemente tem algum benefício dos anticorpos sejam eles anticorpos É
+
+01:38
+temos asma ou anticorpo monoclonal que a gente não tem né ontem somente teria
+algum benefício precocemente ou talvez alguns trabalhos que usa o paciente mais
+em fase mais avançada eles são são mais não tem os mesmos resultados Já tô
+subindo eu tenho tem ele tava quase que esquecido né muitos trabalhos mostrando
+não mostrando o benefício e agora saiu recentemente dois trabalhos que eu achei
+que ia cai mais falar do hospital aí eu não toquei neles Não revisei até para
+poder chegar à conclusão dos trabalhos que saíram praticamente ao mesmo tempo
+no de um inglês com conclusões Opostas E aí preciso estudar exatamente qual foi
+exatamente o detalhe da intervenção e qual a diferença pela pela olhada que eu
+dei muito rápido ele é meio paradoxal é como se ele tivesse tido melhores
+resultados se utilizado em pacientes críticos benefício e impaciente só
+
+01:39
+graves não mostrou mas eu olhei muito rapidamente eu quero eu quero estudar
+esses dois artigos para poder tirar eu tenho uma olhada muito rápido e como não
+era de ambulatório hoje eu não não coloquei nada seja aparentemente ele ele
+voltou a ser considerado nas recomendações por causa desses
+é recente mas eu particulamente não é preciso formar uma opinião vocês
+Fabrício teve tempo de dar olhada nisso é só é exatamente que você viu no último
+que foi publicado em Windows rastreador semanas né e não fazer uma diferença tão
+grande na mortalidade mais realmente tem
+outros artigos com resultados favoráveis né já tentou fazer outras três um lado
+mais precoce Na tentativa de evitar a ventilação achar agora estão começando a
+surgir dados melhores mais robusto o número maior né a grande do do friso
+Madrid ele não funcionou porque não foi usado na hora certa
+é a pergunta que fica no ar é a hora certa né mais cedo mais massa poderia
+
+01:40
+falar é meu Pitaco aí nessa castelo tocilizumabe que a mãe tinha perna
+ensina seis acompanhar algumas pacientes que usaram tive uma paciente que eu
+indiquei o E sinceramente é uma situação tão
+ambígua a situação de você inibir um mediador no meio de uma cascata
+inflamatória complexa como essa e você é tão perto os estudos mostram resultados
+contraditórios isso nome não me surpreendi porque dificilmente essa uma
+droga como essa vai ter um resultado consistente e uniforme ao longo de uma
+gama de pacientes com muita querogênio é em estudos mostrando que existem
+fenótipos diferentes e é óbvio que a resposta farmacogenética é muito variada
+tão tem um estudo de uma análise planta que mostra três fenótipos por exemplo de
+paciência com convide a mulher jovem é um fenótipo o idoso é outro dos o homem
+
+01:41
+e quer dizer tão e os com as comunidades junto só Sinceramente eu não consigo
+crestani e Fabrício que seja uma bala mágica
+e eu acho que ela não existe essa bala mágica se tem algumas coisas universais
+a gente está fazendo aniversário que serve para todo paciente é o que se
+chama de boa medicina aplicada individualmente né E com muita precisão
+eu acho a gente precisa se voltar para isso a qualidade da nossa assistência
+ficou a sobre leque uma corrente 19 esses resultados e mortalidade
+ventilação mecânica do praticamente o dobro do que era esperado é e a
+qualidade da a questão da medicina baseada em evidência colocada em xeque
+isso é extremamente grave e eu diria hein aceitável ou qualquer profissional
+de saúde que né que tá em ativo da Nativa é o que já aposentou no interessa
+
+01:42
+quiser não não podemos de modo algum deixar de lado a ciência aplicada à
+Medicina isso é insubstituível isso nos trouxe até aqui com sucesso
+e vai continuar nessa luta o prefeito Marcelo o pessoal é queria
+agradecer a todos vocês Encerrando o que
+essa Live Hoje vi que tem muita gente de alguns municípios na Então a gente tem
+uma parceria com causa Mc a gente vai também fazer a discussão da atualização
+do protocolo na quarta-feira às 14horas né mas por mentira é ruim tá sendo
+enviada aí pelo causamos aos municípios a agradecer mais uma vez a presença
+quase mil pessoas assim no momento imperativo a noite e todo mundo aqui e
+as escavações muitas perguntas infelizmente pelo tempo a gente não
+conseguiu passar todos Ela desceu uma sala é o que queria deixar aí para o
+
+01:43
+Marcelo quem se quiserem fazer alguma consideração final e para encerrar
+é só o Boa noite mesmo e agradeço pela paciência e deixar fez o Marcelo aí para
+ter o encerramento aí que é o mais adequado eu só tenho agradecer Eu sou
+creme pessoa Fabrício colegas que eu estimo muito parecer equipe de suporte
+da expe que é muito importante Cleiton Jadson estão de plantão aí trabalhando à
+noite é para trazer essa Live que eu tô muito feliz que atingiu certamente um
+audiência é muito qualificada pelo nível das perguntas tenho certeza que é mais
+gente vai ver essa Live online que tá gravada peço novamente compartilhe com
+os colegas e estamos juntos por favor sintam-se em casa a escola de saúde
+pública Nossa é um patrimônio cearense e
+teremos Boas Novas eu não vou falar aqui que notícia boa gente vai dando
+devagarinho depois que você confirma para a recuperação da nossa escola e
+
+01:44
+constante inovação aí pela frente então parabéns a todos Obrigado pessoal
+a gravação lembrar dos SUS nosso aplicativo está disponível em Android
+iPhone aonde tem um manejo tem o Elmo e um site do Elvis tomou uma cidade
+divulgou aqui importante que os usa um canal de interlocução muito importante
+para nós tá aí na Palma das mãos protocolo de todos vocês obrigado a
+todos Até a próxima a se cuida hein vamos à luta a gente é próximo
