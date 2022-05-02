@@ -1,7 +1,7 @@
 var os = require("os");
 const { google } = require("googleapis");
 const { save, readF, fileExist } = require("./services/fs");
-const key = "AIzaSyATK8VSHf7cKwNyxp2FAr_FmkBTgpfXE_0";
+const key = "HERE GOES YOU KEY";
 const youtube = google.youtube("v3"); // initialize the Youtube API library
 
 async function main(_err, words) {
